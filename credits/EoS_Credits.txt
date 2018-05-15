@@ -1,0 +1,31 @@
+- Era of Strife Credits -
+
+Maintainer:
+Forrest (Jami) Schaeffer - Maintainer. Author of Eventide.
+
+Developers:
+AI - Author of the Tritha faction.
+Elrias - Author of Eltirians.
+Lizard - Author of Free Saurian Faction.
+Quietus - Author and sprite artist of the Minotaurs, sprite artist of the Elemental Monarchs.
+Espreon - Coder of the Minotaurs, author of the Elemental Monarchs.
+
+Artists:
+Jormungandr - Creator of the Saurian Sage+Mystic portrait.
+Battlestar  - Made the "Ice Shards" image.
+Espreon     - Made aura blast, aura halo, aura healing, sacred fire, divine lightning halos. Made the sacred fire, divine lightning, aura blast, minotaur staff, terra orbis, nature flare, kusarihgama 
+              and lizard tail attack icons. Made the nature flare, terra orbis, sacred fire and icicle projectiles. (Please note all of these except for the icicle projectiles are recolors of mainline images)
+              (The icicle projectile was derived from the Ice Crab sprite from the EoM)
+			  The Ice Maiden's ice shine halos are derived from the ice-halo.png images in mainline.
+Neorice     - We harvested his Graphics Library page
+
+Playtesters:
+grrr
+Weeksy
+Valenwood
+Velensk
+
+And a special thanks to:
+The Wesnoth Development Team - for creating a game we all love so much!
+
+The EoM Development Team - for helping get this idea off the ground.

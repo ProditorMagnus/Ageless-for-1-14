@@ -1,0 +1,1276 @@
+MERCENARIES ERA HOTFIX
+General notepad with Mercenaries era adjusments (apart of the blight one which was already worked before). Units that weren't already changed will
+just be ignored because of oversight. Isn't diffiuclt noticing that some units are notably stronger than default ones (mostly at lv3) in order to
+focus players at using more those factions rather than defaul ones. Some examples are extremely notable like 13-4 club with 6 movement in Law
+from Holyhorder. This and many other cases will be revised and fixed. Mostly for standarizations (prices, damage, stats, etc). So let's begin with
+the general hotfix at mercenaries era units.
+
+AVIANS
+General standarizations, huge changes (Dart line was nerfed in another review)
+
+Archer
+Noticing that it's a cheaper version of Drake burner but pierce ranged and neutral aligment. For standarizations... this is going to be nerfed
+but lowering its price. Likely 5 MP flying with 7-3 isn't already strong ... apart of 6-2 mele.
+Health 32 -> 33
+Claws 6-2 -> 5-2
+Bow 7-3 -> 6-3
+XP 46 -> 44
+Impact resistance -20% -> -15%
+Castle defense 50% -> 60%
+Swamp defense 50% -> 40%
+Price 17 -> 16
+Coment: -15% impact resistance balances its movement costs.
+
+Bombardier
+Health 56 -> 50
+Claws 9-2 -> 7-2
+XP 90 -> 75
+Impact resistance -20% -> -15%
+Castle defense 50% -> 60%
+
+Blowflurry
+Health 70 -> 63
+Claws 9-3 -> 8-3
+Bow 10-5 -> 9-5
+Impact resistance -20% -> -10%
+Castle defense 50% -> 60%
+Swamp defense 50% -> 40%
+Price 47 -> 46
+
+Hawkeye
+Health 50 -> 45
+Claws 6-3 -> 5-3
+Impact resistance -20% -> -15%
+Castle defense 50% -> 60%
+Swamp defense 50% -> 40%
+XP 90 -> 75
+Price 32 -> 30
+
+Eagleeye
+Health 62 -> 57
+Claws 8-3 -> 6-4
+Impact resistance -20% -> -10%
+Castle defense 50% -> 60%
+Swamp defense 50% -> 40%
+
+Broadwing
+Too high health for the damage output it has... a way too notable... considering some adjustments.
+Health 38 -> 36
+Claws 6-2 -> 5-2
+Northwind 9-2 -> 8-2
+XP 50 -> 48
+
+Skylord
+This is the kind of stuff that made me to consider this whole doc of changes... also the unit which caused this reaction to me wasn't this one.
+Health 55 -> 44
+Movement 6 -> 5
+Claws 9-2 -> 7-2
+Northwind 9-3 -> 8-3
+XP 100 -> 80
+Coment: It's still a bit stronger than I would want to, but too many nerfs... but being honest, 7-4 marksman + 6 MP + Flyin + Leadership wasn't fair.
+
+Winged Baron
+Health 68 -> 58
+Mele 9-3 -> 8-3
+Gust 11-4 -> 9-4
+Northwind 14-3 -> 11-3
+Price 47 -> 50
+Coment: likely Leadership isn't enough nice with 6 MP and Flying...
+
+Skyterror
+Considering the 4 Movement handicap, it will end being a bulky ranged fighter. But not in an exagerated way at how is it actually...
+Health 60 -> 55
+Claws 7-3 -> 6-3
+Gust 8-4 -> 7-4
+XP 100 -> 80
+Coment: it's slow, but not as slow as most 4 MP considering it flies. Reasson why it's not that heavy in stats.
+
+Dreadnought
+Absurd damages... but considering its name we will compensate it in other ways.
+Gust 13-4 -> 11-4
+Northwind 20-2 -> 18-2
+Impact resistance -10% -> 0%
+
+Grounded
+Not as heavy as other 4 MP units, will take considerations due higher defense and not that bad movement costs.
+Mace 11-2 -> 10-2
+Cold & Fire resistances 0% -> -5%
+Mountain movement cost 3 -> 4
+Mountain defense 60% -> 50%
+
+Floater
+Needs nerfs, defenitively.
+Movement 6 -> 5
+Mace 15-2 -> 14-2
+Spear 9-3 -> 8-3
+Claws 10-3 -> 9-3
+Cold & Fire resistances 0% -> -5%
+Mountain defense 60% -> 50%
+Swamp defense 50% -> 40%
+Coastal Rift 50% -> 40%
+Unwalkable movement cost 1 -> 2
+Unwalkable defense 40% -> 30%
+Coment: He can rest in ground while in water tiles, which explains why he's less tired than over unwalkable in which he has to continually fly.
+
+Ironbeak
+Some nerfs, he's not as heavy as most 4 MP.
+Health 54 -> 50
+Mace 17-2 -> 16-2
+Blade resistance 40% -> 35%
+Cold & Fire resistances 0% -> -5%
+Mountain movement cost 3 -> 4
+Mountain defense 60% -> 50%
+Swamp defense 50% -> 40%
+Coastal Rift 50% -> 40%
+Unwalkable movement cost 1 -> 2
+Unwalkable defense 40% -> 30%
+XP 90 -> 80
+Price 28g -> 30g
+
+Steelbeak
+Health 69 -> 66
+Impact resistance 20% -> 15%
+Pierce resistance 30% -> 25%
+Blade resistance 40% -> 35%
+Cold resistance 0% -> -5%
+Fire resistance 0% -> 0% (the same)
+Mountain movement cost 3 -> 4
+Mountain defense 60% -> 50%
+Swamp defense 50% -> 40%
+Coastal Rift 50% -> 40%
+Unwalkable movement cost 1 -> 2
+Unwalkable defense 40% -> 30%
+XP 120 -> 107
+
+Diamondbeak
+Impact resistance 30% -> 25%
+Blade resistance 50% -> 40%
+Mountain movement cost 3 -> 4
+Mountain defense 60% -> 50%
+
+Jackdaw
+Unit with curious singularities... which we will fix some of them.
+Impact resistance -10% -> -20%
+Cold resistance 0% -> 5%
+Forest defense 70% -> 60%
+Castle defense 40% -> 60%
+Village defense 40% -> 50%
+Swamp Defense 70% -> 60%
+Coastal Rift Defense 70% -> 60%
+XP 50 -> 46
+
+Crow
+Impact resistance -10% -> -15%
+Cold resistance 0% -> 5%
+Forest defense 70% -> 60%
+Castle defense 40% -> 60%
+Village defense 40% -> 50%
+Swamp Defense 70% -> 60%
+Coastal Rift Defense 70% -> 60%
+Price 31 -> 33
+
+Reaven
+------> Same resistances than Crow
+Health 48 -> 52
+Claws 8-5 -> 7-5
+Impact resistance -10% -> -15%
+Cold resistance 0% -> 5%
+Forest defense 70% -> 60%
+Castle defense 40% -> 60%
+Village defense 40% -> 50%
+Swamp Defense 70% -> 60%
+Coastal Rift Defense 70% -> 60%
+
+Owl
+------> Same resistances than Reaven and Crow
+Impact resistance -10% -> -15%
+Cold resistance 0% -> 5%
+Forest defense 70% -> 60%
+Castle defense 40% -> 60%
+Village defense 40% -> 50%
+Swamp Defense 70% -> 60%
+Coastal Rift Defense 70% -> 60%
+
+Nightwing
+------> Same resistances than Reaven and Crow
+Health 42 -> 47
+Impact resistance -10% -> -15%
+Cold resistance 0% -> 5%
+Forest defense 70% -> 60%
+Castle defense 40% -> 60%
+Village defense 40% -> 50%
+Swamp Defense 70% -> 60%
+Coastal Rift Defense 70% -> 60%
+
+Egglayer
+Health 50 -> 45
+Claws 6-3 -> 5-3
+Gust 9-3 -> 8-3
+
+Sitter
+We will consider some nerfs over this unit. Nerfing health and Secondary weapon overall damage.
+Health 43 -> 36
+Breeze 4-6 -> 4-5
+Price 38 -> 36
+
+Pigeon
+Impact resistance -10% -> -15%
+Cold resistance 0% -> 5%
+Forest defense 70% -> 60%
+Castle defense 40% -> 60%
+Village defense 40% -> 50%
+Swamp Defense 70% -> 60%
+Coastal Rift Defense 70% -> 60%
+
+Dove
+Health 40 -> 38
+Claws 6-4 -> 5-4
+(Arcane resistance left unchanged)
+Impact resistance -10% -> -15%
+Cold resistance 0% -> 5%
+Forest defense 70% -> 60%
+Castle defense 40% -> 60%
+Village defense 40% -> 50%
+Swamp Defense 70% -> 60%
+Coastal Rift Defense 70% -> 60%
+
+Hummingbird 
+Movement 8 -> 7
+Gust 4-8 -> 4-7
+Breeze 3-10 -> 3-8
+Impact resistance -10% -> -15%
+Cold resistance 0% -> 5%
+Pierce resistance 0% -> 10% (looking at description, balance compensations are taken for modification)
+Forest defense 70% -> 60%
+Castle defense 40% -> 60%
+Village defense 40% -> 50%
+Swamp Defense 70% -> 60%
+Coastal Rift Defense 70% -> 60%
+Price 30 -> 31
+
+Watchman
+Impact resistance -20% -> -10%
+Castle defense 50% -> 60%
+Swamp defense 50% -> 40%
+Unwalkable defense 40% -> 30%
+Deep Water defense 40% -> 30%
+Coment: very similar to Archer, but this one has -10% impact resistance at the cost of lower defense in random terrains.
+
+Bladewing
+Health 58 -> 53
+Claws 16-2 -> 15-2
+Impact resistance -20% -> -10%
+Castle defense 50% -> 60%
+Swamp defense 50% -> 40%
+(no random terrains nerfs, it was just for the Watchman)
+Price 29 -> 32
+
+Razorwing
+Health 76 -> 70
+Claws 20-2 -> 19-2
+Dust 8-3 -> 7-3
+Sonicboom 19-1 -> 17-1 (RPG potential :/)
+Blade resistance 30% -> 20%
+Impact resistance -20% -> -10%
+Castle defense 50% -> 60%
+Swamp defense 50% -> 40%
+(no random terrains nerfs, it was just for the Watchman)
+Price 47 -> 48
+
+Nestguard
+Something to nerf indeed.
+Health 52 -> 55
+Blade resistance 20% -> 15%
+Pierce resistance 30% -> 20%
+Impact resistance -10% -> -5%
+Mountains movement cost 1 -> 2
+Mountains defense 60% -> 50%
+Swamp defense 50% -> 40%
+Unwalkable defense 40% -> 30%
+Deep Water defense 40% -> 30%
+Coment: nerfing steadfast performance. Still it has better movement costs than grounded.
+
+Shell
+Looks interesting, let's see how can we rework some of its resistances and stats.
+Claws 16-2 -> 17-2
+Sword 9-4 -> 10-4
+Blade resistance (unchanged)
+Pierce resistance 30% -> 20%
+Impact resistance -10% -> -5%
+Fire & Cold resistance 10% -> 5%
+Mountains movement cost 1 -> 2
+Mountains defense 60% -> 50%
+Swamp defense 50% -> 40%
+Unwalkable defense 40% -> 30%
+Deep Water defense 40% -> 30%
+
+Savior
+Needs some consideartions for some of its bonuses.
+Health 50 -> 44
+Holysword 6-5 -> 5-5
+Arcane resistance 60% -> 50%
+Impact resistance -20% -> -10%
+Swamp defense 50% -> 40%
+Unwalkable defense 40% (unchanged)
+Deep Water defense 40% (unchanged)
+
+
+CULTISTS
+They actually lacks of too much ranged, we will give some modifications to make this faction less handicaps from having too poor ranged. In overall
+ranged range adjusments. Also a nice new... I WILL WRITE descriptions for those units! as a cult for Cultist!
+
+Cultist
+DESCRIPTION: Cultists are a group of men that usually have secret reunions, no-one is sure about their real intentions, but the true is that they're
+commonly seen fighting weird creatures and monstrosities in their side, so cultists are both feared and hated.
+--> Spanish: Los cultistas son un grupo de hombres que frecuentemente tienen reuniones secretas. Nadie sabe de sus verdaderas intenciones, pero lo
+cierto es que se les ve luchando con criaturas y mounstrosidades de su mismo bando razón por lo cual los cultistas son tanto odiados como temidos. 
+
+Covert
+Considering it has a way stronger mele than Rogues and that he looks a bit boring to sight, we will add him a very weak ranged atack.
+NEW ATACK: Darts 5-1 pierce ranged
+DESCRIPTION: Coverts are misterous people, there is not that much information about them apart that people consider them as humanity traitors because
+fighting in the side of those unknown monsters and weird mutants.
+---> Spanish: Los Encubiertos son gente algo misteriosa, no se conoce mucho de estos individuos aparte de que algunos los consideran como traidores
+de la humanidad al estar luchando al lado de estos mounstros desconocidos y mutantes extraños.
+
+Executioner NEW ATACK: Darts 5-3 pierce ranged
+DESCRIPTION: They're named Exectutioners just because if you question them why they are doing those genocides they will just ask 'for the common good'
+which is strange coming from a genocidal... inquietant... but there is a question...
+What does want this people exactly?
+And what are their reassons for the genetic manipulation, asesinations and inmoral acts.
+---> Spanish: Se les llama verdugos porque sí le pides una explicación a estos hombres del porqué de sus acciones estos solo dirán 'por el bien común'
+algo que parece bastante extraño viniendo de un genocida... inquietante... pero cabe preguntarse ¿qué es lo que esta gente quiere exactamente? y 
+cuales son sus razones para justificar tantos experimientos genéticos, mutilizaciones y actos inmorales.
+
+
+Spy
+Needle 8-2 blade mele -> 9-2 pierce mele (it still poisons)
+NEW Atack: Darts 5-2 pierce ranged (bleeding)
+DESCRIPTION: Spies are the most mysterous of all cultist, he's probably watching the human society disorders... maybe this mantains he to acomplish
+the factions goals... who knows if they're mentally right or not ...
+---> Spanish: El espía es el más misterioso de los cultistas, el está observando los desordenes de la sociedad humana.... quizás esto le permita
+mantener las metas de su facción... sabrá alguién sí estos sujetos están bien o mal de la cabeza ...
+
+Overt
+Health 45 -> 40
+NEW ATACK: Throwing daggers 4-2 blade
+Description: The diference between overt and covert is that covert are more Introverts and less talkative than overts. They feel more secure for some
+reasson.
+---> Spanish: La mayor diferencia entre los Encubierto y los Abiertos es que los encubiertos manejan todo con código encubierto y que los Abiertos
+hablan con menor remordimiento público sobre sus acciones. Se sienten más seguros por alguna razón.
+
+Cleanner 
+Dagger 7-5 -> 6-5
+NEW AACK: Throwing daggerrs 6-2 blade
+Description: Similar than the case of Executioners, if you question why their actions they refer as themselves as Cleanner... they don't provide a
+very developed argument of their actions, making us to think that they probably just like seing the flow in the floor.
+---> Spanish: Similar a los verdugos, sí le preguntas a estos sujetos el porqué de sus acciones estos se referirán a sí mismos como limpiadores...
+no dan un argumento muy convincente del porqué de sus acciones, dandole de pensar a muchos que estos solo disfrutan ver la sangre derramarse por el
+suelo.
+
+Exile
+Like costless skrimisher isn't already too good... forest defense is a serious issue... huge damage for skirmisher standards.
+Trudgeon 7-3 -> 6-3
+Forest defense 70% -> 60%
+Swamp defense 70% -> 50%
+Description: Exiled are men that used to be in the human society like any good man, but because of diferences in belief or because of a miss-
+understanding those men ended bein exiled. After living for some time in the wild those men found a cultist and after a long talking the cultist
+persuaded him to fight for their cause. Letting us to think that a good man can easly join to the cause of cultists.
+---> Spanish: Los exiliados eran hombres que antes formaban parte de la socidad como todo buen hombre, sin embargo, debido a la diferencia de sus
+creencias o a algún malentendido a estos hombres se les ha exiliado de la sociedad. Acostumbrados a vivir en medios silvestres, un día estos hombres
+por alguna razón se encontraron con un cultista que los persuadió para unirse a sus causas despues de una larga charla. Dando a entender, que un
+buen hombre puede fácilmente unirse a las causas de los cultistas.
+
+Banished
+Actually a good unit, but for survival purposes we will add him 60% castle defense. But nerfing some miscelanous terrain defenses.
+Health 50 -> 48
+Castle defense 50% -> 60%
+Swamp movement cost 1 -> 2
+Swamp defense 70% -> 50%
+Fungus defense 70% -> 60%
+XP 74 -> 64
+Price 25g -> 27g
+Description: After some time, Banished are started to be haten like cultists are, doesn't cares to the banished, he's completely used to be rejected
+by the society but not to the cultists. He probably became arrogant and more immoral than used to be.
+Spanish: Despues de cierto tiempo, los desterrados empiezan a ser odiados como los cultistas, cosa que no le importa. Él está completamente 
+acostumbrado a ser rechazado por la sociedad pero no por los cultistas. El probablemente se ha vuelto más arrogante y algo más inmoral que antes.
+
+Condemned
+Health 74 -> 70
+Mace 16-3 -> 15-3
+Castle defense 50% -> 60%
+Swamp movement cost 1 -> 2
+Swamp defense 70% -> 50%
+Fungus defense 70% -> 60%
+Price 44g -> 46g
+Description: It's said that if the society finds this individuals they would have death condemn ... the reasson are variable, but it looks like that
+those men were brainwashed, he's irreconosible.
+---> Spanish: Se dice que sí la sociedad pilla a uno de estos individuos tienen condena de muerte ... las razones son variadas, pareciera como sí
+estos hubieran pasado por una especie de lavado cerebral, está irreconosible.
+
+Lonewolf
+Nerfs on the way, this unit has unnusually good properties.
+Health 52 -> 42
+Claws 7-4 -> 6-4 (preventing 9-4 skirmisher during night...)
+AMLA XP 100 -> 85
+Price 32g -> 30g
+Description: Some exile prefer more to stay in wild rather than going for cultists goals, cultists have no problems with that and they gift him
+wolves claws in one of his two hands. They trust that when he is called for figting for the cult he will proceed.
+---> Spanish: Algunos exiliados perfieren estar más en lo salvaje que por ir a las metas de los cultistas. Los cultistas no tienen problema alguno
+con eso y le dieron garras de lobo en una de las 2 manos. Ellos confian que cuando se le llame para luchar por el culto este participará.
+
+Freak
+I've never liked Freaks at all, didn't never liked their stats at all. I will make it more atractive to use.
+Fist 9-2 -> 10-2
+Fire resistance -20% -> -15%
+Cold resistance 0% -> -5%
+Mountain defense 50% -> 40%
+Village defense 50% -> 40%
+Swamp defense 60% -> 40%
+Description: Freaks are weird green humanoid creatures with hard skin and that are clumsy. No-one knows their exact origin, but it's sure it's not
+human being. It's probably a the result of a wrong experiment that it was left to die.
+---> Spanish: Los mounstros son criaturas humanoides extrañas de color verde con una piel dura y que son torpes. Nadie sabe su origen, pero se está
+seguro que no son humanos. Es probablemente el producto de una experimentación a la cual se le dejó morir.
+
+Miscreation
+Fist 13-2 -> 15-2
+Pierce resistance 40% -> 30%
+Fire resistance -20% -> -15%
+Cold resistance 0% -> -5%
+Mountain defense 50% -> 40%
+Village defense 50% -> 40%
+Swamp defense 60% -> 50%
+Price 22g -> 28g
+Description: Miscreation has grown unnaturally fast. Unexpected to live that long... Now it has claws in one of the 2 hands, being not symetrical. 
+Looks like it's genetically designed for fighting ... but why it was left to die earlier?
+coded for fighting. This give us that cultist have an oddly good knowledge of genetics.
+---> Spanish: la Mala creación ha crecido inusualmente rápido. No se le esperaba vivir tanto... ahora tiene garras en una de las 2 manos, siendo
+asimétrico. Pareciera que fué geneticamente diseñado para luchar, lo cual destaca que los cultistas tienen un extrañamente buen conocimiento de la
+genética.
+
+Mouunstrocity
+Fist 15-3 -> 16-3
+Blade & Pierce resistance 40% -> 35%
+Fire resistance -20% -> -10%
+Cold resistance 20% -> 10%
+Mountain defense 50% -> 40%
+Village defense 50% -> 40%
+Swamp defense 60% -> 50%
+Price 47g -> 48g
+Description: Mounstrosity is the final result of a creature that fought for its life in an hostile world. Afterall the failed experiment wasn't 
+a failure, but wasn't probably what cultists wanted in the begin. Looks like cultists now apreciates this creature. But ... what were trying cultists
+to do that ended in such horrible creature? we could say that freaks were the hardest of their experiments and that ended with unwanted results.
+---> Spanish: La mounstrosidad es el resultado final de una criatura que ha luchado en un mundo hostil. Despues de todo el experimento fallido no 
+fué un fracaso, pero muy probablemente no era lo que los cultistas estaban buscando. Los cultitas al parecer ahora aprecian a esta criatura. Pero...
+cabe preguntarse ¿que estaban intentando estos que terminó en esta horrible creatura? podríamos decir que es el experimento más dificil de ellos y
+que probablemente ha terminado con resultados indeseados.
+
+Lookout
+Extremely good scout unit, but we will make some reconsiderations
+Impact resistance 0% -> -5%
+Village defense 60% -> 50%
+Swamp defense 60% -> 50%
+Description: Apart that those men are more swift than regular humans, there is not that much diference between regular humans. Apart of having a weight of 15 less kilograms than a regular human in average there is not that much diference apart of regular humans.
+---> Spanish: Aparte de que estos hombres son más lígeros que los humanos regulares, no hay mucha diferencia. Aparte de tener un peso de 15 kilos
+menos que un humano común, no hay mucha más diferencia.
+
+Sentry
+Considering some rebalancing.
+Health 48 -> 45
+Impact resistance 0% -> -5%
+Fire Arrow 10-2 -> 8-2
+Swamp defense 60% -> 50%
+Village defense (unchanged, mostly for the name)
+Price 25g -> 30g
+Description: Sentry similar to lookout, are swift. Also for some reasson those men are given the purporse to watch and warn if their camps are
+being atacked. Apart of their innusual swiftness, those men look like that need less sleep to acomplish their function.
+---> Spanish: parecido a los atentos, son ligeros. Aunque por alguna razón a estos hombres se les ha dado la tarea de vigilar y de avisar sí sus 
+campamentos están siendo atacados. Aparte de su ligereza inusual, al parecer estos hombres necesitan dormir menos para cumplir su función.
+
+Beacon
+Health 65 -> 60
+Torch damage 14-3 -> 13-3
+Fire arrow 14-2 -> 12-2
+Description: Beacon has now a weight more similar to regular humans, but afterall, he's still as fast. They're completely sane mentally giving us
+to know that he got used to live with that lot of monsters, misscreations and cultist doing inmoral experiments. Thes men shine for a solid emotional
+and mental health unlike most of their companions. It's said that some beacon leaves the cult for days to live in the society and then coming back
+to the cult, but probably with no kind of intention or betray singals.
+---> Los faro tienen ahora un peso más similar al de un humano regular, pero ante todo, el sigue siendo así de rápido. Son completamente sanos 
+mentalmente a diferencia de sus compañeros incluso al vivir entre tantos mounstros, mal formaciones y cultistas haciendo experimentos inmorales. 
+Estos hombres destacan por una solida estabilidad y salud mental. Se dice que estos algunas veces dejan al culto para vivir en la sociedad y luego
+volviendo al culto, pero lo más probable es que sin ningún tipo de intención o signos de traición.
+
+Recruit
+Spar 3-2 -> 4-2 ranged
+Swamp defense 60% -> 50%
+Fungus defense 60% -> 50%
+Description: Cultists oftenly recruit mercenaries that fight for anyone's cause for some coins. Those men have no idea in what their live will turn...
+---> Spanish: Los cultistas frecuentemente reclutan mercenarios que luchan para cualquiera por algunas monedas, pero estos no tienen idea de que 
+les espera en sus vidas...
+
+Rebel
+Swamp defense 60% -> 50%
+Fungus defense 60% -> 50%
+Price 28g -> 27g
+Description: Rebels and Subverters after fighting some time for the cultist they're still figting for the cult, but unlike recruits they opposite 
+society and do not fight just for coins. They still have no real idea the meanings of the cult, but they don't seem to be brainwashed, just uninformed.
+---> Los rebeldes despues de pelear un tiempo con los cultistas siguen haciendolo, pero a diferencia de los reclutas estos se oponen a la sociedad y
+no pelean solo por monedas. Estos aún no tienen idea de las implicaciones del culto, pero no parecen ser víctimas de un lavado cerebral, solo están
+desinformados.
+
+Subverter
+Spear 8-4 -> 7-4 ranged
+Swamp defense 60% -> 50%
+Fungus defense 60% -> 50%
+Description: Rebels and Subverters after fighting some time for the cultist they're still figting for the cult, but unlike recruits they opposite 
+society and do not fight just for coins. They still have no real idea the meanings of the cult, but they don't seem to be brainwashed, just uninformed.
+---> Los rebeldes despues de pelear un tiempo con los cultistas siguen haciendolo, pero a diferencia de los reclutas estos se oponen a la sociedad y
+no pelean solo por monedas. Estos aún no tienen idea de las implicaciones del culto, pero no parecen ser víctimas de un lavado cerebral, solo están
+desinformados.
+
+Transformation
+Some readjustments will be needed.
+Fire resistance -20% -> -10%
+Swamp defense 70% -> 60%
+Fungus defense 70% -> 60%
+Price 25g -> 27g
+Description: Transformation used to be human ... it's not known what kind of process ocurried to them... but looks like cult is capable to corrupt
+the genetic data of already born living. The question is ... what kind of technique they use for those genetic manipulations... creepy... also, it
+does still think like an human; also which would be reassons of why those men allowed themselves being the product of such experiments.
+---> Spanish: La transformación solía ser humano... no se sabe que clase de proceso ha ocurrido en ellos... pero al parecer el culto es capaz de
+corromper el código genético de un ser ya nacido. La pregunta es ... ¿qué clase de técnica utilizan para sus manipulaciones genéticas? aterrador...
+sin embargo, esta cosa aún piensa como un humano, pero cuales habrán sido las razones para que estos hombres se permitieran ser produco de estos 
+experimentos genéticos.
+
+Mutant
+Bite 25-1 -> 23-1 (RPG potential)
+Fire resistance -20% -> -10%
+Cold resistance 10% -> 0%
+Swamp defense 70% -> 60%
+Fungus defense 70% -> 60%
+XP 124 -> 110
+Price 45g -> 47g
+Description: Mutant is starting to lose its Human features even at its personality as human. Looks like that it's not just genetic corruption it's
+now conscience corruption too. It is just becoming into killing machines ... also, it's said that recruits that acess for the genetics modifications
+were men that wanted to forgive their past and that were better informed about the cult itself.
+---> Spanish: El mutante está empezando a perder sus razgos humanos y su personalidad como humano. Al parecer la corrupción no es solo genética sino
+también de conciencia. Se está volviendo una máquina de matar ... aunque, se dice que los reclutas que se permiten estas modificaciones genéticas eran
+hombres que querian olvidar su pasado y que estaban mejor informados sobre el culto en sí.
+
+Inhuman
+Pierce resistane 40% -> 30%
+Fire resistance -20% -> -10%
+Swamp defense (unchanged)
+Fungus defense (unchanged)
+Price 55g -> 70g
+Description: Inhuman has no longer human characteristics. It has an incredible feast for killing (not just humans). Still it's hard to make those
+things to talk, also it can still can mantain a conversation, also its vocal chords will difficult it to talk, apart of decrease inteligence than
+a regular human, still, if it were persuaded it could tell us a lot about of the cult ... sadly, it's too loyal to them.
+---> El Inhumano a no tiene rasgos humanos. Tiene ina increible sadiedd por matar (no solo a humanos). Aunque es díficil hacer que estas cosas hablen
+pueden hablar, aunque sus cuerdas vocales le dificultan hablar, aparte de su inteligencia inferior a la de un humano regular, aún así sí fuese 
+persuadida podría hablarnos un montón sobre el culto ... lástimosamente es demasiado leal hacia ellos.
+
+Survivor
+Due the buff of some ranged units in the faction, survivor has been nerfed a bit.
+Health 50 -> 47
+Fire resistance 0% -> -5% - /rejected
+Swamp defense 60% -> 50%
+Fungus defense 60% -> 50%
+Description: The survivor is a real accomplishment to the cultist's genetics. If we look, all cultists are men or asexual, but never female. They 
+consider the male gender as the superior gender and for that reasson they do not consider the female gender because of their genetics knowledge.
+Descripción: El superviviente es un logro de la manipulación de la genética de los cultistas. Sí nos fijamos bien, todos los cultitas y sus mutantes
+o son del género masculino o son asexuales, pero nunca son del género femenino. Consideran el género masculino como el superior y razón por la cual
+consideran necesario del género femenino dada a sus avanzados conocimientos de la genética.
+
+Outlaster
+Health 74 -> 65
+Fist 10-2 -> 11-2
+Fire resistance 0% -> -5% - /rejected
+Swamp defense 60% -> 50%
+Fungus defense 60% -> 50%
+Price 24g -> 30g
+Description: Outlaster is a proof man about any extreme climatic situation and capable to live alone in the wild. It's unknown why cultist wanted a
+too resistant and long lived creation unlike most of theirs. Meaning that the cult have long time goals...
+---> Spanish: El duradero es un hombre a prueba de cualquier situación climática extrema y es capaz de vivir solo en lo salvaje. No se sabe porque
+los cultistas querian una creación tan longeva muy diferente de la mayoría de ls creaciones de ellos. Queriendo decir que el culto tiene una meta
+de largo plazo...
+
+Remnant
+Health 92 -> 85
+Inner Strength 32-1 -> 27-1
+Fire resistance 0% -> -5% - /rejected
+Swamp defense 60% -> 50%
+Fungus defense 60% -> 50%
+Price 46g -> 53g
+Description: After decades of long long living, looks like he's stronger than ever. In his actual age any human would feel weak, ancient or sick,
+but Remnant is more healthy than ever. Some remnant tried to have sons with regular women to try to build a genetically superior humanity, but for
+their surprise they're not fertile. At this point they start understanding that the cult goals aren't completely good for human race and at a point
+they just start fighting for their ownselves.
+---> Spanish: Despues de varias decadas de larga vida, parece que él es más fuerte que nunca. En su edad actual cualquier humano se sentiría débil, 
+anciano o débil, pero el restante está más sano que nunca. Algunos restantes trataton de tener hijos con mujeres regulares para construir una 
+humanidad superior, pero para sus sorpresas ellos no son fértiles. En este punto ellos comprendieron que las metas de el culto no son completamente
+buenas para la raza humana y que en cierto punto de sus vidas ellos empiezan a luchar por ellos mismos.
+
+Primordial
+Inner Strength 45-1 -> 39-1
+Fire resistance is now 0% (like originally)
+Description: Primordial is the sucess of eugenecy. Primordial proved to be immortal at being stronger the older he is. His cells instead of deteriorate
+over the time, they improve during the pass of the time. It's not known if this process has a limit, but the few silver mages that studied this kind
+of men said he has an expected life of at least 900 years but no more than 2000 years because the process consume certain energy from the envoroiment
+thing that growns gradually over the time, in a point, the primordial would die because of inanition because there wouldn't be enough food (or better 
+said, food with the energy requirements) to mantain this process in the current world, even at the conclution of an hypothetical case in which even
+ if he spend his whole life eating he would still die due inanition. If wasn't due this fact he would be completely immortal againist the pass of 
+the time... fact that of course, cultist will never know.
+---> Spanish: El primordial es el éxito de la eugenecia. Ha demostrado ser inmortal al ser más fuerte mientras más envejece. Sus celulas envez de
+deteriorarse con el paso del tiempo, estas mejoran a medida que el tiempo pasa. No se sabe sí ese proceso tiene un límite, pero los pocos magos de
+plata que han estudiado esta clase de especimenes determinaron que podría tener un tiempo de vida de al menos de 900 años pero no más de 2000 años ya
+que el proceso consume cierta cantidad de energía del ambiente, la cual aumenta gradualmente con el paso del tiempo, en un punto en el cual el moriría
+de inanición ya que no habría suficiente comida (o comida con suficiente energía) en el medio para mantener el proceso. Incluso,
+concluyendo en un hipotetico caso que aún comiendo todo el día moriría de hambre... Si no fuera por este hecho, el sería completamente inmortal al 
+paso del tiempo... hecho del cual los cultistas nunca sabrán.
+
+Waiter
+Helping their only Lv1 ranged unit be more cost efficent.
+Blade & Impact resistance -10% -> 0%
+Swamp defense 70% -> 60%
+Fungus defense 70% -> 60%
+Price 18g -> 17g
+
+Ambuscade
+Blade & Impact resistance -20% -> -15%
+
+Lurker
+Blade & Impact resistance -10% -> 0%
+Swamp defense 70% -> 60%
+Fungus defense 70% -> 60%
+
+Waylayer
+Blade & Impact resistance -10% -> 0%
+Swamp defense 70% -> 60%
+Fungus defense 70% -> 60%
+Price 48g -> 54g
+
+Swimmer and Waiter lore will be done for 1.13 version. I have no good idea for those.
+
+
+EQUESTRIANS
+This is a faction of only mounted units, also, it has many overpowered units. On here we will give a consideration to the faction at all being
+mounted units (which commonly gives pierce weakness).
+
+FACTION ISSUE: Mostly because all their units are +6 MP or more, most of their leader options moves more than 6 tiles per turn, meaning in considerable
+balance issues. This needs considerations like slow trait.
+
+Bronco
+Just some standarization.
+Kick 10-2 -> 9-2
+Impact resistance 0% -> 10%
+Pierce resistance -20% -> -15%
+Mountains movement cost 99 -> 6
+
+
+Bull
+Cold resistance 20% -> 10%
+Castle defense 30% -> 40%
+Coastal rift movement cost 4 -> 2
+Coastal rift defense 10% -> 20%
+Mountains movement cost 99 -> 6
+Mountains defense 10% -> 20%
+
+Mustang
+Maybe this unit was reviewed earlier, but consider the changes at here as definitive ones
+Health 52 -> 48
+Movement 10 -> 9
+Impact resistance 0% -> 10%
+Pierce resistance -20% -> 15%
+Mountains movement cost 99 -> 6
+
+Charger
+Maybe this unit was reviewed earlier, but consider the changes at here as definitive ones.
+It's actually being extremely OP (like many chargers in Ageless), we will take rid of this line.
+Spear 11-2 -> 8-2
+Trample 6-3 -> 5-3
+Blade resistance 10% -> 15%
+Castle defense 40% -> 50%
+Swallow water movement cost 3 -> 4
+Swallow water defense 30% -> 20%
+Coment: the castle defense modification is to make it more viable at oricia like maps.
+
+Crasher
+Some standarization and damage nerf. Some of the higher levels of mele only Equestrians will have little extra resistances.
+Spear 16-2 -> 13-2
+Trample 7-4 -> 6-4
+Blade resistance 10% -> 20%
+Impact resistance 20% -> 25%
+Pierce resistance -20% -> -15%
+Castle defense 40% -> 50%
+Swallow water movement cost 3 -> 4
+Swallow water defense 30% -> 20%
+Price 42g -> 39g
+
+Breaker
+Notable damage nerf and notisable resistances improvements.
+Spear 22-2 -> 17-2
+Trample 9-4 -> 8-4
+Blade resistance 10% -> 25%
+Impact resistance 20% -> 30%
+Pierce resistance -20% -> -10%
+Castle defense 40% -> 50%
+Swallow water movement cost 3 -> 4
+Swallow water defense 30% -> 20%
+Price 51g -> 58g
+
+Knight
+Swallow water movement cost 3 -> 4
+Swallow water defense 30% -> 20%
+
+
+Black Knight
+Notable mounted unit, just some damage nerfs.
+Flail 13-3 -> 11-3
+Lance 30-1 -> 28-1
+Swallow water movement cost 3 -> 4
+Swallow water defense 30% -> 20%
+Price 40g -> 37g
+
+Champion
+Resistances are too high for 40% defense, but we will reward it in other way.
+Blade resistance 50% -> 40%
+Castle defense 40% -> 50%
+Swallow water movement cost 3 -> 4
+Swallow water defense 30% -> 20%
+
+Paladin
+Little rework on the arcane sword damage spread. Just to diferenciate more from Mace. Apart of a little nerf to arcane damage.
+Sword 9-3 -> 8-3
+Castle defense 40% -> 50%
+Swallow water movement cost 3 -> 4
+Swallow water defense 30% -> 20%
+
+Mageknight
+no no no !! Considering it's movement and damage, it has too much health!
+Health 54 -> 44
+Fire resistance 0% -> 5%
+Pierce resistance -20% -> -15%
+Swallow water movement cost 3 -> 4
+Swallow water defense 30% -> 20%
+Coment: resistance buffes are just to help survival players or RPG players in base of the health nerf.
+
+Templar
+Health 66 -> 56
+Sword 11-2 -> 10-2
+Lightning 12-4 -> 11-4
+Pierce resistance -20% -> -10%
+Fire resistance 0% -> 10%
+Swallow water movement cost 3 -> 4
+Swallow water defense 30% -> 20%
+
+Troubadour
+Massively overpowered compared to units like white mage. We will take rid of this.
+Health 48 -> 42
+Movement 8 -> 7
+Missile 10-3 -> 8-3
+Purify 5-6 -> 4-6
+Blade & pierce resistances 30% -> 20%
+Swallow water movement cost 3 -> 4
+Swallow water defense 30% -> 20%
+
+Pegasus rider
+We will consider lowering pierce resistance because of being a common weakness in faction. Apart of a little extra.
+Pierce resistance -20% -> -10%
+Arcane resistance 20% -> 30%
+Castle defense 50% -> 60%
+
+Pegasus Knight
+Pierce resistance -20% -> -10%
+Arcane resistance 20% -> 40%
+Castle defense 50% -> 60%
+Cost 34g -> 36g
+
+Silver Pegasus
+Pierce resistance -20% -> -10%
+Castle defense 50% -> 60%
+Cost 49g -> 55g
+
+Rider
+Swallow water movement cost 3 -> 4
+Swallow water defense 30% -> 20%
+
+Equestrian
+Price 32g -> 34g
+
+Searay
+Actually owing 70% water defense, but it's not consider in its overall damage... let's nerf.
+Spear 9-2 -> 8-2
+Harpoon 6-3 -> 5-3
+
+Manta
+This one will be more nerfed, because of absurd damage.
+Harpoon 15-2 -> 12-2
+Sting 8-2 -> 7-2
+Harpoon 7-5 -> 6-5
+
+Vagabound
+Lowering a bit its bow damage due its movility and ok mele. Giving few extras.
+Bow 10-2 -> 9-2
+Mountains movement cost 99 -> 6
+Mountain defense 20% -> 40%
+Coment: mages are really strong, and didn't make water movement cost nerfs just to make the 'meh archer' have something special.
+
+Nomad
+Bow 11-3 -> 10-3
+Mountains movement cost 99 -> 6
+Mountain defense 20% -> 40%
+
+Roamer
+Bow 16-3 -> 14-3
+Mountains movement cost 99 -> 6
+Mountain defense 20% -> 40%
+Price 49g -> 57g
+
+
+HIGHLANDERS
+Actually overperforming faction that is innusually stronger than most balanced factions. Nerfs will be executed but maintaining the cool the
+faction status also sometimes will be considered some status adjusments for standarization.
+
+Contestant
+Frozen defense 60% -> 50%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+
+Stonethrower
+Actually this unit performs a way better than Dwarvish thunderguard. Impact is harder to counter than pierce is, reasson why boulder got nerfed.
+But judging at movement costs, it's kinda fair that this unit has higher damage over an atack type that is harder to counter.
+32-1 -> 30-1
+Frozen defense 60% -> 50%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+XP 81 -> 72
+
+Rock Launcher
+Actually dealing an insane amount of damage, lv4 ranged damage? mmmm... going to be fixed. Also, we will give it some versality to compensate
+the raw damage nerf.
+Boulder 32-2 -> 22-2
+NEW ATACK: Boulder 40-1 ranged
+Frozen defense 60% -> 50%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+Price 40g -> 46g
+
+Drunkard
+Let's substract cost efficiency by making more expensive, just that.
+Frozen defense 60% -> 50%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+Price 17g -> 19g
+Coment: it's not inferior than dwarvish ulfseker, why it has to cost that low then?
+
+Barfighter
+Exagerated stats, we will nerf his stats a bit.
+Health 60 -> 52
+Impact resitane 40% -> 35%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+XP 71 -> 65
+Price 36g -> 34g
+
+Wildman
+Health 78 -> 70
+Impact resistance 50% -> 40%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+Price 46g -> 54g
+
+Sobber
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+Price 32g -> 30g
+
+Bartap
+Really high mele damage for a unit with leadership, small nerf on its mele.
+Fist 10-5 -> 9-5
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+Price 46g -> 52g
+
+Field Medic
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+
+Amputator
+Some small adjustments.
+Health 50 -> 48
+Cleaver 9-3 -> 8-3
+Blade resistance 0% -> 10%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+Coment: Curious unit that can mix poison + bleeding for terminal deaths. Will be under testing.
+
+Combat Medic
+Actually a somehow abused unit. We will nerf a bit its performance.
+Health 40 -> 38
+Movement 6 -> 5
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+
+Forester
+I'm sure I've sugested changes for this unit, well, for standarization we will do some more changes. Apart of repeating the already sugested changes.
+Axe 8-2 -> 7-2
+Forest defense 60% -> 50%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+
+Hatchet Thrower
+Notably good unit, just small nerfs.
+Axe 11-2 -> 9-2
+Blade resistance 20% -> 15%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+XP 77 -> 70
+Price 29g -> 30g
+Coment: come on, it's much better than default's longbowman, by having blade resistance and better mele damage.
+
+Axe Thrower
+Axe 18-2 -> 16-2
+hatchet 12-4 -> 11-4
+Blade resistance 40% -> 30%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+Price 47g -> 49g
+
+Lumberjack
+Damage nerfs, just that. He has really really nice amount of health.
+Axe 16-2 -> 14-2
+Hatcher 10-2 -> 9-2
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+Price 29g -> 31g
+
+Woodsman
+Axe 10-2 -> 8-2
+Sand Movement cost 3 -> 2
+Swamp Movement cost 3 -> 2
+Swamp Defense 20% -> 40%
+Coastal Rift defense 40% -> 30%
+Price 29g -> 32g
+
+Gamekeeper
+Axe 10-3 -> 9-3
+Sand Movement cost 3 -> 2
+Swamp Movement cost 3 -> 2
+Swamp Defense 20% -> 40%
+Coastal Rift defense 40% -> 30%
+
+Giant
+Some standarization, not that much else.
+Cold resistance 40% -> 30%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+
+Hulk
+Cold resistance 40% -> 30%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+Price 28g -> 32g
+
+Behemoth
+Steadfast considerations...
+Arcane 20% -> 15% (30% while defending)
+Blade/Pierce resistance 20% -> 15% (30% while defending)
+Cold Resistance 40% -> 20% (40% while defending)
+Imapct resistance 40% -> 25% (still 50% while defending)
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+Price 50g -> 52g
+
+Thor
+Thor rushers, I have a bad notice for you, this unit is extremely Overpowered in RPG or in Oricia. Will stop him being the obvious patch in Oricia
+behind all the faction ... nerfs are striking hard, mostly at Lv3 Thor.
+Fist 20-2 -> 18-2
+Lightning 18-1 -> 16-1
+Blade/Pierce resistance 20% -> 15%
+Cold Resistance 50% -> 35%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+Price 50g -> 52g
+
+Odin
+Health 83 -> 87
+Lightning 32-1 -> 27-1
+Blade/Pierce resistance 30% -> 25%
+Cold resistance 50% -> 40%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+
+Nord
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+
+Barbarian
+Hatchet 8-2 -> 5-2
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+XP 80 -> 72
+Price 28g -> 32g
+
+Highlander
+Axe 17-3 -> 16-3
+Hatchet 14-2 -> 8-2 (dwarvish lord ranged is only 10-1)
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+Price 46g -> 54g
+
+Pilferer
+Movement 6 -> 5
+Hatchet 5-3 -> 4-3
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+XP 80 -> 72
+
+Plunderer
+Hatchet 6-4 -> 5-4
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+
+Viking
+Aboslutely overpowered one, considerable nerfs on the way.
+Movement 6 -> 5
+Axe 12-3 -> 11-3
+Hatchet 10-1 -> 7-1
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+
+Pipeman
+In order to mantain that aditional movement (6 MP), we will give him some odd weaknesses.
+Blade/Pierce resistance 0% -> -5%
+Cold resistance 20% -> 10%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+
+Bag player
+Leadership unit with no special consideration. Will mantain some of those lowered resistance to don't lower that much the health.
+Health 48 -> 42
+Bag pipe 5-6 -> 4-6
+blade/pierce resistance 0% -> -5%
+Cold resistance 20% -> 15%
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+XP 74 -> 70
+Price 40g -> 35g
+
+Warpipe
+Bagpipe 8-6 -> 7-6
+(Resistances unchanged)
+Sand Movement cost 3 -> 2
+Coastal Rift defense 40% -> 30%
+Price 46g -> 51g
+
+Valkyrie
+They look expensive to be commonly 40% defense terrain. We will give small buffs to them.
+Impact resistance -20% -> -10%
+Arcane resistance 20% -> 30%
+
+Valkyrie Warrir
+Just some adjusmens
+Impact resistance -20% -> -10%
+
+Valkyrie Princess
+Impact resistance -20% -> -10%
+Price 49g -> 52g
+
+
+EMPERORS GUARD
+There are some balance irregularties that we will fix. We're talking about nerfs but not nerf in mass. I'm out of time and I'm sure some other units
+deserve more the fair nerf.
+
+Martial Artist
+Looks like +10% terrain defense and counter are underrated and being the only impact atacker, let's increase its price
+Price 14g -> 16g
+
+Musha
+Leap kick nerf considering it has higher terrain defense (takes less damage if missing)
+Leap kick 16-1 -> 15-1
+Price 28g -> 30g
+
+Blackbelt
+Leap kick 22-1 -> 20-1
+Price 46g -> 50g
+
+Ninja
+The only problem of this unit is the innusually good ranged atack that the mele line has. We will left everything else unchanged.
+Kunai 4-3 -> 3-3
+
+Ninja Warrior
+Kunai 5-4 -> 4-4
+Price 27g -> 32g
+
+Shinobi
+Kunai 8-4 -> 7-4
+
+Ryu
+Similar to drake burner, but quicker and with fire breath -1 damage. The unit is fine, we will just increase a little the xp to lv2.
+XP 48 -> 52
+
+Tatsu
+Considering the lv3 has 8 movement and really nice damage, raising xp to mantain stats unchanged.
+XP 76 -> 80
+
+Ryong
+Price 48g -> 54g
+
+Kyu
+Readjusting some stats.
+Wakizashi 7-3 -> 6-3
+Price 25g -> 27g
+
+Elite Kyu
+Wakizashi 10-3 -> 9-3
+Yumi 12-4 -> 11-4
+Price 45g -> 51g
+
+
+HOLY ORDER
+Recently noticed that some units have balance irregularities... let's fix most of that.
+
+Crusader
+Price 25g -> 26g
+
+Cleric
+At stats it's being fine, the only issue it's odd low xp.
+XP 22 -> 30
+
+Bishop
+This level up is actually out of place, we will give him decent stats for a better figthing role and a small boost to team utility.
+Holywater 12-1 -> 7-2 (with this we make him more useful in normal games and nerf RPG or Oricia potential)
+Arcane resistance 30% -> 40%
+NEW SPECIAL: Cures (will now be capable to heal poison, but no more)
+XP 75 -> 93 (Plans for Lv3)
+Price 35g -> 29g
+
+Archbishop
+Considering that the healing option was much more popular than the Archbishop, decided to bring something really SPECIAL for this one.
+Arcane resistance 50% -> 60%
+NEW SPECIAL: Cures
+NEW AURA: Illuminates
+Price 48g -> 52g
+
+Priest
+Actually kinda overpowered, let's nerf
+Health 48 -> 42
+Cross 11-2 -> 9-2
+
+Pope
+First of all, pope was the support with both healing and illuminates? was making Archbishop being not considered. Removing Illuminates. And some
+stats nerfs. By the removal of Illuminates, having him as an healer being chaotic faction will be less akward and will not over-reward that much if
+playing an lawful faction.
+Touch 10-3 -> 8-3
+Blessed Word 6-5 -> 5-5
+Arcane resistance 80% -> 60%
+NO LONGER HAS ILLUMINATES
+Price 48g -> 50g
+
+Inquisition
+Overpriced unit.
+Price 34g -> 27g
+
+Torturer
+Underpriced unit. Lv3 terror is something to consider in price.
+Price 44g -> 52g
+
+Judgementor
+Nerfing it's ranged damage first of all because of being too ABUSABLE in RPG or in Oricia gameplay. And second because it's not being fair.
+Judgement 22-1 -> 14-1
+Coment: Elvish hero is 6-3 ... with pierce which is easier to counter.
+
+Supreme Judge
+Judgement 34-1 -> 22-1
+Price 42g -> 44g
+
+All lightwisp and lightwisp advancements were revised previously. Hard nerds on the way for lightwisps except a strong buff for Twilight.
+
+Mounted Officer
+Spear 9-2 -> 8-2
+Spear 6-1 -> 5-1
+
+Listener
+Spear 13-2 -> 12-2
+Price 30g -> 32g
+
+Eyes of Fate
+Price 47g -> 51g
+
+Justice
+Would tolerate that 11-3 if it wasn't impact damage which is harder to counter than both pierce or blade. Just standarizations.
+Trudgeon 11-3 -> 10-3
+Impact resistance 0% -> 10%
+
+Law
+Standarization process. We will make him a way better for RPG but not that powerhouse damage.
+Trudgeon 13-4 -> 11-4
+Arcane resistance 20% -> 30%
+Fire resistance 0% -> 15%
+Impact resistance 0% -> 15%
+Coment: keeping the 40% bonus resistances like seen in both Pikeman and swordsmen line in default.
+
+Order
+Like in Law we will give him some cool extras.
+Mace 17-3 -> 16-3
+Blade resistance 0% -> 15%
+Cold resistance 0% -> 15%
+Arcane resistance 20% -> 30%
+
+Peace Keeper 
+Some nerfs to this advancement. Apart of modifications to its movement costs (handicaps for steadfast)
+Fire/Cold resistances 0% -> -5%
+Hills movement cost 2 -> 3
+Forest defense 50% -> 40%
+Hills defense 50% -> 40%
+Fungus defense 50% -> 40%
+Mountains movement cost 3 -> 4
+Mountains defense 60% -> 40%
+Village defense 60% -> 50%
+Sand movement cost 3 -> 2
+Sand defense 30% -> 20%
+Swallow Water movement cost 3 -> 4
+Swallow Water defense 30% -> 10%
+Swamp movement cost 3 -> 4
+Swamp defense 30% -> 10%
+Coastal Rift defense 40% -> 20%
+ - Coment: we left 60% castle defense and 40% flat defense which are the most important in survivals... but decided to do this to make other choices
+more atractive than just 'more damage options'.
+
+Student
+Lightbeam 8-3 -> 7-3
+Fireball 11-2 -> 10-2
+Coment: wtf? it was being a mage + dark adept that had better damage than both of each... mmmm...?
+
+Mage
+Lightbeam 11-3 -> 10-3
+
+Ballast
+Actually a bit too nice ... nerfs...
+Lightbeam 12-4 -> 10-4
+Fireball 20-2 -> 18-2
+Cold/Fire resistance 20% -> 15%
+Price 48g -> 52g
+
+Scholar
+Looks like leadership is not considered in balance considerations... we will nerf this unit. Lowering some xp too for a nerfed Lv3 :D
+Health 42 -> 38
+Movement 6 -> 5
+Lightbeam 9-4 -> 8-4
+XP 100 -> 80
+Price 50g -> 44g
+
+Wisdomkeeper
+No please, it's hard to find a unit that could be more overpowered than this one... N E R F... also we will give him some mele :P
+Health 56 -> 52
+Movement 6 -> 5
+NEW ATACK: Fist 3-2
+Light Beam 10-5 -> 8-5
+Purify 4-15 -> 5-8
+Arcane resistance 70% -> 50%
+Price 48g -> 56g
+Coment: Was fun seing the lv2 costing more than the lv3 XDD, MERCS pls
+
+Witchhunter
+I'm sure I've done modifications to him previously. Will just trust in my previous work at this line.

@@ -1,0 +1,1279 @@
+Level 1 		Level 2 		Level 3			Level 4
+
+						> Law
+						>
+Officer ----------------> Justice --------------> Peacekeeper
+						>
+						> Order
+
+Judiciary --------------> Judgementor ----------> Supreme Judge
+
+
+Order Student ----------> Order Mage -----------> Ballast
+			>
+			> Scholar --------------> Wisdom Keeper
+
+Cleric -----------------> Priest ---------------> Pope
+			>
+			> Bishop ---------------> Archbishop
+
+Mounted Officer --------> Listener -------------> Eye of Fate
+
+Witchhunter ------------> Demonslayer ----------> Purifier
+
+Lightwisp --------------> Holyspirit -----------> Arcane Spirit
+
+Interrogator -----------> Inquisitor -----------> Torturer
+
+Aggressor --------------> Crusader -------------> Paladin
+
+Name: Officer
+Advance From: null
+Advance To: Justice
+Race: Human
+Abilities:
+HP: 36
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+trudgeon melee (impact) 7-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Justice
+Advance From: Officer
+Advance To: Law, Order, Peacekeeper
+Race: Human
+Abilities:
+HP: 54
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+trudgeon melee (impact) 11-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Law
+Advance From: Justice
+Advance To: null
+Race: Human
+Abilities:
+HP: 72
+XP:
+Moves: 6
+COst:
+Alignment: lawful
+Description:
+Attacks:
+mace melee (impact) 13-4
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Order
+Advance From: Justice
+Advance To: null
+Race: Human
+Abilities:
+HP: 80
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+Mace melee (impact) 17-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Peacekeeper
+Advance From: Justice
+Advance To: null
+Race: Human
+Abilities: Stalwart
+HP: 68
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+Mace melee (impact) 12-3
+Shieldbash melee (impact) 10-1 slow
+Resists:
+arcane- 20%
+blade- 20%
+cold-
+fire-
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Judiciary
+Advance From: null
+Advance To: Judgementor
+Race: Human
+Abilities:
+HP: 33
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+Gavel melee (impact) 8-2
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Judgementor
+Advance From: Judiciary
+Advance To: Supreme Judge
+Race: Human
+Abilities:
+HP: 50
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+Gavel melee (impact) 12-2
+Judgement ranged (arcane) 22-1
+Resists:
+arcane- 40%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Supreme Judge
+Advance From: Judgementor
+Advance To: null
+Race: Human
+Abilities:
+HP: 68
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+Gavel melee (impact) 18-2
+Judgement ranged (arcane) 34-1
+Resists:
+arcane- 50%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Order Student
+Advance From: null
+Advance To: Order Mage, Scholar
+Race: Human
+Abilities:
+HP: 24
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+lightbeam ranged (arcane) 8-3 magical
+Resists:
+arcane- 30%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Order Mage
+Advance From: Order Student
+Advance To: Ballast
+Race: Human
+Abilities:
+HP: 46
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+staff melee (impact) 4-2
+lightbeam ranged (arcane) 11-3 magical
+fireball ranged (fire) 14-2 magical
+Resists:
+arcane- 30%
+blade-
+cold- 10%
+fire- 10%
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Ballast
+Advance From: Order Mage
+Advance To: null
+Race: Human
+Abilities:
+HP: 58
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+staff melee (impact) 5-3
+lightbeam ranged (arcane) 12-4 magical
+fireball ranged (fire) 20-2 magical
+Resists:
+arcane- 50%
+blade-
+cold- 20%
+fire- 20%
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Scholar
+Advance From: Order Student
+Advance To: Wisdom Keeper
+Race: Human
+Abilities: Leadership
+HP: 42
+XP:
+Moves: 6
+COst:
+Alignment: lawful
+Description:
+Attacks:
+staff melee (impact) 6-1
+lightbeam ranged (arcane) 9-4 magical
+Resists:
+arcane- 40%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Wisdom Keeper
+Advance From: Scholar
+Advance To: null
+Race: Human
+Abilities: Leadership
+HP: 51
+XP:
+Moves: 6
+COst:
+Alignment: lawful
+Description:
+Attacks:
+staff melee (impact) 7-2
+lightbeam ranged (arcane) 10-5 magical
+Purify ranged (arcane) 4-15 magical
+Resists:
+arcane- 70%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Cleric
+Advance From: null
+Advance To: Priest, Bishop
+Race: Human
+Abilities: Heal +4
+HP: 22
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+staff melee (impact) 4-3
+cross melee (arcane) 8-1
+Resists:
+arcane- 30%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Priest
+Advance From: Cleric
+Advance To: Pope
+Race: Human
+Abilities: Heal +8, Cures
+HP: 40
+XP:
+Moves: 6
+COst:
+Alignment: lawful
+Description:
+Attacks:
+staff melee (impact) 6-3
+cross melee (arcane) 9-2
+Resists:
+arcane- 40%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Pope
+Advance From: Priest
+Advance To: null
+Race: Human
+Abilities: Heal +8, Cures, Illuminates
+HP: 55
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+staff melee (impact) 8-3
+touch melee (arcane) 10-3
+blessed word ranged (arcane) 5-5
+Resists:
+arcane- 70%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Bishop
+Advance From: Cleric
+Advance To: Archbishop
+Race: Human
+Abilities: Heals +4
+HP: 50
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+flail melee (impact) 8-3
+cross melee (arcane) 10-2
+holywater ranged (arcane) 12-1 holyburns
+Resists:
+arcane- 40%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Archbishop
+Advance From: Bishop
+Advance To: null
+Race: Human
+Abilities: Heals +4
+HP: 70
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+flail melee (impact) 11-3
+cross melee (arcane) 15-2
+holywater ranged (arcane) 12-2 holyburns
+Resists:
+arcane- 50%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Mounted Officer
+Advance From: null
+Advance To: Listener
+Race: Human
+Abilities:
+HP: 36
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+spear melee (pierce) 9-2
+javelin ranged (pierce) 6-1
+Resists:
+arcane- 20%
+blade- 30%
+cold- 20%
+fire-
+impact- 20%
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 40%
+Sand- 3 30%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 40%
+Mountains- 100 40%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 30%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Listener
+Advance From: Mounted Officer
+Advance To: Eyes of Fate
+Race: Human
+Abilities:
+HP: 56
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+spear melee (pierce) 13-2
+javelin ranged (pierce) 6-2
+Resists:
+arcane- 20%
+blade- 30%
+cold- 20%
+fire-
+impact- 20%
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 40%
+Sand- 3 30%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 40%
+Mountains- 100 40%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 30%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Eyes of Fate
+Advance From: Listener
+Advance To: null
+Race: Human
+Abilities:
+HP: 69
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+spear melee (pierce) 14-3
+spear ranged (pierce) 10-2
+Resists:
+arcane- 20%
+blade- 30%
+cold- 20%
+fire-
+impact- 20%
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 40%
+Sand- 3 30%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 40%
+Mountains- 100 40%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 30%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Witchhunter
+Advance From: null
+Advance To: Demonslayer
+Race: Human
+Abilities: 
+HP: 33
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+dagger melee (blade) 5-2 poison
+bow ranged (pierce) 6-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Demonslayer
+Advance From: Witchhunter
+Advance To: Purifier
+Race: Human
+Abilities:
+HP: 52
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+dagger melee (blade) 5-3 poison
+bow ranged (pierce) 9-3
+silvercrossbow ranged (arcane) 12-2
+Resists:
+arcane- 20%
+blade-
+cold-
+fire- 20%
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Purifier
+Advance From: Demonslayer
+Advance To: null
+Race: Human
+Abilities:
+HP: 72
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+dagger melee (blade) 7-3 poison
+bow ranged (pierce) 12-3
+silvercrossbow ranged (arcane) 15-2
+Resists:
+arcane- 20%
+blade-
+cold-
+fire- 20%
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Lightwisp
+Advance From: null
+Advance To: Holy Spirit
+Race: Undead
+Abilities: Dayfade
+HP: 15
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+lightbeam ranged (arcane) 6-3
+Resists:
+arcane- 70%
+blade- 50%
+cold- 30%
+fire- 30%
+impact- 50%
+pierce- 50%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 2 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 2 50%
+Shallow Water- 2 50%
+Cave Wall- 1 50%
+
+Name: Holyspirit
+Advance From: Lightwisp
+Advance To: Arcane Spirit
+Race: Undead
+Abilities: Dayfade
+HP: 25
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+cleanse melee (arcane) 15-1
+lightbeam ranged (arcane) 8-4
+Resists:
+arcane- 70%
+blade- 50%
+cold- 30%
+fire- 30%
+impact- 50%
+pierce- 50%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 2 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 2 50%
+Shallow Water- 2 50%
+Cave Wall- 1 50%
+
+Name: Arcane Spirit
+Advance From: Holy Spirit
+Advance To: null
+Race: Undead
+Abilities: Dayfade
+HP: 38
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+cleanse melee (arcane) 15-2
+lightbeam ranged (arcane) 10-5
+Resists:
+arcane- 70%
+blade- 50%
+cold- 30%
+fire- 30%
+impact- 50%
+pierce- 50%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 2 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 2 50%
+Shallow Water- 2 50%
+Cave Wall- 1 50%
+
+Name: Interrogator
+Advance From: null
+Advance To: Inquisitor
+Race: Human
+Abilities:
+HP: 35
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+whip melee (impact) 7-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Inquisitor
+Advance From: Interrogator
+Advance To: Torturer
+Race: Human
+Abilities: Terror
+HP: 55
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+whip melee (impact) 7-4
+Resists:
+arcane- 20%
+blade- 10%
+cold-
+fire-
+impact- 10%
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Torturer
+Advance From: Inquisitor
+Advance To: null
+Race: Human
+Abilities: Terror
+HP: 74
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+whip melee (impact) 10-4 dread
+Resists:
+arcane- 20%
+blade- 10%
+cold-
+fire-
+impact- 10%
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Aggressor
+Advance From: null
+Advance To: Crusader
+Race: Human
+Abilities:
+HP: 36
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+sword melee (blade) 5-4
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Crusader
+Advance From: Aggressor
+Advance To: Paladin
+Race: Human
+Abilities:
+HP: 57
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+sword melee (blade) 7-4
+holysword melee (arcane) 10-2
+Resists:
+arcane- 30%
+blade- 20%
+cold-
+fire-
+impact-
+pierce- 10%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Paladin
+Advance From: Crusader
+Advance To: null
+Race: Human
+Abilities:
+HP: 70
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+sword melee (blade) 12-4
+holysword melee (blade) 14-3
+Resists:
+arcane- 40%
+blade- 30%
+cold-
+fire-
+impact-
+pierce- 10%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%

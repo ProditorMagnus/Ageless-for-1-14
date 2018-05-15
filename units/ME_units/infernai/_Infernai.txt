@@ -1,0 +1,1279 @@
+
+
+
+		Lvl 0			Lvl 1			Lvl 2			Lvl 3			Lvl 4
+
+fodder/ranger	*Imp --------------------> Scamp ----------------> Familiar
+					>
+Foot/leader				*> Fiend ----------------> Demon ----------------> Devil ----------------> Lucifer							>
+								>			>
+Fury/Charge							> Archfiend 		> Horned One
+								>
+Bloodlust/Rage							> Sadist ---------------> Bloodbather
+
+Ranger					*Gog --------------------> Magog ----------------> Incubus
+
+Heavy/Plague				Pit Fiend --------------> Pit Lord ------------> Pit Master
+								>
+Terror								> Tormentor
+
+Scout/Triplestrike			*Demon dog --------------> Hell Hound -----------> Cerberus
+
+Mage/Flier				*Ifreet -----------------> Master Ifreet --------> Ifreet Sultan
+
+Possess/Slow				*Lost Soul --------------> Evil Essence
+
+Zerk		Controlled -------------> Possessed ------------> Dominated
+
+Cave/spear				*Hell Dweller -----------> Troglodyte -------------> Infernal Troglodyte
+
+
+
+Name:
+Advance From:
+Advance To:
+Race:
+Abilities:
+HP:
+XP:
+Moves:
+COst:
+Alignment:
+Description:
+Attacks:
+Resists:
+arcane-
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-
+Castle-
+Sand-
+Village-
+Grassland-
+Forest-
+Hills-
+Mountains-
+Chasm-
+Swamp-
+Mushroom-
+Cave-
+Deep Water-
+Shallow Water-
+Cave Wall-
+
+Name: Imp
+Advance From: null
+Advance To: Scamp, Fiend
+Race: Infernai
+Abilities:
+HP: 15
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Claws melee (blade) 3-3
+Resists:
+arcane- -10%
+blade-
+cold-
+fire- 50%
+impact-
+pierce-
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Scamp
+Advance From: Imp
+Advance To: Familiar
+Race: Infernai
+Abilities:
+HP: 30
+XP:
+Moves: 6
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Claws melee (blade) 5-3
+Fireball ranged (fire) 10-2
+Resists:
+arcane- -10%
+blade-
+cold- 30%
+fire- 70%
+impact-
+pierce-
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Familiar
+Advance From: Scamp
+Advance To: null
+Race: Infernai
+Abilities:
+HP: 45
+XP:
+Moves: 6
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 6-4
+fireball ranged (fire) 17-2
+Resists:
+arcane- -10%
+blade-
+cold- 50%
+fire- 70%
+impact-
+pierce-
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Fiend
+Advance From: Imp
+Advance To: Demon, Archfiend, Sadist
+Race: Infernai
+Abilities: 
+HP: 36
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Claws melee (blade) 5-4
+Resists:
+arcane- -10%
+blade-
+cold- -20%
+fire- 70%
+impact-
+pierce-
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Demon
+Advance From: Fiend
+Advance To: Devil, Horned One
+Race: Infernai
+Abilities: Leadership
+HP: 57
+XP:
+Moves: 5
+COst:
+Alignment: Chaotic
+Description:
+Attacks:
+Sword melee (blade) 7-4
+Fireball ranged (fire) 6-1
+Resists:
+arcane- -10%
+blade-
+cold- -20%
+fire- 70%
+impact-
+pierce-
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Devil
+Advance From: Demon
+Advance To: Lucifer
+Race: Infernai
+Abilities: Leadership
+HP: 72
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Sword melee (blade) 11-4
+sword melee (fire) 14-3
+Fireball ranged (fire) 8-2
+Resists:
+arcane- -10%
+blade-
+cold- -20%
+fire- 70%
+impact-
+pierce-
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Lucifer
+Advance From:
+Advance To:
+Race:
+Abilities:
+HP: 90
+XP:
+Moves: 6
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Sword melee (blade) 15-4
+Sword melee (fire) 17-3
+Fireball ranged (fire) 10-3
+Resists:
+arcane- -10%
+blade-
+cold- -20%
+fire- 70%
+impact-
+pierce-
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Horned One
+Advance From: Demon
+Advance To: null
+Race: Infernai
+Abilities:
+HP: 75
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Claws melee (blade) 14-4
+Horn melee (pierce) 30-1 charge
+Fireball ranged (fire) 15-1
+Resists:
+arcane- -10%
+blade- 20%
+cold- -20%
+fire- 70%
+impact- 10%
+pierce-
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Archfiend
+Advance From: Fiend
+Advance To: null
+Race: Infernai
+Abilities:
+HP: 52
+XP:
+Moves: 6
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Scythe melee (blade) 8-4 Fury (gets +2 moves and can attack again if kills enemy)
+Resists:
+arcane- -10%
+blade- 30%
+cold- -20%
+fire- 70%
+impact-
+pierce-
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Sadist
+Advance From: Fiend
+Advance To: Bloodbather
+Race: Infernai
+Abilities: Bloodlust (heals +8 if kills enemy)
+HP: 60
+XP:
+Moves: 4
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Axe melee (blade) 15-2
+Resists:
+arcane- -10%
+blade- 10%
+cold- -20%
+fire- 70%
+impact- 20%
+pierce- 10%
+Terrain:
+Snow- 3 0%
+Castle- 1 50%
+Sand- 1 30%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 4 40%
+Swamp- 3 20%
+Mushroom- 2 40%
+Cave- 1 30%
+Deep Water- 100 0%
+Shallow Water- 3 10%
+Cave Wall- 100 30%
+
+Name: Bloodbather
+Advance From: Sadist
+Advance To: null
+Race: Infernai
+Abilities: Bloodlust, Rage (continues fighting for 3 rounds)
+HP: 80
+XP:
+Moves: 4
+COst:
+Alignment: Chaotic
+Description:
+Attacks:
+Axe melee (blade) 23-2
+Resists:
+arcane- -10%
+blade- 20%
+cold- -20%
+fire- 70%
+impact- 30%
+pierce- 20%
+Terrain:
+Snow- 3 0%
+Castle- 1 50%
+Sand- 1 30%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 4 40%
+Swamp- 3 20%
+Mushroom- 2 40%
+Cave- 1 30%
+Deep Water- 100 0%
+Shallow Water- 3 10%
+Cave Wall- 100 30%
+
+Name: Gog
+Advance From: null
+Advance To: Magog
+Race: Infernai
+Abilities:
+HP: 34
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 6-2
+fireball ranged (fire) 7-3
+Resists:
+arcane- -10%
+blade-
+cold- -40%
+fire- 80%
+impact-
+pierce-
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Magog
+Advance From: Gog
+Advance To: Incubus
+Race: Infernai
+Abilities:
+HP: 53
+XP:
+Moves: 5
+COst:
+Alignment: Chaotic
+Description:
+Attacks:
+claws melee (blade) 10-2
+fireball ranged (fire) 10-3
+Resists:
+arcane- -10%
+blade- 
+cold- -40%
+fire- 80%
+impact-
+pierce-
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Incubus
+Advance From: Magog
+Advance To: null
+Race: Infernai
+Abilities:
+HP: 68
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 14-2
+fireball ranged (fire) 16-3
+deathgaze ranged (arcane) 20-2
+Resists:
+arcane- -10%
+blade-
+cold- -40%
+fire- 80%
+impact-
+pierce-
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Pit Fiend
+Advance From: null
+Advance To: Pit Lord, Tormentor
+Race: Infernai
+Abilities:
+HP: 38
+XP:
+Moves: 4
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+whip melee (impact) 5-3 plague
+whip melee (blade) 9-2
+Resists:
+arcane- -10%
+blade- 10%
+cold- -20%
+fire- 50%
+impact- 20%
+pierce- 10%
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Pit Lord
+Advance From: Pit Fiend
+Advance To: Pit Master
+Race: Infernai
+Abilities:
+HP: 59
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+whip melee (impact) 6-4 plague
+whip melee (blade) 15-2
+Resists:
+arcane- -10%
+blade- 10%
+cold- -20%
+fire- 50%
+impact- 20%
+pierce- 10%
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Pit Master
+Advance From: Pit lord
+Advance To: null
+Race: Infernai
+Abilities:
+HP: 76
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+whip melee (impact) 8-4 plague
+whip melee (blade) 20-2
+Resists:
+arcane- -10%
+blade- 10%
+cold- -20%
+fire- 50%
+impact- 20%
+pierce- 10%
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Tormentor
+Advance From: pit fiend
+Advance To: null
+Race: Infernai
+Abilities: Terror
+HP: 62
+XP:
+Moves: 4
+COst:
+Alignment: Chaotic
+Description:
+Attacks:
+Whip melee (impact) 8-3 plague
+Whip melee (blade) 12-3
+Flaming Whip melee (fire) 20-1
+Resists:
+arcane- -10%
+blade- 20%
+cold- -20%
+fire- 70%
+impact- 40%
+pierce- 20%
+Terrain:
+Snow- 3 0%
+Castle- 1 50%
+Sand- 1 30%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 4 40%
+Swamp- 3 20%
+Mushroom- 2 40%
+Cave- 1 30%
+Deep Water- 100 0%
+Shallow Water- 3 10%
+Cave Wall- 100 30%
+
+Name: Demon Dog
+Advance From: null
+Advance To: Hell Hound
+Race: Infernai
+Abilities: Skirmish
+HP: 24
+XP:
+Moves: 8
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 4-4
+firebreath ranged (fire) 5-1
+Resists:
+arcane- -10%
+blade-
+cold- -20%
+fire- 70%
+impact-
+pierce-
+Terrain:
+Snow- 3 10%
+Castle- 1 50%
+Sand- 1 40%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 2 60%
+Hills- 2 60%
+Mountains- 3 70%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 50%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Hell Hound
+Advance From: Demon Dog
+Advance To: Cerberus
+Race: Infernai
+Abilities: Skirmish
+HP: 36
+XP:
+Moves: 8
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 6-4
+firebreath ranged (fire) 6-2
+Resists:
+arcane- -10%
+blade-
+cold- -20%
+fire- 70%
+impact-
+pierce-
+Terrain:
+Snow- 3 10%
+Castle- 1 50%
+Sand- 1 40%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 2 60%
+Hills- 2 60%
+Mountains- 3 70%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 50%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Cerberus
+Advance From: Hell Hound
+Advance To: null
+Race: Infernai
+Abilities:
+HP: 50
+XP:
+Moves: 8
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 7-5
+bite melee (blade) 10-3 triplestrike (if there are units adjacent to both the Cerberus and the defender, they take 2 damage with each strike)
+fFirebreath (fire) 6-4
+Resists:
+arcane- -10%
+blade-
+cold- -20%
+fire- 70%
+impact-
+pierce-
+Terrain:
+Snow- 3 10%
+Castle- 1 50%
+Sand- 1 40%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 2 60%
+Hills- 2 60%
+Mountains- 3 70%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 1 50%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Ifreet
+Advance From: null
+Advance To: Master Ifreet
+Race: Infernai
+Abilities: Heals +4
+HP: 20
+XP:
+Moves: 6
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Scimitar melee (blade) 6-3
+Fireball ranged (fire) 12-2 magical
+Temptation ranged (arcane) 18-1
+Resists:
+arcane- -20%
+blade- 40%
+cold- -20%
+fire- 70%
+impact- 40%
+pierce- 40%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 100 50%
+
+Name: Master Ifreet
+Advance From: Ifreet
+Advance To: Ifreet Sultan
+Race: Infernai
+Abilities: Heals +8 Cures
+HP: 32
+XP:
+Moves: 6
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Scimitar melee (blade) 9-3
+Fireball ranged (fire) 13-3 magical
+Temptation ranged (arcane) 28-1
+Resists:
+arcane- -20%
+blade- 40%
+cold- -20%
+fire- 70%
+impact- 40%
+pierce- 40%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 100 50%
+
+Name: Ifreet Sultan
+Advance From: Master Ifreet
+Advance To: null
+Race: Infernai
+Abilities: Heals +8 Cures
+HP: 48
+XP:
+Moves: 6
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Scimitar melee (blade) 10-4
+Fireball ranged (fire) 15-4 magical
+Temptation ranged (arcane) 35-1
+Resists:
+arcane- -20%
+blade- 40%
+cold- -20%
+fire- 70%
+impact- 40%
+pierce- 40%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 100 50%
+
+Name: Lost Soul
+Advance From: null
+Advance To: Evil Essence
+Race: Undead
+Abilities:
+HP: 18
+XP:
+Moves: 7
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Possess melee (arcane) 10-1 kamikaze(hitonly) Possession
+Touch melee (arcane) 6-3 drain
+Resists:
+arcane- -20%
+blade- 50%
+cold- 70%
+fire- 30%
+impact- 50%
+pierce- 50%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 100 50%
+
+Name: Evil Essence
+Advance From: Lost Soul
+Advance To: null
+Race: Undead
+Abilities:
+HP: 32
+XP:
+Moves: 7
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Touchh melee (arcane) 10-3 drain slow
+Resists:
+arcane- -20%
+blade- 50%
+cold- 70%
+fire- 30%
+impact- 50%
+pierce- 50%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 100 50%
+
+Name: Hell Dweller
+Advance From: null
+Advance To: Troglodyte
+Race: Infernai
+Abilities: Fearless
+HP: 36
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+spear melee (pierce) 8-3 firststrike
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact- 20%
+pierce- 10%
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 70%
+Cave- 1 50%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Troglodyte
+Advance From: Hell Dweller
+Advance To: Infernal Troglodyte
+Race: Infernai
+Abilities: Fearless
+HP: 54
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Spear melee (pierce) 11-3 firststrike
+Resists:
+arcane- 20%
+blade-
+cold-
+fire- 30%
+impact- 20%
+pierce- 10%
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 70%
+Cave- 1 50%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Infernal Troglodyte
+Advance From: Troglodyte
+Advance To: null
+Race: Infernai
+Abilities: Fearless
+HP: 68
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+spear melee (pierce) 12-4 firsstrike
+Resists:
+arcane- 20%
+blade- 10%
+cold-
+fire- 70%
+impact- 30%
+pierce- 20%
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 1 40%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 4 50%
+Swamp- 3 30%
+Mushroom- 2 70%
+Cave- 1 50%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Controlled
+Advance From: null
+Advance To: Possessed
+Race: Infernai
+Abilities:
+HP: 30
+XP:
+Moves: 4
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Claws melee (blade) 4-4 berserk
+Resists:
+arcane- 10%
+blade-
+cold- -10%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 0%
+Castle- 1 50%
+Sand- 1 30%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 4 40%
+Swamp- 3 20%
+Mushroom- 2 40%
+Cave- 1 30%
+Deep Water- 100 0%
+Shallow Water- 3 10%
+Cave Wall- 100 30%
+
+Name: Possessed
+Advance From: Controlled
+Advance To: Dominated
+Race: Infernai
+Abilities:
+HP: 45
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 5-5 berserk
+Resists:
+arcane- 10%
+blade- 10%
+cold- -10%
+fire-
+impact- 10%
+pierce- 10%
+Terrain:
+Snow- 3 0%
+Castle- 1 50%
+Sand- 1 30%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 4 40%
+Swamp- 3 20%
+Mushroom- 2 40%
+Cave- 1 30%
+Deep Water- 100 0%
+Shallow Water- 3 10%
+Cave Wall- 100 30%
+
+Name: Dominated
+Advance From: Possessed
+Advance To: null
+Race: Infernai
+Abilities:
+HP: 58
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 7-5
+Resists:
+arcane- 10%
+blade- 20%
+cold- -10%
+fire- 
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 3 0%
+Castle- 1 50%
+Sand- 1 30%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 4 40%
+Swamp- 3 20%
+Mushroom- 2 40%
+Cave- 1 30%
+Deep Water- 100 0%
+Shallow Water- 3 10%
+Cave Wall- 100 30%

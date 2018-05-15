@@ -1,0 +1,17 @@
+Version 4.16:
+* Units and Factions
+    * Ukian Witch has two variations, accessible through AMLA (as opposed to a level 4 branch)
+    * New units: Dwarvish Plainsmaster, Devlings Little Ninja, Ninja, Grand Hero and Grand Chief
+* Graphics
+    * New images from Archaic Era
+    * Portraits for the Elementals
+    * New sprites for many Era of Myths units
+    * More animations for the Devlings
+* Balance
+    * Yokai, Emperors Guard, units with backstab, Floating Swords, Ukian Civilian
+* Bug Fixes
+    * Formation reducing resistance values
+    * Missing sounds
+* Other
+    * Partial translations for some languages [experimental]
+    * General EoM update

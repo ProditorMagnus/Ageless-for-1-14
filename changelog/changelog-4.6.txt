@@ -1,0 +1,50 @@
+Version 4.6:
+* Eras and Factions
+    * Added Mercenaries Era
+ 
+* Graphics
+    * Added illumination halo to the Bishop in the Oracles
+    * LightFighter updated all the graphics done by wayfarer
+ 
+* Balance
+    * Oracles:
+        * Sage - Price: 9 -> 16 | Staff attack: 7-2 -> 6-3
+        * Psychic - Price: 9 -> 28 | Staff attack: 9-2 -> 10-3
+        * Omniscient - Price: 9 -> 48 | Staff attack: 10-3 -> 13-3
+        * Magnomancer - Price: 9 -> 17
+        * Gravitymancer - Price: 9 -> 38
+        * Scrapshifter - Price: 9 -> 38
+        * Telekinetic - Price: 9 -> 54
+        * Summoner - Hitpoints: 40 -> 29 | Summon Gryphon attack: 11-2 -> 8-2 | Summon Spearman: 7-3 -> 6-3 | Summon Troll: 10-2 -> 8-2 | Summon Drake: 5-4 -> 4-4
+        * Conjurer - Hitpoints: 60 -> 41 | Summon Gryphon attack: 15-2 -> 10-2 | Summon Pikeman attack: 10-3 -> 8-3 | Summon Troll attack: 14-2 -> 10-2 | Summon Ghost attack: 5-4 -> 4-4 | Summon Drake attack: 6-5 -> 5-5
+        * Monk - Price: 14 -> 12
+        * Guru - Price: 9 -> 28
+        * Enlightened - Price: 9 -> 51
+        * Added the Magnomancer and the Sage as leaders for the Oracle's RPG faction
+        * Added the Magnomancer and the Sage as recruits for the Oracle's default faction
+    * Vampires
+        * Added obedient to possible traits for bloodborn
+ 
+* Bug Fixes
+    * Now compatible with Wesnoth 1.9.2+svn
+    * Fixed many sound issues, particularly with the death of elvish units
+    * Fixed animations for Minotaur magi line's ranged attacks
+    * Fixed issue with Wood Warrior little golem line not having golem trait
+    * Many special notes should now display properly
+    * Steelhive Telerecharging should work now
+    * Cleaned up many issues where macros and abilities were defined twice or more
+    * Fixed all random_leader bugs in the Mercenaries RPG factions
+    * Changed all the Fanatic ids in the Mercenaries RPG faction so they  correspond with the unit files
+    * Added Special notes to many units and corrected several descriptions.
+    * Fixed bug with Vapor and is now added to the Phantoms faction in Archaic Era
+ 
+* Other
+    * Moved or deleted all macro definitions in the unit folder
+    * Major remodeling done the data and anim_macros folder.
+    * GET_UNITS changed to GET_AE_UNITS
+    * Added a changelog :)
+    * Added a text folder
+ 
+* Outstanding issues
+    * The Phalanx ability for Ceresians Halberdier and Pikemen is not yet implemented
+    * Fanatic's suicide ability sometimes doesn't function

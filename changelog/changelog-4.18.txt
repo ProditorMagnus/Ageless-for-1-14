@@ -1,0 +1,15 @@
+Version 4.18:
+* Units and Factions
+    * New era: Rashy Era
+    * New faction: Blood Elves
+    * New faction: Vilkai
+    * Updated era: Era of Magic. This means all previous modifications and balance changes are gone.
+* Graphics
+    * New images for Emperors Guard and Equestrians Paladin
+* Balance
+    * Infernai, Fanatics, Minotaurs, Eltire, Eventide, Free Saurians, Frozen, Calydonians, Dark Legion, Emperors Guard, Steelhive, Wood Warriors, Oracles, Menagerie, Outlaws, EE Chaos, Dark Elves, Monsters, Enchanters, Holy Order, Refugees, Khthon, Phantoms, Yokai, Devlings, Vampires
+* Bug Fixes
+    * Swamp Explorer movement
+* Other
+    * Runelaying runes work for all sides now
+    * Since this release, wesnoth loads Ageless that has already been preprocessed - testing showed 3x faster loading. However, if something breaks, delete Ageless_Era/ageless_4_18.preprocessed.cfg and normal loading will happen

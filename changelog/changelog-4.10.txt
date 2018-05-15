@@ -1,0 +1,22 @@
+Version 4.10:
+* Eras and Factions
+    * Era of Four Moons: Added to Heroes and RPG
+    * Mercenary Era: Added to Heroes
+    * Khalifate: Added to RPG
+* Graphics
+    * Steelhive: Corrected various attack and upgrade icons
+    * Celestial: Added Light Spirit Graphics
+* Balance
+    * Clockwork Soldier Line: Gave Marksman 
+    * Tribalist Executioner: Changed Macuahuitl Attack from Blade to Impact
+    * Oracle Summoner: Changed attacks back to be similar to the various units it is summoning.
+* Bug Fixes
+    * Fixed Darklander, Highlander, and Sky Kingdom leader selection
+    * Fixed bug keeping Imperialist and Sky Kingdom factions from recruiting
+    * Fixed Eventide Desperado's hitpoints
+    * Fixed the inability to recruit andy Sky Kingdom units.
+* Other
+    * Implemented Phalanx ability for Ceresian Halberdier and Pikeman
+    * Added Loyalist to SeaState Faction
+* Outstanding issues
+    * Need to make Statues kill units when down to low enough hp

@@ -1,0 +1,17 @@
+Version 4.12:
+* Eras and Factions and Units
+    * Added new faction: Frozen under AE, added steelhive to heroes
+    * EoM Water Nymph, Ukian Subcommander, Steel Nymph line, Dark Thunderblade, Amoeba, Titan, Khalkotaurus, Sunwheel
+* Graphics
+    * Deadzone animation, fixes of few other ones
+* Balance
+    * Elementalist heal, Grenade, Rune Aura, Dog Training, Brungar Alligator riders, Vector, Swallow, Ryu line, Sapper
+    * Destroyers, Cavernei, Orcei, Despair, Avians, Infernai, Windsong, Wood Warriors, Welkin
+* Bug Fixes
+    * Petrify, Rune Improver, Latch, Guru and Roc summon, High Elf Formation, many reef movetypes
+    * Conflicts with Archaic
+* Other
+    * Unique ability for Cavernei: Runelaying
+    * Too many changes to list here, for full changelog check forum
+* Outstanding issues
+    * Blight, Steelhive, Equestrians, Elementals, Celestials, High Elves, Minotaurs balance

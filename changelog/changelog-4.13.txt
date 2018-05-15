@@ -1,0 +1,18 @@
+Version 4.13:
+* Eras and Factions
+    * New era: Era of Chaos, merged factions too close to EE or EoS or EoM or FE
+    * New faction: Menagerie in Archaic Era
+    * EE and misc khalifates removed in favour of default
+* Graphics
+    * Fixed some missing images including ellipses
+* Extensive changes
+    * Full redo of Archaic Era
+    * Cost increase of most level 3-4 units
+    * XP increase for amlas and lowering for level 2->3 advance
+    * Too many mostly small balance changes and fixes to list here
+* Bug Fixes
+    * Fixed Cursedsword preventing plague and other specials
+    * Fixed random faction selections
+* Other
+    * Added quick leaders and time over event
+    * Factions and eras sorting changed to alphabetical

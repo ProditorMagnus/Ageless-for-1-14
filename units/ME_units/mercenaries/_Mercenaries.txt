@@ -1,0 +1,1444 @@
+Mercenaries
+
+Lvl 0		Lvl 1			Lvl 2			Lvl 3
+
+Rookie----------[Mercenary--------------[Hessian-----------------[Man-At-Arms
+		[          	       	[			 [
+		[       	       	[			 [Soldier-of-Fortune
+		[			[
+		[			[Mankiller----------------Slayer
+		[
+		[Hunter-----------------[Scavenger
+		[          		[
+		[           		[Tracer-----------------[Collector
+		[         					[
+		[       					[Sniper
+		[
+		[Brute------------------[Guard------------------[Protector
+		[						[
+		[						[Bouncer
+		[
+		[Thief------------------[Cutthroat--------------[Assassin
+					[
+					[Slasher
+
+
+		Neglect Mage------------[Isolated Mage----------[Black Mage
+					[
+					[Warrior Mage-----------[Battlemage
+
+		Rider-------------------[Seeker-----------------[Quest Finder
+					[
+					[Maneuverer-------------[Guerrilla Rider
+
+		Sailor------------------[Pirate-----------------[Pirate Captain
+					[			[
+					[			[Corsair
+					[
+					[seafarer----------------Mariner
+
+
+Unit Descriptions:
+
+Name:
+Advance From:
+Advance To:
+Race:
+Abilities:
+HP:
+XP:
+Moves:
+COst:
+Alignment:
+Description:
+Attacks:
+Resists:
+arcane-
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-
+Castle-
+Sand-
+Village-
+Grassland-
+Forest-
+Hills-
+Mountains-
+Chasm-
+Swamp-
+Mushroom-
+Cave-
+Deep Water-
+Shallow Water-
+Cave Wall-
+
+Name: Rookie
+Advance From: --
+Advance To: Mercenary, Hunter, Brute, or Thief
+Race: Mercenary Human
+Abilities: --
+HP: 18
+Moves: 5
+COst: 
+Alignment: Neutral
+Description:
+Attacks:
+Knife Melee (blade) 4-3
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow- 30% 2
+Castle- 60% 1
+Sand- 30% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 50% 2
+Hills-  50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 40% 2
+Mushroom- 50% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall- 0% 99
+
+Name: Mercenary
+Advance From: Rookie
+Advance To: Mankiller, Hessian
+Race: Mercenary Human
+Abilities: --
+HP: 35
+XP:
+Moves:5
+COst: 15
+Alignment: Neutral
+Description:
+Attacks:
+Sword melee (blade) 5-4
+Spear melee (pierce) 6-3
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow- 30% 2
+Castle- 60% 1
+Sand- 30% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 50% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 30% 2
+Mushroom- 50% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall- 0% 99
+
+Name: Mankiller
+Advance From: Mercenary
+Advance To: Slayer
+Race: Mercenary Human
+Abilities: --
+HP: 60
+XP: 50
+Moves:5
+COst: 32g
+Alignment: Chaotic
+Description:
+Attacks:
+Sword melee (blade) 7-5
+Spear melee (pierce) 10-3
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow- 30% 2
+Castle- 60% 1
+Sand- 30% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 50% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 30% 2
+Mushroom- 50% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall- 0% 99
+
+Name: Slayer
+Advance From: Mankiller
+Advance To: --
+Race: Mercenary Human
+Abilities: --
+HP: 75
+XP: --
+Moves:6
+COst: 50g
+Alignment: Chaotic
+Description:
+Attacks:
+Sword melee (blade) 9-5
+Spear melee (pierce) 11-4
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow- 30% 2
+Castle- 60% 1
+Sand- 30% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 50% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 30% 2
+Mushroom- 50% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall- 0% 99
+
+Name: Hessian
+Advance From: Mercenary
+Advance To: Man at Arms, Soldier of Fortune
+Race: Mercenary Human
+Abilities: --
+HP: 53
+XP: 44
+Moves: 5
+Cost: 27
+Alignment: Neutral
+Description:
+Attacks:
+Sword melee (blade) 6-4
+Spear melee (pierce) 8-3
+Mace melee (impact) 12-2
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow- 30% 2
+Castle- 60% 1
+Sand- 30% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 50% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 30% 2
+Mushroom- 50% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall- 0% 99
+
+Name: Man at Arms
+Advance From: Hessian
+Advance To: --
+Race: Mercenary Human
+Abilities: --
+HP: 85
+XP: --
+Moves: 5
+Cost: 55
+Alignment: Neutral
+Description:
+Attacks:
+Sword melee (blade) 9-4
+Spear melee (pierce) 11-3
+Mace melee (impact) 15-2
+Crossbow ranged (pierce) 10-2
+Resists:
+arcane- 20%
+blade- 10%
+cold- 0%
+fire- 0%
+impact- 10%
+pierce- 10%
+Terrain:
+Snow- 30% 2
+Castle- 60% 1
+Sand- 30% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 50% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 30% 2
+Mushroom- 50% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall- 0% 99
+
+Name: Soldier of Fortune
+Advance From: Hessian
+Advance To: --
+Race: Mercenary Human
+Abilities: --
+HP: 90
+XP: --
+Moves: 5
+Cost: 27
+Alignment: Neutral
+Description:
+Attacks:
+Sword melee (blade) 10-4
+Spear melee (pierce) 12-3
+Mace melee (impact) 16-2
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow- 30% 2
+Castle- 60% 1
+Sand- 30% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 50% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 30% 2
+Mushroom- 50% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall- 0% 99
+
+Name: Hunter
+Advance From: Rookie
+Advance To: Scavenger, Tracer
+Race: Mercenary Human
+Abilities: --
+HP: 30
+XP:
+Moves: 6
+COst: 17g
+Alignment: Neutral
+Description:
+Attacks:
+Dagger melee (blade) 4-3
+Bow ranged (pierce) 5-4
+Resists:
+arcane- 20%
+blade- -10%
+cold- 0%
+fire- 0%
+impact- -10%
+pierce- 0%
+Terrain:
+Snow- 30% 2
+Castle- 60% 1
+Sand- 30% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 60% 1
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 40% 2
+Mushroom- 60% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall-0% 99
+
+Name: Scavenger
+Advance From: Hunter
+Advance To: --
+Race: Mercenary Human
+Abilities: Skirmish, Ambush
+HP: 40
+XP: --
+Moves: 7
+COst: 35g
+Alignment: Neutral
+Description:
+Attacks:
+Dagger melee (blade) 4-3
+Bow ranged (pierce) 7-5
+Resists:
+arcane- 20%
+blade- -10%
+cold- 0%
+fire- 0%
+impact- -10%
+pierce- 0%
+Terrain:
+Snow- 30% 2
+Castle- 60% 1
+Sand- 30% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 60% 1
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 40% 2
+Mushroom- 60% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall-0% 99
+
+Name: Tracer
+Advance From: Rookie
+Advance To: Collector, Sniper
+Race: Mercenary Human
+Abilities: --
+HP: 46
+XP: 44
+Moves: 6
+COst: 50g
+Alignment: Neutral
+Description:
+Attacks:
+Dagger melee (blade) 6-3
+Bow ranged (pierce) 7-4
+Resists:
+arcane- 20%
+blade- -10%
+cold- 0%
+fire- 0%
+impact- -10%
+pierce- 10%
+Terrain:
+Snow- 30% 2
+Castle- 60% 1
+Sand- 30% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 60% 1
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 40% 2
+Mushroom- 60% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall-0% 99
+
+Name: Collector
+Advance From: Tracer
+Advance To: --
+Race: Mercenary Human
+Abilities: --
+HP: 60
+XP: --
+Moves: 6
+COst: 50g
+Alignment: Neutral
+Description:
+Attacks:
+Dagger melee (blade) 8-3
+Bow ranged (pierce) 8-5
+Resists:
+arcane- 20%
+blade- -10%
+cold- 0%
+fire- 0%
+impact- -10%
+pierce- 10%
+Terrain:
+Snow- 30% 2
+Castle- 60% 1
+Sand- 30% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 60% 1
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 40% 2
+Mushroom- 60% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall-0% 99
+
+Name: Sniper
+Advance From: Tracer
+Advance To: --
+Race: Mercenary Human
+Abilities: Nightstalk
+HP: 50
+XP: --
+Moves: 5
+COst: 50g
+Alignment: Chaotic
+Description:
+Attacks:
+Dagger melee (blade) 6-3
+Bow ranged (pierce) 8-4
+Bow ranged (pierce) 15-1 backstab, attack only, marksman
+Resists:
+arcane- 20%
+blade- -20%
+cold- 0%
+fire- 0%
+impact- -20%
+pierce- 0%
+Terrain:
+Snow- 30% 2
+Castle- 60% 1
+Sand- 30% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 60% 1
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 40% 2
+Mushroom- 60% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall-0% 99
+
+Name: Brute
+Advance From: Rookie
+Advance To: Guard
+Race: Mercenary Human
+Abilities: --
+HP: 40
+XP:
+Moves: 5
+COst: 16g
+Alignment: Chaotic
+Description: 
+Attacks:
+Fist melee (impact) 5-4
+Resists:
+arcane- 20%
+blade- 10%
+cold- 0%
+fire- 0%
+impact- 10%
+pierce- 10%
+Terrain:
+Snow- 20% 3
+Castle- 60% 1
+Sand- 20% 3
+Village- 60% 1
+Grassland- 40% 1
+Forest- 40% 2
+Hills- 40% 2
+Mountains- 50% 3
+Chasm- 0% 99
+Swamp- 30% 3
+Mushroom- 40% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 20% 3
+Cave Wall- 0% 99
+
+Name: Guard
+Advance From: Brute
+Advance To: Bouncer, Protector
+Race: Mercenary Human
+Abilities: --
+HP: 60
+XP: 50
+Moves: 5
+COst: 40
+Alignment: Chaotic
+Description: 
+Attacks:
+Fist melee (impact) 7-4
+Resists:
+arcane- 20%
+blade- 20%
+cold- 0%
+fire- 0%
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 20% 3
+Castle- 60% 1
+Sand- 20% 3
+Village- 60% 1
+Grassland- 40% 1
+Forest- 40% 2
+Hills- 40% 2
+Mountains- 50% 3
+Chasm- 0% 99
+Swamp- 30% 3
+Mushroom- 40% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 20% 3
+Cave Wall- 0% 99
+
+Name: Bouncer
+Advance From: Guard
+Advance To: --
+Race: Mercenary Human
+Abilities: --
+HP: 70
+XP: --
+Moves: 6
+COst: 40
+Alignment: Chaotic
+Description: 
+Attacks:
+Fist melee (impact) 9-4
+Wrestle melee (impact) 12-2 counter, slow
+Resists:
+arcane- 20%
+blade- 20%
+cold- 0%
+fire- 0%
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 20% 3
+Castle- 60% 1
+Sand- 20% 3
+Village- 60% 1
+Grassland- 40% 1
+Forest- 40% 2
+Hills- 40% 2
+Mountains- 50% 3
+Chasm- 0% 99
+Swamp- 30% 3
+Mushroom- 40% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 20% 3
+Cave Wall- 0% 99
+
+Name: Protector
+Advance From: Guard
+Advance To: --
+Race: Mercenary Human
+Abilities: --
+HP: 80
+XP: --
+Moves: 4
+COst: 40
+Alignment: Neutral
+Description: 
+Attacks:
+Mace melee (impact) 10-4 terror
+Resists:
+arcane- 20%
+blade- 30%
+cold- 0%
+fire- 0%
+impact- 30%
+pierce- 30%
+Terrain:
+Snow- 20% 3
+Castle- 60% 1
+Sand- 20% 3
+Village- 60% 1
+Grassland- 40% 1
+Forest- 40% 2
+Hills- 40% 2
+Mountains- 50% 3
+Chasm- 0% 99
+Swamp- 30% 3
+Mushroom- 40% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 20% 3
+Cave Wall- 0% 99
+
+Name: Thief
+Advance From: Rookie
+Advance To: Cutthroat, Slasher
+Race: Mercenary Human
+Abilities:
+HP: 24
+XP: 30
+Moves:6
+COst: 14
+Alignment: Chaotic
+Description:
+Attacks:
+Knife melee (blade) 5-3 backstab
+Resists:
+arcane- 20%
+blade- -30%
+cold- 0%
+fire- 0%
+impact- -20%
+pierce- -20%
+Terrain:
+Snow- 40% 2
+Castle- 70% 1
+Sand- 40% 2
+Village- 70% 1
+Grassland- 60% 1
+Forest- 70% 1
+Hills- 70% 2
+Mountains- 70% 3
+Chasm- 70% 3
+Swamp- 40% 2
+Mushroom- 70% 2
+Cave- 50% 2
+Deep Water- 0% 99
+Shallow Water- 40% 2
+Cave Wall- 0% 99
+
+Name: Cutthroat
+Advance From: Thief
+Advance To: Assassin
+Race: Mercenary Human
+Abilities:
+HP: 40
+XP: 49
+Moves:6
+COst: 30
+Alignment: Chaotic
+Description:
+Attacks:
+Knife melee (blade) 7-3 backstab
+Knife ranged (blade) 4-3
+Resists:
+arcane- 20%
+blade- -30%
+cold- 0%
+fire- 0%
+impact- -20%
+pierce- -20%
+Terrain:
+Snow- 40% 2
+Castle- 70% 1
+Sand- 40% 2
+Village- 70% 1
+Grassland- 60% 1
+Forest- 70% 1
+Hills- 70% 2
+Mountains- 70% 3
+Chasm- 70% 3
+Swamp- 40% 2
+Mushroom- 70% 2
+Cave- 50% 2
+Deep Water- 0% 99
+Shallow Water- 40% 2
+Cave Wall- 0% 99
+
+Name: Assassin
+Advance From: Cutthroat
+Advance To: --
+Race: Mercenary Human
+Abilities:
+HP: 51
+XP: --
+Moves:6
+COst: 50
+Alignment: Chaotic
+Description:
+Attacks:
+Knife melee (blade) 9-3 backstab
+Knife ranged (blade) 5-3 poison, marksman
+Resists:
+arcane- 20%
+blade- -30%
+cold- 0%
+fire- 0%
+impact- -20%
+pierce- -20%
+Terrain:
+Snow- 40% 2
+Castle- 70% 1
+Sand- 40% 2
+Village- 70% 1
+Grassland- 60% 1
+Forest- 70% 1
+Hills- 70% 2
+Mountains- 70% 3
+Chasm- 70% 3
+Swamp- 40% 2
+Mushroom- 70% 2
+Cave- 50% 2
+Deep Water- 0% 99
+Shallow Water- 40% 2
+Cave Wall- 0% 99
+
+Name: Slasher
+Advance From: Thief
+Advance To: --
+Race: Mercenary Human
+Abilities:
+HP: 46
+XP: --
+Moves:6
+COst: 36
+Alignment: Neutral
+Description:
+Attacks:
+Bouie Knife melee (blade) 10-3 backstab
+Knife ranged (blade) 6-2 ranged
+Resists:
+arcane- 20%
+blade- -30%
+cold- 0%
+fire- 0%
+impact- -20%
+pierce- -20%
+Terrain:
+Snow- 40% 2
+Castle- 70% 1
+Sand- 40% 2
+Village- 70% 1
+Grassland- 60% 1
+Forest- 70% 1
+Hills- 70% 2
+Mountains- 70% 3
+Chasm- 70% 3
+Swamp- 40% 2
+Mushroom- 70% 2
+Cave- 50% 2
+Deep Water- 0% 99
+Shallow Water- 40% 2
+Cave Wall- 0% 99
+
+Name: Neglect Mage
+Advance From: --
+Advance To: Isolated Mage, Warrior Mage
+Race: Mercenary Human
+Abilities: --
+HP: 28
+XP: 40
+Moves: 5
+COst: 16
+Alignment: Neutral
+Description:
+Attacks:
+Staff melee (impact) 5-2
+Missile ranged (fire) 5-3 magical
+Resists:
+arcane- 10%
+blade- 0%
+cold- 10%
+fire- 10%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow- 20% 2
+Castle- 60% 1
+Sand- 20% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 50% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 30% 2
+Mushroom- 50% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall- 0% 99
+
+Name: Isolated Mage
+Advance From: Neglect Mage
+Advance To: Black mage
+Race: Mercenary Human
+Abilities: --
+HP: 40
+XP: 80
+Moves: 5
+COst: 30
+Alignment: Chaotic
+Description:
+Attacks:
+Staff melee (impact) 5-3
+Missile ranged (fire) 8-4 magical
+Chillwave ranged (cold) 15-2 magical
+Resists:
+arcane- 0%
+blade- 0%
+cold- 20%
+fire- 20%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow- 20% 2
+Castle- 60% 1
+Sand- 20% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 50% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 30% 2
+Mushroom- 50% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall- 0% 99
+
+Name: Black Mage
+Advance From: Isolated Mage
+Advance To: --
+Race: Mercenary Human
+Abilities: --
+HP: 50
+XP: --
+Moves: 5
+COst: 60
+Alignment: Chaotic
+Description:
+Attacks:
+Staff melee (impact) 8-3
+Darkaura melee (cold) 10-2 magical drain
+Missile ranged (fire) 10-4 magical
+Chillwave ranged (cold) 17-3 magical
+Resists:
+arcane- -20%
+blade- 0%
+cold- 50%
+fire- 20%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow- 20% 2
+Castle- 60% 1
+Sand- 20% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 50% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 30% 2
+Mushroom- 50% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall- 0% 99
+
+
+Name: Warrior Mage
+Advance From: --
+Advance To: Battlemage
+Race: Mercenary Human
+Abilities: --
+HP: 50
+XP: 80
+Moves: 5
+COst: 28
+Alignment: neutral
+Description:
+Attacks:
+Sword melee (blade) 5-4
+Mace melee (impact) 11-2
+Missile ranged (fire) 7-3 magical
+Resists:
+arcane- 10%
+blade- 0%
+cold- 10%
+fire- 10%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow- 20% 2
+Castle- 60% 1
+Sand- 20% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 50% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 30% 2
+Mushroom- 50% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall- 0% 99
+
+Name: Battlemage
+Advance From: Warrior mage
+Advance To: --
+Race: Mercenary Human
+Abilities: --
+HP: 64
+XP: --
+Moves: 5
+COst: 49
+Alignment: neutral
+Description:
+Attacks:
+Sword melee (blade) 8-4 magical
+Mace melee (impact) 14-2 terror
+Missile ranged (fire) 10-3 magical
+Resists:
+arcane- 10%
+blade- 10%
+cold- 20%
+fire- 20%
+impact- 0%
+pierce- 10%
+Terrain:
+Snow- 20% 2
+Castle- 60% 1
+Sand- 20% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 50% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 30% 2
+Mushroom- 50% 2
+Cave- 40% 2
+Deep Water- 0% 99
+Shallow Water- 30% 3
+Cave Wall- 0% 99
+
+Name: Rider
+Advance From: --
+Advance To: Seeker, Maneuverer
+Race: Mercenary Human
+Abilities: --
+HP: 32
+XP: 30
+Moves: 9
+Cost: 17
+Alignment: Neutral
+Description:
+Attacks:
+Sword melee (blade) 6-3
+Resists:
+arcane- 20%
+blade- 20%
+cold- 0%
+fire 0%
+impact- 20%
+pierce- -20%
+Terrain:
+Snow- 20% 2
+Castle- 40% 1
+Sand- 20% 3
+Village- 40% 1
+Grassland- 40% 1
+Forest- 40% 2
+Hills- 40% 2
+Mountains- 0% 99
+Chasm- 0% 99
+Swamp- 20% 3
+Mushroom- 40% 2
+Cave- 30% 2
+Deep Water- 0% 99
+Shallow Water- 20% 3
+Cave Wall- 0% 99
+
+Name: Seeker
+Advance From: Rider
+Advance To: Questfinder
+Race: Mercenary Human
+Abilities: --
+HP: 54
+XP: 48
+Moves: 10
+Cost: 33
+Alignment: Neutral
+Description:
+Attacks:
+Sword melee (blade) 11-3
+Resists:
+arcane- 20%
+blade- 20%
+cold- 0%
+fire 0%
+impact- 20%
+pierce- -20%
+Terrain:
+Snow- 20% 2
+Castle- 40% 1
+Sand- 20% 3
+Village- 40% 1
+Grassland- 40% 1
+Forest- 40% 2
+Hills- 40% 2
+Mountains- 0% 99
+Chasm- 0% 99
+Swamp- 20% 3
+Mushroom- 40% 2
+Cave- 30% 2
+Deep Water- 0% 99
+Shallow Water- 20% 3
+Cave Wall- 0% 99
+
+Name: Questfinder
+Advance From: Seeker
+Advance To: --
+Race: Mercenary Human
+Abilities: --
+HP: 54
+XP: 48
+Moves: 10
+Cost: 33
+Alignment: Neutral
+Description:
+Attacks:
+Sword melee (blade) 13-4
+Resists:
+arcane- 20%
+blade- 20%
+cold- 0%
+fire 0%
+impact- 20%
+pierce- -20%
+Terrain:
+Snow- 20% 2
+Castle- 40% 1
+Sand- 20% 3
+Village- 40% 1
+Grassland- 40% 1
+Forest- 40% 2
+Hills- 40% 2
+Mountains- 0% 99
+Chasm- 0% 99
+Swamp- 20% 3
+Mushroom- 40% 2
+Cave- 30% 2
+Deep Water- 0% 99
+Shallow Water- 20% 3
+Cave Wall- 0% 99
+
+Name: Maneuverer
+Advance From: Rider
+Advance To: Guerrilla Calvalry
+Race: Mercenary Human
+Abilities: Skirmish
+HP: 38
+XP: 60
+Moves: 8
+Cost: 50
+Alignment: Neutral
+Description:
+Attacks:
+Sword melee (blade) 9-3
+Spear melee (pierce) 13-2
+Resists:
+arcane- 20%
+blade- 20%
+cold- 0%
+fire 0%
+impact- 20%
+pierce- -30%
+Terrain:
+Snow- 20% 2
+Castle- 40% 1
+Sand- 20% 3
+Village- 40% 1
+Grassland- 40% 1
+Forest- 40% 2
+Hills- 40% 2
+Mountains- 0% 99
+Chasm- 0% 99
+Swamp- 20% 3
+Mushroom- 40% 2
+Cave- 30% 2
+Deep Water- 0% 99
+Shallow Water- 20% 3
+Cave Wall- 0% 99
+
+Name: Guerrilla Calvalry
+Advance From: Maneuverer
+Advance To: --
+Race: Mercenary Human
+Abilities: Skirmish
+HP: 53
+XP: --
+Moves: 9
+Cost: 70
+Alignment: Neutral
+Description:
+Attacks:
+Sword melee (blade) 11-3
+Spear melee (pierce) 15-2
+Resists:
+arcane- 20%
+blade- 20%
+cold- 0%
+fire 0%
+impact- 20%
+pierce- -30%
+Terrain:
+Snow- 20% 2
+Castle- 40% 1
+Sand- 20% 3
+Village- 40% 1
+Grassland- 40% 1
+Forest- 40% 2
+Hills- 40% 2
+Mountains- 0% 99
+Chasm- 0% 99
+Swamp- 20% 3
+Mushroom- 40% 2
+Cave- 30% 2
+Deep Water- 0% 99
+Shallow Water- 20% 3
+Cave Wall- 0% 99
+
+Name: Sailor
+Advance From: --
+Advance To: Pirate, Seafarer
+Race: Mercenary Human
+Abilities: --
+HP: 35
+XP: 25
+Moves: 6
+Cost: 15
+Alignment: neutral
+Description: 
+Attacks:
+Sword melee (blade) 5-4
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow- 20% 2
+Castle- 60% 1
+Sand- 20% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 40% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 40% 1
+Mushroom- 40% 2
+Cave- 40% 2
+Deep Water- 50% 1
+Shallow Water- 50% 1
+Cave Wall- 0% 99
+
+Name: Pirate
+Advance From: Sailor
+Advance To: Pirate Captain, Corsair
+Race: Mercenary Human
+Abilities: --
+HP: 60
+XP: 50
+Moves: 6
+Cost: 15
+Alignment: Chaotic
+Description: 
+Attacks:
+Sword melee (blade) 8-4
+Resists:
+arcane- 20%
+blade- 10%
+cold- 0%
+fire- 0%
+impact- 10%
+pierce- 10%
+Terrain:
+Snow- 20% 2
+Castle- 60% 1
+Sand- 20% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 40% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 40% 1
+Mushroom- 40% 2
+Cave- 40% 2
+Deep Water- 50% 1
+Shallow Water- 50% 1
+Cave Wall- 0% 99
+
+Name: Corsair
+Advance From: Pirate
+Advance To: --
+Race: Mercenary Human
+Abilities: --
+HP: 78
+XP: --
+Moves: 6
+Cost: 15
+Alignment: Chaotic
+Description: 
+Attacks:
+Sword melee (blade) 10-4
+Resists:
+arcane- 20%
+blade- 30%
+cold- 0%
+fire- 0%
+impact- 10%
+pierce- 20%
+Terrain:
+Snow- 20% 2
+Castle- 60% 1
+Sand- 20% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 40% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 40% 1
+Mushroom- 40% 2
+Cave- 40% 2
+Deep Water- 50% 1
+Shallow Water- 50% 1
+Cave Wall- 0% 99
+
+Name: Pirate Captain
+Advance From: Pirate
+Advance To: --
+Race: Mercenary Human
+Abilities: Leadership
+HP: 69
+XP: --
+Moves: 6
+Cost: 15
+Alignment: Chaotic
+Description: 
+Attacks:
+Sword melee (blade) 9-4
+Hatchet ranged (blade) 10-2
+Resists:
+arcane- 20%
+blade- 10%
+cold- 0%
+fire- 0%
+impact- 10%
+pierce- 10%
+Terrain:
+Snow- 20% 2
+Castle- 60% 1
+Sand- 20% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 40% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 40% 1
+Mushroom- 40% 2
+Cave- 40% 2
+Deep Water- 50% 1
+Shallow Water- 50% 1
+Cave Wall- 0% 99
+
+Name: Seafarer
+Advance From: Sailor
+Advance To: Mariner
+Race: Mercenary Human
+Abilities: --
+HP: 45
+XP: 25
+Moves: 7
+Cost: 15
+Alignment: neutral
+Description: 
+Attacks:
+Sword melee (blade) 7-4
+Net ranged (impact) 3-2
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow- 20% 2
+Castle- 60% 1
+Sand- 20% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 40% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 50% 1
+Mushroom- 40% 2
+Cave- 40% 2
+Deep Water- 60% 1
+Shallow Water- 60% 1
+Cave Wall- 0% 99
+
+Name: Mariner
+Advance From: Seafarer
+Advance To: --
+Race: Mercenary Human
+Abilities: --
+HP: 53
+XP: --
+Moves: 7
+Cost: 15
+Alignment: neutral
+Description: 
+Attacks:
+Sword melee (blade) 8-4
+Net ranged (impact) 5-3
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- 0%
+pierce- 0%
+Terrain:
+Snow- 20% 2
+Castle- 60% 1
+Sand- 20% 2
+Village- 60% 1
+Grassland- 40% 1
+Forest- 40% 2
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 0% 99
+Swamp- 50% 1
+Mushroom- 40% 2
+Cave- 40% 2
+Deep Water- 60% 1
+Shallow Water- 60% 1
+Cave Wall- 0% 99

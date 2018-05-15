@@ -1,0 +1,13 @@
+- Frozen Faction Credits -
+
+ART:
+-- Zerovirus
+
+CODERS:
+-- ChaosRider
+-- Ravana
+-- Wender_BR
+
+BALANCE:
+-- SiegeTank
+-- Wender_BR

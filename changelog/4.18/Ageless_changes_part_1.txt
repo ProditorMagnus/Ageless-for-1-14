@@ -1,0 +1,540 @@
+We'll on this update focus at Infernai, Fanatics balance. On these factions there are units that are never recruited and others that are recruited a 
+way too much ... equilibrating both of the most popular and most impopular lines in  the factions we are going to modificate.
+
+FACTION CHANGE - FANATICS: -10% sand defense to all non flying-floating Fanatics; let's stop giving unfair adventage to players in sand terrain maps.
+Also, unlike desert elves, Fanatics have a way better resistances than those elves which justificate their 50% sand defense; also they still mantain
+that valuable 60% hills defense.
+Warrior
+Price from 26g -> 27g
+
+Zealblade
+Price from 45g -> 48g
+
+Martyr
+Price from 40g -> 35g (80% hit chance, just 1/8 discount)
+
+Terrorist
+Actually overpriced.
+Price 34g -> 30g
+
+Fearmonger
+Underpriced terror lol ... Lv3 terror -> Lv2 terror
+Price 45g -> 54g
+
+Mindless
+Looks a bit weak and underused, just a small bonus at damage.
+Torch 11-2 -> 12-2
+
+Follower
+NEW ATACK: Fire spark 2-1 fire ranged (just to avise that this line gets ranged now!)
+
+Devoted
+Kinda impopular unit actually, let's make him a way more atractive... compesating the folloing nerfs at master Genies.
+NEW ATACK: Fire Sparks 2-4 fire ranged
+Fire resistance 20% -> 30%
+Price 22g -> 25g
+
+Fanatics
+NEW ATACK: Fire sparks 2-5 fire ranged
+Fire resistance 20% -> 35%
+Price 45g -> 46g
+
+Genie
+Actually a unit with too many properties, at first we will nerf lightning in order to players consider more the Followers; as well resistances.
+Lightning damage from 8-2 to 7-2
+Fire/Cold resistances 50% -> 40%
+
+Master Genie
+Lightning 11-3 -> 13-2 fire magical
+Snowball 7-4 -> 6-4
+Fire/Cold resistances 50% -> 40%
+(if sprite is given, NEW EVOLUTION: Grand Master Genie)
+XP for lv3: 115
+Price: 50g -> 48g
+Coment: too defensive healer that had already too much damage... balance considerations...
+Price from 50g to 47g (considering nerfs)
+
+Grand Master Genie (if submited a day)
+Scimitar 10-1 blade mele
+Lightning 15-2 fire ranged magical
+Snowball 9-4 cold ranged magical
+HP: 46
+MP: 5
+Price: 68g
+Resistances: the same than lv2, but -10% to arcane instead -20%.
+
+Gossiper
+Faction lacks of impact atackers, and genies are fine doing cold damage. Apart this nerfs the damage of this unit againist certain units. It's support.
+Rant is now impact instead of cold!
+
+Misinformant
+Price 40g -> 36g
+Rant is now impact instead of cold!
+
+Propagand
+Price 43g -> 54g
+Rant is now impact instead of cold!
+
+Sandskulker
+Bow 12-4 -> 11-4
+Ambusher
+XP 81 -> 70
+
+Thief -> Sand Thief
+Overpriced... no skirmisher...
+NEW ATACK: Sling 3-2 impact ranged
+Price 34g -> 25g
+
+Bandit -> Sand Bandit
+NEW ATACK: Sling 5-3 impact ranged
+Price: 45g -> 43g
+
+Prowler
+NEW ATACK: Throwing knives 3-4 blade ranged
+
+--rejected start
+Noticing that this faction doesn't has impact atackers at all... apart of the impact mele from Gossiper. So for this function a new unit is needed.
+This is something that is needed because of the Charred Zombies from the blight which are highly resistant to all fire, cold, blade and pierce.
+
+NEW UNIT: Sand Footpad
+Let's use the sprite at: https://www.wesnoth.org/units/1.12/Ageless_Era/en_US/AE_stf_eventide_Desperado.html
+Club 6-2 impact mele
+Sling 5-2 impact ranged
+HP: 30
+MP: 6
+XP: 43
+Price: 16g
+Advances to: Sand Outlaw
+Resistances and defenses: the same than Streetrat.
+
+NEW UNIT: Sand Outlaw
+For the sprite it can be used a recolor of Knalgan's outlaws, intended to be very similar in stats.
+Mace 10-2 impact mele
+Sling 5-3 impact ranged
+HP: 45
+MP: 6
+XP: 68
+Price: 27g
+Advances to: Sand Fugitive
+Resistances and defenses the same than streetrat.
+
+NEW UNIT: Sand Fugitive
+For sprite a recolor of Knalgan's Fugitives.
+Mace 13-2 impact mele
+Sling 5-5 impact ranged 
+HP: 65
+MP: 6
+Price: 48g
+Resistances and defenses: the same that streetrat.
+Specials: Concealment.
+--rejected end
+
+Minotaurs
+One of the least popular factions due the very expensive units and the 50% castle def (not high resistances at all). Their low defense mixed with
+their weaknesses outputs factional strength that is divine health ... for sure you can't regen if you're already dead lol... we will do something
+to make them more atractive in overall. 
+
+FACTION CHANGE - MINOTAURS: All units are given arcane resistance from -30% to -20%. Minotaurs doesn't have any resistance againist any specific
+atack type, so we decrease their common weaknesses. Second of all, regen+3 is weaker the higher level you're in, so I would sugest that all
+level 3 minotaurs gain Divine health en (regen 6 version of the faction). Doing this, we award more those players that pick warlock over Mystic.
+Gnolls are not afected from this general modification.
+
+Boar Knight
+This unit needs some fixing... like the absurd amount xp to lv3 and lower stats than Loyalist's knights. The lv1 is more balanced so no modifications.
+Spear 8-3 -> 9-3
+Impact resistance 20% -> 30%
+XP: 120 -> 110 
+Price: 42 -> 37
+
+Cataphract
+In honor to its name we will give it some extra resistances and decent spear damage
+Spear 12-3 -> 13-3
+Impact resistance 20% -> 30%
+Pierce resistance -20% -> -10%
+
+Cutthoat
+I've seen similar units with similar stats for the price of 15g or 18g ... but this has few extra things from those...
+Health 40 -> 42
+Price 22g -> 21g
+
+Slayer
+Blade resistance -10% -> 0%
+Proce 38g -> 35g
+
+Executioner
+Price 65g -> 58g
+Coment: Now might be a really solid lv3 unit with regen+6 and 10% less arcane resistance.
+
+Gnoll
+Standarization of castle defense to 60%
+
+Keeneye
+Castle defense 50% -> 60%
+Price 30g -> 27g
+
+Sharpeye
+Price 42g -> 48g
+
+Rouser
+We will make it a powerhouse in terms of damage, but mantaining its weaknesses, just some little bonus health and the arcane res buff.
+Health 50 -> 52
+
+Overlord
+We gift it +1 mele damage at lv2, we take out -1 ranged damage at lv3
+Crossbow 9-4 -> 8-4
+Price 69g -> 60g
+
+Savage
+Blade resistance -10% -> 0%
+Price 39g -> 35g
+
+Warlock
+Price 50g -> 45g
+
+
+Era of Strife - Eltireans
+Some units will get reworked in order to standarize balance. Some of those are overpriced or underpowered or overpowered. We will have a look at them.
+
+Bishop of Eltire
+Mediocre at lv3 but too cheap in XP, let's rework her lv3 to make her stronger at lv3.
+Lightbeam damage from 8-2 to 9-2
+Arcane resistance from 20% to 40%
+XP: 50 -> 80
+Price from 40g to 38g due no mele to defend herself from mele or berserks.
+
+Archbishop of Eltire
+NEW ATACK: Mace 12-1 impact mele (no specials)
+Light beam damage from 10-2 to 13-2
+Lightbolt damage from 8-4 to 9-4
+Arcane resistance from 20% to 60%
+Price from 60g to 54g
+
+Lightbringer
+She's actually overpowered. Illuminates in that faction is a very useful aura in the faction (it's like leadership but much better). We will
+give her a support focus more than a weirdly efficent hybrid fighter...
+Health from 48 to 44
+Movement from 6 to 5
+Lightsword damage from 6-5 to 5-4
+Lightbeam damage from 8-2 to 7-2
+Arcane resistance from 20% to 30%
+Coment: lv1 damages with more or less lv2 damage with illuminates and slow on ranged. Not that bad at all. Lv2 illuminates is rare and worth
+for 40G even if owning lv1 stats, in the right army it's really cost efficent; because does work in ANY unit in the faction.
+
+Dawnbringer
+Health from 60 to 55
+Movement from 6 to 5
+Lightsword from 8-5 to 8-4 (it's actually the same than a paladin apart of really good ranged...)
+Lightbeam damage from 10-2 to 11-2
+Arcane resistance from 20% to 40%
+Cold resistance from 0% to 10%
+XP to 80.
+Price from 65g to 54g
+
+Elementalist
+Price from 21g to 22g
+Coment: it's not just +3 mele damage, 5-4 cold magical weapon and +1 movement version of mage, that needs considerations.
+
+Pyromancer
+Excesively good mele from standard mage...
+Staff from 8-3 to 5-3
+Fire resistance from 0% to 10%
+Price from 45g to 42g
+XP from 80 to 90 (some extra plans for his lv3)
+Coment: Being 6 Movement is a good reasson to cost more than red mages. Also he passed from a standarization process.
+
+Infernal Master
+Firestaff is renamed to Staff. Staff damage from 13-3 (WTF?!) to 7-3.
+NEW ATACK: Staff 6-3 fire mele
+Fire resistance from 0% to 30%
+Price from 60g to 62g (it's superior than Archmage in many angles)
+
+Hydromancer
+Hydroblast damage from 17-2 to 11-3 (decreases RPG potential, increases realism)
+Cold resistance from 0% to 10%
+Swallow water/swammp defense from 20% to 30%
+Coastal rift defense from 30% to 40%
+Price from 48g to 42g
+
+Hydromonger
+Staff from 8-3 to 8-2
+Hydroblast damage from 23-2 to 16-3 (RPG potential... nerf)
+Cold resistance from 0% to 20%
+Swallow water/swammp defense from 20% to 40%
+Coastal rift defense from 30% to 40%
+Deep water defense from 0% to 20%
+Price from 68g to 64g
+Coment: It's really worth it's price considering the extra physical atack and the water movement costs extras and extra MP.
+
+Whirpool Lord
+Staff from 8-4 to 8-3
+Hydroblast from 30-2 to 21-3
+Cold resistance from 0% to 20% (yup, the same than lv3, water terrain extras are worth it)
+Swallow water/swammp defense from 20% to 50%
+Swallow water movement cost from 3 to 2.
+Coastal rift defense from 30% to 50%
+Deep water defense from 0% to 40%
+Price from 100g to 77g
+Coment: now fear the new Whirpool lord if he spawns in Oricia's last wave! >:D ... well, now a more notisable lv4 unit.
+
+Crusher
+Impact resistance from 0% to 20%
+Price from 32g to 27g
+
+Destroyer
+Impact resistance from 0% to 30%
+Coment: a little of balancing... he was a way inferior than default's royal guard at owning 1 less Movement and less health (and -40% resistances)
+
+Calmblade
+Cold resistance from 0% to 20%
+Frozen movement cost from 3 to 2
+Frozen defense from 20% to 30%
+Coment: Fun easter egg about frozen terrain performance that few players will notice by accident.
+Price from 32g to 28g
+
+Frostwalker
+Cold resistance from 0% to 20%
+Frozen movement cost from 3 to 1
+Frozen defense from 20% to 40%
+Coment: Frozen versality at the cost of bonus cold resistance. Potentiating this unit's unique personality (considering it's a lot older than 
+Frost humans...)
+
+Knight of the Sun
+Steadfast unit without terrain defense handicaps. Let's lower resistances then. Most of them similar to lv1 ones.
+Blade resistane from 20% to 10%
+Fire resistance from 15% to 10%
+Impact resistance from 20% to 15%
+Price from 28g to 30g
+
+Guardian of the sun
+Hammer from 14-3 to 13-3
+Lightburst damage from 10-3 to 7-3
+Blade resistance from 20% to 15%
+Fire resistance from 20% to 15%
+Cold resistance from 20% to 10%
+Impact resistance from 30% to 15%
+Price from 42g to 50g
+
+Lady o War
+Cold resistance from 0% to 10% (similar to fencers)
+Coment: I don't find any way to deal its small cost ineficiency, just adding that cold resistance... like once done in default era with fencers...
+
+Temptress
+Really hard to balance ... 7 MP, 35 HP ... are interesting stats, but health looks too low (but has 7 MP...) maybe resistances...
+Cold resistance from 0% to 15%
+XP from 90 to 75
+Price from 38g to 29g
+
+Siren
+Cold resistance from 0% to 20%
+Price from 54g to 50g
+
+
+Era of Strife - Eventide
+Actually they lack of linebreakers... I will give a little bonus to their bowmaidens.
+
+Auxiliary
+Considering they have lower 6 less hit points than orcish grunts and that their dagger is damage ineficent atack...
+Price from 13g to 12g
+
+Lineman
+Considering the no lv3 status, we will give them a little few extra resistances
+Impact/Pierce resistance from 0% to 10%
+
+Diu Bowmaiden
+Don't know how to deal their somehow cost ineficiency to their repectively faction, I will just add a not so strong new bonus ranged atack...
+NEW ATACK: Bow 7-2 pierce ranged + marskman
+Price from 16g to 17g
+
+Diu Bowmistress
+Mele damage rework from 8-1 to 6-2
+NEW ATACK: Bow 11-2 pierce ranged + marksman
+Arcane resistance from 20% to 30%
+Price from 32g to 34g
+
+Diu Kneenshot
+NEW ATACK: Bow 12-3 pierce ranged + marskman
+Arcane resistance from 20% to 40%
+Price from 48g to 52g
+
+Arcane Archer
+ - No lv3 unit, will consider stronger her a bit for a little best performance. Apart of owning less hp than Bowmistress ... it has less pierce dmg.
+ - Compared to other arcane atackers this unit looks boring... let's fit this
+Bow damage from 8-3 to 7-4 (just to diferenciate more to the other lv2)
+-> Arcane arrow has now has marksman!
+Arcane resistance from 20% to 50%
+
+Eventide Herbalist
+Price fro 18g to 17g
+
+Eventide Alchemist
+His stats looks somehow boring at simple sight for regular lv2. A little buff.
+Flaming Sword damage from 10-2 to 11-2
+Poisoned Dagger damage from 4-3 to 5-3
+Price from 36g to 34g
+
+Eventide Poisoner
+Flaming sword damage from 14-2 to 15-2
+Fire resistance from 20% to 30%
+NEW SPECIAL: Anti-Poison (it will reheal himself of poison if poisoned)
+Price from 54g to 52g
+
+DreadLord
+Consdering the case that Arcane archer gains a new weapon special, DreadLord could too... even if it's not as strong as his original one.
+NEW ATACK: Sword 8-3 blade mele (marskman)
+Impact resistance from 0% to 20%
+
+Guardian of the Noct
+Impact resistance from 0% to 20%
+
+Swabbie
+Looks kinda mediocre, we can help him a bit.
+Castle defense from 50% to 60%
+Village defense from 50% to 60%
+Sand defense from 30% to 40%
+Price from 15g to 14g
+
+Mariner
+Health from 42 to 45
+Cuttlass rework from 6-4 to 5-5
+Crossbow damage from 10-1 to 12-1
+Castle defense from 50% to 60%
+Village defense from 50% to 60%
+Sand defense from 30% to 40%
+Price from 30g to 28g
+
+Navigator
+Health from 56 to 65
+Cutlass damage from 9-4 to 7-5
+Crossbow damage from 10-2 to 11-2
+Castle defense from 50% to 60%
+Village defense from 50% to 60%
+Sand defense from 30% to 40%
+
+
+Era of Strife - Free Saurians
+
+Lizard Rider
+Looks kinda weak ... slower than regular saurians, let's add some resistances and other details.
+Movement from 6 to 7.
+Fire resistance from -20% to -10%
+Pierce resistance from -20% to -10%
+Swamp defense from 50% to 60%
+Impasable defense from 50% (WTF?!) to 0%
+
+Lizard Master
+XP adjustment and some stats moodifications.
+Cold resistance from -20% to -10%
+Fire resistance from -20% to -10%
+Impact resistance from 10% to 20%
+Pierce resistance from -20% to -10%
+Swamp defense from 50% to 60%
+Impasable defense from 50% to 0%
+XP from 45 to 86 (AMLA, full reheal)
+
+Saurian Figter
+Price from 28g to 26g
+
+Saurian Warchief
+Health from 53 to 55
+Damage rework from 11-4 to 8-5 (more expectable from a saurian)
+Impact resistance from -10% to 0%
+Price frm 39g to 40g
+
+Saurian Gladiator
+Price from 20g to 19g
+
+Saurian Duelist
+Price from 38g to 35g
+
+Suarian Champion
+Blade resistance from -10% to 0%
+
+Saurian Skulter
+Price from 50g to 34g
+
+Saurian Assasin
+Price from 34g to 50g
+
+Saurian Healer
+Price from 40g to 34g
+
+Saurian Holy
+Arcane resistance from 20% to 40%
+Price from 40g to 44g
+
+Saurian Mystic
+Cold/Fire resistance from -20% to -10%
+Price from 40g to 34g
+
+Saurian Warrior
+Health from 50 to 48
+Spear from 9-4 to 8-4
+XP from 70 to 85
+Price from 30g to 34g
+
+Saurian Hero
+Health from 70 to 63
+Spear from 11-4 to 10-4
+NEW ATACK: 6-2 pierce ranged
+Price from 50g to 52g
+
+Spider
+Traitless creature which can be poisoned...
+Cold/Fire resistance from -30% to -15%
+Cave defense from 70% to 60%
+
+Tarantula
+NEW SPECIAL: Feeding+1
+Fangs 10-2 to 11-2
+NEW ATACK: Wrap 8-1 impact mele (slow) (exactly the same than in MERC's Trapdoor Spider)
+Cold/Fire resistance from -30% to -15%
+Cave defense from 70% to 60%
+Price from 30g to 32g
+
+Swamp Saurian
+General reworks for this unit ... because it's extremely strange and its usage is just awful. General standarization as regular aquatic unit.
+Health from 30 to 33
+Axe damage from 7-2 to 8-2
+Flat defense from 20% to 30%
+Price from 11g to 13g
+
+Swamp Fighter
+Health from 35 to 42
+Axe damage from 8-3 to 9-3 
+NEW ATACK: Axe 12-2 mele
+Bade/Impact resistances from -10% to 0%
+Flat defense from 20% to 30%
+Price from 22g to 25g
+
+Swamp Warrior
+Health from 50 to 52
+Axe damage from 11-3 to 13-3 (still under lv3 standards...)
+NEW ATACK: Axe 16-2 blade mele
+Blade/Impact resistances from -10% to 0%
+Pierce resistance from 20% to 30%
+Flat defense from 20% to 40%
+Price from 40g to 43g
+
+Swamp Guard
+This unit needs URGENT changes, stats aren't being balanced in many ways...
+-> STEADFAST has been removed!
+-> At sprite it's not an axe, it's an spear. Reworking axe to Spear (apart of removing ATACK ONLY special...)
+Spear damage is 9-2 pierce mele + First strike
+Movement from 4 to 5
+Blade/Impact resistances are now 20% both.
+Fire/Cold weaknesses from -30% to -10%
+Swallow water / swamp defense to 60%
+Price from 22g to 27g
+
+Suarian Margrave
+-> STEADFAST has been removed!
+-> At sprite it's not an axe, it's a tridet. Reworking axe to trident (apart of removing ATACK ONLY special...)
+Trident damage is 14-2 pierce mele + First strike
+Shield damage from 16-1 to 18-1
+Movement from 4 to 5
+Blade/Impact resistances are now 25% both.
+Pierce resistance to 35%
+Flat defense is now 30%
+Fire/Cold weaknesses from -30% to -10%
+Swallow water / swamp defense to 60%
+Price from 40g to 48g

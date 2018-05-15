@@ -1,0 +1,14 @@
+- Steelhive Faction Credits -
+
+HEAD CODER:
+-- melinath
+
+IDEA / ART:
+-- Zerovirus
+
+SPECIAL THANKS:
+-- tsr for the team colored cancel x from the PresetAdvancement era.
+-- shadowmaster for attack icons from IftU.
+-- thespaceinvader for attack icons from IftU.
+-- doofus-01 for the Sear attack icon, taken from BMR.
+-- wesfreak for the recolor of the drake fire-breath projectile.

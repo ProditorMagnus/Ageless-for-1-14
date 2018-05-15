@@ -1,0 +1,24 @@
+- Feudal Era Credits -
+ -----------
+
+ORGANIZATION
+-- Turin
+
+ARAGWAITHI FACTION
+IDEA
+-- Wayfarer
+-- Elvish Pillager
+
+ART
+-- Wayfarer
+
+
+CERESIAN LEAGUE FACTION
+IDEA
+-- Maeglin Dubh
+
+UNIT TREE
+-- furioso
+
+ART
+-- Turin

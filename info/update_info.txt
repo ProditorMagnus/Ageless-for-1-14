@@ -1,0 +1,8 @@
+This is release procedure basically.
+
+write changelogs
+add changelogs to unsynced menu
+change all version number locations, including the on in Lua file
+run wmlindent
+create git tag
+upload

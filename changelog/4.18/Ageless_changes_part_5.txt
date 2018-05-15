@@ -1,0 +1,455 @@
+
+Archaic - Khthon
+
+Brown Ducks
+Pierce resistance from -20% to -10%
+Water terrains defense from 40% to 50%
+
+Great Duck
+Health from 24 to 27
+Pierce resistance from -20% to -10%
+Water terrains defense from 40% to 50%
+
+Giant Duck
+Water terrains defense from 40% to 50%
+
+Stympheon
+Health from 26 to 28
+Cold resistance from 10% to 20% (not lower than lv0 pls)
+Pierce resistance from -20% to -10%
+Forest/Hills/Mountains defense are now +10% their actual value.
+
+Stymphallian
+Feather damage from 6-4 to 5-5
+Pierce resistance from 0% to 10%
+Cold resistance from 10% to 20%
+Forest/Hills/Mountains and Flat defense are now +10% their actual value (flat is extra for lv2 with no lv3)
+
+Horse
+Health from 20 to 28
+Kick damage from 7-2 to 8-2
+Price from 10g to 13g
+
+Noble beast
+Pierce resistance from -10% to 0%
+Price from 28 to 37 (considering their leadership and 8 MP)
+
+Royal Beast
+Kick damage from 15-2 to 16-2
+Sing damage from 11-3 to 9-3
+Pierce resistance from 0% to 10%
+Price from 35 to 60 (good health, regens, leadership, 8 MP)
+
+Teraxippon
+Blade resistance from 0% to 10%
+Castle defense from 50% to 60%
+Forest defense from 70% to 60% (as lv3)
+Price from 28 to 30
+
+Nightmare
+Health from 41 to 49
+Slash damage from 12-3 to 11-3
+Blade resistance from 0% to 10%
+Castle defense from 50% to 60%
+Price from 38 to 51
+
+Ipoten
+Health from 49 to 62
+Blade/Imapct resistance from 10% to 20%
+Swallow water defense from 30% to 40%
+Castle defense from 50% to 60%
+Price from 48 to 72 (counting thrallment)
+
+Ram
+XP from 66 to 53
+
+Cryosatyr
+Price from 25 to 36
+
+Pyradalon
+Fire resistance from 10% to 20%
+Price from 25 to 34
+
+Katoblepon
+Health from 42 to 45
+XP from 92 to 80
+Price from 28 to 32
+
+Katoblepon-Magnum
+Health from 60 to 66
+Head damage from 14-2 to 15-2
+Breath damage from 9-2 to 10-2
+Price from 35 to 56
+
+Ker-Kato
+Health from 72 to 82
+Head damage from 16-2 to 18-2 (it's lv4 afterall, no?)
+Breath damage from 10-2 to 12-2
+Price from 65 to 78
+
+Terrapin/all level ups
+Sand movement cost from 2 to 1 (they're turtles lol)
+
+Bone Snaper
+Bite damage from 9-3 to 7-3
+Blade/Pierce/Cold resistance from 10% to 20% (considering their 50% water def and max defense)
+Price from 15 to 16
+
+Rock Snaper
+Bite damage from 11-3 to 9-3
+Blade resistance from 10% to 25%
+Pierce/Impact/Cold resistances from 20% to 25%
+Price from 25 to 32
+Coment: Turtles are meant to tank, no? not be damage bruisers.
+
+Land Tortoise
+-> Flat movement cost from 2 to 1
+-> Forest/Hills/Fungus movement costs from 3 to 2
+-> Swallow water movement cost from 1 to 2
+-> Swallow water defense from 50% to 30% (it's land tortoise...)
+-> Swamp defense is now 40% also sand defense is now 50% (inversed these values)
+-> Coastal rift defense from 60% to 40%
+-> No longer can move at deep water.
+-> No longer has aqualung.
+Price from 15 to 16
+
+Rockback
+HP from 42 to 50
+Arcane resistance from -10% to 10%
+Cold resistance from 10% to 20%
+-> Flat movement cost from 2 to 1
+-> Forest/Hills/Fungus movement costs from 3 to 2
+-> Swallow water movement cost from 1 to 2
+-> Swallow water defense from 50% to 30% (it's land tortoise...)
+-> Swamp defense is now 40% also sand defense is now 50% (inversed these values)
+-> Coastal rift defense from 60% to 40%
+-> No longer can move at deep water.
+-> No longer has aqualung.
+Price from 25 to 28
+
+Adamantine
+Health from 57 to 62
+Arcane resistance from -10% to 10%
+-> Flat movement cost from 2 to 1
+-> Forest/Hills/Fungus movement costs from 3 to 2
+-> Swallow water movement cost from 1 to 2
+-> Swallow water defense from 50% to 30% (it's land tortoise...)
+-> Swamp defense is now 40% also sand defense is now 50% (inversed these values)
+-> Coastal rift defense from 60% to 40%
+-> No longer can move at deep water.
+-> No longer has aqualung.
+Price from 35 to 56
+
+Artic Wolf (not recruitable normally)
+Health from 26 to 28
+Pierce/Arcane resistance from -10% to 0%
+Cold resistane from 10% to 20%
+Forest/hills/mountains defense from 50% to 60%
+Frozen movement cost from 2 to 1
+Frozen defense from 40% to 50%
+Price from 15 to 16
+
+Timber Wolf
+Health from 28 to 32
+Arcane/Pierce resistance from -10% to 0%
+Castle defense from 50% to 60%
+Price from 14 to 15
+
+Prokyon
+Health from 42 to 45
+Pierce resistance from -10% to 0%
+Castle defense from 50% to 60%
+Price from 25 to 28
+
+Orthrus
+Health from 59 to 62
+-> Bite has now +triplestrike (similar to Infernai's triple strike, which means 2 damage to 2 enemies behind the atacker and the defender)
+Blade resistance from 40% to 30%
+Impact resistance from 30% to 20%
+Cold resisance from 10% to 20%
+Castle defense from 50% to 60%
+Price from 35 to 58
+
+Skylliaron
+-> Bite has not +triplestrike and 10-5 damage
+Tail damage from 14-2 to 17-2 (come on, it's lv4)
+Blade resistance from 50% to 40%
+Cold resistance from 10% to 25%
+Impact resistance from 40% to 30%
+Price from 65 to 77
+
+Toad
+Health from 12 to 14
+NEW ATACK: Tongue 2-1 impact mele
+Blade/Fire/Impact/Pierce resistance from -20% to -15%
+Castle/Village movement cost from 2 to 1
+Coment: The intention is that they still be weak. Now they need one strike of 12 damage to be one-shooted instead of one strike of only 10 damage.
+
+Giant Toad
+Health from 36 to 29 but has self-heal(4) now.
+NEW ATACK: Tongue 3-2 impact mele
+Blade/Pierce resistances from -20% to -10%
+Impact resistance from -20% to 0%
+Castle/Village movement cost from 2 to 1
+Coment: Being 9-3 fire ranged for lv1 is really strong, forcing the unit having low health rewards more to skilled players.
+
+Flying Toad
+Health from 26 to 28
+NEW ATACK: Tongue: 4-1 impact mele
+Castle/Village movement cost from 2 to 1
+Hills/Forest movement cost from 3 to 2
+Unwalkable movement cost from 2 to 3
+Unwalkable defense from 40% to 30%
+Sand movement cost from 2 to 1
+Price from 18 to 19
+Coment: Flying toads aren't good fliers at all, they specially fly short distances but is uncomfortable for them staying in air.
+
+Yak
+Health from 42 to 45
+Price from 20 to 18
+
+Tauricorn
+Movement from 6 to 5
+Horns damage from 12-2 to 13-2
+Bite damage from 10-2 to 9-2
+Price from 28 to 33
+
+Ophis
+Health from 51 to 55
+Horns damage from 11-2 to 12-2
+-> Swallow/Deep water movement cost from 1 to 2
+Swallow/Deep water defense from 40% to 30%
+-> Coastal rift movement cost from 1 to 2
+XP cost from 94 to 86
+Price from 28 to 31
+
+Ophis-Magnum
+Health from 63 to 66
+Horns damage from 14-2 to 16-2
+-> Swallow/Deep water movement cost from 1 to 2
+Swallow/Deep water defense from 40% to 30%
+-> Coastal rift movement cost from 1 to 2
+Price from 35 to 54
+
+Khalkotaurus
+Health from 75 to 88
+Horns damage from 17-2 to 18-2
+Price from 65 to 75
+
+Bellikakotaurus
+Health from 88 to 110 (it's lv5)
+Horns damage from 18-3 to 19-3
+Tail damage adjusted to 22-2
+NEW ATACK: Tail 35-1 impact mele +poison
+Price from 85 to 100
+
+_______________________________________________________________________________________________________________________________________________________
+
+
+Archaic - Phamtoms
+Faction design looks poor, we will increase the defenses and resistances diferences between the diferent recruits making it more interesting.
+
+Feather Dancer
+Dagger damage from 5-4 to 4-4
+NEW ATACK: Feather 4-1 blade ranged
+Arcane resistance from -30% to -20%
+Fire resistance from -10% to -20%
+Impact resistance from 20% to 15%
+Pierce resistance from 30% to 15%
+Castle/Hills/Forest/Mushroom/Mountains Defense from 50% to 60%
+Deep water movmement cost from 2 to 4
+Price from 14 to 16
+
+Wing Dancer
+Kopis damage from 8-4 to 7-4
+NEW ATACK: Feather 6-2 blade ranged
+Arcane resistance from -30% to -20%
+Fire resistance from -10% to -15%
+Pierce resistance from 10% to 20%
+Castle/Hills/Forest/Mushroom/Mountains Defense from 50% to 60%
+Deep water movmement cost from 2 to 4
+XP from 68 to 93 (considering the new ranged for lv3)
+Price from 25 to 31
+
+Winged Warrior
+Movement from 7 to 6 (winged gives better movement costs)
+Claws damage from 6-3 to 9-3
+NEW ATACK: Feather 7-3 blade ranged 
+Arcane resistance from -40% to -20%
+Fire resistance from 0% to -10% (actually it needs that weakness considering it has became somehow strong now)
+Castle/Hills/Forest/Mushroom/Mountains Defense from 50% to 60%
+Price from 35 to 52
+
+Huntress
+Arcane resistance from -30% to -15%
+Pierce resistance from 30% to 20%
+Castle/Village defense from 50% to 60%
+XP from 45 to 50
+Price from 15 to 16
+
+Archer
+Arcane resistance from -30% to -15%
+Bow damage from 10-3 to 9-3 and now is +marskman
+Pierce resistance from 30% to 20%
+Castle/Village defense from 50% to 60%
+XP from 64 to 70
+Price from 25 to 32
+
+High Archer
+Arcane resistance from -30% to -10%
+Cold resistance from 0% to 10%
+Pierce resistance from 30% to 20%
+Bow damage from 12-3 to 13-3 and now is +marskman
+Blessed missile damage from 10-3 to 9-3
+Castle/Village defense from 50% to 60%
+Price from 35 to 48
+
+Stalker
+Arcane resistance from -30% to -15%
+Fire resistance from -10% to 0%
+Pierce resistance from 30% to 20%
+Sand defense from 40% to 50%
+Castle/Village defense from 50% to 60%
+Price from 25 to 32
+
+Mummy
+Pierce resistance from 30% to 20%
+Fire resistance from -10% to -20%
+Castle/Village defense from 50% to 60%
+
+Mummy Unbound
+Health from 36 to 32
+Pierce resistance from 30% to 20%
+Fire resistance from -10% to -20%
+Castle/Village defense from 50% to 60%
+Price from 20 to 19
+
+Mummy Noble
+Health from 44 to 42
+Regenerates+8 to self-heal(4)
+Movement from 4 to 5
+Pierce resistance from 30% to 25%
+Fire resistance from -10% to -20%
+Castle/Village defense from 50% to 60%
+XP from 76 to 100
+Price from 28 to 32
+Coment: Forces Phamtom to consider Spirit Jays.
+
+Mummy King
+Health from 59 to 55
+Regenerates+8 to self-heal(6)
+Fire resistance from -10% to -20%
+Impact resistance from 20% to 25%
+Castle/Village defense from 50% to 60%
+Price from 40 to 59
+
+Mummy Pharo
+Health from 75 to 72
+Fire resistance from -10% to -20%
+Impact resistance from 20% to 30%
+Pierce resistance from 30% to 35%
+Castle/Village defense from 50% to 60%
+Price from 70 to 90
+
+Spirit Dove
+Heals+2 to heals+3
+Arcane resistance from -10% to 10%
+Price from 10 to 12
+
+Spirit Jay
+Arcane resistance from -10% to 20%
+XP: 47
+Price from 16 to 19
+Advances to: Divine Jay
+
+Divine Jay
+Health: 37
+Beak 12-2 pierce mele
+Talon 8-3 blade mele
+-> Has heals+8 and +cures
+Arcane resistance: 30%
+Rest: The same than actuals.
+Price: 35
+
+Tomb Guard
+Spear damage from 6-3 to 9-2 in order to diferenciate them more of the archers.
+Arcane resistance from -30% to -20%
+Blade resistane from 10% to 20%
+Impact resistance from 20% to 25%
+Castle defense from 50% to 60%
+Price from 15 to 16
+
+Tomb Sentinel
+Spear damage from 12-2 to 14-2
+Glance damage from 6-1 to 7-1
+Arcane resistance from -30% to -15%
+Blade resistane from 10% to 20%
+Cold resistance from 0% to 10%
+Impact resistance from 20% to 30%
+Castle defense from 50% to 60%
+XP from 56 to 65
+Price from 25 to 28
+
+Tomb Protector
+Spear damage from 15-2 to 19-2
+Khopesh damage from 8-4 to 7-5
+Glance damage from 6-2 to 7-2
+Arcane resistance from -30% to -15%
+Blade resistane from 10% to 25%
+Cold resistance from 0% to 10%
+Impact resistance from 20% to 30%
+Castle defense from 50% to 60%
+Price from 35 to 52
+
+Tomb Shield Guard
+Glance damage from 6-1 to 8-1
+Arcane resistance from -30% to -15%
+Blade damage from 10% to 20%
+Cold resistance from 0% to 5%
+Price from 25 to 32
+
+_______________________________________________________________________________________________________________________________________________________
+
+
+Other minor changes Changes
+
+EoC - Quenoth Elves 
+
+Blazebow price from 44 to 48
+Moon Enchantress arcane resistance from -10% to 0% & cold resistance from 0% to 10%
+Moon Priestess Arcane resistance from -10% to 10% & Cold resistance from 0% to 10%
+Sun Enchantress fire resistance from 0% to 15%, Price from 32 to 34
+Sun Priestess fire resistance from 0% to 20%
+
+
+EoF - Brungas
+Aligator rider's net damage from 7-2 to 5-2
+Cocodrile Rider net damage from 12-2 to 8-2 & Price from 46 to 40
+Stingray price from 25 to 30
+
+Crab
+Considering that after the nerf of aligator riders, brungar's are weaker now againist factions like undead. For this reasson compesating somewhere.
+NEW ATACK: Pincers 3-4 impact mele
+
+Overgrown Crab
+NEW ATACK: Pincers 4-4 impact mele
+Price from 40 to 35
+
+Giant Crab
+Pincers 6-4 impact mele
+
+MERCS - Tribalists
+
+Ranger price from 25 to 30
+Man Eater price from 28 to 30
+Decapitator price from 26 to 29
+Excecutioner price from 47 to 51
+Hunter price from 31 to 33
+Slayer price from 47 to 52
+Endemic price from 25 to 28
+Indogenous price from 44 to 48
+Chieftain price from 44 to 55
+Voodoo doctor's curse damage from 8-5 to 7-5 considering the lot of specials that atack has (+magical +slows +poison)
+Voodoo doctor price from 48 to 54
+
+_______________________________________________________________________________________________________________________________________________________

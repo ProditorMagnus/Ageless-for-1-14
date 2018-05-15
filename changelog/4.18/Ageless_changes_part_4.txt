@@ -1,0 +1,806 @@
+ARCHAIC - Meganaire
+Obviously this faction has many irregularities. Mostly problems with pricements and units needlessly too good while others too ignorable. With this
+it's intended that all units feel more fair when recruited instead of feeling like doing an huge discount buying units such like Drones or feeling
+how your money was being wasted after seing bad results from Scout Robots or Earth elementals.
+
+Blue Drake
+Price from 23 to 30
+
+Blue Beast
+Price from 35 to 57
+
+Blue Unicorn
+Price from 26 to 34
+
+Blue Novice
+Fireball damage from 6-2 to 7-2
+
+Blue Machinist
+Price from 25 to 34 (due lv1 plague)
+
+Blue Engineer
+Price from 45 to 48
+
+Drone
+Spark damage from 16-1 to 11-1
+
+Defender
+Spark damage from 16-2 to 12-2 and no longer is +marskman
+Price from 95 to 35
+
+Sentinel damage from 14-3 to 11-3 and lo nger is +marskman
+Price from 95 to 54
+
+Earth Daemon
+Fist damage from 7-3 to 8-3
+Stone damage from 10-1 to 12-1
+Blade/Pierce resistances from 20% to 30%
+Fire/Cold resistances from 0% to 10%
+Price from 24 to 27
+
+Greater Earth Daemon
+Arcane resistance from -10% to 0%
+Blade/Pierce resistances from 20% to 30%
+fire/Cold/impact resistances from 0% to 10%
+Price from 34 to 51
+
+Lesser/Greater/Wind Daemons
+Fire/Cold resistances from 40% to 30%
+
+Wind Daemon
+Health from 38 to 34
+Self heals (+6) now instead of +regenerates
+Crossbeam damage from 8-2 to 7-2
+Price from 35 to 34 (even, counting all nerfs)
+
+Greater Wind Daemon
+Health from 49 to 42
+Price from 45 to 48
+
+Lunar Mantis
+Price from 18 to 19
+
+Lunar Ripper
+Price from 28 to 34
+
+Lunar Invader
+Arcane resistance from 20% to 30%
+Price from 25 to 27
+
+Lunar Exterminator
+Poison Fog damage from 11-3 to 12-3 (it's as much as Lightmage's light beam, but without magical but +poison)
+Arcane resistance from 20% to 30%
+Price from 35 to 46
+Coment: Giving it proper lv3 stats, poison shines less the higher the level of a unit is.
+
+Lunar Frogman
+Electric Trident damage adjusted from 17-2 to 13-3
+Arcane resistance from 20% to 30%
+Cold resistance from 0% to 15%
+Price from 35 to 46
+
+Lunar Blackslime
+-> It has now selfheal(6) instead of selfheal(4)
+Cold resistance from 10% to 25%
+Fire resistance from -50% to -40%
+Pseudopod damage from 7-3 to 6-3
+Price from 12 to 15
+
+Lunar Eye
+Price from 18 to 17
+
+Lunar Mouth
+Price from 30 to 32
+
+Scout Robot
+I commonly see these dying before leveing up, needs buff probably, but at being more expensive.
+Health from 12 to 16
+Spark damage from 12-1 to 13-1
+Price from 8 to 9
+
+Mechanical Seeker
+Health from 24 to 27
+Price from 20 to 19
+
+Mechanical Cyclops
+Price from 30 to 32
+
+Tower Ladyboy
+Considering their +skirmisher
+fan damage from 6-2 to 5-2
+Sauna rock damage from 5-2 to 4-2
+
+Tower Servant
+Sauna Rock damage from 9-2 to 8-2
+Price from 16 to 17
+
+Tower Captain
+Deadly fond damage from 12-2 to 13-2
+Sauna Rock damage from 14-2 to 11-2
+Price from 26 to 28
+
+Tower Watchman
+It's one of the most tought units I have ever seen in lv2... needs nerf obviously.
+Health from 67 to 64
+Glaive damage from 13-3 to 12-3
+Price from 25 to 28
+
+Tower Dancer
+Price from 16 to 18
+
+Tower Madam
+Health from 62 to 55
+
+_______________________________________________________________________________________________________________________________________________________
+
+
+EE - Outlaws
+Sugesting the adition of a healer line for them. Would make help them to be more popular between players.
+Having first a look at: https://units.wesnoth.org/1.12/The_Golden_Age/en_US/Cunning%20Woman.html
+
+Cunning Woman (chaotic)
+HP: 23
+MP: 5
+Dagger 4-2 blade mele
+Dispell 4-3 arcane ranged +magical
+- Heals+4
+Resistances:
+-20% to blade, -10% to piere/impact, 20% to arcane
+Terrain defenses: (kind of swift foot, but 50% flat defense, 60% hills/forest defense/castle/village defense).
+Advances to: Outlaw Witch
+XP: 40
+Price: 15g
+Description: Sometimes even in marginality places there are people with talents to magic. Usually men living in corrupt surroundings have no time to even
+notice if they had potential to magics, so some of those outlaw men could have talents for magic but sadly they will never have time to wonder if they
+had or not talent for magics. Unlike in the case of men, women doesn't have that physical strength so many of them while chilhood experimentated a lot
+of diferent things... also for the surprice of some of these women they have talent for magic arts. Usually outlaws thief a lot of things, some of those
+magical books that almost nobody uses at all, also few cunning women autodidacts themselves in order to learn how to heal their wounded outlaws 
+companions. Once they gain enough experience their foes names them Outlaw Witches and when they start being feared by the enemies who face them they
+are named as Archwithches.
+
+Outlaw Witch (chaotic)
+HP: 34
+MP: 6
+Dagger 5-2 blade mele
+Dispell 6-3 arcane ranged +magical
+Ensnare 6-2 impact ranged +slows
+- Heals+8, cures
+Resistances:
+-20% to blade, -10% to piere/impact, 20% to arcane, 10% to fire/cold
+Terrain defenses: (kind of swift foot, but 50% flat defense, 60% hills/forest defense/castle/village defense).
+XP: 70
+Advances to: Outlaw Archwitch
+Price: 32
+Description (the same than cunning woman).
+
+Outlaw ArchWitch
+Health: 46
+MP: 6
+Dagger 6-2 blade mele +poison
+Dispell 7-4 arcane ranged +magical
+Poisoned Thorns 7-3 pierce ranged +poison +marskman
+Ensnare 6-3 impact ranged +slows
+- Heals+8, cures
+Resistances:
+-20% to blade, -10% to piere/impact, 20% to arcane, 10% to fire/cold
+XP: 150
+Advancement: AMLA
+Price: 55
+Archwitches have a wide knowledge of the nature which she can use againist her enemies. She can now cast poisoned thorns which are hard to direct mostly
+in retaliations. Archwitches are respected by any magician considering that all her training and knowledge was adquired autodidactly and no-one teached
+her. Usually witches and Archwitches are few, and rarely they interact with other in their lives before being recruited by the same outlaw army in 
+where they usually meet eachother. 
+
+--> The intention of EE is being pair in balance with Default era, not being completely superior unlike most eras wants to. So, for the stats of the 
+cunning woman I used old school balance like it's seen in Saurian Augurs and in Elvish Druids.
+
+_______________________________________________________________________________________________________________________________________________________
+
+EE - Chaos
+Extended Era is known to be a classical era since really long ago. Also it is not having active maintenance. Just some repricements and little changes
+to certain units of Chaos Faction.
+
+Evil Crab
+Health from 40 to 37
+Arcane resistance from -40% to -20%
+Swallow Water/Deep Water/Coastal Rift defense from 40% to 50%
+Castle defense from 30% to 40%
+
+Hell Crab
+Heath from 50 to 52
+Arcane resistance from -40% to -20%
+Fire resistance from 10% to 20%
+Swallow Water/Deep Water/Coastal Rift defense from 40% to 50%
+Price from 40 to 34
+
+Marauder
+Price from 40 to 32
+
+Soulhunter
+Health from 46 to 52
+Price from 100 to 45
+
+Rabid Hound
+Price from 40 to 34
+
+Warp Hound
+Health from 40 to 44 (just to diferenciate more from lv2)
+Fire resistance from 0% to 10%
+Price from 80 to 57
+
+Flesh Hound
+Fire resistance from 0% to 10%
+
+Dark Knight
+Blade resistance from 0% to 10%
+Price from 36 to 27
+
+Blood Knight
+Blade resistance from 0% to 20%
+Price from 42 to 45
+
+Overlord
+Blade resistance from 0% to 20%
+Impact resistance from 0% to 10%
+Price from 70 to 67
+
+Demonologist
+Health from 45 to 50
+Price from 80 to 63
+
+Lesser Daemon
+Arcane resistance from -40% to -30%
+Blade/Pierce/Impact resistances from -20% to -15%
+Coment: lowering its weaknesses... will need them considering the amount of new units that could counter it.
+
+Chaos Daemon
+Arcane resistance from -40% to -30%
+Blade/Pierce/Impact resistances from -20% to -15%
+Fire resistance from 70% to 75%
+Price from 42 to 33
+
+Greater Daemon
+Arcane resistance from -40% to -30%
+Blade/Pierce/Impact resistances from -20% to -15%
+Fire resistance from 70% to 80%
+Price from 80 to 60
+
+Greater Mutation
+Price from 40 to 34
+
+Abobination
+Blade resistance from 0% to 10%
+Pierce resistance from 20% to 30%
+Price from 80 to 54
+
+_______________________________________________________________________________________________________________________________________________________
+
+
+EE - Dark Elves
+
+Sorceress
+Price from 42 to 36
+XP from 100 to 86 (less XP for their healer +8)
+
+Cleric
+Arcane/Fire resistances from 0% to 10%
+
+Warrior price from 30 to 28
+Corsair price from 63 to 52
+
+Captain
+SPrice from 37 to 35
+
+Marshal
+Sword damage from 9-4 to 10-4
+Spear damage from 11-3 to 12-3
+Price from 75 to 57
+
+Hunter
+Price from 18 to 19
+
+Shadow
+Health from 38 to 44 (just to diferenciate it more from the health of lv1 which is 36)
+
+Stalker
+Health from 50 to 54
+Price from 55 to 53
+
+Ice Wyrm
+Fire resistance from -50% to -35%
+Pierce resistance from 0% to 10%
+Coment: I remember that people says that Ice Wyrns sucks compared to other aquatics units.
+
+Frost Wyrm
+Arcane resistance from 0% to 5%
+Cold resistance from 50% to 55%
+Fire resistance from -50% to -35%
+Pierce resistance from 0% to 10%
+XP from 100 to 90
+Price from 43 to 37
+Coment: Maybe it's still overpriced, but who knows... I'm just sure that it's better priced than before. Maybe depends the cold resistance of the 
+enemy you may want to counter.
+
+Rime Wyrm
+Arcane resistance from 0% to 10%
+Cold resistance from 55% to 60%
+Fire resistance from -50% to -35%
+Pierce resistance from 0% to 10%
+Price from 60 to 57
+
+Mistral Wyrm 
+Arcane resistance from 0% to 5%
+Cold resistance from 50% to 55%
+Fire resistance from -50% to -35%
+Pierce resistance from 0% to 10%
+Price from 43 to 35
+XP from 100 to 90
+
+Boreal Wyrm
+Arcane resistance from 0% to 10%
+Cold resistance from 55% to 60%
+Fire resistance from -50% to -35%
+Pierce resistance from 0% to 10%
+Price from 65 to 54
+
+Lizard Rider
+Blade resistance from 0% to 10%
+
+Lizard Master
+Blade resistance from 0% to 10%
+Cold resistance from -20% to -10%
+Fire resistance from -10% to 0%
+
+Lord Price from 50 to 36
+High Lord price from 100 to 56
+
+Sorcerer
+NEW ATACK: Staff 4-1 impact mele
+
+Warlock
+Cold resistance from 10% to 20%
+Fire/Arcane resistance from 0% to 10%
+Price from 80 to 60
+
+_______________________________________________________________________________________________________________________________________________________
+
+
+EE - Monsters
+
+Mother mudcrawler price from 38 to 40
+
+Fire Guardian price from 34 to 32
+Fire Warrior Spirit Price from 37 to 48
+Spider price from 34 to 32
+Overgrown Spider price from 55 to 52
+Scylla price from 48 to 53
+Red Dragon price from 55 to 59
+Fire Dragon price from 80 to 84
+Skeletal dragon price from 80 to 75
+Great Wolf price from 30 to 28
+Direwolf price from 36 to 43
+Bigfoot price from 35 to 32
+Yeti price from 36 to 58
+Giant Yeti price from 80 to 93
+Cuttle fish price from 30 to 32
+
+_______________________________________________________________________________________________________________________________________________________
+
+
+MERCS - ENCHANTERS
+For this faction in this ageless update there will be just adjustments of those runes like 2-10 atacks or similar, decreasing the amount of strikes
+but leaving intact the total damage. Apart of minor adjustments. Also some other modifications like renaming and some reworks.
+
+Rune Fire Specialist
+Due to his impopularity (mostly because has no lv3), he's going to resive a buff.
+Fire resistance from 0% to 20%
+Price from 40g to 43g
+
+Arcane rune transcriber
+Arcane resistance from 20% to 30%
+Light rune damage from 2-10 to 3-7
+Price from 40g to 44g
+
+Arcane rune splicer
+Chisel (mele) damage from 7-1 to 9-1 (it's not recomended that it be the same than lv2)
+Light rune damage from 3-10 to 5-7
+Holyfire rune damage from 14-3 to 12-3
+Arcane resistance from 20% to 30%
+Fire resistance from 0% to 10%
+Price from 50g to 57g
+
+Rune purist
+Chisel (mele) damage from 10-1 to 11-1
+Light rune rework from 1-13 to 2-10 but has still concentrated special.
+-----> Calculus:
+---> Old Rune purist damage
+-> Average sucessful strikes: 13 x 0.7 (70% hit) = 9.1 strikes in average.
+-> Average damage (if hits 9 strikes) = 1+2+3+4+5+6+7+8+9 = 45
+---> NEW Rune purist damage
+-> 2+3+4+5+6+7+8+9 = 44 (but needs 8 sucesful strikes)
+-> Average new strikes: 7 / 0.7 = 11,4 total strikes are needed to be equivalent
+---> Due nerf We end with 2-10 instead of 2-12 or 2-11 !!
+---> New average damage would be: 2+3+4+5+6+7+8+0+0+0 = 35 (same than Mage of Light without illuminates)
+-> In compensation of his damage loss, increased arcane resistances, so he can now counter easier arcane atackers.
+[Coment]: I needed to do inverse calculus too, to determinate how many strikes in total Rune purists did need in order to leave almost unchanged his
++1 damage in all strikes by even counting his +concentrated special which increases damage per sucessful strike by +1.
+--> Arcane resistance from 20% to 40%
+Price from 50g to 55g
+[Coment 2]: I got a plan how to change rune purists offensive in order to be less abusable at RPG/Survivals (like orocia) but leaving him almost 
+unchanged in normal games or more normie suvivals without upgarades. With this, he won't be that massively beneficiated from gaining +damage from the 
+shrine or buying damage at the RPG map. They're equivalent but will never be the same at all.
+--> Opinion About concentrated: looking at how it works, it's not a good special at all, I mean, needs too many strikes and high accuracy in order 
+to trigger oftenly because the damage snowballs stacks per sucessful strike. 70% magical is the minimun accuracy needed to make this ability work fine.
+
+Rune Mage
+Chisel damage from 9-2 to 7-2
+Light rune damage from 3-10 to 4-8 (wouldn't harm that much at all)
+Ice rune damage from 5-6 to 6-5 and +enchanted (60% hit) instead of +magical
+Fire/Cold resistances from 0% to 10%
+Price from 50g to 62g
+Coment: Ice rune atack is much better than light rune or even fire rune atacks, needs accuracy nerf to try to equilibrate it with the other atacks if
+gained upgarades at a scenario in order to force a damage loss when using ice rune atack instead of the other atacks.
+
+Rune Master
+Health from 75 to 68
+Chisel damage from 10-3 to 8-3
+Ice rune damage from 8-6 to 10-5 enchanced (60% hit) instead of +magical
+Fire/Cold resistances from 0% to 15%
+Price from 60g to 77g
+
+wow this unit's tree...
+
+Elemental Rune Interpreter
+--> changing his name to something like 'Rune Elementalist' ... really much shorter, thanks.
+Ice rune damage from 3-6 to 4-5 and is +enchanted (60% hit) instead of +magical
+Coment: the accuracy nerf is intended to be more intense the strongest the unit becomes, because accuracy is the only aspect that can never be improved
+in all those survivadl/rpg games.
+
+Cold Rune Splicer
+--> Renaming him to 'Rune Splicer', due he mantains fireballs and that is not precisely cold at all XDDD
+Water rune damage from 12-3 to 10-3 because it slows and is physical (impact) damage, which is still useful againist magic resistant units.
+Ice rune damage from 4-6 to 5-5 but is still +magical (ice rune specialization, no needs to nerf accuracy)
+Fire/Cold resistane from 0% to 10%
+Price from 50g to 55g
+
+Ice rune Improver
+Removal of fireballs, he's the most specialized in ice runes.
+Ice rune damage from 9-5 to 8-5
+Freeze rune damage from 5-8 to 5-7
+Cold resistance from 0% to 30%
+--> Frozen movement cost from 3 to 2
+--> Froezn defense from 30% to 40%
+Price from 50g to 57g
+Coment: his ice runes needed to be nerfed, he cannot deal as much damage as a regular mage but aditionally with +slows special.
+Coment 2: I'm completely sure that I have never seen one of those previosly, apart their damage decrease isn't significant compared to the +30% cold 
+resistance. Also he gained some extras at frozen terrain because of the loss of his fireballs.
+
+Clearbow
+Price from 30 to 32
+
+Crystalbow
+Arcane resistance from 20% to 30%
+Price from 45 to 50
+Coment: Due its not that high popularity, desided to not nerf arcane atack damage for now. Apart that's a tons of XP for only +8 HP seems ok.
+
+Blazier
+Bow (pierce) damage from 9-3 to 7-4 (still marskman, it's mostly to diferenciate more from clearbow's 8-3)
+Bow (fire) damage from 22-1 to 14-2 (considering that clearbow is magical and this atack is just marskman, its much worser than clearbow's atack).
+Fire resistance from 0% to 10%
+
+Incinerator
+Short Sword damage fro 4-4 to 5-4 (shouldn't be the same than lv2's mele)
+Fire resistance from 0% to 20%
+Price from 45 to 52
+
+Enchanter
+Blade resistance from 0% to 10%
+XP from 41 to 48
+
+Forge
+Damage from 16-2 to 15-2
+
+Fabricator
+Damage from 22-2 to 20-2
+Price from 46 to 56
+
+Titan
+Swallow water movement cost from 2 to 3
+Price from 38 to 36
+
+Featherlite
+Price from 28 to 30
+
+Arsenal
+Impact resistance from 10% to 20%
+Price from 29 to 30
+
+Stockpiler
+Impact resistance from 10% to 20%
+Fire resistance from -10% to 0%
+Price from 46 to 53
+
+Floating/Magic/Shifter Swords
+Movement from 8 to 7
+Cold resistance from 50% to 40%
+
+Magic Sword
+Price from 35 to 33
+
+Possesed sword
+Movement from 10 to 9
+Arcane resistance from -40% to -30%
+Price from 34 to 32
+
+Enchanted Sword
+Movement from 8 to 7
+Arcane resistance from -20% to -10%
+Cold resistance from 50% to 40%
+
+Excalibur
+Movement from 8 to 7
+Light beam damage from 5-4 to 5-3
+Arcane resistance from 20% to 10%
+Cold resistance from 50% to 40%
+Price from 60 to 70
+Coment: Becoming -20% -> +20% arcane resistance is an HUGE diference, that's 120% damage to 80% which is 1/3 less. To decrease the impact of the fact,
+as personal desition I desided to increase Lv3 swords arcane resistance while decreasing Lv4 Excalibur arcane resistance.
+
+Cursed Swords
+Some enchanters specializes at crafting deadly swords that can be sharpen easier than common steels and at being more light than usual with the cons 
+that this strange metal needs to consume a part of the living essence of the user in order to not break down. Once the user dies poetically we can
+say the same about the cursed sword itself at becoming into a regular sword which is heavier than before when it was cursed.
+
+Cursedhand
+Cursedhand after some fighting experience and after understanding better how cursed swords does work, they made a small modification to it, so now if
+they consider necesary, their swords can now drain the living essensce of the rival as well but it does still consume the user meanwhile. With those 
+modifications, the user himself loses some arcane and fire tolerance. 
+
+Devilhand
+Cursed Sword (25-2) has no longer +cursed (I've seen 2 strikes units with 25-2 easly)
+Price from 49 to 50
+After many battles with the sword devilhand have perfectionated the use of the cursed sword. Apparently if the user does not direct contact with the 
+blade of the cursed sword and instead only grabs the handle of the sword the sword will not consume his user while striking. Also, grabbing the sword
+in that way decreases the amount of strikes that can be done, still if he uses the cursed sword as usually it will drain the living essence of both the
+user and the opponent.
+
+Sacrificer
+Sacrificers are not that much diferent than Cursed Sword users, with just the diference that they are more deadly and that they will hurt themselves
+even more.
+Coment: it has good chances of losing againist units like loyalist's swordsman cause of taking really much damage from cursed special.
+
+Sell Soul 
+health from 65 to 68
+Price from 49 to 50
+Once sellsoul starts a fight only one thing is garanteed, is that will be a tragic battle for life or death with a tension that is not seen anywhere
+else. Get ready this gonna hurt for sure.
+
+Powermad
+Health from 72 to 76
+
+Apocalyptic
+Blade/Pierce/Impact resistances from 0% to 10%
+Price from 59 to 72
+
+_______________________________________________________________________________________________________________________________________________________
+
+
+MERCS - Holy Order
+
+Crusader
+Arcane resistance from 20% to 30%
+
+Paladin
+Price from 45 to 52
+
+Pope
+Health from 61 to 55
+
+Bishop
+Health from 50 to 46
+Mace damage from 8-3 to 9-2
+Cross damage from 10-2 to 9-2
+Holy water damage from 7-2 to 6-2
+--> No longer heals!, but has cures.
+Price from 29 to 36
+
+Arch Bishop
+Health from 70 to 60
+Flail  damage from 11-3 to 9-3
+Cross damage from 15-2 to 12-2
+
+Judgmentor
+Judgement damage from 14-1 to 13-1
+Price from 26 to 27
+
+Supreme Judge
+Judgement damage from 22-1 to 20-1
+Price from 44 to 48
+
+Justice
+Price from 25 to 26
+Coment: Because of being impact damage, they cost a little more than loyalist's swordsmen or pikemen.
+
+Law/Order/Peacekeeper
+Prices from 46 to 48
+
+Holy Spirit
+Health from 25 to 26
+
+Twilight
+Health from 24 to 27
+
+Mage
+Health from 46 to 43
+Light beam damage from 10-3 to 9-3
+
+Ballast
+Health from 58 to 55
+Lightbeam damage from 10-4 ro 9-4
+Price from 52 to 57
+
+Scholar
+Lightbeam damage from 9-4 to 8-4
+Price from 44 to 42
+
+Wisdomkeeper
+Purify damage from 5-8 to 5-7
+Price from 56 to 60
+
+Demon Slayer
+Dagger damage from 6-3 to 5-3 (preventing him to be 7-3 with strong preventing 9-3 mele at retaliation)
+Price from 36 to 34
+
+Purifier
+Arcane resistance from 20% to 30%
+
+
+_______________________________________________________________________________________________________________________________________________________
+
+
+MERCS - Refugees
+Just balance manitenance for this faction, apart that some people says this faction is too weak compared to many others.
+
+Purifier
+Price from 40 to 42
+
+Arsonist
+Price from 30 to 32
+
+Guard
+I'm sure I've seen units that by costing less are stronger than Guards are.
+Sword damage from 10-2 to 11-2
+Impact/Pierce resistance from 20% to 30%
+Price from 20 to 19
+Coment: Doesn't has steadfast... but has solid resistances.
+
+Gatekeeper
+Sword damage from 17-2 to 15-2 (but has +triple strike)
+Impact/Pierce resistances from 20% to 30%
+
+Roadclearer
+Damage from 17-3 to 15-3 (but has +triple strike)
+Impact/Pierce resistances from 20% to 35%
+Price from 40 to 55
+Coment: Adapting both Advancements of Guards in order to be equivalent in toughtness to +steadfast tanks. Also, I do not want to make guards be
++steadfast because it's too mainstream.
+
+Stonewall
+Considering that Stonewall has lower terrain defenses (50% castle defense for example) unlike gatekeeper, they should have more resistances than their
+gatekeeper counterparts.
+Health from 60 to 56
+Movement from 3 to 4
+Sword damage from 14-2 to 9-3
+Arcane resistance from 20% to 30%
+Blade resistance from 30% to 35%
+Pierce/Impact resistances from 40% to 50%
+Fire resistance from -20% to -15%
+Mountains/Water/Swamp movement cost from 3 to 4
+XP from 76 to 88
+Coment: it's like I gift him +quick trait (somehow, but for +33% movenent the diference needs to be more notisable in HP)
+Coment 2: will you be wondering 'wow this unit has much resistances, but compared to dwarivhs guardsman or Kirios guards, he's as ok for the role.
+
+Spire
+Health from 78 to 70
+Movement from 3 to 4
+Sword damage from 20-2 to 11-4
+Arcane resistance from 20% to 30%
+Blade resistance from 40% to 45%
+Fire resistance from -20% to -15%
+Mountains/Water/Swamp movement cost from 3 to 4
+Price from 40 to 57
+Coment: The intention is to make tank units that can work without steadfast.
+
+Longboat
+I dislike the distribution of its stats... Important changes will occur to this unit.
+--> Swamp defense from 30% to 40%
+-> Flat movement cost from 5 to 3 (isn't as realistic, but in gameplay balance, belive me, it's annoying the previous way)
+-> Castle movement cost from 3 to 2
+-> Forest movement cost from 99 to 5 (meaning this unit is now capable to move 1 forest then 1 water tile if the opportunity exists).
+-> All ground non flat terrain defenses are 0% now.
+Resistances:
+50% to arcane
+40% to Pierce
+30% to cold
+20% to impact
+10% to blade
+-30% to fire
+Health: 55 (considering it has no traits)
+Greek fire is still 5-4 (arson is mostly a nerf againist aquatic units)
+Balista damage from 9-2 to 11-2
+XP: 65 (yup that's a lot of XP)
+Price: 22g
+Coment: The intention of this is to make this unit really strong and cost efficent if it finds to mantain itself in water tiles, once out of water,
+        Shouldn't be that tanky at all. Apart it will be more similar to the new ships that soon will be implemented to Ageless from Rashy Era.
+Coment 2: It's fun how arson lowers damage againist units at water tiles but at being stronger againist other ships.
+
+Trireme
+---> Swallow Water defense from 40% to 50%
+--> Deep water defense from 50% to 60%
+--> Swamp defense from 30% to 40%
+-> Flat movement cost from 5 to 3 (isn't as realistic, but in gameplay balance, belive me, it's annoying the previous way)
+-> Forest movement cost from 99 to 5 (meaning this unit is now capable to move 1 forest then 1 water tile if the opportunity exists).
+-> All ground non flat terrain defenses are 0% now.
+Resistances:
+(wrong ones here, using same as level 1)
+Health: 75
+Greek Fire is 6-5 now
+Balista damage from 11-2 to 16-2
+Price: 35g
+
+Maceman
+Sling damage from 7-3 to 6-3
+Price from 26 to 27
+
+Greeter
+Sling damage from 10-3 to 6-4
+Price from 44 to 46
+
+Sarissan
+Sarissa mele damage from 8-2 to 7-2 but has now grouping(+2) -would be nice to mantain diferent values for grouping bonus-
+Sarissa ranged damage from 8-1 to 7-1 but has now grouping(+1)
+XP from 42 to 47
+
+Hoplite
+Sarissa damage from 13-2 to 12-2 but has grouping(+2)
+Sarissa ranged damage from 10-1 to 11-1 no grouping (the higher base damage now makes it less dependant of other units with grouping
+Pierce resistance from 10% to 20%
+Blade resistance from 10% to 20%
+Impact resistance from 0% to 10%
+Price from 26 to 28
+
+Phanlax
+Sarissa damage from 18-2 to 12-3 but has grouping(+2)
+Sarissa (ranged) damage from 12-1 to 14-1
+Pierce resistance from 10% to 30%
+Blade resistance from 10% to 20%
+Impact resistance from 0% to 10%
+
+Linebacker
+Sarissa damage from 30-1 to 20-2 but has groping(+2)
+Gladius damage from 5-5 to 7-5 grouping(+1)
+Pierce resistance from 10% to 30%
+Blade resistance from 10% to 20%
+Impact resistance from 0% to 10%
+Price from 47 to 50
+
+Defender
+Health from 58 to 55
+All its atacks are unaffected.
+Price from 30 to 33
+
+Protector
+Price from 47 to 51
+
+Sniper
+Dagger damage from 8-1 to 10-1
+Pierce resistance from 10% to 15%
+Price from 26 to 28
+
+Deadeye
+Price from 47 to 52
+
+Arsonist
+Greek Fire (ranged) damage from 11-3 to 10-3
+
+_______________________________________________________________________________________________________________________________________________________

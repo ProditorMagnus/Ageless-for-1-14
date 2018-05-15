@@ -1,0 +1,83 @@
+*wargs: shadow fixes
+*fenrir uses the sprite from tommy2teeth
+*replaced broken mace.ogg with mace.wav
+*simpilied windsongs sunburst animation wml
+*removed old/unused EoM files
+*celestials got an own unit-group-icon, and removed a few pixels from the devlings ones
+*added missing #enddef in universal-mainline-strings.cfg
+removed AE_myh_therians_Falcon_Therian,AE_myh_therians_Falcon,AE_myh_therians_Therian_Cat,AE_myh_therians_Therian_Wildcat,AE_myh_vampires_Vampire_Bat,AE_myh_vampires_Blood_Bat,AE_myh_vampires_Dread_Bat,AE_myh_vampires_Succubus,AE_myh_vampires_Mistress,AE_myh_vampires_Duchess
+https://forums.wesnoth.org/viewtopic.php?f=19&t=25274&p=598319#p598319 striker and lunar explorer
+vector readded to terrapin and horse
+ukian civilian too good
+IPS yokai https://forums.wesnoth.org/viewtopic.php?p=598912#p598912
+Floating swords: All physical resistances to 65% (taking away a total of 15% resistance points, doesn't make that much diference in non orocia maps; also this raise the damage that swords take from physical weapons by like 16.667% more (1/6 extra more because total damage taken from 30% to 35%). They have 23 health points, which for those resistances is very durable.
+Magic Sword: Apart of resistances, would decrease their health from 32 to 27; to make their health more similar to Lv2 ghost lines.
+Possesded sword: Consdering their higher weakness to arcane could say that this sword can have 70% to physical resists; but having the same health nerf than Magic swords at health, hp from 30 to 26.
+Shifing sword: Apart of the physical resistance nerf, would decrease its health from 33 to 28; considering it has regen.
+Enchanted Sword: Enchanted sword has a way too much health for ghost like resistances, would sugest to nerf its health from 40 to 34.
+Shadow Blade: Those resistances and drains, very durable. Like possesed sword would leave it with its original resistances just to only diferenciate more to ghosts from Shadow Blade. But decreasing their health to 30.
+Excalibur: Well, this one is a way too tought. Apart it has very good 11-5 magical mele blade, would nerf it's health from 55 to 42 hp.
+Warrior Spirit: Ghost like unit with 60% physical resistance and 6-3 mele drain, mmmm.... disbalanced. Would nerf their resistance to 55% at all phyiscal and decreasing their mele to 5-3; they're still a very good choice for survival maps because of being more resistant than ghost are and with better draining power (2 hp drain againist humans regardless of the time of the day, ghost has only 1 hp drain except at night!)
+Vallhallan: Mele damage to 9-3 and health to 27 to standarize better with other ghosts; still that 55% physical resistance is still powerful.ç
+Desert Ranger: mele from 7-3 to 6-3 considering he has an useful 6-4 bow (I don't want to imagine that 18-3 backstab at day time even without strong trait!)
+Desert Avenger: mele from 10-3 to 8-3, if backstab and strong in daytime can deal 22-3 (compared to the frantic 26-3 without changes).
+Temptress: mele from 7-3 backstab to 6-3 considering she has 2-4 poison ranged.
+Siren: Mele from 10-3 backstab to 8-3 consdering she has 6-5 poison ranged.
+Quenoth Assasin: Same reassons than Siren (poison in ranged). Mele from 10-3 to 9-3.
+Striker: Previously mentionated in a post of mine at being notably overpowered. 9-2 mele backstab & 6-3 ranged backstab; considering it can deal the same damage at mele/ranged backstab with 2 diferent amount of strikes/damage.
+Nightwing: would decrease its mele from 11-3 to 10-3 backstab.
+Cultist: mele damage from 4-4 to 3-4 backstab.
+Overt: mele damage from 7-4 to 5-4 backstab; with strong trait and night time it can actually deal actually 20-4 at night!; lower damage than the other option considering he has more health.
+Cleaner: Mele damage from 8-5 backstab to 7-5.
+Executioner: Mele damage from 16-2 backstab to 14-2 (isn't 40-2 backstab scary at night? it's actually working as this! even without strong trait)
+Ukian Witch has two variations, accessible through AMLA (as opposed to a level 4 branch)
+adamantine line loses impact resist when advancing
+make bone snapper line useful too, and their shell hp, adamantine shell hp is also lower
+increase ancient cyclops xp
+trapdoor spider fire
+stone warrior damage 2->3
+sidhe veiledblade too high xp -> to 76
+[IPS]
+improve cult waiter - lowered xp
+contestant 50% castle
+ME mercenaries sniper is weak - +1mp
+ME mercenaries maneuverer lower damage, but less xp
+lesser wind daemon -2hp, regen to 4, maybe +1mp
+[/IPS]
+frogman should have better def in water
+fatal tangle description says slowing should be ranged
+BEEM daemons castle def
+remove taraxippon from leader list, but give some more hp too
+gnat-fly resists change
+primeval line breaker level 3 has too high damage
+orderling scholar description tab
+flying fortress too much hp, too low xp
+master of water amla xp
+Summoner Initiate changed to AE_chs_elementals_Summoner_Initiate
+Grand Summoner xp to 140
+ABILITY_AE_FORMATION second block needs filter of value less than 50%
+AE_CHS__ABILITY_RESURGENCE_BASE change id
+equestrian paladin halo
+enthrallment better description, like leader? village?
+mechanic aoe damage on miss should match description
+have blade attack for level 3 lamia as well
+Also, could Contestant Lines have normal highlander defenses? also I would take away most of his bonus health (maybe to something like 42 -> 33 but with better terrain defenses? same for all his level ups, Stonethrower hp 58 -> 44, Rocklauncher hp 72 -> 56, But giving them both normal highlander defenses alike.
+bonus part of https://forums.wesnoth.org/viewtopic.php?p=600370#p600370
+increased mother mudcrawler xp 70->150
+new unit Dwarvish Plainsmaster
+new Devlings
+an own sprite for windsong farstrider, arbiter and reaver
+therian leopard & panthers sprites (or higher cat line in general) + a shifting animation for that panther
+therian falcon lvl3 have as well new sprites
+therian mage line has new sprites
+removed Succubus line
+higher water dryads ranged defense frame
+flying angels, specific to terrain
+general EOM update
+fixed movment&attack animation of that one line of monks with barrels
+hit sounds for the other units in the floating sowrd faction
+freed code from deprecated stuff (ellipse, profile, unused images)
+unified defense only weapon special
+new sprites for some celestials
+semi-portraits by tommy2teeth for many factions
+add avatar image

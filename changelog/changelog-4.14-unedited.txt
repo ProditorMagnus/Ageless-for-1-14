@@ -1,0 +1,168 @@
+AE_stf_triththa_Runesmith removed from smith advance
+Added missing amla to AE_chs_chaos_empire_Sharpshooter
+in Ageless_Era/factions/heroes/heroes-EoC.cfg, line 86, Nightshade Fire should be AE_chs_sylvians_Eventide_Dancer
+primeval names have got corrupted with AE_ AE_artarc_kh - hopefully fixed
+fixed AE_efm_whites_storm_Witch to AE_efm_whites_Storm_Witch
+But for starters, I do know that the entire Mercenaries Era has no projectiles for any of its units. - added generic arrow projectile
+make sure all people have same ageless version based on EoHS, include version check version.lua is needed
+vampire portraits use transparent
+master of fire to lawful
+maritial artist cost 17->14
+water elemental less movement on flat, not avatar, elemental xp 26->36
+FE golem has no attack image - icon=attacks/shield-lavinian-silver.png
+remove clockwork steel bird from leaders
+EoC smasher->crusher loses resist on advance
+wonderful jinn to 8-4
+darklander beastskull to heroes recruit
+EFM heroes has ballista twice, but no bolter
+enchanters protection->not affect high resists
+ceresian pikeman -> halberdier give hp
+welkin patriarch female
+remove khthon toad from random leader rpg - check that kamikazes are also removed
+why apothecary so slow and herbalist so fast, practitioner hp 46
+arendian arrow wind ranged attack animation - added same as for ME, did same for Brungar
+test EFM imperialist standard --- spelling...
+vampier
+steelhive broadcast description level
+EE chaos lesser demon cost to 18
+wyverns amla to 150
+fanatic thief resist - reduced weaknesses, for minoutaur float too
+reduce eoma avatar xp
+orcish nightblade has AE_ext_orcs_ in name
+archaic heroes primeval hastate to peltast
+EoMa roc master xp
+oracle scrapshifter damage
+master of water swamp def
+why high elves horse archer upgrade limited - enabled
+shadow mage, shadow lord cost lowered
+lowered high level welkin costs
+Tharis hunters buffed
+fire ant add fire resist
+crocodile rider xp 65->100
+goblin rouser xp 50->100
+check freezing aura description -- changed ability to be as described
+I should add it in description that hex doesnt work on leaders
+check northern orc wanderer amla - has normal amla too
+archaic wanderer heal description on enemies - added that on friendly
+FE high elf: glavier to heroes recruit, captain to leader, removed recruit mermaids
+megacircle leadership affect allies
+oracle sage hp, blindman xp
+steel sparkgazer too good
+steel welder too weak
+steel larva might need lower xp
+runic spell image
+fix inferenai to infernai
+shorten visible faction names for host
+make ABILITY_AE_WATER allow more terrains
+check frozen trait
+reduce frozen weaknesses each levelup
+frozen golem make move better in hills
+make sure despair is playable - at least make castle mp 1
+lower ME beetle forest mp cost, maybe others too
+runelaying labels visible_in_fog=no -- reported oos yet I couldnt replicate - test runes with levelup # but why advance? kill off and recreate -- couldnt manage to understand enough EoHS lua to get all possible unit variables - transform instead of advancing --- try rewrite it all by variable structures instead, fix runes and orocia def for reef, try write 1.13.1+ runelaying with objects no_write=yes and advancing to remove it, make sure rune +max hp is not abusable ---- conditional weapon special/ability added at start of turn, check for any unprotected moveto or enter leave hex - deal with runelaying
+eoc physical endurance removes slow(check poison and other status)
+remove duplicate steelhive amla macros
+change steelhive sentient amlas to not rely on attack name
+add menagerie manbot and everything related, manbot recruitable, gales
+statue time limit
+remove assimilation from cyborgs
+remove initial [message ], if I can figure out how to, the message will go to lua so player AND observer can fire it only when he wants; if I cant, then I will just use global variables to keep track if you have already seen the message, consider select event / setting with id including version number, defaulting to show messages
+show start message once eohs-like way
+triplestrike and beam can damage petrified units, look pierce too, and what happens with xp. granade, cleave
+archaic update http://forums.wesnoth.org/viewtopic.php?f=19&t=27740#p587762
+use EoM elementals unicorn, for monsters maybe
+deal with archaic statues shadows
+cleave def description - made work on def
+limited some custom amlas amounts
+give EoM messanger halo, ceresian metropolitan, avians dove illuminates halo -- gave messanger inspire instead
+steelhive knockback, not knock to or through impassable
+latch jumps to wrong hex
+eoma troll xp, troll leader description is needlessly confusing
+consider old mummy images for level 2, use mummy-unbound-attack.png, lower level 0 mummy hp
+mummy penumbra doesnt work on dusk
+mummy: http://pastebin.com/ht66GbdK
+heroes cost: http://pastebin.com/bZPHZGpv
+whites: http://pastebin.com/bDyfNh34
+http://pastebin.com/ethRWSyK - that bug was for 2 factions in ME
+elementals: http://pastebin.com/mp5HvDDy
+Made EoMa repair stackable
+EoMa rune lord resists are ridiculous
+runemasters: http://pastebin.com/qjz7bU2z
+minoutaur: http://pastebin.com/YumBve1w
+frozen-general: http://pastebin.com/4EAESYBM
+elves: http://pastebin.com/dn25gq2t
+issaelfr: http://pastebin.com/DYQNZgRc
+brungar: http://pastebin.com/zy6n98xH
+SH welder and repairer http://forums.wesnoth.org/viewtopic.php?f=19&t=25274#p588389
+herbalist and preactitioner given more strikes like IPS suggested
+ice rune improver damages..
+EoMa mystical warrior impact addition
+EoS automaton line removed, moved, and renamed
+some triththa http://pastebin.com/6jRNMzE4
+clockwork: http://pastebin.com/nVHdRAY0
+orcei: http://pastebin.com/m0HptEKm
+increase vapor cost to 5, vapor description cost, base_unit, vapor can immediately attack after recruit
+EFM - Sea States alchemist needs to be easier to level
+check lightshifter change into leader, observer can fire lightshifter message, lightshifter zoc ellipse - give skirmisher to adjacent enemies, unless any real unit with zoc is controlling that hex -- just gave it same zoc as the one it tries to be
+1.13 nor 1.12.5 does NOT want @ -- removed with great regret
+ME mercenaries slasher pierce resist
+EoMa mara standing animation, strange behaviour happens only if you have haloing effects off
+heavy and grand summoner hammer, check full tree
+archaic deckmaster slow attack stronger.. 14-2
+EoS dwarvish smith power
+When night begins, Master of Darkness is the most powerful unit in the game. - EFM has 16-4, so here I must have at least 17-4
+drones cost including heroes, even if getting moved to dark legion
+plague descriptions - override default macro
+descriptions from https://docs.google.com/document/d/1stMxicXrPnKEMbAsYoL12gzfzYmeJzJhbpE0g0lmCM4/edit
+merge EE and EoC sylvans, just move wose shaman to EoC
+blue mage seems a lot weaker than blue engineer, blue novice seems weak too, reduce engineer assimilation attack damage
+make enthrall not depend on race, but special
+vector, enthrall not on rpg
+vector require less than 30% of max hp
+remove zoc from khthon thralls
+reduce thrall %hp
+khthon lower resists
+http://pastebin.com/aMMHedux khthon
+removed vector from toads and ducks
+vector help description
+leadership to anakes daemon
+SH knockback not knock to hex movecost is over 19
+bull speed lowered
+EotF Nordhris to rpg and heroes and integrate, to randoms list
+I believe I saw one addon with baby yeti... see if I can recolor BEEM bigfoot
+dark warrior more damage slayer
+give flat to tentacle
+some ranged spiders
+use some EoM elementals
+there is 1.10 scorpion image, one can be level 2
+skeletal dragon as alternate advance from normal dragon
+enthrall village
+Version numbers to 4.14
+added sidhe bears to heroes
+Nordhris balance: http://pastebin.com/4AX7N9yT
+if poison then http://forums.wesnoth.org/viewtopic.php?f=21&t=38907&p=555863&hilit=poison#p555863 and not in rpg, there default poison, include both specials, but conditional
+change description to bleeding
+enthrallment work only on your own turn, vector might still happen on attacker
+Arendian druid sprite is replaced by warlock in fight.
+Dark thudnerblade as possible progression from shdowdancer(level 4 of it).
+Shadowdancer exp requirement to level 4 from level 3 increased to 180 from 100(alma)
+ice seal image file name
+removed get_hit_sound=
+units/monsters/spider-little2* images need fixing
+monsters faction to EE http://forum.wesnoth.org/viewtopic.php?f=19&t=25274&p=586965#p586956 accepted not ready for inclusion, needs massive work http://forums.wesnoth.org/viewtopic.php?f=19&t=41787&p=588422#p588422
+use_beta_features=yes
+I want to revert to 1.10 mudcrawler images
+EOS cuttlefish changed somehow
+mind fog changed to be more understandable
+This is custom unit. Its coding and art were done by Ravana, SiegeTank and various others.
+fixed some faulty image references
+coldwaves description and not in rpg
+phantom archer xp+10
+ST: drones http://pastebin.com/x6NdFTyz
+latronis-venator mp-1
+frenzy doesnt work
+EoC chaos: http://pastebin.com/Y13hXrDg
+Thanks to ChaosRider for monsters images
+say that enthrallment doesnt conflict with creep war anymore
+monsters faction lists, delete ogres unless said otherwise
+ST: Monsters http://pastebin.com/hhKECWmT

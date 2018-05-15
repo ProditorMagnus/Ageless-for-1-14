@@ -1,0 +1,724 @@
+#################################################################################
+#  *    *    *    *   A G E L E S S   E R A   C R E D I T S   *    *    *    *  #
+#################################################################################
+
+Almost all credit goes to the original creators of the all the factions in my era which are listed below.
+
+CREATOR
+-- Mnewton1
+
+CURRENT MAINTAINER/HEADCODER
+-- Ravana
+
+
+CODERS
+-- SandyBeaches
+-- Pentarctagon
+-- LightFighter
+-- AlaskanAvenger
+
+
+CONTRIBUTERS
+-- Juan- - Some coding and balancing.
+-- RenoOfTurks - Some coding and balancing.
+-- IPS - A lot of balancing tips and bug reports.
+-- SiegeTank - Balance of factions as a whole.
+
+
+PLAY TESTERS
+-- Darklady
+-- RenoOfTurks
+-- MattDakka
+-- Juan-
+
+
+SPECIAL THANKS
+-- DerTod - Made a script that found most, if not all advances_to errors and image path errors.
+-- Garunda - Bug reports.
+-- Reepurr - Added TC to the EOM Keeper and the EOM Djinn, Windherder, and Zephyr.
+-- LightFighter - Updated Aragwaithi code to work with new sprites and animations.
+-- bchan - Reported bugs with the Enchanters.
+-- Pentarctagon - Updated the Era of Magic units.
+
+CURRENT ERAS / FACTIONS
+-- Default Era
+-- Extended Era
+-- Archaic Era
+-- Era of the Future
+-- Era of Four Moons
+-- BEEM
+-- Yokai
+-- Dark Legion
+-- Desert Elves
+-- Steelhive
+-- Frozen
+-- Era of Myths
+-- Feudal Era
+-- Imperial Era
+-- Era of Strife
+-- Era of Magic
+-- Mercenaries Era
+
+
+
+###################################################################
+#  *    *    *    *   B E E M   C R E D I T S   *    *    *    *  #
+###################################################################
+
+CREATOR
+-- Michele <Voodoo> Angioni (http://wif.altervista.org/)
+
+
+WML HELP
+-- Mich - (Mortal Hit, Summon abilities, bugs, conversion from 1.4 -> 1.5)
+
+
+GRAPHICS
+-- Girgistian - (Official Forum) for his Orc Assassin's portrait
+-- Dibs - (Terror Hulk, Zombie, Vampires, Elder Necromancer, All Wood Warriors)
+-- Tydeus - Creator of the Calydonians and Anakes. Suggestions for the logo. Creator of the Troll Boulderlobber, Chaos Dark Knight, Elemental Rock Titan, Elemental Vine Monster, Twilight Bat, Air Elemental, Earth Elemental, Skeleton Mages, Ghoul, Corpse Gatherer, Whig, and the Mohrg. Helped me from the beginning of the BEEM. His meticulous, accurate and assiduous work helped BEEM to grow up with high-quality completely new factions and improving the old ones.
+
+
+HEAD TESTER
+-- Baro_st
+
+
+SUGGESTIONS / TESTING
+-- Dret
+-- Vecna
+-- Relive
+-- pOnt
+-- Marico
+-- Reika
+-- l'Oscuro
+-- Declino
+-- RockScorpion
+-- Max
+-- Gadenz
+-- MattDakka
+-- Alexio
+-- Ax07ghost
+-- Cololi
+-- Rex Umbrarum
+-- Cataphract
+-- Legowarrior
+-- Kalis
+-- Delfador
+-- Galldrian
+-- Inferno8
+-- Peter the Great
+-- Thrawn
+-- LizardFolk
+-- Tarragon,Giygas,Providence
+-- 5dPZ
+-- Cretin
+-- Xalzar
+-- Creeds
+-- Ryorin
+-- Arctic
+-- Cloud
+-- -stf-
+-- Kyi_the_bard
+-- C.
+
+------------------------------------------------
+
+CRIMSON ERA - CALYDONIANS & ANAKES FACTIONS
+HEAD CODER
+-- Darkest
+
+IDEA / UNIT DESIGN / GRAPHICS
+-- Tydeus
+
+BALANCING TIPS
+-- Voodoo
+
+SPECIAL THANKS
+-- Mich - WML Help (mortal hit)
+-- W.I.F. - Test & tips
+
+------------------------------------------------
+
+SPECIAL THANKS:
+-- Extended Era
+-- Era of Myths
+-- Imperial Era
+-- Feudal Era
+-- Era of Magic
+-- Era of Strife
+-- Ageless Era - (just some images)
+-- The whole Italian community who followed my project, WIF - Wesnoth Italian Forum - http://wif.altervista.org/
+
+
+
+###################################################################################
+#  *    *    *    *   E X T E N D E D   E R A   C R E D I T S   *    *    *    *  #
+###################################################################################
+
+MAINTAINER
+-- Benoit Timbert (Noyga)
+
+CUSTOM UNITS
+-- Armageddon Drake: Neoriceisgood
+-- Bears: crwedman (Art) / Mythological or Truper (stats) / Erk (descriptions)
+-- Dwarven Wagons: Neoriceisgood (Art) / Noyga (stats)
+-- Dwarven Flying Machines: Neoriceisgood ? (Art) / Noyga (stats) / Inferno8 (Animations)
+-- Dwarvish Arcanister Line: Wayfarer/ Turin ?
+-- Dwarvish Runner Line: Wayfarer (Art) ? / Turin (stats) ?
+-- Naga Hunter: i don't know (from UtBS), additional frames from Verdanna
+-- Naga Guardians: i don't know (from UtBS)
+-- Naga Depthstalker : Sapient (Concept and Original Idea), Eternal (New Art)
+-- Troll Shaman: Asa Swain ? (Don't Know, from UBTS)
+-- Wose Shaman: I don't know :( Comes from Delfador's Memoir
+-- Fire Sprites/Spirits: Jb/Mythological (idea and stats), Shadow (graphics)
+-- Frost Wyrms: Jb/Mythological (idea and stats), Shadow (graphics), Kalis (descriptions)
+
+CHAOS FACTION
+IDEA / ART
+-- Neoriceisgood
+
+ART TWEAKS
+-- Megane
+-- Neoskel
+-- Shadow Master
+-- Wayfarer
+
+ORIGINAL CODE
+-- Akls
+
+BALANCING
+-- Pietro
+-- Noyga
+
+MISC DESCRIPTIONS
+-- Slug
+-- Dovolente
+
+
+KALIFA FACTION
+IDEA / DEVELOPER
+-- Noy
+
+ART
+-- Xan
+-- ijuric
+-- Eleazar
+
+VARIOUS IDEAS / HELP
+-- Soliton
+-- Doc Paterson
+-- Dragonking
+-- And others...
+
+
+SIDHE FACTION
+IDEA
+-- Thunderblade
+
+ART
+-- Neoriceisgood / Shadow
+
+BALANCING
+-- Causual User
+-- Noyga
+-- Oreb
+-- Truper
+-- Mythological
+
+DESCRIPTIONS
+-- Thunderblade
+-- Truper
+-- Temuchin Khan
+
+
+DARK ELVES FACTION
+IDEA
+-- Belwar
+
+CODER
+-- Assasin
+
+ORIGINAL GRAPHICS
+-- Warrior King
+-- Assasin
+
+NEW GRAPHICS
+-- Neoriceisgood
+
+BALANCING
+-- Noyga
+-- Truper
+
+
+SPECIAL THANKS
+-- Soliton
+-- Tomsik...
+-- Squirrels from the deep forest
+-- Spoons from the eerie table
+
+
+
+###################################################################################
+#  *    *    *    *   E R A   O F   M Y T H S   C R E D I T S   *    *    *    *  #
+###################################################################################
+ERA MAINTAINER
+-- JW
+
+CO-MAINTAINER
+-- Velensk
+
+SPECIAL THANKS
+-- Jester
+-- Velensk
+-- Eternal
+-- Mythological
+-- jb
+-- Lunar2
+-- Melon
+
+CAMPAIGN WRITERS
+-- Velensk
+
+PLAYTESTERS:
+-- JW
+-- Velensk
+-- Weeksy
+-- DDR
+-- Aethaeryn
+-- RAT400
+-- reloc
+-- everyone who has enjoyed playing the era and who has given feedback
+
+
+CELESTIALS
+  ORIGINAL IDEA
+  -- JW
+
+  FURTHER IDEAS
+  -- Cuyo
+  -- others
+
+  ART
+  -- Eternal
+  -- Ryorin
+  -- Neoriceisgood
+  -- others
+
+
+DEVLINGS
+  ORIGINAL IDEA / ART
+  -- dreampilot
+
+ELEMENTALS
+  ORIGINAL IDEA / ART
+  -- fmunoz
+  -- ??
+
+
+THERIANS
+  ORIGINAL IDEA
+  -- JW
+
+  ART
+  -- Melon
+  -- Eternal
+  -- Neoriceisgood
+  -- JW
+  -- Neoskel
+  -- others
+
+
+VAMPIRES
+  ORIGINAL IDIA
+  -- Jester
+
+  Art
+  -- Melon
+  -- Jester
+  -- Eternal
+
+
+WARGS
+  ORIGINAL IDEA
+  -- Shadowblitz
+
+  MODIFIED IDEA
+  -- Logan
+
+  FURTHER IDEAS
+  -- Doc Paterson
+  -- Jester
+  -- The Raven
+  -- JW
+
+  ART
+  -- Gargoyle Pillager
+  -- Inquisidor_Gado
+  -- Jester
+  -- Neoriceisgood
+  -- jb
+  -- Melon
+  -- JW
+
+
+WINDSONG
+  ORIGINAL IDEA / GRAPHICS
+  -- megane
+
+  DESCRIPTIONS
+  -- henkutsu
+
+
+
+###################################################################################
+#  *    *    *    *   E R A   O F   M A G I C   C R E D I T S   *    *    *    *  #
+###################################################################################
+IDEA / CREATOR / GRAPHICS
+inferno8
+
+ERA MAINTAINERS
+inferno8
+Espreon
+Alarantalara
+
+ART
+inferno8
+
+DESCRIPTIONS
+AzuSkyLigh (Summoners)
+Araja (corrections)
+sur.nhm (Dark Blood Alliance)
+CheeseLord (Runemasters)
+Slug (Barbarians)
+
+CODING
+Alarantalara
+Espreon
+fog_of_gold
+
+BALANCING
+Adris
+barowei
+dk
+fog_of_gold
+Froz
+jozio
+kalfat
+nikon
+Piko
+Poliuks
+Sagez
+salvor
+vul6
+wesfreak
+WindEnchanter
+X-Site
+
+ORGANIZING
+Alarantalara
+Espreon
+Mica
+-stf-
+Karambol
+
+TRANSLATIONS
+BioHazardX
+Drakefriend
+inferno8
+IWAI Masaharu
+Kelemen Zoltán
+Mountain_King
+
+SPECIAL THANKS
+All creators of: Era of Myths, Extended Era (dark elves concept), Imperial Era, Mercenaries Era
+
+Polish BfW community:
+(in alphabetical order)
+barowei (SRP support; BRP support; RIPLIB suggestions)
+dk
+dragon_warrior
+Froz (early balancing)
+Jah
+James Revan (Rhami concept)
+Karambol (stderr.txt suggestions)
+Poliuks (RIPLIB suggestions; BRP suggestions)
+Sagez (Jinns concept, active support)
+Serpent (originator Dark Blood Alliance)
+vetch (Eagle Eye)
+vul6 (WRP support)
+Werian
+Zaku
+
+official BfW forum users:
+(in alphabetical order)
+
+Aura (art advisory)
+Binaryquasar
+devas
+Fatquack (bugs finder)
+fog_of_gold (a lot of balancing suggestions)
+Gena
+lightdragonx
+lastdragon
+Mica
+Michchar
+mnewton1
+Quietus
+Peter The Great1
+Ravana
+Sandermatt
+Slug (Barbarians descriptions)
+-stf-
+Thrawn (original units names suggestions)
+Velensk (Alchemists -> Summoners)
+Vendanna (hydras and balancing)
+wesfreak (amazing balance suggestions)
+WindEnchanter (translations in the future)
+zacharias (traits removing idea)
+Zookeeper (WML support on the official forum)
+
+and all Era of Magic's fans.
+
+
+
+#####################################################################################
+#  *    *    *    *   E R A   O F   S T R I F E   C R E D I T S   *    *    *    *  #
+#####################################################################################
+Maintainer:
+Forrest (Jami) Schaeffer - Maintainer. Author of Eventide.
+
+Developers:
+AI - Author of the Tritha faction.
+Elrias - Author of Eltirians.
+Lizard - Author of Free Saurian Faction.
+Quietus - Author and sprite artist of the Minotaurs, sprite artist of the Elemental Monarchs.
+Espreon - Coder of the Minotaurs, author of the Elemental Monarchs.
+
+Artists:
+Jormungandr - Creator of the Saurian Sage+Mystic portrait.
+Battlestar  - Made the "Ice Shards" image.
+Espreon     - Made aura blast, aura halo, aura healing, sacred fire, divine lightning halos. Made the sacred fire, divine lightning, aura blast, minotaur staff, terra orbis, nature flare, kusarihgama 
+              and lizard tail attack icons. Made the nature flare, terra orbis, sacred fire and icicle projectiles. (Please note all of these except for the icicle projectiles are recolors of mainline images)
+              (The icicle projectile was derived from the Ice Crab sprite from the EoM)
+			  The Ice Maiden's ice shine halos are derived from the ice-halo.png images in mainline.
+Neorice     - We harvested his Graphics Library page
+
+Playtesters:
+grrr
+Weeksy
+Valenwood
+Velensk
+
+And a special thanks to:
+The Wesnoth Development Team - for creating a game we all love so much!
+
+The EoM Development Team - for helping get this idea off the ground.
+
+
+
+#############################################################################################
+#  *    *    *    *   E R A   O F   T H E   F U T U R E   C R E D I T S   *    *    *    *  #
+#############################################################################################
+This is a list of everyone that contributed to the Era of the Future, and what they do to contribute.
+
+
+Turuk
+-- Origional coder of the Era of the Future.
+-- Helped with unit descriptions for the Welkin.
+-- Came up with the name Welkin.
+-- No longer able to contribute due to being in the U.S. Armed Forces.
+
+
+Mirion147
+-- Head of Art for the Era's Factions.
+-- Made the origional unit descriptions for the Welkin.
+
+
+Huston
+-- Head of WML coding for the Era of the Future.
+-- Redid the coding for the Era files.
+-- Fixed bugs with the Welkin.
+-- Made origional release of the Era of the Future on the add-on server.
+-- Main person who makes releases.
+
+
+Pentarctagon
+-- Codes units
+-- Helps with Releases
+-- Origional coder of many units in the Brungar.
+-- Head of Balancing.
+-- Helps with unit descriptions.
+-- Map Contributor
+
+
+Wesfreak
+-- Contributed Baby Sea Turtle Sprite.
+-- Helps in testing.
+-- Continues to work on artwork.
+
+
+Xandria
+-- Revamps Unit Descriptions.
+-- Gives Balancing ideas.
+
+
+Zerovirus
+-- Art contributor to the Era of the Future.
+-- Contributions includes most of the Nordhris sprites and a few sprites for the Brungar
+
+
+
+###############################################################################
+#  *    *    *    *   F E U D A L   E R A   C R E D I T S   *    *    *    *  #
+###############################################################################
+ORGANIZATION
+-- Turin
+
+ARAGWAITHI FACTION
+IDEA
+-- Wayfarer
+-- Elvish Pillager
+
+ART
+-- Wayfarer
+
+
+CERESIAN LEAGUE FACTION
+IDEA
+-- Maeglin Dubh
+
+UNIT TREE
+-- furioso
+
+ART
+-- Turin
+
+
+
+###################################################################################
+#  *    *    *    *   I M P E R I A L   E R A   C R E D I T S   *    *    *    *  #
+###################################################################################
+ORGANIZATION
+-- Turin
+
+LAVINIAN LEGION FACTION
+IDEA
+-- Unsung
+
+HISTORICAL INFORMATION
+-- Unsung
+-- Temuchin Khan
+-- Aelius
+-- Probably several others
+
+ART
+-- Turin
+
+MARAUDERS FACTION
+IDEA
+-- Burnsaber
+-- Turin
+
+ART
+-- Disto
+-- Turin
+
+SIDHE FACTION
+IDEA
+-- Thunderblade
+
+ART
+-- Neoriceisgood
+-- Urs
+-- Wayfarer/Shadow
+
+ARENDIAN FACTION
+IDEA / ART
+-- Ranger M
+
+ORCEI GLADIATORS FACTION
+IDEA
+-- Temuchin Khan
+
+ART
+-- Turin
+
+ISSAELFR FACTION
+IDEA
+-- Xan
+
+ART
+-- Xan
+-- Turin
+
+CAVERNEI FACTION
+BASE
+-- Mainline Knalgan Alliance faction
+
+ADDITIONAL ART
+-- Urs
+
+
+
+#########################################################################################
+#  *    *    *    *   M E R C E N A R I E S   E R A   C R E D I T S   *    *    *    *  #
+#########################################################################################
+IDEA / HEAD CODER / GRAPHICS
+-- PsychoticKittens
+
+MAINTAINER
+-- Golbeeze - Voluntary Support, playtesting, errors, balancing
+
+SPECIAL THANKS
+-- Mythological - Helping with event tags, errors, and balancing
+-- Truper - Balancing and playtesting
+-- cycholka - Helping with event tags and errors voluntarily
+-- TL - Helping with playtesting, balancing, and support
+-- Mica - Support and playtesting
+-- Talares - Support and Playtesting
+-- The wesnoth staff for making such an awesome game
+-- And anyone else I forgot! =D
+
+
+
+#############################################################################################
+#  *    *    *    *   S T E E L H I V E   F A C T I O N   C R E D I T S   *    *    *    *  #
+#############################################################################################
+HEAD CODER:
+-- melinath
+
+IDEA / ART:
+-- Zerovirus
+
+SPECIAL THANKS:
+-- tsr for the team colored cancel x from the PresetAdvancement era.
+-- shadowmaster for attack icons from IftU.
+-- thespaceinvader for attack icons from IftU.
+-- doofus-01 for the Sear attack icon, taken from BMR.
+-- wesfreak for the recolor of the drake fire-breath projectile.
+
+
+
+#########################################################################################
+#  *    *    *    *   E R A  O F  F O U R  M O O N S   C R E D I T S   *    *    *    *  #
+#########################################################################################
+HEAD CODER:
+-- Velensk
+
+IDEA / ART:
+-- L. Shelby
+
+#############################################################################################
+#  *    *    *    *   F R O Z E N   F A C T I O N   C R E D I T S   *    *    *    *  #
+#############################################################################################
+ART:
+-- Zerovirus
+
+CODERS:
+-- ChaosRider
+-- Ravana
+-- Wender_BR
+
+BALANCE:
+-- SiegeTank
+-- Wender_BR

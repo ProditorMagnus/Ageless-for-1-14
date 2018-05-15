@@ -1,0 +1,60 @@
+Less edited changelog, didn't want to make in game one too long. ~Laela
+Jinn level 4 -> removed wrong drains if rpg era
+Summoners alignment to original
+Summoners summoned unit types to original
+Added Circle of Susceptibility
+ME Emperor's, ' to _
+Leviathan description, ; to , and Hipparchos from fancy ' to normal '
+AE enlightened_hiddenface capitalisation in rpg era
+EoMa rune warrior and rune lord had holy resist where should be arcane resist
+Removed sun follower from rpg era
+Dark Blood Alliance leader default from shaman
+Fixed all - in units ids
+AE Celestial Quester to level 2
+AE Equestrian Jockey,AE Equestrian Roamer from recruit list
+Increased xp for AE Khaganate Stoic,AE Khaganate Rigid,AE Khaganate Shieldbearer
+AE Blight Spore Hive cost greatly increased
+Movetypes EOM_lightfly EFM_riverman movetypes changed
+Fixed ids in rune aura event
+Basically everything mentioned in http://forums.wesnoth.org/viewtopic.php?f=19&t=25274
+Added terrapins advance
+Removed medusa witch petrify as it never ends
+possibly learn to use if defined for jinn as SiegeTank has good point, also brungar balance, if define work then for steelhive berserker too, didnt work that way so using normal vars
+EoMa battlemage hp
+# vector? - better remain as is
+Fleshpool bug
+Yokai ids prefixed with AE
+Rhamis devine to divine
+Saving era id to variable era_id
+Sky kingdom Sculptor, EoMa new units and faction, Tharis art
+Fixed problems with Statues
+Steelhive oculus line changed to mixed_fighter as that is in ai recruit pattern
+Added weapon special interrupt to AE Magni Secutor Leonis to compensate for almost no upgrade from level 2 to 3
+Conjurer cost 32->39
+Slavers fixed some def animations
+Alligator Rider experience increased
+Brungar units coastal reef def 0% -> 40% or what that unit should have had
+EFM faction select images fixed
+Awake changed to cleaner code, from EoMa
+Steam Berserker cost 19 -> 38
+Fanatic cost 18 -> 32
+Added EFM missing factions
+Weakened tamers
+Summoners to more EoMa like, both attacks and descriptions
+Welkin mages health somewhat changed
+Vector documentation --- hp = hp * 0.1 * [(victim level - attacker level + 1) * (-1,5) + 10]   &   there is 20% chance after hit that it works
+EoFM vigilante advance tree, level 3 screecher, swamp witch 6-3 changed
+Change randoms - option without EE. one possibility is creating functionality and letting people uncomment it --- done as on as default
+Fixed lightshifter
+Changed Cold Aura
+Archdaemon: melee dmg+1, health +7
+Buffed Desert Shyde
+Changed EoMa according to its changelog
+Lowered Ukian Attackdog damage
+Lowered Mummy line health
+Fixed ice bear movetype
+Changed Kharos Protector to not hurt Kirios
+# new avian faction - seems incomplete
+
+# race human and Human too long, group them, same for dwarves
+# maybe dimensional gate energy draining

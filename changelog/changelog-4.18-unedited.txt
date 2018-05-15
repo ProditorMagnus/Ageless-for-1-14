@@ -1,0 +1,52 @@
+Unified EoMa water ambush and EotF shallow submerge abilities. (but still having different SPECIAL_NOTES)
+Unified ME sand stalk and EotF beach home abilities. Now called sand ambush.
+Unified EoMa swamp ambush, ME sloughblend & EFM lurker abilities. Now called swamp prowl.
+Unified EoMa cave ambush and EE cavestalk. Now called cave ambush.
+Moved snow cover to general abilities, mountain ambush remains within the EoMa abilities.
+Improved terrain matching for many abilities.
+Unified EoMa hit_and_run abilitie with the one from ME. Me gave 4 MP back, now it's just 3 MP. Because of that, the one ME unit who uses it got +5 HP. But when I looked at it, it looked quite strong. Lvl2 with 55 HP now, 8-3 ranged, ambush, swamp ambush and hitandrun.
+fix Swamp Explorer movetype
+different naga Depthstalker image from The_Gnat
+different images for most emperors_guard units, did not change ryong, ryu
+emperors_guard ninja warrior has now concealment
+animations for several emperors_guard units
+new equestrians paladin image from taptap
+seeded alternate attack too to kamikaze
+merc highlanders to 50% frozen defense
+skeleton resists to EE death baron
+fix invalid dextrous trait for yokai faeries
+swarm spawn race displays with ^, from missing translation mark
+lamia warrior xp 100->70
+Devilhand has too low damage to have cursed - so remove cursed from 25-2 attack
+-1 mp to floating swords
+non possed-shadown blade swords to just 40% cold resistance
+nordhris upkeep changes need to be visible
+use http://units.wesnoth.org/1.12/Trinity/en_US/AR_Snow_Monkey.html image for small bigfoot
+removed AE_fut_brungar_Tamed_Tentacle_of_the_Deep and EoC bowman line
+when khthon turtle leaves shell, check if health is under 12
+make runelaying work for allies and enemies too
+add runelaying effects to description
+remove duplicated fearless trait of Overgrown Devling
+disable khthon turtle shell in RPG
+tribal sage, frentic shaman damage -1
+change sapper to depend on weapon special not unit type
+blight absorb keeps previous health when defending with absorbing attack, but not when normal attack. this is limitation of 1.12, will be fixed in 1.13 next release
+mind fog should actually be split to not duplicate magical
+move south-sea portraits to correct folder
+remove calls to missing FE iron golem animations
+EoC Elemental's summoners asked images from wrong folder
+move EE troll images to different folder to not conflict with core troll shaman
+fix warning engine: variable_info: invalid WML array index, electric_store[]
+fixed some logged wml warnings
+Add the deep elves, permission received
+Add the vilkai, permission received, lower fire weakness
+Add Rashy Era, permission received
+Add new EoMa
+EoC imps should not get both weak and strong
+energy draining setup event needs first_time_only=no, in original too, tell i8
+give monsters level 3 spider portait of level 2
+Fix Amoeba Spread range
+Dardonian Pillager club animation filename
+Overwrite default healing macros so that Magic Absorber stops them
+Use Blue Mage resists for Azure Mage
+Make Yokai and Slavers charm not cumulative for level 2+ units

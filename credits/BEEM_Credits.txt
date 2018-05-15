@@ -1,0 +1,85 @@
+- Balancing Extended Era Modification Credits -
+
+CREATOR
+-- Michele <Voodoo> Angioni (http://wif.altervista.org/)
+
+
+WML HELP
+-- Mich (Mortal Hit, Summon abilities, bugs, conversion from 1.4 -> 1.5)
+
+
+GRAPHICS
+-- Girgistian - (Official Forum) for his Orc Assassin's portrait
+-- Dibs - (Terror Hulk, Zombie, Vampires, Elder Necromancer, All Wood Warriors)
+-- Tydeus - Creator of the Calydonians and Anakes. Suggestions for the logo. Creator of the Troll Boulderlobber, Chaos Dark Knight, Elemental Rock Titan, Elemental Vine Monster, Twilight Bat, Air Elemental, Earth Elemental, Skeleton Mages, Ghoul, Corpse Gatherer, Whig, and the Mohrg. Helped me from the beginning of the BEEM. His meticulous, accurate and assiduous work helped BEEM to grow up with high-quality completely new factions and improving the old ones.
+
+
+HEAD TESTER
+Baro_st
+
+
+SUGGESTIONS / TESTING
+-- Dret
+-- Vecna
+-- Relive
+-- pOnt
+-- Marico
+-- Reika
+-- l'Oscuro
+-- Declino
+-- RockScorpion
+-- Max
+-- Gadenz
+-- MattDakka
+-- Alexio
+-- Ax07ghost
+-- Cololi
+-- Rex Umbrarum
+-- Cataphract
+-- Legowarrior
+-- Kalis
+-- Delfador
+-- Galldrian
+-- Inferno8
+-- Peter the Great
+-- Thrawn
+-- LizardFolk
+-- Tarragon,Giygas,Providence
+-- 5dPZ
+-- Cretin
+-- Xalzar
+-- Creeds
+-- Ryorin
+-- Arctic
+-- Cloud
+-- -stf-
+-- Kyi_the_bard
+-- C.
+
+------------------------------------------------
+
+CRIMSON ERA - CALYDONIANS & ANAKES FACTIONS
+HEAD CODER
+-- Darkest
+
+IDEA / UNIT DESIGN / GRAPHICS
+-- Tydeus
+
+BALANCING TIPS
+-- Voodoo
+
+SPECIAL THANKS
+-- Mich - WML Help (mortal hit)
+-- W.I.F. - Test & tips
+
+------------------------------------------------
+
+SPECIAL THANKS:
+-- Extended Era
+-- Era of Myths
+-- Imperial Era
+-- Feudal Era
+-- Era of Magic
+-- Era of Strife
+-- Ageless Era - (just some images)
+-- The whole Italian community who followed my project, WIF - Wesnoth Italian Forum - http://wif.altervista.org/

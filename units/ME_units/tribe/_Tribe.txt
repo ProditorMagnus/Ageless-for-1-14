@@ -1,0 +1,1106 @@
+
+
+Explanation	Lvl 1			Lvl 2			Lvl 3			Lvl 4
+
+Footsldr	*Warrior ----------------> Endemic ---------------> Indigenous 
+					>
+Leader					> Tribalist -------------> Chieftain 
+
+Heavy		*Scalper ----------------> Decapitator -----------> Executioner
+
+Archer		*Bowman -----------------> Archer ----------------> Native
+
+Poison		*Dartsman ---------------> Hunter ----------------> Slayer
+
+Boomer		*Boomerang Thrower ------> Rang-er
+
+Feeding/torch	*Cook -------------------> Cannibal
+
+healing		Shaman -----------------> Medicine Man
+					>
+poison/slow/drain			> Witch Doctor ----------> Voodoo Doctor
+		
+boat		*Rowboat ----------------> Canoe
+					>
+					> Fishing Boat
+
+scout		*Wallaby ----------------> Kangaroo --------------> Boxer
+
+
+
+Name: Warrior
+Advance From: null
+Advance To: Endemic,Tribalist
+Race: Human
+Abilities:
+HP: 32
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Spear melee (pierce) 6-3
+Spear ranged (pierce) 8-1
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+Name: Endemic
+Advance From: Warrior
+Advance To: Indigenous
+Race: Human
+Abilities: Skirmish
+HP: 52
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Spear melee (pierce) 7-4
+Spear ranged (pierce) 8-2
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+Name: Indigenous
+Advance From: Endemic
+Advance To: null
+Race: Human
+Abilities: Skirmish
+HP: 68
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Spear melee (pierce) 9-5
+Spear ranged (pierce) 8-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+Name: Tribalist
+Advance From: Warrior
+Advance To: Chieftain
+Race: Human
+Abilities: Leadership
+HP: 48
+XP:
+Moves: 6
+COst:
+Alignment:
+Description:
+Attacks:
+Spear melee (pierce) 8-3
+Spear ranged (pierce) 11-1
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+Name: Chieftain
+Advance From: Tribalist
+Advance To: null
+Race: Human
+Abilities: Leadership
+HP: 60
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Spear melee (pierce) 13-3
+Spear ranged (pierce) 11-2
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+Name: Scalper
+Advance From: null
+Advance To: Decapitator
+Race: Human
+Abilities:
+HP: 40
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Axe melee (blade) 10-2
+Resists:
+arcane- 20%
+blade- 10%
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 50%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 1 60%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 2 40%
+Cave- 2 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100
+
+Name: Decapitator
+Advance From: Scalper
+Advance To: Executioner
+Race: Human
+Abilities: Terror
+HP: 58
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Tomahawk melee (blade) 10-3
+Tomahawk ranged (blade) 8-1
+Resists:
+arcane- 20%
+blade- 20%
+cold-
+fire-
+impact- 10%
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 50%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 1 60%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 2 40%
+Cave- 2 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100
+
+Name: Executioner
+Advance From: Decapitator
+Advance To: null
+Race: Human
+Abilities: Terror
+HP: 75
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Tomahawk melee (blade) 16-3
+Macuahuitl melee (impact) 38-1
+Tomahawk ranged (blade) 9-2
+Resists:
+arcane- 20%
+blade- 30%
+cold-
+fire-
+impact- 20%
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 50%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 1 60%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 2 40%
+Cave- 2 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100
+
+Name: Bowman
+Advance From: null
+Advance To: Archer
+Race: Human
+Abilities:
+HP: 28
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+fist melee (impact) 3-2
+bow ranged (pierce) 5-4
+Resists:
+arcane- 20%
+blade- -10%
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+
+Name: Archer
+Advance From: Bowman
+Advance To: Native
+Race: Human
+Abilities: Ambush
+HP: 42
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+fist melee (impact) 4-3
+bow ranged (pierce) 7-5
+Resists:
+arcane- 20%
+blade- -10%
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+
+Name: Native
+Advance From: Archer
+Advance To: null
+Race: Human
+Abilities: Ambush
+HP: 54
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+fist melee (impact) 5-4
+bow ranged (pierce) 9-6
+Resists:
+arcane- 20%
+blade- -10%
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+
+Name: Dartsman
+Advance From: null
+Advance To: Hunter
+Race: Human
+Abilities:
+HP: 30
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+fist melee (impact) 2-2
+blowgun ranged (pierce) 8-2 poison
+Resists:
+arcane- 20%
+blade- -10%
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+
+Name: Hunter
+Advance From: Dartsman
+Advance To: Slayer
+Race: Human
+Abilities:
+HP: 48
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+dagger melee (blade) 6-2
+blowgun ranged (pierce) 14-2 poison marksman
+Resists:
+arcane- 20%
+blade- -10%
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+
+Name: Slayer
+Advance From: Hunter
+Advance To: null
+Race: Human
+Abilities:
+HP: 60
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+dagger melee (blade) 7-3
+blowgun ranged (pierce) 14-3 poison marksman
+Resists:
+arcane- 20%
+blade- -10%
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+
+Name: Boomerang Thrower
+Advance From: null
+Advance To: Rang-er
+Race: Human
+Abilities:
+HP: 30
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+boomerang ranged impact 5-1 return
+Resists:
+arcane- 20%
+blade- -10%
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 60%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+
+Name: Rang-er
+Advance From:
+Advance To:
+Race:
+Abilities:
+HP: 45
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+boomerang ranged impact 5-2 return
+Resists:
+arcane- 20%
+blade- -10%
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 60%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+
+Name: Cook
+Advance From: null
+Advance To: Maneater
+Race: Human
+Abilities:
+HP: 38
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+torch melee (fire) 6-3
+Resists:
+arcane- 20%
+blade-
+cold- -10%
+fire- 10%
+impact- 10%
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 60%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+
+Name: Cannibal
+Advance From: Cook
+Advance To: null
+Race: Human
+Abilities: Feeding
+HP: 58
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Torch melee (fire) 10-3
+Bite melee (pierce) 8-2 drain
+Resists:
+arcane- 20%
+blade- 10%
+cold- -10%
+fire- 20%
+impact- 20%
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 60%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+
+Name: Shaman
+Advance From: null
+Advance To: Medicineman, Witchdoctor
+Race: Human
+Abilities: Heals +4
+HP: 22
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+staff melee (impact) 5-1
+curse ranged (cold) 4-4 poison magical
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+
+Name: Medicineman
+Advance From: Shaman
+Advance To: null
+Race: Human
+Abilities: Cures Heals +8
+HP: 40
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+staff melee (impact) 7-1
+curse ranged (cold) 6-4 poison magical
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+
+Name: Witchdoctor
+Advance From: Shaman
+Advance To: 
+Race: Human
+Abilities: Heals +4
+HP: 44
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+staff melee (impact) 5-2
+curse ranged (cold) 6-4 poison slow
+Resists:
+arcane- 20%
+blade-
+cold- 10%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+Name: Voodoo Doctor
+Advance From: Witchdoctor
+Advance To: null
+Race: Human
+Abilities:
+HP: 52
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+staff melee (impact) 6-3
+staff melee (cold) 8-2 drain
+curse ranged (cold) 8-5 poison slow
+voodoo ranged (fire) 15-2
+voodoo ranged (pierce) 10-3
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 2 40%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 1 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+
+Name: Rowboat
+Advance From: null
+Advance To: Canoe
+Race: Human
+Abilities:
+HP: 36
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+oar melee (impact) 7-2
+bow ranged (pierce) 6-3
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- -30%
+impact- 10%
+pierce- 20%
+Terrain:
+Snow- 4 10%
+Castle- 1 50%
+Sand- 2 30%
+Village- 1 40%
+Grassland- 2 30%
+Forest- 2 50%
+Hills- 3 30%
+Mountains- 100 20%
+Chasm- 100 30%
+Swamp- 2 30%
+Mushroom- 3 30%
+Cave- 3 20%
+Deep Water- 1 40%
+Shallow Water- 1 40%
+Cave Wall- 100
+
+Name: Canoe
+Advance From: Rowboat
+Advance To: null
+Race: Human
+Abilities:
+HP: 50
+XP:
+Moves: 7
+COst:
+Alignment: neutral
+Description:
+Attacks:
+oar melee (impact) 9-2
+bow ranged (pierce) 8-3 marksman
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- -30%
+impact- 10%
+pierce- 20%
+Terrain:
+Snow- 4 10%
+Castle- 1 50%
+Sand- 2 30%
+Village- 1 40%
+Grassland- 2 30%
+Forest- 2 50%
+Hills- 3 30%
+Mountains- 100 20%
+Chasm- 100 30%
+Swamp- 2 30%
+Mushroom- 3 30%
+Cave- 3 20%
+Deep Water- 1 40%
+Shallow Water- 1 40%
+Cave Wall- 100
+
+Name: Fishing Boat
+Advance From: Rowboat
+Advance To: null
+Race: Human
+Abilities:
+HP: 46
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+oar melee (impact) 7-2
+harpoon melee (pierce) 10-2
+harpoon ranged (pierce) 6-3
+net ranged (pierce) 4-2 slow
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- -30%
+impact- 10%
+pierce- 20%
+Terrain:
+Snow- 4 10%
+Castle- 1 50%
+Sand- 2 30%
+Village- 1 40%
+Grassland- 2 30%
+Forest- 2 50%
+Hills- 3 30%
+Mountains- 100 20%
+Chasm- 100 30%
+Swamp- 2 30%
+Mushroom- 3 30%
+Cave- 3 20%
+Deep Water- 1 40%
+Shallow Water- 1 50%
+Cave Wall- 100
+
+Name: Wallaby
+Advance From: null
+Advance To: Kangaroo
+Race: Monster
+Abilities:
+HP:28
+XP:
+Moves:8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+kick melee (impact) 8-2
+Resists:
+arcane- 10%
+blade-
+cold-
+fire- -20%
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 40%
+Sand- 2 40%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 1 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 40%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+Name: Kangaroo
+Advance From: Wallaby
+Advance To: Boxer
+Race: Monster
+Abilities:
+HP: 40
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+kick melee (impact) 14-2
+Resists:
+arcane- 10%
+blade-
+cold-
+fire- -20%
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 40%
+Sand- 1 40%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 40%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100
+
+Name: Boxer
+Advance From: Kangaroo
+Advance To:
+Race: Monster
+Abilities:
+HP: 58
+XP:
+Moves: 9
+COst:
+Alignment: neutral
+Description:
+Attacks:
+kick melee (impact) 18-2
+punch melee (impact) 10-4
+Resists:
+arcane- 10%
+blade-
+cold-
+fire- -20%
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 40%
+Sand- 1 40%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 30%
+Mushroom- 2 40%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100

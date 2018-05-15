@@ -1,0 +1,19 @@
+Version 4.15:
+* Units and Factions
+    * New units for Ukians, Khthon and Menagerie
+    * Water Dryad, Infernai berserkers, Therian Hunter made recruitable
+* Graphics
+    * New images from Archaic Era
+    * New images from Era of Four Moons
+    * Added mistakenly deleted wind daemon images
+    * Fixed some missing attack icons
+* Balance
+    * Devilings, Yokai by IPS
+    * Many small changes
+* Bug Fixes
+    * Fixed Stone Statue line causing crash
+    * Removed knockback message on occupied hex
+    * Fixed Wisdomkeeper leadership level
+    * Vector 30% health limit
+* Other
+    * Beta feature is publicly available now

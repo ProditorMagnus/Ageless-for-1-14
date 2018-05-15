@@ -1,0 +1,21 @@
+Version 4.11:
+* Eras and Factions
+    * Era of Magic: Added Destroyers faction and Sculptor unit
+    * Era of Four Moons: Added Dalefolk, Freemen, Pygmies, Whites
+* Graphics
+    * Tharis: New images for most units
+* Balance
+    * Medusa Witch: Removed petrifies as it never ended, added sculpt instead
+    * Secutor Leonis: Added ranged attack with weapon special interrupt
+    * Conjurer: Cost 32 -> 39, Alligator Rider: Experience 33 -> 43, Battlemage: Hitpoints 25 -> 30, Spore Hive: Cost 8 -> 32, Steam Berserker cost 19 -> 38, Fanatic cost 18 -> 32, Stoic line: Increased xp requirements, Tamers: Lowered attacks
+* Bug Fixes
+    * Fixed unit ids with symbols that caused corrupt savegames
+    * Fixed Sky Kingdom Hidden Face, Dark Blood Alliance Clan Leader in faction select
+    * Movetypes for Loyalist and Light Spirit
+    * Fixed Rune Aura, Fleshpool Sacrifice, Brungar Coastal Reef, Holy resists, Statue line petrify, Lightshifter, Added missing unit Bone Snapper
+* Other
+    * Updated EoMa part to be more like is in EoMa
+    * Era id is now available in variable era_id
+    * Added more options for random faction
+* Outstanding issues
+    * Organizing this era and balance

@@ -1,0 +1,17 @@
+Version 4.14:
+* Eras and Factions
+    * NEW: Nordhris to EotF
+    * NEW: Monsters to EE
+    * Merged EE Sylvans to EoC
+* Graphics
+    * Placeholder projectiles to many units
+* Extensive changes
+    * Whites, Phantoms, Elementals, Runemasters, Minotaurs, Frozen, Sylvans, Issaelfr, Brungar, Triththa, Clockwork, Orcei, Khthon balance by SiegeTank
+    * Avians, Blight, Cult, Emperors Guard, Enchanters, Equestrians, Highlanders, Hive, Slavers, Tribe projectiles and sounds by tommy2teeth
+    * Vector and Enthrallment massively weakened
+* Bug Fixes
+    * Runelaying does not prevent undo anymore
+    * Dwarf Smith leveling does not end game anymore
+* Other
+    * Immediate era version check of all player at start
+    * <span color='orange'>This start message will only be shown once. After that it can be opened by selecting and deselecting your unit quickly several times</span>

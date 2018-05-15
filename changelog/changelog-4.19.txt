@@ -1,0 +1,12 @@
+Version 4.19:
+* Graphics
+    * Fix images of Sea States, Thin Blood and Mummy
+* Balance
+    * Chevalier, Deep Elves, Whites, Sea States, Imperialists, EFM Highlanders, Freemen, Darklanders, Dalefolk
+* Bug Fixes
+    * Rashy Era fixed for RPG and Heroes
+    * Charm no longer crashes game
+    * Ukian Green and Black Witch movement
+    * Dragons Breath OOS
+* Other
+    * This should be the last version for 1.12 server

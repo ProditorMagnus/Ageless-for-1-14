@@ -1,0 +1,19 @@
+Version 4.12.1:
+* Graphics
+    * Reduced Jinn attack animation, fixed Tharis Witch ones
+    * New archaic portraits
+* Balance
+    * Started implementing Terrapin balance
+    * Arrow Fury increased to 50%, Buffed Steel Larva
+    * Some units stats increased
+* Critical Bug Fixes
+    * Fleshpool Sacrifice
+    * Hex cure on village
+    * Despair impassable movetypes
+* Bug Fixes
+    * Penumbra, Adamantine shell, Wyvern traits
+    * RPG era Tharis faction select image
+* Other
+    * Awake happens before unit is dead, xp changed from kill xp to 4
+    * Latch warns about false positive oos
+    * Dropping support of wesnoth 1.10

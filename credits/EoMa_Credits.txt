@@ -1,0 +1,107 @@
+- Era of Magic Credits -
+
+IDEA / CREATOR / GRAPHICS
+inferno8
+
+ERA MAINTAINERS
+inferno8
+Espreon
+Alarantalara
+
+ART
+inferno8
+
+DESCRIPTIONS
+AzuSkyLigh (Summoners)
+Araja (corrections)
+sur.nhm (Dark Blood Alliance)
+CheeseLord (Runemasters)
+Slug (Barbarians)
+
+CODING
+Alarantalara
+Espreon
+fog_of_gold
+
+BALANCING
+Adris
+barowei
+dk
+fog_of_gold
+Froz
+jozio
+kalfat
+nikon
+Piko
+Poliuks
+Sagez
+salvor
+vul6
+wesfreak
+WindEnchanter
+X-Site
+
+ORGANIZING
+Alarantalara
+Espreon
+Mica
+-stf-
+Karambol
+
+TRANSLATIONS
+BioHazardX
+Drakefriend
+inferno8
+IWAI Masaharu
+Kelemen Zoltán
+Mountain_King
+
+SPECIAL THANKS
+All creators of: Era of Myths, Extended Era (dark elves concept), Imperial Era, Mercenaries Era
+
+Polish BfW community:
+(in alphabetical order)
+barowei (SRP support; BRP support; RIPLIB suggestions)
+dk
+dragon_warrior
+Froz (early balancing)
+Jah
+James Revan (Rhami concept)
+Karambol (stderr.txt suggestions)
+Poliuks (RIPLIB suggestions; BRP suggestions)
+Sagez (Jinns concept, active support)
+Serpent (originator Dark Blood Alliance)
+vetch (Eagle Eye)
+vul6 (WRP support)
+Werian
+Zaku
+
+official BfW forum users:
+(in alphabetical order)
+
+Aura (art advisory)
+Binaryquasar
+devas
+Fatquack (bugs finder)
+fog_of_gold (a lot of balancing suggestions)
+Gena
+lightdragonx
+lastdragon
+Mica
+Michchar
+mnewton1
+Quietus
+Peter The Great1
+Ravana
+Sandermatt
+Slug (Barbarians descriptions)
+-stf-
+Thrawn (original units names suggestions)
+Velensk (Alchemists -> Summoners)
+Vendanna (hydras and balancing)
+wesfreak (amazing balance suggestions)
+WindEnchanter (translations in the future)
+zacharias (traits removing idea)
+Zookeeper (WML support on the official forum)
+
+and all Era of Magic's fans.

@@ -1,0 +1,1471 @@
+Level 0			Level 1			Level 2 		Level 3			Level 4
+
+
+*Disciple ---------------> Oracle ---------------> Prophet -------------> Seer
+			>
+			> Cleric ---------------> Clergyman -----------> Bishop
+			>
+			> Arbiter --------------> Theurgist -----------> Judgementor
+			>
+			> Wizard ---------------> Warlock -------------> Sorcerer
+			>
+			> Mage -----------------> Magus
+			>
+			> Darkmage -------------> Necromantic ---------> Quietus
+
+Scholar ----------------> Sage -----------------> Savant --------------> Omnipotent
+			>
+			> Magnetmancer ---------> Gravitymancer -------> Telekinetic
+			>
+			> *Summoner -------------> Conjurer
+			>
+			> *Alchemist ------------> Occultist ------------> Infernal Mage
+
+			*Monk -------------------> Guru ----------------> Enlightened
+
+			*Blindman ---------------> Martial Artist ------> Master
+
+			*Beholder ---------------> Evileye
+
+Name: Disciple
+Advance From: null
+Advance To: Oracle, Cleric, Arbiter, Wizard, Mage, Darkmage
+Race:Human
+Abilities:
+HP: 18
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Staff melee (impact) 3-1
+Missile ranged (fire) 4-3 magical
+Resists:
+arcane-20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Oracle
+Advance From: Disciple
+Advance To: Prophet
+Race:Human
+Abilities:
+HP: 30
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+staff melee (impact) 5-1
+lightbeam ranged (arcane) 4-5 magical
+Resists:
+arcane- 40%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Prophet
+Advance From: Oracle
+Advance To: Seer
+Race:Human
+Abilities:
+HP: 48
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+staff melee (impact) 7-1
+touch melee (arcane) 5-2 slow
+lightbeam ranged (arcane) 5-6 magical
+Resists:
+arcane- 40%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Seer
+Advance From: Prophet
+Advance To: null
+Race:Human
+Abilities:
+HP: 58
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+staff melee (impact) 8-2
+touch melee (arcane) 7-3 slow
+lightbeam ranged (arcane) 7-8 magical
+Resists:
+arcane- 60%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Cleric
+Advance From: Disciple
+Advance To: Clergyman
+Race:Human
+Abilities: heal +4
+HP: 22
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+staff melee (impact) 5-3
+Resists:
+arcane- 40%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Clergyman
+Advance From: Cleric
+Advance To: Bishop
+Race:Human
+Abilities: Heals +8 Cures
+HP: 40
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+staff melee (impact) 6-4
+Resists:
+arcane- 40%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Bishop
+Advance From: Clergyman
+Advance To: null
+Race:Human
+Abilities: Heals +8 Cures Illuminates
+HP: 53
+XP:
+Moves: 5
+COst:
+Alignment:
+Description:
+Attacks:
+staff melee (impact) 8-4
+censor melee (arcane) 20-1
+Resists:
+arcane- 60%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Arbiter
+Advance From: Disciple
+Advance To: Theurgist
+Race:Human
+Abilities:
+HP: 38
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+holysword melee (arcane) 10-2
+judgement ranged (arcane) 15-1
+Resists:
+arcane- 40%
+blade- 10%
+cold-
+fire-
+impact- 10%
+pierce- 10%
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Theurgist
+Advance From: Arbiter
+Advance To: Judgementor
+Race:Human
+Abilities:
+HP: 56
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+holysword melee (arcane) 10-3
+judgement ranged (arcane) 24-1
+Resists:
+arcane- 40%
+blade- 10%
+cold-
+fire-
+impact- 10%
+pierce- 10%
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Judgementor
+Advance From: Theurgist
+Advance To: null
+Race:Human
+Abilities:
+HP: 73
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+holysword melee (arcane) 16-3
+judgement ranged (arcane) 36-1
+Resists:
+arcane- 60%
+blade- 10%
+cold-
+fire-
+impact- 10%
+pierce- 10%
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Wizard
+Advance From: Disciple
+Advance To: Warlock
+Race:Human
+Abilities:
+HP: 28
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+staff melee (impact) 4-2
+fireball ranged (fire) 5-4 magical
+Resists:
+arcane- 20%
+blade-
+cold-
+fire- 20%
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Warlock
+Advance From: Wizard
+Advance To: Sorcerer
+Race:Human
+Abilities:
+HP: 50
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+staff melee (impact) 6-2
+fireball ranged (fire) 8-4 magical
+Resists:
+arcane- 20%
+blade-
+cold-
+fire- 20%
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Sorcerer
+Advance From: Warlock
+Advance To: null
+Race:Human
+Abilities:
+HP: 62
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+staff melee (impact) 8-3
+fireball ranged (fire) 9-5 magical
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire- 40%
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Mage
+Advance From: Disciple
+Advance To: Magus
+Race:Human
+Abilities: Teleport
+HP: 28
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+staff melee (impact) 6-1
+fireball ranged (fire) 7-3 magical
+Resists:
+arcane- 20%
+blade-
+cold-
+fire- 10%
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Magus
+Advance From: Mage
+Advance To: null
+Race:Human
+Abilities: Teleport
+HP: 50
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+staff melee (impact) 10-1
+fireball ranged (fire) 12-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire- 30%
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Darkmage
+Advance From: Disciple
+Advance To: Necromantic
+Race:Human
+Abilities:
+HP: 30
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+staff melee (impact) 4-2
+chillwave ranged (cold) 12-2 magical
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 50%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Necromantic
+Advance From: Darkmage
+Advance To: Quietus
+Race:Human
+Abilities:
+HP: 58
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+staff melee (impact) 5-3 plague
+chillwave ranged (cold) 18-2 magical
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Quietus
+Advance From: Necromantic
+Advance To: null
+Race:Human
+Abilities:
+HP: 68
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+staff melee (impact) 6-4 plague poison
+chillwave ranged (cold) 18-3 magical
+deathblast ranged (cold) 30-1
+Resists:
+arcane- 20%
+blade-
+cold- 40%
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Scholar
+Advance From: null
+Advance To: Sage, Magnetmancer, Summoner, Alchemist
+Race: Human
+Abilities:
+HP: 10
+XP: 4
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+study 0-0 ranged
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Sage
+Advance From: Scholar
+Advance To: Seer
+Race: Human
+Abilities: Leadership
+HP: 24
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+staff melee (impact) 7-2
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 40%
+Castle-1 70%
+Sand-2 40%
+Village-1 70%
+Grassland-1 50%
+Forest-2 60%
+Hills-2 60%
+Mountains-3 70%
+Chasm-100 50%
+Swamp-3 40%
+Mushroom-3 60%
+Cave-2 50%
+Deep Water-100 30%
+Shallow Water-3 40%
+Cave Wall-100 50%
+
+
+Name: Savant
+Advance From: Sage
+Advance To: Omnipotent
+Race:Human
+Abilities: Leadership
+HP: 40
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+staff melee (impact) 8-2
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 50%
+Castle-1 70%
+Sand-2 50%
+Village-1 70%
+Grassland-1 60%
+Forest-2 70%
+Hills-2 70%
+Mountains-3 70%
+Chasm-100 60%
+Swamp-3 50%
+Mushroom-3 70%
+Cave-2 60%
+Deep Water-100 40%
+Shallow Water-3 50%
+Cave Wall-100 60%
+
+Name: Omniscient
+Advance From: Savant
+Advance To: null
+Race: Human
+Abilities: Leadership
+HP: 53
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+staff melee (impact) 9-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 60%
+Castle-1 70%
+Sand-2 60%
+Village-1 70%
+Grassland-1 70%
+Forest-2 70%
+Hills-2 70%
+Mountains-3 70%
+Chasm-100 70%
+Swamp-3 60%
+Mushroom-3 70%
+Cave-2 70%
+Deep Water-100 50%
+Shallow Water-3 60%
+Cave Wall-100 70%
+
+Name: Magnetmancer
+Advance From: Scholar
+Advance To: Gravitymancer, Atronach
+Race:Human
+Abilities:
+HP: 28
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+metalshards ranged (blade) 3-8 magical
+Resists:
+arcane- 20%
+blade- 30%
+cold-
+fire-
+impact- 10%
+pierce- 30%
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 60%
+Mountains-3 70%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Atronach
+Advance From: Magnetmancer
+Advance To: null
+Race: Human
+Abilities: Regeneration
+HP: 50
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+metalfist melee (impact) 20-2 magical swarm
+metalshards ranged (blade) 4-12 magical swarm
+Resists:
+arcane-
+blade- 50%
+cold- 20%
+fire-
+impact- 50%
+pierce- 50%
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 60%
+Mountains-3 70%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Gravitymancer
+Advance From: Magnetmancer
+Advance To: Telekinetic
+Race:Human
+Abilities:
+HP: 40
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+metalshards ranged (blade) 5-8 magical
+rocks ranged (impact) 6-5 magical
+gravityboost ranged (impact) 20-1 magical slows
+Resists:
+arcane- 20%
+blade- 40%
+cold-
+fire-
+impact- 30%
+pierce- 40%
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 60%
+Mountains-3 70%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Telekinetic
+Advance From: Gravitymancer
+Advance To: null
+Race:Human
+Abilities:
+HP: 48
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+metalshards ranged (blade) 7-8 magical
+rocks ranged (impact) 10-5
+gravitycrush ranged (impact) 40-1 magical slows
+Resists:
+arcane- 20%
+blade- 50%
+cold-
+fire-
+impact- 50%
+pierce- 50%
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 60%
+Mountains-3 70%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Summoner
+Advance From: scholar
+Advance To: Conjurer
+Race: Human
+Abilities:
+HP: 50
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Summon Gryphon melee (blade) 11-2
+Summon Spearman melee (pierce) 7-3 firststrike
+Summon Troll melee (impact) 10-2
+Summon Drake ranged (fire) 5-4
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Conjurer
+Advance From: Summoner
+Advance To: null
+Race: Human
+Abilities:
+HP: 65
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Summon Gryphon melee (blade) 15-2
+Summon Pikeman melee (pierce) 10-3
+Summon Troll melee (impact) 14-2
+Summon Ghost melee (arcane) 5-4 drains
+Summon Drake ranged (fire) 6-5
+Summon Elf ranged (pierce) 6-4 marksman
+Summon Ghost ranged (cold) 4-3 drains
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Scientist
+Advance From: Scholar
+Advance To: Occultist
+Race:Human
+Abilities:
+HP: 25
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+explosive ranged (fire) 20-1 magical
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Occultist
+Advance From: Scientist
+Advance To: Alchemist
+Race:
+Abilities:
+HP: 45
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+explosive ranged (fire) 32-1 magical
+Resists:
+arcane- 20%
+blade-
+cold-
+fire- 20%
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Alchemist
+Advance From: Occultist
+Advance To: null
+Race: Human
+Abilities: Regenerates
+HP: 54
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+explosives ranged (fire) 50-1 magical
+Resists:
+arcane- 20%
+blade-
+cold-
+fire- 50%
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Monk
+Advance From: null
+Advance To: Guru
+Race:Human
+Abilities:
+HP: 38
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+fist melee (impact) 4-4
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact- 20%
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Guru
+Advance From: Monk
+Advance To: Enlightened
+Race:Human
+Abilities:
+HP: 54
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+fist melee (impact) 7-4
+Resists:
+arcane- 20%
+blade- 10%
+cold-
+fire-
+impact- 20%
+pierce- 10%
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Enlightened
+Advance From: Guru
+Advance To: null
+Race:Human
+Abilities:
+HP: 65
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+fist melee (impact) 8-5
+Resists:
+arcane- 40%
+blade- 20%
+cold-
+fire-
+impact- 40%
+pierce- 20%
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Blindman
+Advance From: null
+Advance To: Martial Artist
+Race:Human
+Abilities:
+HP: 35
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+fist melee (impact) 6-5 blind
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 40%
+Sand-2 20%
+Village-1 40%
+Grassland-1 20%
+Forest-2 30%
+Hills-2 30%
+Mountains-3 40%
+Chasm-100 20%
+Swamp-3 20%
+Mushroom-3 30%
+Cave-2 20%
+Deep Water-100 10%
+Shallow Water-3 20%
+Cave Wall-100 20%
+
+Name: Master
+Advance From: Blindman
+Advance To: null
+Race:Human
+Abilities:
+HP: 50
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+fist melee (impact) 8-5 counter
+leapkick melee (impact) 15-1 charge
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-2 20%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 40%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Beholder
+Advance From: null
+Advance To: Evileye
+Race: Monster
+Abilities:
+HP: 30
+XP:
+Moves: 9
+COst:
+Alignment: choatic
+Description:
+Attacks:
+tentacle melee (impact) 5-2
+stare ranged (cold) 7-2
+Resists:
+arcane-
+blade-
+cold- 20%
+fire-
+impact- -20%
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 1 50%
+
+Name: Evil eye
+Advance From: Beholder
+Advance To: null
+Race: Monster
+Abilities:
+HP: 45
+XP:
+Moves: 10
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+tentacle melee (impact) 10-2
+stare ranged (cold) 9-3
+Resists:
+arcane-
+blade-
+cold- 20%
+fire-
+impact- -20%
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 1 50%

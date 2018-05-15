@@ -1,0 +1,452 @@
+
+AE Frozen Human
+In overall we’re doing a lot of standarization to the faction. It has too many weird stats balancing which IPS is not right with.
+All frozen humans might be 50% frozen defense instead of 60% in order to prevent unfair adventage in certain types of maps.
+-> Same terrain defense nefs for Nordhiris faction too, and ME highlanders
+
+
+Frozen Golem 
+We’re reworking this unit in order to make it a more scout role one. Cold attack type is already common in this faction. 
+Apart of standardization some resistances and -10% frozen defense to all units from this faction.
+Health from 26 to 28
+Flying Golem Movement from 7 to 8
+Frosty Diamond power damage from 9-2 to 7-2
+Blade resistance from 30% to 20%
+Pierce resistance from 40% to 30%
+
+
+Frost Gunner
+We’re fixing some disadvantage of this unit when advancing from lv1 to lv2 (like worse resistances), but at the cost of some damage. 
+Just to ensure a better version of the lv1 one (apart of 1 Movement loss)
+Health from 42 to 38
+Movement is still 7 (meaning it loses 1 MP when advancing)
+Cold spikes damage from 12-2 to 10-2
+Thrown frozen spikes from 5-6 to 5-5
+Blade resistance from -10% to 10%
+Fire resistance from -30% to -20%
+Impact resistance from 10% to 0%
+XP from 100 to 86 (60 at 70% modifier)
+Price from 34 to 30
+
+Frost Gunner Master
+Health from 56 to 50
+Cold spikes damage from 15-2 to 14-2
+Thrown frozen spikes from 5-7 to 6-6
+Blade resistance from -10% to 15%
+Cold resistance from 20% to 40%
+Fire resistance is still -30% (as previously)
+Impact resistance is still 10% (as previously)
+Price from 56 to 52
+
+Berserker Golem
+Actually being really but really overpowered unit. An unit that for sure is annoying to deal againist. Severe reworks in order to fix many balance issues.
+Health from 32 to 36
+Movement from 7 to 5
+Frosty Crazy Blades damage from 6-3 to 8-3
+Cold crazy blades damage from 6-4 to 6-3
+Blade resistance from 30% to 20%
+Cold resistance from 20% to 40%
+Pierce resistance from 40% to 30%
+All terrain defenses are now -10% their actual value!!
+Coment: with this it’s meant to deal more damage alike taking more damage, more expected from a unit with berserk special.
+
+
+Ice Golem
+We’re going to fix some irregularities in this line. Making this unit more in the tank role instead in heavy damage dealer, mostly at higher levels.
+Health from 38 to 40
+Cold fist damage from 8-2 to 7-2 (considering itself has an aura that lowers enemy cold res)
+
+Big Ice Golem
+Health from 49 to 54
+Cold Fist damage from 12-2 to 10-2
+Price from 34 to 32
+
+Ice Golem King
+Health from 72 to 80
+Cold fist damage from 16-2 to 13-2
+
+Ice Golem Titan
+Health from 85 to 105
+Heavy Fist damage from 35-2 to 30-2
+Cold Fist damage from 20-2 to 15-2
+
+Frost Student
+Among most cost efficient mages in the ageless era… few nerfs to lv1
+Cold Touch damage from 5-2 to 4-2
+Arcane resistance from 10% to 0%
+Blade/Impact resistance from 0% to -10%
+
+Frost Mage 
+Some nerfs to Frost Mage too.
+Magical staff damage from 5-3 to 6-2
+Ancient Flame damage from 10-3 to 8-3
+Arcane resistance from 20% to 10%
+Cold resistance from 40% to 45%
+Fire resistance from -10% to -15%
+Blade/Impact resistance from 0% to -5%
+
+Frost Sorceress
+Health from 44 to 48
+Magical staff damage from 8-3 to 9-2
+Ancient Flame damage from 15-3 to 11-3
+Arcane resistance from 30% to 20%
+Cold resistance from 40% to 50%
+Fire resistance from 0% to -10%
+
+
+Frost Witch
+Freeze touch damage from 8-2 to 5-2
+Arcane resistance from 20% to 5%
+Cold resistance from 40% to 45%
+Fire resistance from -10% to -15%
+Blade/Impact resistance from 0% to -5%
+
+
+Frost Queen
+Freeze touch damage from 9-2 to 7-2
+Piercing Frozen Soul damage from 20-2 to 17-2
+Arcane resistance from 30% to 10%
+Cold resistance from 50% to 55%
+Fire resistance from 0% to -10%
+Blade/Impact resistance from 0% to -5%
+
+
+Frost Spearman
+Health from 35 to 36
+Arcane resistance from -20% to -10%
+Fire resistance from -20% to -10%
+
+Frost Lanceman
+Thrown Spear damage from 11-1 to 9-1
+Blade resistance from 10% to 15%
+Pierce resistance from 20% to 25%
+Price from 32 to 28
+
+
+Frost Lance Master
+Frosty Thrown spear from 15-1 to 12-1
+Fire resistance from 0% to -5%
+Blade resistance from 10% to 15%
+Pierce resistance from 20% to 25%
+Impact resistance from -10% to -5%
+Price from 52 to 48
+
+
+Frost Warrior
+13-3 is almost in the peak of lv2 damage (which Deathblade only beats with 8-5 but has no lv3). Let’s change some stats…
+Health from 44 to 42
+Frosty Sword damage from 13-3 to 12-3
+Price from 30 to 32
+
+
+Frost Shooter
+Health from 43 to 38
+Frosty Dagger from 8-2 to 6-2
+Cold Bow damage from 14-2 to 12-2
+Impact resistance from 10% to 0%
+
+
+Frost Fury Shooter
+Frosty dagger damage from 9-2 to 8-2
+Cold Bow damage from 14-3 to 12-3
+Impact resistance from -10% to 0%
+
+Frost Rider
+Kinda slow but actually overpowered considering its cost. Let’s standardize.
+Health from 42 to 38
+Head damage from 9-2 to 8-2
+Sword damage from 7-3 to 6-3
+Impact resistance from -10% to 0%
+Pierce resistance from 10% to 0%
+
+
+Frost Knight
+Health from 55 to 50
+Sword damage from 12-3 to 9-4 (already one unit with 12-3 blade in the faction)
+Head damage from 14-2 to 12-2
+Blade resistance from 30% to 25%
+Impact resistance from 0% to 10%
+Pierce resistance from 20% to 10%
+Price from  38 to 36
+
+
+
+BEEM – Calydonians 
+It’s said that Calydonians are a way too weak, blade/pierce/impact/fire in their palette of attack types, but no magicians.
+Faction needs to be more attractive in overall. Faction will be strongered for future versions of Ageless.
+
+Hoplites
+Health from 36 to 38
+NEW ATACK: Spear 8-2 pierce mele (first strike)
+Price from 16 to 17
+
+
+Tassiarch
+Health from 52 to 46
+Movement from 4 to 5
+NEW ATACK: Javelin 8-1 pierce ranged
+NORMAL DEFENSES/MOVEMENT COSTS (same as spearman) considering he has no longer steadfast.
+
+Strategos
+Movement from 4 to 5
+NORMAL DEFENSES/MOVEMENT COSTS (same as spearman) considering he has no longer steadfast.
+Xiphos damage from 9-4 to 8-5
+NEW ATACK:  Javelin 11-1 pierce ranged
+Price from 50 to 54
+
+
+
+Dioian Swordsman
+Actually extremely underpowered unit … underperforms a lot next to ulfseker. We’re reworking him into the rage(3) family instead of berserk. 
+With this we can improve his cost efficiency.
+Health from 26 to 28
+Sword is now 5-4 +marksman
+Rampage is now 5-3 +Rage(3)
+Flat defense from 30% to 40%
+Blade/Impact resistances from 10% to 0%
+
+Dioian Veteran
+Sword is now 8-4 +marksman
+Rampage is now 8-3 +Rage(3)
+Flat defense from 30% to 40%
+Blade/Impact resistances are still 10%
+XP from 82 to 100
+Price from 42 to 40
+
+Dioian Swordmaster
+Sword is now 11-4 +marksman
+Rampage is now 9-3 +marksman +Rage(3)
+Flat defense from 30% to 40%
+Castle defense from 50% to 60%
+Blade/Impact resistance from 10% to 15%
+Pierce resistance from -10% to 0%
+Price from 58 to 60
+
+Peltast
+Impact resistance from -20% to -10%
+
+Veteran Peltast
+Blade resistance from -10% to -5%
+Impact resistance from -20% to -5%
+
+Thracian Peltast
+Health from 46 to 52
+Blade resistance from -10% to 0%
+Impact resistance from -20% to 0%
+
+Dardanian Warrior
+Impact + Fire attacks doesn’t isn’t a very strong synergy. Increasing damage dealt from torch
+Torch damage from 5-3 to 6-3
+
+Dardanian Pillager
+NEW ATACK: Torch thrown 5-1 fire ranged
+Fire/Impact resistances from 0% to 10%
+Price from 26 to 27
+
+Dardanian Ravager
+NEW ATACK: Torch thrown 7-1 fire ranged
+Fire resistance from 0% to 20%
+Impact resistance from 0% to 10%
+
+Toxotes
+Mele damage from 4-2 to 5-2
+
+Cretan Toxotes
+Mele damage from 5-3 to 6-3
+
+Gymnet
+Blade resistance from -20% to -15%
+Cold resistance from 0% to 10%
+
+Rhodian Slinger
+NEW ATACK: Punch 4-2 mele impact
+Blade resistance from -20% to -10%
+Cold resistance from 0% to 10%
+
+Hipparch
+Price from 34 to 36
+
+Epihipparch
+Price from 54 to 58
+
+
+
+EoC - Dark Legion
+We're fixing some balance irregularities in this faction. Some units are overperforming meaning they need nerfs.
+
+Bowman
+Health from 33 to 34
+Hatchet damage from 6-2 to 5-2
+Bow damage (poison) from 5-2 to 6-2
+price from 14 to 15
+
+Longbowman
+Bow damage (poison) from 5-3 to 6-3
+XP from 68 to 75
+Price from 26 to 28
+
+Heavy Longbowman
+Bow damage from 10-4 to 11-4
+Bow damage (poison) from 5-4 to 7-4
+Price from 46 to 49
+
+Sentry Drone
+Considering it has 50% flat defense and 50% everywhere else... will give it few weaknesses.
+Blade/Impact weakness from 0% to -5%
+Cold resistance from 0% to -10%
+Pierce weakness from 0% to -10%
+Price from 26 to 28
+
+Enforcer Drone
+Terrain versality is good, not being considered at all. Not meant to absorb that much damage... Compesating with -10% cold resistance.
+Price from 49 to 52
+
+Assault Drone
+Actually its damages EXCESIVELY good, considering that 9-3 in one range is by itself a lv2 damage... apart of (not so) lesser nerfs.
+Movement from 6 to 5 (armor costs movement, logic no?)
+Claws damage from 9-3 to 7-3
+Blade/Pierce/Cold resistances from 10% to 0%
+Price from 28 to 29
+
+War Drone
+Mele damage from 12-3 to 9-3
+Blade/Cold resistances from 20% to 10%
+Price from 50 to 52
+
+Pillager
+Cool extras: fire resistance from 0% to 10%
+
+Runner Drone
+Price from 15 to 16
+
+Protector Drone
+Overperforming unit, the use of steadfast/precision specials is a way too generous for the purpose of the unit... we're surely nerfing it.
+Health from 36 to 39.
+Fangs damage from 9-2 to 7-2
+Energy Shock damage from 9-3 to 8-3
+Pierce resistance from 30% to 10% (considering steadfast it's an harsh nerf)
+Coment: A very Needed nerf to make Rayblade a considerable option too...
+
+
+Rayblade
+Price from 32 to 27
+
+Stormblade
+A fix, lv2 has 30% blade resistance but lv3 has only 10% blade resistance ??? modifications.
+Blade resistance from 10% to 30%
+Pierce resistance from 30% to 20%
+Price from 58 to 50
+
+Champion
+Seemed too boring to me that it was the exact same thing that Royal Guard which isn't a bad unit but ... come on... more diferences!
+Health from 74 to 78
+Movement from 6 to 5
+Blade/Impact resistances from 20% to 25%
+
+Fighter
+Excesively overpowered considering it's a fine fighter with LEADERSHIP... nerfing
+Health from 50 to 46
+Movement from 6 to 5
+Razor Chakram damage from 6-3 to 7-2
+Pierce resistance from 10% to 0%
+XP from 70 to 80
+Price from 28 to 32
+Coment: still much better than lieutenant and elvish captain. He was that much overpowered that even after nerfs he got more expensive LOL
+
+Warrior
+Health from 70 to 60
+Razor Chakram damage from 8-3 to 10-2
+Price from 48 to 54
+
+Berserker
+This is one of the most overpowered berserks in the whole Ageless era. Regular Lv2 damage with no defense handicaps or weaknesses and
+NORMAL DEFENSES... Massive nerf over him.
+Health from 46 to 48
+Movement from 6 to 5
+Broadsword damage from 10-3 to 9-3
+Pierce resistance from 0% to -10%
+Village/Mountains defense from 60% to 50%
+Forest/Hill/Mushroom defense from 50% to 40%
+Price from 30 to 32
+Coment: well used this unit is still worth a lot! being 11-3 at night well used takes much less damage in retaliation than berserkers.
+
+Halberdier
+Just a little nerf to not make him a completely superior version of loyalist's pikeman lol
+Pierce resistance from 40% to 30%
+Price from 25 to 26
+
+Deathmaster
+In order to make him diferent from loyalist's halberdier we will make small changes.
+Halberd damage from 15-3 to 16-3 pierce +first strike
+Halberd damage from 19-2 to 21-2 blade
+Pierce resistance from 40% to 30%
+Price from 44 to 46
+
+Gunner
+Can be compared to loyalist's javaliner, but this one has lv3 advancement which looks fair to me and (maybe) overpriced.
+Price from 27 to 26
+
+Elite Gunner
+Health from 55 to 58
+Price from 45 to 46
+
+Crusher
+Health from 45 to 48
+Damage from 12-3 to 11-3
+Impact resistance from 0% to 10%
+
+
+
+MERCS - Emperor's Guard
+Few nerfs and fair price modifications for Era of heroes.
+
+Black Belt price from 50 to 53
+
+Ninja Warrior Price from 32 to 29
+Shinobi Price from 50 to 52
+
+Ninja Assasin Price from 28 to 31
+
+Kyushuryu Price from 47 to 53 (pierce+fire mixes in very diferent damage dispertion is a good reasson for price increase)
+
+Ryu
+Ryu and advancements have now 50% sand defense & 40% unwalkable defense. 
+mele damage from 6-2 to 5-2
+Arcane resistance from -10% to -20%
+
+Tatsu 
+Mele damage from 7-3 to 6-3
+Arcane resistance from -10% to -20%
+price from 32 to 34
+
+Ryong
+Mele damage from 9-3 to 8-3
+Arcane resistance from -10% to -20%
+Price from 54 to 57
+Coment: 8 movement & flying with 11-4 fire ranged is something to consider as high quality unit
+
+Imperial Guard
+Price from 48 to 52
+
+Demonic Samurai
+Price from 48 to 58
+Coment: lv3 terror... reprices this unit a lot ...
+
+Monofu price from 26 to 32
+Coment: you can't pretend buying a high quality lv2 unit at the price of a regular lv2 unit. Emperor's guard must feel expensive at higher levels.
+
+Tsuwamono price from 48 to 52
+Coment: Almost in the same tier than Dwarvish Lord.
+
+Shuriken Thrower
+Sickle damage from 4-2 to 5-2
+Sickle is now PIERCE damage (already too much blade dmg in the faction) 
+Shuriken damage from 2-8 to 3-5
+Coment: preventing early game damage output abuse in lv1 in certain maps, costs more than bowman for less ranged damage... increased mele dmg.
+
+Starshower
+Rebalancing this unit. Doesn't feel like a ranged unit with that lv2 ranged damage, but mele is oddly annoying to deal againist.
+Grappling hook damage from 8-2 to 6-2 (first strike + slow, duuuh... doesn't need damage at all)
+Shuriken damage from 3-8 to 4-7
+
+

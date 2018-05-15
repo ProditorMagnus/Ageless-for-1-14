@@ -1,0 +1,1214 @@
+Other:
+http://sykotikscarecrow.deviantart.com/art/The-Hero-12510335
+http://aaronsimscompany.deviantart.com/art/Costume-Design-2-80300499
+http://aaronsimscompany.deviantart.com/art/Costume-Design-1-80300435
+
+Blight:
+http://suarezart.deviantart.com/art/Fat-Zombie-60450064		fetid
+http://7th-seal.deviantart.com/art/The-Ghoul-48473945		fetid
+http://7th-seal.deviantart.com/art/T-103-Stage-2-Inks-66066492	fetid + http://7th-seal.deviantart.com/art/T-Ne-Stage-2-Inks-66066803 head
+http://7th-seal.deviantart.com/art/Creature-48472883		dismembered
+
+Abilities to do:
+Latch (when this unit kills a unit replace it with a cadaver)
+Graverobber (1/5th of the enemies health is added to yours when you kill a unit, this can go over your max)
+Sacrifice (heal other units 12 hp but lose 6 hp for each unit healed)
+Split (when hit with blade on defence spawn a level 0 unit in a random adjacent hex)
+Spread
+Weaken (unit damage = unit hp/strikes
+
+		Lvl 0			Lvl 1			Lvl 2			Lvl 3			Lvl 4
+
+Feeding/drain	Amoeba -------------------> Slime ----------------> Blob
+					>
+Ranged					> Acid
+					>
+Split					> Ooze
+
+disease		Microbe ----------------> Bacteria
+
+infect/plague	Parasite ---------------> Virus
+					>
+drain/latch				> Leech
+
+kamikaze	Seeded
+
+plague		Infected ---------------> Infested -------------> Plagued --------------> Blighted
+
+plague,drain,feeding			Cadaver ----------------> Zombie ---------------> Flesh-Eater
+
+Poison heavy				Fetid ------------------> Rancid ---------------> Putrid
+								>
+graverobber							> Dismembered
+		
+Archer					Host -------------------> Spore Hive
+
+Scout, Nightstalk			Infected Hound ---------> Rotten Hound ---------> Howler
+
+Swimmer,Drain				Dark Current -----------> Black Tide -----------> The Undertow
+								>
+Sacrifice							> Fleshpool
+
+
+
+Name: Amoeba
+Advance From: null
+Advance To: Slime, Acid, Ooze
+Race: Blight
+Abilities:
+HP: 10
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Absorb melee (impact) 10-1 drain weaken (reverse swarm, damage is % hp)
+Resists:
+arcane- -20%
+blade- 10%
+cold- -50%
+fire- -100%
+impact- 70%
+pierce- 70%
+Terrain:
+Snow- 3 20%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 40%
+Chasm- 100 30%
+Swamp- 2 50%
+Mushroom- 2 40%
+Cave- 2 40%
+Deep Water- 2 40%
+Shallow Water- 2 40%
+Cave Wall- 100 30%
+
+Name: Slime
+Advance From: amoeba
+Advance To: blob
+Race: Blight
+Abilities: regenerates
+HP: 28
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Absorb melee (impact) 14-2 drain weaken
+Resists:
+arcane- -20%
+blade- 10%
+cold- -50%
+fire- -100%
+impact- 70%
+pierce- 70%
+Terrain:
+Snow- 3 20%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 40%
+Chasm- 100 30%
+Swamp- 2 50%
+Mushroom- 2 40%
+Cave- 2 40%
+Deep Water- 2 40%
+Shallow Water- 2 40%
+Cave Wall- 100 30%
+
+Name: Blob
+Advance From: Slime
+Advance To: null
+Race: Blight
+Abilities: regenerates
+HP: 40
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Absorb melee (impact) 20-2 drain weaken
+Resists:
+arcane- -20%
+blade- 10%
+cold- -50%
+fire- -100%
+impact- 70%
+pierce- 70%
+Terrain:
+Snow- 3 20%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 40%
+Chasm- 100 30%
+Swamp- 2 50%
+Mushroom- 2 40%
+Cave- 2 40%
+Deep Water- 2 40%
+Shallow Water- 2 40%
+Cave Wall- 100 30%
+
+Name: Acid
+Advance From: amoeba
+Advance To: null
+Race: Blight
+Abilities: Corrosive (when struck enemy takes 2 fire damage)
+HP: 30
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Absorb melee (fire) 15-1 drain weaken
+Acidspray ranged (fire) 5-6
+Resists:
+arcane- -20%
+blade- 10%
+cold- -100%
+fire- -50
+impact- 70%
+pierce- 70%
+Terrain:
+Snow- 3 20%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 40%
+Chasm- 100 30%
+Swamp- 2 50%
+Mushroom- 2 40%
+Cave- 2 40%
+Deep Water- 2 40%
+Shallow Water- 2 40%
+Cave Wall- 100 30%
+
+Name: Ooze
+Advance From: amoeba
+Advance To: null
+Race: Blight
+Abilities: Split (when struck by blade damage, if there is an open hex adjacent a blob appears with hp equal to the amount of damage taken)
+HP: 24
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Absorb melee (impact) 12-1 drain weaken
+Resists:
+arcane- -20%
+blade- 10%
+cold- -50%
+fire- -100%
+impact- 70%
+pierce- 70%
+Terrain:
+Snow- 3 20%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 40%
+Chasm- 100 30%
+Swamp- 2 50%
+Mushroom- 2 40%
+Cave- 2 40%
+Deep Water- 2 40%
+Shallow Water- 2 40%
+Cave Wall- 100 30%
+
+Name: Microbe
+Advance From: null
+Advance To: Bacterium
+Race: Blight
+Abilities:
+HP: 10
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+infect melee (impact) 1-1 disease
+Resists:
+arcane- 0%
+blade- 20%
+cold- -50%
+fire- -50%
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 3 20%
+Castle- 1 50%
+Sand- 3 20%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 50%
+Chasm- 100 40%
+Swamp- 2 60%
+Mushroom- 2 50%
+Cave- 2 50%
+Deep Water- 2 50%
+Shallow Water- 2 50%
+Cave Wall- 100 40%
+
+Name: Bacterium
+Advance From: Microbe
+Advance To: null
+Race: Blight
+Abilities: Spreads (any non blight living creature next to this unit is diseased at the beggining of its turn)
+HP: 20
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+infect melee (impact) 1-3 disease
+Resists:
+arcane- 0%
+blade- 20%
+cold- -50%
+fire- -50%
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 3 20%
+Castle- 1 50%
+Sand- 3 20%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 50%
+Chasm- 100 40%
+Swamp- 2 60%
+Mushroom- 2 50%
+Cave- 2 50%
+Deep Water- 2 50%
+Shallow Water- 2 50%
+Cave Wall- 100 40%
+
+Name: Parasite
+Advance From: null
+Advance To: Virus, Leech
+Race: Blight
+Abilities:
+HP: 15
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (blade) 4-3 plague (parasite)
+latch melee (pierce) 10-1 kamikaze (hitonly) infect (cadaver)
+Resists:
+arcane- 0%
+blade- 20%
+cold- -50%
+fire- -50%
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 3 20%
+Castle- 1 50%
+Sand- 3 20%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 50%
+Chasm- 100 40%
+Swamp- 2 60%
+Mushroom- 2 50%
+Cave- 2 50%
+Deep Water- 2 50%
+Shallow Water- 2 50%
+Cave Wall- 100 40%
+
+Name: Virus
+Advance From: Parasite
+Advance To: null
+Race: Blight
+Abilities:
+HP: 28
+XP:
+Moves: 7
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (blade) 7-3 plague (parasite)
+latch melee (pierce) 20-1 kamikaze (hitonly) infect (cadaver)
+Resists:
+arcane- 0%
+blade- 20%
+cold- -50%
+fire- -50%
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 3 20%
+Castle- 1 50%
+Sand- 3 20%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 50%
+Chasm- 100 40%
+Swamp- 2 60%
+Mushroom- 2 50%
+Cave- 2 50%
+Deep Water- 2 50%
+Shallow Water- 2 50%
+Cave Wall- 100 40%
+
+Name: Leech
+Advance From: parasite
+Advance To: null
+Race: Blight
+Abilities:
+HP: 32
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (blade) 6-4 drain plague (parasite)
+Resists:
+arcane- 0%
+blade- 30%
+cold- -50%
+fire- -50%
+impact- 20%
+pierce- 30%
+Terrain:
+Snow- 3 20%
+Castle- 1 50%
+Sand- 3 20%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 50%
+Chasm- 100 40%
+Swamp- 2 60%
+Mushroom- 2 50%
+Cave- 2 50%
+Deep Water- 2 50%
+Shallow Water- 2 50%
+Cave Wall- 100 40%
+
+Name: Seeded
+Advance From: null
+Advance To: null
+Race: Blight
+Abilities:
+HP: 18
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Explode melee (impact) 20-1 suicide plague (seeded)
+Resists:
+arcane- -10%
+blade- -10%
+cold-
+fire- -20%
+impact-
+pierce- -10%
+Terrain:
+Snow- 3 20%
+Castle- 1 50%
+Sand- 3 20%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 50%
+Chasm- 100 40%
+Swamp- 2 60%
+Mushroom- 2 50%
+Cave- 2 50%
+Deep Water- 2 50%
+Shallow Water- 2 50%
+Cave Wall- 100 40%
+
+Name: Infected
+Advance From: null
+Advance To: Infested
+Race: Blight
+Abilities:
+HP: 20
+XP:
+Moves: 4
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+touch melee (impact) 6-2 plague (infected)
+Resists:
+arcane- 0%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 2 40%
+Mushroom- 2 50%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 2 30%
+Cave Wall- 100 40%
+
+Name: Infested
+Advance From: Infected
+Advance To: Plagued
+Race: Blight
+Abilities:
+HP: 32
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+touch melee (impact) 7-3 plague (infected)
+Resists:
+arcane- 0%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 2 40%
+Mushroom- 2 50%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 2 30%
+Cave Wall- 100 40%
+
+Name: Plagued
+Advance From: Infested
+Advance To: Blighted
+Race: Blight
+Abilities:
+HP: 48
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+touch melee (impact) 10-3 plague (infected)
+Resists:
+arcane- 0%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 2 40%
+Mushroom- 2 50%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 2 30%
+Cave Wall- 100 40%
+
+Name: Blighted
+Advance From: Plagued
+Advance To: null
+Race: Blight
+Abilities:
+HP: 62
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+touch melee (impact) 15-3 plague (infected)
+Resists:
+arcane- 0%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 2 40%
+Mushroom- 2 50%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 2 30%
+Cave Wall- 100 40%
+
+Name: Fetid
+Advance From: null
+Advance To: Rancid, Dismembered
+Race: Undead
+Abilities:
+HP: 38
+XP:
+Moves: 4
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 9-2
+touch melee (impact) 7-2 plague (infected)
+Resists:
+arcane- -20%
+blade- 20%
+cold- 70%
+fire- -20%
+impact- 20%
+pierce- 30%
+Terrain:
+Snow- 3 10%
+Castle- 1 50%
+Sand- 3 10%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 2 30%
+Mushroom- 2 40%
+Cave- 2 30%
+Deep Water- 3 10%
+Shallow Water- 2 20%
+Cave Wall- 100 30%
+
+Name: Rancid
+Advance From: Fetid
+Advance To: Putrid
+Race: Undead
+Abilities: Terror
+HP: 52
+XP:
+Moves: 4
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 15-2
+touch melee (impact) 12-2 plague (infected)
+Resists:
+arcane- -20%
+blade- 20%
+cold- 70%
+fire- -20%
+impact- 20%
+pierce- 40%
+Terrain:
+Snow- 3 10%
+Castle- 1 50%
+Sand- 3 10%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 2 30%
+Mushroom- 2 40%
+Cave- 2 30%
+Deep Water- 3 10%
+Shallow Water- 2 20%
+Cave Wall- 100 30%
+
+Name: Putrid
+Advance From: Rancid
+Advance To: null
+Race: Undead
+Abilities: Terror
+HP: 70
+XP:
+Moves: 4
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 23-2
+touch melee (impact) 12-3 plague (infected)
+Resists:
+arcane- -20%
+blade- 20%
+cold- 70%
+fire- -20%
+impact- 30%
+pierce- 50%
+Terrain:
+Snow- 3 10%
+Castle- 1 50%
+Sand- 3 10%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 2 30%
+Mushroom- 2 40%
+Cave- 2 30%
+Deep Water- 3 10%
+Shallow Water- 2 20%
+Cave Wall- 100 30%
+
+Name: Dismembered
+Advance From: Cadaver
+Advance To: null
+Race: Undead
+Abilities: Graverobber (when this unit kills an opponent it heals 1/8th of the opponents max hp, it can pass maximum hp temporarily)
+HP: 60
+XP:
+Moves: 4
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 14-2
+bone melee (impact) 24-1
+touch melee (impact) 7-3
+Resists:
+arcane- -20%
+blade- 40%
+cold- 70%
+fire- -20%
+impact- 10%
+pierce- 60%
+Terrain:
+Snow- 3 10%
+Castle- 1 50%
+Sand- 3 10%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 2 30%
+Mushroom- 2 40%
+Cave- 2 30%
+Deep Water- 3 10%
+Shallow Water- 2 20%
+Cave Wall- 100 30%
+
+Name: Cadaver
+Advance From: null
+Advance To: Zombie
+Race: Undead
+Abilities:
+HP: 32
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 7-3
+Resists:
+arcane- -20%
+blade-
+cold- 70%
+fire- -20%
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 2 40%
+Mushroom- 2 50%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 2 30%
+Cave Wall- 100 40%
+
+Name: Zombie
+Advance From: Cadaver
+Advance To: Flesh-Eater
+Race: Undead
+Abilities:
+HP: 50
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 10-3
+bite melee (pierce) 8-2 drain
+Resists:
+arcane- -20%
+blade-
+cold- 70%
+fire- -20%
+impact- 20%
+pierce- 10%
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 2 40%
+Mushroom- 2 50%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 2 30%
+Cave Wall- 100 40%
+
+Name: Flesh-Eater
+Advance From: Zombie
+Advance To: null
+Race: Undead
+Abilities: Feeding
+HP: 68
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 11-4
+bite melee (pierce) 15-2 drain
+Resists:
+arcane- -20%
+blade-
+cold- 70%
+fire- -20%
+impact- 20%
+pierce- 10%
+Terrain:
+Snow- 3 20%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 2 40%
+Mushroom- 2 50%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 2 30%
+Cave Wall- 100 40%
+
+Name: Host
+Advance From: null
+Advance To: Spore Hive
+Race: Blight
+Abilities:
+HP: 30
+XP:
+Moves: 4
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+touch melee (impact) 10-1 plague (infected)
+spores ranged (pierce) 2-10 swarm plague (seeded)
+Resists:
+arcane- 0%
+blade- -20%
+cold- 40%
+fire- -20%
+impact- 20%
+pierce- 40%
+Terrain:
+Snow- 3 10%
+Castle- 1 50%
+Sand- 3 10%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 2 30%
+Mushroom- 2 40%
+Cave- 2 30%
+Deep Water- 100 10%
+Shallow Water- 2 20%
+Cave Wall- 100 30%
+
+Name: Spore Hive
+Advance From: Host
+Advance To: null
+Race: Blight
+Abilities: Spore Mist (+10% resist to all adjacent friendly units, enemies take 4 damage at beggining of turn)
+HP: 50
+XP:
+Moves: 4
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+touch melee (impact) 10-2 plague (infected)
+spores ranged (pierce) 3-10 swarm plague (seeded)
+Resists:
+arcane- 0%
+blade- -20%
+cold- 40%
+fire- -20%
+impact- 20%
+pierce- 40%
+Terrain:
+Snow- 3 10%
+Castle- 1 50%
+Sand- 3 10%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 2 30%
+Mushroom- 2 40%
+Cave- 2 30%
+Deep Water- 100 10%
+Shallow Water- 2 20%
+Cave Wall- 100 30%
+
+Name: Crawler
+Advance From: null
+Advance To: Creeper
+Race: Blight
+Abilities: Skirmish
+HP: 34
+XP:
+Moves: 7
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 5-3
+tackle melee (impact) 9-2 charge
+Resists:
+arcane- 0%
+blade- -10%
+cold- 0%
+fire- 0%
+impact- -10%
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 2 60%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 50%
+Swamp- 4 50%
+Mushroom- 2 60%
+Cave- 2 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 20%
+
+Name: Creeper
+Advance From: Crawler
+Advance To: Slink
+Race: Blight
+Abilities: Skirmish
+HP: 45
+XP:
+Moves: 8
+COst:
+Alignment: chaotic
+Description:
+Attacks:'
+claws melee (blade) 6-4
+tackle melee (impact) 14-2 charge
+Resists:
+arcane- 0%
+blade- -10%
+cold- 0%
+fire- 0%
+impact- -10%
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 2 60%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 50%
+Swamp- 4 50%
+Mushroom- 2 60%
+Cave- 2 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 20%
+
+Name: Slink
+Advance From: Creeper
+Advance To: null
+Race: Blight
+Abilities: skirmish, nightstalk
+HP: 56
+XP:
+Moves: 8
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+claws melee (blade) 7-5
+tackle melee (impact) 17-2 charge
+Resists:
+arcane- 0%
+blade- -10%
+cold- 0%
+fire- 0%
+impact- -10%
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 2 60%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 50%
+Swamp- 4 50%
+Mushroom- 2 60%
+Cave- 2 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 20%
+
+Name: Dark Current
+Advance From: null
+Advance To: Black Tide
+Race: Undead
+Abilities: Submerge
+HP: 20
+XP:
+Moves: 7
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Engulf melee (impact) 4-4 swarm drain
+Resists:
+arcane- 0%
+blade- 20%
+cold- 0%
+fire- 0%
+impact- 40%
+pierce- 50%
+Terrain:
+Snow- 3 10%
+Castle- 1 50%
+Sand- 3 10%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 40%
+Chasm- 100 40%
+Swamp- 1 60%
+Mushroom- 2 40%
+Cave- 2 30%
+Deep Water- 100 60%
+Shallow Water- 3 50%
+Cave Wall- 100 20%
+
+Name: Black Tide
+Advance From: Dark Current
+Advance To: Undertow
+Race: Undead
+Abilities: Submerge, Nightstalk
+HP: 28
+XP:
+Moves: 7
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Engulf melee (impact) 5-6 swarm drain
+Resists:
+arcane- 0%
+blade- 20%
+cold- 0%
+fire- 0%
+impact- 40%
+pierce- 50%
+Terrain:
+Snow- 3 10%
+Castle- 1 50%
+Sand- 3 10%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 40%
+Chasm- 100 40%
+Swamp- 1 60%
+Mushroom- 2 40%
+Cave- 2 30%
+Deep Water- 100 60%
+Shallow Water- 3 50%
+Cave Wall- 100 20%
+
+Name: Undertow
+Advance From: Black Tide
+Advance To: null
+Race: Undead
+Abilities: Feeding, Submerge, Nightstalk
+HP: 35
+XP:
+Moves: 7
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Engulf melee (impact) 7-6 swarm drain
+Resists:
+arcane- 0%
+blade- 20%
+cold- 0%
+fire- 0%
+impact- 40%
+pierce- 50%
+Terrain:
+Snow- 3 10%
+Castle- 1 50%
+Sand- 3 10%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 40%
+Chasm- 100 40%
+Swamp- 1 60%
+Mushroom- 2 40%
+Cave- 2 30%
+Deep Water- 100 60%
+Shallow Water- 3 50%
+Cave Wall- 100 20%
+
+Name: Fleshpool
+Advance From: Dark Current
+Advance To: null
+Race: Undead
+Abilities: Sacrifice (heal up to 12 hp to nearby units at cost of own hp), Submerge, Nightstalk
+HP: 45
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+None
+Resists:
+arcane- 0%
+blade- 20%
+cold- -20%
+fire- -20%
+impact- 50%
+pierce- 50%
+Terrain:
+Snow- 3 10%
+Castle- 1 50%
+Sand- 3 10%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 40%
+Chasm- 100 40%
+Swamp- 1 60%
+Mushroom- 2 40%
+Cave- 2 30%
+Deep Water- 100 60%
+Shallow Water- 3 50%
+Cave Wall- 100 20%

@@ -1,0 +1,70 @@
+Yokai
+Observations:
+a) Mandragora has too low base health compared to Spriggans. Still, too low xp to full reheal.
+- Mandragora Health from 30 to 36.
+- Mandragora XP from 50 to 60 (Greater Spriggans are 100 XP to reheal)
+- Due Mandragora's impopularity, NEW ATACK: Scream 5-2 impact ranged (lv1 Spriggans are 6-2 ranged)
+- Mandragora price from 15g to 16g
+
+b) Nixies looks too strong, considering they're recruitable. Still, we want to make her as a very special lv1.
+- Mele damage rework 5-3 -> 3-4 cold mele
+- Ranged damage rework 5-4 -> 4-4 impact ranged
+- NEW ATACK: Water spray 3-5 cold ranged
+- Cold resistance 20% -> 30%
+Coment: at this point they're fair as regular lv1 but with cool extra considerations for survival maps or RPG gameplay.
+
+c) Faeries: Not too popular too, changing their arcane resistance from -10% to +10%.
+
+d) Febyron line observations:
+- I did love the results of actual Feyborn line, increased XP for Kitsune to Lv3 made me to consider to own a Tengu which was worth it. Increased XP makes Tengu more considerable.
+- Ninetailed fox ranged damage rework: Spectral Shard 7-7 -> 8-6
+Coment: With the 10% extra cold/fire resistance at all feyborns (except tengu) they don't need to be that powerhouse in oricia (only 1 damage loss in regular gameplay). Still, pierce atack can be used at certain circunstances to take less damage from retaliation.
+
+e) Kodama: It's actually a really strong unit in the side of hidden OP. 
+- Draining Touch 16-2 -> 14-2
+
+f) Banshee/Onryo: Not tested this time, but they look kinda underpowered considering default Wraiths and Shadows are 25 and 24 health respectively but with 50% physical resistance. 
+- Health from 28 to 32 for both of them.
+- Banshee: NEW ATACK: Touch 3-2 arcane mele (no specials)
+- Banshee's Symphony of Ruin 8-4 -> 7-4
+Coment: with this I hope to increase Banshee's popularity a bit, most people goes for Phantom or in few Cases by Onryo.
+--end Yokai
+
+
+Era of Myths factions
+
+ Devlings
+all devlings can get the obedient trait
+Nailer line has -1 upkeep
+Devling leaders get a trait to make up disadvantages
+Overgrowns can't get the fearless trait twice anymore
+Flappers melee 4-2 -> 5-2, ranged 3-3 -> 4-3
+Flyers melee 6-3 -> 8-3, ranged 5-4 -> 6-4, HP 37 -> 39
+Attackers melee 8-3 -> 9-3, ranged 7-4 -> 8-4, cost 39 -> 42
+Cursers cost 14 -> 13
+Blasphemists melee 3-4 -> 4-3
+Offenders melee 3-5 -> 5-3, HP 47 -> 49
+Abusers melee 4-5 -> 7-3, HP 56 -> 63 , cost 62 -> 63
+Chief & Hero cost 38 -> 43
+Chief ranged 7-2 -> 8-2
+Grand Chief ranged 10-2 -> 11-2
+renamed lvl3 Ninja to Little Magican
+Lurker cost 17 -> 14, XP 42 -> 35
+Ninja cost 28 -> 26, HP 35 -> 40, XP 80 -> 70
+Magican cost 40-> 42, HP 45 -> 51
+
+ Vampires
+Vampires resistence weaknesses have been lowered, fire -20% -> -10%, arcane -20% -> -10%
+added a note about Blood Hulks stronger AMLA
+trait obedient (like loyal) decreases damage by 1 at higher levels
+Vampire archer anmiations were apparently broken on linux (camel case naming)
+included changed animation images, which fix some problems, but are still WIP
+
+
+ Wargs
+added a portrait for the water shyde (lvl3)
+added a picture in the help for the fenrir (lvl2)
+
+ Windsong
+removed Farstrider and Herald as lvl3 leaders
+and Pathfinder as lvl 2 leader

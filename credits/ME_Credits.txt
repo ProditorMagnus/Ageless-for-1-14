@@ -1,0 +1,17 @@
+- Mercenaries Era Credits -
+
+IDEA / HEAD CODER / GRAPHICS
+-- PsychoticKittens
+
+MAINTAINER
+-- Golbeeze - Voluntary Support, playtesting, errors, balancing
+
+SPECIAL THANKS
+-- Mythological - Helping with event tags, errors, and balancing
+-- Truper - Balancing and playtesting
+-- cycholka - Helping with event tags and errors voluntarily
+-- TL - Helping with playtesting, balancing, and support
+-- Mica - Support and playtesting
+-- Talares - Support and Playtesting
+-- The wesnoth staff for making such an awesome game
+-- And anyone else I forgot! =D

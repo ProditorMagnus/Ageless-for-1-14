@@ -1,0 +1,56 @@
+- Ageless Era Credits -
+
+Almost all credit goes to the original creators of the all the factions in my era.
+
+HEADCODER / CREATOR
+-- Mnewton1
+
+CURRENT MAINTAINER
+-- Ravana
+
+
+CODERS
+-- SandyBeaches
+-- Pentarctagon
+-- LightFighter
+-- AlaskanAvenger
+
+
+CONTRIBUTERS
+-- Juan- - Some coding and balancing.
+-- RenoOfTurks - Some coding and balancing.
+-- IPS - A lot of balancing tips and bug reports.
+
+
+PLAY TESTERS
+-- Darklady
+-- RenoOfTurks
+-- MattDakka
+-- Juan-
+
+
+SPECIAL THANKS
+-- DerTod - Made a script that found most, if not all advances_to errors and image path errors.
+-- Garunda - Bug reports.
+-- Reepurr - Added TC to the EOM Keeper and the EOM Djinn, Windherder, and Zephyr.
+-- LightFighter - Updated Aragwaithi code to work with new sprites and animations.
+-- bchan - Reported bugs with the Enchanters.
+-- Pentarctagon - Updated the Era of Magic units.
+
+
+CURRENT ERAS / FACTIONS
+-- Default Era
+-- Extended Era
+-- Archaic Era
+-- Era of the Future
+-- BEEM
+-- Yokai
+-- Dark Legion
+-- Desert Elves
+-- Steelhive
+-- Era of Myths
+-- Feudal Era
+-- Imperial Era
+-- Era of Strife
+-- Era of Magic
+-- Mercenaries Era

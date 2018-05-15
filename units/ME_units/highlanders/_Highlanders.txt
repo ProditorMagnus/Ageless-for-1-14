@@ -1,0 +1,1473 @@
+Level 1 		Level 2 		Level 3			Level 4
+
+Nord -------------------> Barbarian ------------> Highlander
+			>
+			> Pilferer -------------> Plunderer
+			>
+			> Viking
+
+Drunkard ---------------> Barfighter -----------> Wildman
+			>
+			> Sober ----------------> Bartap
+						>
+						> Coldturkey
+
+Giant ------------------> Hulk -----------------> Behemoth
+						>
+						> Thor -----------------> Odin
+
+Contestant -------------> Stonehurler ----------> Rocklauncher
+
+Pipeman ----------------> Bagplayer ------------> Warpipe
+
+Axeman -----------------> Hatchet thrower ------> Axethrower
+			>
+			> Forester -------------> Gamekeeper
+			>
+			> Logger
+
+Fieldmedic -------------> Amputator
+			>
+			> Combat Medic
+
+Valkyrie ---------------> Valkyrie Warrior -----> Valkyrie Princess
+
+Warrior Spirit ---------> Valhallan
+
+Name:
+Advance From:
+Advance To:
+Race:
+Abilities:
+HP:
+XP:
+Moves:
+COst:
+Alignment:
+Description:
+Attacks:
+Resists:
+arcane-
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-
+Castle-
+Sand-
+Village-
+Grassland-
+Forest-
+Hills-
+Mountains-
+Chasm-
+Swamp-
+Mushroom-
+Cave-
+Deep Water-
+Shallow Water-
+Cave Wall-
+
+Name: Norse Fighter
+Advance From: null
+Advance To: Barbarian, Pilferer, Viking
+Race: Human
+Abilities:
+HP:38
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Axe melee (blade) 7-3
+Hatchet ranged (blade) 5-1
+Resists:
+arcane- 20%
+blade- 10%
+cold- 20%
+fire-
+impact- 10%
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 4 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Barbarian
+Advance From: Norse Fighter
+Advance To: Highlander
+Race: Human
+Abilities:
+HP: 59
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Axe melee (blade) 10-3
+Axe melee (blade) 4-4 berserk
+Axe ranged (blade) 9-2
+Resists:
+arcane- 20%
+blade- 30%
+cold- 20%
+fire-
+impact- 20%
+pierce- 10%
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 4 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Highlander
+Advance From: Barbarian
+Advance To: null
+Race: Human
+Abilities:
+HP: 76
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Greatsword melee (blade) 16-3
+Battleaxe melee (blade) 6-4 berserk
+Hatchet ranged (blade) 15-2
+Resists:
+arcane- 20%
+blade- 30%
+cold- 30%
+fire-
+impact- 30%
+pierce- 20%
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 4 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Pilferer
+Advance From: Norse Fighter
+Advance To: Plunderer
+Race: Human
+Abilities:
+HP: 55
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Axe melee (blade) 7-4
+Torch melee (fire) 9-3
+Axe ranged (blade) 6-3
+Resists:
+arcane- 20%
+blade- 10%
+cold- 20%
+fire- 10%
+impact- 20%
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 3 50%
+Cave- 3 30%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Plunderer
+Advance From: Pilferer
+Advance To: null
+Race: Human
+Abilities:
+HP: 67
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Axe melee (blade) 10-4
+Torch melee (fire) 13-3
+Axe ranged (blade) 7-4
+Resists:
+arcane- 20%
+blade- 20%
+cold- 20%
+fire- 20%
+impact- 20%
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 3 50%
+Cave- 3 30%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Viking
+Advance From: Norse Fighter
+Advance To: null
+Race: Human
+Abilities: Skirmish
+HP: 52
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Battleaxe melee (blade) 12-3
+Hatchet ranged (blade) 10-1
+Resists:
+arcane- 20%
+blade- 10%
+cold- 40%
+fire-
+impact- 10%
+pierce-
+Terrain:
+Snow- 1 60%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 2 30%
+Mushroom- 3 50%
+Cave- 3 30%
+Deep Water- 3 20%
+Shallow Water- 2 40%
+Cave Wall- 100 30%
+
+Name: Drunkard
+Advance From: null
+Advance To: Barfighter, Sober
+Race: Human
+Abilities:
+HP: 39
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Fist melee (impact) 5-3 berserk
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact- 30%
+pierce-
+Terrain:
+Snow- 1 40%
+Castle- 1 40%
+Sand- 3 10%
+Village- 1 40%
+Grassland- 1 20%
+Forest- 2 20%
+Hills- 2 30%
+Mountains- 3 40%
+Chasm- 100 20%
+Swamp- 3 10%
+Mushroom- 3 20%
+Cave- 3 10%
+Deep Water- 100 0%
+Shallow Water- 3 10%
+Cave Wall- 100 20%
+
+Name: Barfighter
+Advance From: Drunkard
+Advance To: Wildman
+Race: Human
+Abilities:
+HP: 60
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+fist melee (impact) 5-4 berserk
+bottle melee (pierce) 9-2 berserk
+Resists:
+arcane- 20%
+blade- 10%
+cold- 20%
+fire-
+impact- 40%
+pierce- 10%
+Terrain:
+Snow- 1 40%
+Castle- 1 40%
+Sand- 3 10%
+Village- 1 40%
+Grassland- 1 20%
+Forest- 2 20%
+Hills- 2 30%
+Mountains- 3 40%
+Chasm- 100 20%
+Swamp- 3 10%
+Mushroom- 3 20%
+Cave- 3 10%
+Deep Water- 100 0%
+Shallow Water- 3 10%
+Cave Wall- 100 20%
+
+Name: Wildman
+Advance From: Barfighter
+Advance To: null
+Race: Human
+Abilities:
+HP: 78
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+fist melee (impact) 6-5 berserk
+bottle melee (pierce) 12-2 berserk
+bottle ranged (pierce) 9-1
+Resists:
+arcane- 20%
+blade- 20%
+cold- 20%
+fire-
+impact- 50%
+pierce- 20%
+Terrain:
+Snow- 1 40%
+Castle- 1 40%
+Sand- 3 10%
+Village- 1 40%
+Grassland- 1 20%
+Forest- 2 20%
+Hills- 2 30%
+Mountains- 3 40%
+Chasm- 100 20%
+Swamp- 3 10%
+Mushroom- 3 20%
+Cave- 3 10%
+Deep Water- 100 0%
+Shallow Water- 3 10%
+Cave Wall- 100 20%
+
+Name: Sober
+Advance From: Drunkard
+Advance To: Bartap, Coldturkey
+Race: Human
+Abilities:
+HP: 53
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Fist melee (impact) 7-4
+Resists:
+arcane- 20%
+blade- 
+cold- 20%
+fire-
+impact- 30%
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Bartap
+Advance From: Sober
+Advance To: null
+Race: Human
+Abilities: Inspire Heals +8
+HP: 65
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Fist melee (impact) 9-4
+Resists:
+arcane- 20%
+blade-
+cold- 30%
+fire-
+impact- 30%
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Coldturkey
+Advance From: Sober
+Advance To: null
+Race: Human
+Abilities:
+HP: 70
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+fist melee (impact) 9-5
+Resists:
+arcane- 20%
+blade-
+cold- 40%
+fire- 
+impact- 30%
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Giant
+Advance From: null
+Advance To: Hulk
+Race: Human
+Abilities:
+HP: 39
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Fist melee (impact) 11-2
+Resists:
+arcane- 20%
+blade- 10%
+cold- 40%
+fire-
+impact- 30%
+pierce- 10%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 3 10%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 30%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 3 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Hulk
+Advance From: Giant
+Advance To: Behemoth, Thor
+Race: Human
+Abilities:
+HP: 60
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+fist melee (impact) 18-2
+Resists:
+arcane- 20%
+blade- 10%
+cold- 40%
+fire-
+impact- 30%
+pierce- 10%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 3 10%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 30%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 3 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Behemoth
+Advance From: Hulk
+Advance To: null
+Race: Human
+Abilities: Stalwart
+HP: 78
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+fist melee (impact) 24-2
+Resists:
+arcane- 20%
+blade- 20%
+cold- 40%
+fire-
+impact- 40%
+pierce- 20%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 3 10%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 30%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 3 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Thor
+Advance From: Hulk
+Advance To: Odin
+Race: Human
+Abilities:
+HP: 71
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Hammer melee (impact) 21-2
+Lightning ranged (fire) 18-1 magical
+Resists:
+arcane- 20%
+blade- 20%
+cold- 50%
+fire- 10%
+impact- 30%
+pierce- 20%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 3 10%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 30%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 3 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Odin
+Advance From: Thor
+Advance To: null
+Race: Human
+Abilities:
+HP: 83
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Hammer melee (impact) 26-2 magical
+Lightning ranged (fire) 32-1 magical
+Resists:
+arcane- 20%
+blade- 30%
+cold- 50%
+fire- 20%
+impact- 30%
+pierce- 30%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 3 10%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 30%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 3 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Contestant
+Advance From: null
+Advance To: Stonehurler
+Race: Human
+Abilities:
+HP: 34
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+fist melee (impact) 4-1
+rock melee (impact) 20-1
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 40%
+Castle- 1 40%
+Sand- 3 10%
+Village- 1 40%
+Grassland- 1 20%
+Forest- 2 20%
+Hills- 2 30%
+Mountains- 3 40%
+Chasm- 100 20%
+Swamp- 3 10%
+Mushroom- 3 20%
+Cave- 3 10%
+Deep Water- 100 0%
+Shallow Water- 3 10%
+Cave Wall- 100 20%
+
+Name: Stonethrower
+Advance From: Contestant
+Advance To: Rocklauncher
+Race: Human
+Abilities:
+HP: 52
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+fist melee (impact) 5-2
+Rock ranged (impact) 32-1
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 40%
+Castle- 1 40%
+Sand- 3 10%
+Village- 1 40%
+Grassland- 1 20%
+Forest- 2 20%
+Hills- 2 30%
+Mountains- 3 40%
+Chasm- 100 20%
+Swamp- 3 10%
+Mushroom- 3 20%
+Cave- 3 10%
+Deep Water- 100 0%
+Shallow Water- 3 10%
+Cave Wall- 100 20%
+
+Name: Rocklauncher
+Advance From: Stonethrower
+Advance To: null
+Race: Human
+Abilities:
+HP: 68
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+fist melee (impact) 8-2
+Rock melee (impact) 32-2
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 40%
+Castle- 1 40%
+Sand- 3 10%
+Village- 1 40%
+Grassland- 1 20%
+Forest- 2 20%
+Hills- 2 30%
+Mountains- 3 40%
+Chasm- 100 20%
+Swamp- 3 10%
+Mushroom- 3 20%
+Cave- 3 10%
+Deep Water- 100 0%
+Shallow Water- 3 10%
+Cave Wall- 100 20%
+
+
+Name: Pipeman
+Advance From: null
+Advance To: Bagplayer
+Race: Human
+Abilities:
+HP: 30
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+dagger melee (blade) 5-2
+Bagpipe ranged (cold) 3-6
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 4 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Bagplayer
+Advance From: Pipeman
+Advance To: Warpipe
+Race: Human
+Abilities: Leadership
+HP: 48
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+sword melee (blade) 6-3
+bagpipe ranged (cold) 5-6
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 4 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Warpipes
+Advance From: bagplayer
+Advance To: null
+Race: Human
+Abilities: Leadership
+HP: 62
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Sword melee (blade) 9-3
+bagpipe ranged (cold) 8-6
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 4 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Axeman
+Advance From: null
+Advance To: Hatchet Thrower, Woodsman, Logger
+Race: Human
+Abilities:
+HP: 35
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Axe melee (blade) 8-2
+Hatchet ranged (blade) 6-3
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 4 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Hatchetthrower
+Advance From: Axeman
+Advance To: Axethrower
+Race: Human
+Abilities:
+HP: 53
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Axe melee (blade) 11-2
+hatchet melee (blade) 12-2
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 4 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Axethrower
+Advance From: Hatchetthrower
+Advance To: null
+Race: Human
+Abilities:
+HP: 70
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Battleaxe melee (blade) 18-2
+Axe ranged (blade) 12-4
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 4 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Woodsman
+Advance From: Axeman
+Advance To: Gamekeeper
+Race: Human
+Abilities:
+HP: 50
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Axe melee (blade) 10-2
+hatchet ranged (blade) 7-4
+Bow ranged (pierce) 9-3
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 1 60%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 2 50%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Gamekeeper
+Advance From: Woodsman
+Advance To: null
+Race: Human
+Abilities:
+HP: 65
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Axe melee (blade) 10-3
+hatchet ranged (blade) 9-5
+bow ranged (pierce) 13-3
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 1 60%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 2 50%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Logger
+Advance From: Axeman
+Advance To: null
+Race: Human
+Abilities:
+HP: 60
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Axe melee (blade) 19-2
+Axe ranged (blade) 11-2
+Resists:
+arcane- 20%
+blade- 20%
+cold- 30%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 4 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Field Medic
+Advance From: null
+Advance To: Amputator, Combat Medic
+Race: Human
+Abilities: Heal +4
+HP: 24
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+knife melee (blade) 6-2
+knife ranged (blade) 4-1 poison
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 4 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Combat Medic
+Advance From: Field Medic
+Advance To: null
+Race: Human
+Abilities: Heal +8, Cure, Regenerate
+HP: 42
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+knife melee (blade) 8-2
+knife ranged (blade) 5-3 poison
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 4 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Amputator
+Advance From: Field Medic
+Advance To: null
+Race: Human
+Abilities: Heal +4, Terror
+HP: 50
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+cleaver melee (blade) 14-2
+knife ranged (blade) 7-2 poison
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 60%
+Sand- 3 20%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 4 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Valkyrie
+Advance From: null
+Advance To: Valkyrie Warrior
+Race: Human
+Abilities:
+HP: 34
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Claymore melee (blade) 9-2
+Resists:
+arcane- 20%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 50% 
+Sand- 1 40%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 1 40%
+Hills- 1 40%
+Mountains- 1 60%
+Chasm- 1 40%
+Swamp- 1 40%
+Mushroom- 2 30%
+Cave- 2 20%
+Deep Water- 1 40%
+Shallow Water- 1 40%
+Cave Wall- 100 40%
+
+Name: Valkyrie Warrior
+Advance From: Valkyrie
+Advance To: Valkyrie Princess
+Race: Human
+Abilities:
+HP: 52
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Claymore melee (blade) 15-2
+Resists:
+arcane- 40%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 50% 
+Sand- 1 40%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 1 40%
+Hills- 1 40%
+Mountains- 1 60%
+Chasm- 1 40%
+Swamp- 1 40%
+Mushroom- 2 30%
+Cave- 2 20%
+Deep Water- 1 40%
+Shallow Water- 1 40%
+Cave Wall- 100 40%
+
+Name: Valkyrie Princess
+Advance From: Valkyrie Warrior
+Advance To: null
+Race: Human
+Abilities:
+HP: 69
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+claymore melee (blade) 15-3
+Resists:
+arcane- 60%
+blade-
+cold- 20%
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 1 50%
+Castle- 1 50% 
+Sand- 1 40%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 1 40%
+Hills- 1 40%
+Mountains- 1 60%
+Chasm- 1 40%
+Swamp- 1 40%
+Mushroom- 2 30%
+Cave- 2 20%
+Deep Water- 1 40%
+Shallow Water- 1 40%
+Cave Wall- 100 40%
+
+Name: Warrior Spirit
+Advance From: null
+Advance To: Valhallan
+Race: Undead
+Abilities: 
+HP: 20
+XP:
+Moves: 8
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Spiritsword melee (arcane) 4-4 drain
+Resists:
+arcane- -40%
+blade- 50%
+cold- 70%
+fire- -10%
+impact- 50%
+pierce- 50%
+Terrain:
+Snow- 1 50%
+Castle- 1 50% 
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 2 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 2 50%
+Shallow Water- 2 50%
+Cave Wall- 100 50%
+
+Name: Valhallan
+Advance From: Warrior Spirit
+Advance To: null
+Race: Undead
+Abilities:
+HP: 30
+XP:
+Moves: 8
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+spiritsword melee (arcane) 7-4 drain
+Resists:
+arcane- -40%
+blade- 50%
+cold- 70%
+fire- -10%
+impact- 50%
+pierce- 50%
+Terrain:
+Snow- 1 50%
+Castle- 1 50% 
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 50%
+Chasm- 1 50%
+Swamp- 2 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 2 50%
+Shallow Water- 2 50%
+Cave Wall- 100 50%

@@ -1,0 +1,381 @@
+Balance observations note 1
+
+- forgot to coment that bacterium (lv1) must be -25% to both cold and fire.
+- Quenoth Revager mele 11-4 to 10-4, in the notepad I said the oposite. -- so 12-4 to 10-4
+
+Oracle - Arbiter line
+The line is actualy needlessly too good, let's decrease ranged damage.
+Arbiter ranged damage from 10-1 to 8-1
+Theurgist ranged damage from 15-1 to 12-1
+Judmentor ranged damage from 22-1 to 18-1
+
+Oracles - Mage/Magus
+Their mage is like loyalist one but with teleport. It can't be recruited but can be gained from leveling lv0 mages. Only planned nerf is their movement.
+Movement from 6 to 5.
+
+Yokai - Weaver Maiden and level ups
+Noticed that spiders weaknesses are too high (-50% at all levels right now) Let's improve their resistances per leveling up.
+Lv1 resistances: -25% arcane resistance  and -15% to fire.
+Lv2 resistances: -20% arcane resistance and -10% to fire.
+
+Yokai - Feyborn Witch
+1.- Feyborn Witches aren't  that atractive actually on the faction (no lv3, no mele). Something that can could work is changing her ranged atack type.
+2.- Noticing that Yokai lacks a lot at pierce, withces can become pierce instead of blade. So 8-3 Spectral Shard Blade -> Pierce.
+3.- Maybe some bonus cold/fire resistance could help this unit perform better as no lv3 healer/mage: +10% resistance to fire and cold.
+With this, Yokais wouldn't depend of units with Swarm to deal pierce damage on survival maps.
+
+Sylvans - Wose Shaman
+Noticing their overperforming a lot, making other wose unwanted. Let's take a rid of this.
+Ranged 9-2. So on this way, it's still good but doesn't dazzle people from the other wose choice.
+Screenshot: http://puu.sh/r6rVr/c78f2526cf.jpg
+
+Sylvans - Fire Faerie
+For ghost like resistances, she has a way too much health... (see default ghosts). Would decrease their health severly.
+Health from 40 to 32 (same than lv2)
+
+Sylvans - Warrior Spirits
+Mixing ghost like resistances with terror and drains is something very underrated... This needs balance considerations that aren't taken.
+Terror is a skill that the higher level a unit is, the more efective is, so at this point lv2 and lv3 are going to be taken in acount to be nerfed.
+- Ancestor Lv2 terror aura (-30% damage from lv1 and -15% from lv2)
+a) Health from 25 to 21, with drains that shouldn't be a problem; forces players to be less carefree at the use of them.
+b) Because lv3 terror is something REALLY anoying to fight againist, would raise their xp from 72 (70% modifier) to 100 (70% xp modifier)
+- Forefather obviusly overpowered mostly because of terror aura without considerations.
+a) Health from 35 to 27; to force players to don't carefree at the usage of them.
+b) Since terror can be used to help alied units as well, I see no problem at making its ranged to 4-3.
+
+Sylvans - Dusk Faerie
+later, pending.
+
+Infernai - Evil Essence
+Ghost like unit with slows + drains on mele and absurd amount of health. Health 32 -> 26, Ranged 11-1 -> 6-2 to decrease RPG potential.
+ 
+Trivalist - Scalper
+Could scalper line have 60% castle defense?
+Executioner: Mele impact 38-1 -> 35-1 to nerf a bit RPG potential.
+
+Oracle - Blindman
+Considering he has only 20% to hit offensively and -20% terrain defenses and 4 movement... reprice 16g -> 13g. Not a very loved unit at all.
+He is archer's practice target!!
+ - - Master: Reprice 34g -> 32g.
+ 
+Enchanters - Titan
+Thinking about trying their village/castle defense to just 30%. But increasing Arcane resistance to 30%. Greatsword to 22-1 because rpg potential.
+
+MERCS - Lv1 Archers 
+Since Mercenaries era is a very old and unmantained era, in which was built when loyalist bowman was 6-2 blade mele but 15g, most Lv1 ranged units
+needs a revision for a proper standarization.
+** Holy Order - Witch Hunter: Archer with poison dagger, so let's reprice to 17g tier.
+ - - Demons Slayer: Reprice to 36g, 2 diferent atack types at ranged and poison on mele.
+ - - Purifier: Reprice from 46g to 55g because of high quality archer.
+** Infernai - Gog: Unnsually strong mele but a way too weak to cold. Mele 6-2 -> 5-2 (so won't be 9-2 at night if strong).
+ - - Magog: Mele to 8-2 (same as Longbowman) & cold res -40% -> -35%. Reprice from 29g to 32g.
+ - - Incubus: cold res -40% -> -30%. Reprice from 42g to 50g.
+** Mercenaries - Neglet Mage: Nothing to consider at all, except on some of his level ups.
+ - - Warrior Mage: Mace 12-2 to 11-2.
+ - - Battle Mage: Mace 18-2 -> 16-2 (dread) & Sword 9-4 -> 8-4 (Magical) & Ranged 13-3 to 11-3 (magical). Overperforming unit actually.
+** Mercenaries - Hunter: Mele damage 5-3 -> 4-3. It's like a Poacher (14g unit) but better.
+** Oracles - Darkmage: This line is actually somehow absued. Let's decrease ranged damages 12-2 to 11-2.
+ - - Necromantic: Ranged damage from 18-2 to 16-2.
+ - - Quietus: Ranged damage from 18-3 to 16-3.
+ ** Oracles - Evileye: mele damage 10-2 -> 8-2
+ ** Oracles - Conjurer: Extremely clever (fire+ranged ranged mix, and more!) reprice 39g -> 46g.
+** Refugess - Focul: Ranged damage 11-2 -> 10-2
+ - - Arsonist: Excesively overpowered unit. 24 mele damage and 36 ranged damage. Let's nerf for sure!
+a) Mele damage rework 4-6 -> 5-4 (To make it less abusable in RPG games)
+b) Ranged damage 12-3 -> 11-3.
+** Slavers - Harlot: reprice 10g -> 16g.
+** Slavers - Gatherer: reprice 32g -> 34g.
+** Tribalists - Rowboat: Would sugest to add them (and lv2's) 50% swallow water and swamp defense, also decreasing lv1 ranged damage 6-3 -> 5-3.
+ - - Canoe: Reprice 27g -> 29g (considering defenses buff)
+** Tribalists - Archer: reprice 28g -> 32g.
+ - - Native: Reprice 46g -> 49g.
+** Tribalist - Hunter: Poison is less significant on lv2. Reprice 33g -> 31g.
+ - - Slayer: Reprice 45g -> 47g (same damage than archers, but with poison as well)
+** High Landers - Forester mele damage from 8-2 to 7-2. For for just lv1 50% forest defense only.
+
+MERCS - The Blight REBALANCE.
+It's obvious that some of their units have crazy resistances in a point that isn't fun dealing againist them if you've built wrongly againist certain
+the blight units. Some units will be nerfed inmediatly considering their probable anoyanse in the fields.
+
+ ** Microbe: 
+ - Impact and Pierce resistance to just 70%.
+ - Blade/arcane resistance from 20% to 15%.
+ - Fire/ and Cold weaknesses to -25%.
+ - Health from 10 to 12
+ ** Bacterium: 
+ - health from 20 to 24. 
+ - blade/arcane resistance to 20% in Lv1
+ - increases pierce/impact resistance to 75%.
+ Coment: RPG/Survivality potential were too high for just 5g tier unit. Still a viable pick for Creepwars.
+ 
+ ** Seeded: Massively broken unit in game. First of all, player can mantain them alive in order to block tiles for mele retaliations without risk
+ of losing them; dealing probably more damage than sacrificing them as soon you can. Let's nerf the following:
+ - Giving range 'suicide' or 'kamikaze' similary seen in gobling kamikaze.
+ - Lowering their impact/pierce resistance to just 60%.
+ - Lowering blade resistance to 0%
+ - Increasing health to 18 hp.
+ 
+ ** Charred Corpse: so far one of most resistant units in the game. Let's do the following:
+ - Cold/Fire resistance to 55% (instead of 70%)
+ - Arcane resistance from 50% to 45%
+ - xp from 45 to 40 (28 xp at 70%)
+ ** Mutilated corpse:
+ - Cold/Fire resistance to 60%.
+ - Blade resistance to 40%.
+ - Pierce resistance to 30%
+ - Arcane resistance from -50% to -40%.
+ - xp from 82 to 69 (48.3 xp at 70%)
+ ** Dreadbones:
+ - Cold/Fire resistances to 65%.
+ - Blade resistance to 55% (from 70% is an hard nerf)
+ - Pierce resistance to 45% (from 50%, not that much this time)
+ - Arcane resistance from -50% to -35%.
+ Coments: Charred zombies and level ups were nerfed, but they needed a way too much xp...
+ 
+ ** Blobs: let's do a redistribution of their resistances to a more fun alternative:
+ - Pierce/Imapct res to 65% (from 80%);
+ - Blade Resistance to 15%.
+ - Cold Resistance to -30%.
+ - Health to 16.
+ Coments: Originaly Blob's relative health to pierce/impact was 50hp, now is 45,7hp and now is less suceptible to instant die againist other atacks.
+
+ ** Acids:
+ - Impact/Pierce resistance to 75%.
+ - Cold resistance to -40%.
+
+ ** Amoeba: Apart of their absurd amount relative health againist some atack types (being 170! for lv1), there are some things that can be improved:
+ - Blade resistance from 20% to 10%. Now it might spawn blobs with more health.
+ - Impact/Blade resistance to only 60% (from 80%); now might take x2 times more impact/pierce damage (relative health is now 102 from 170)
+ - Cold resistance might be now -30%.
+ - Amoeba damage is low compared to other options. Absorb 14-1 considering it has lower resistances now. 
+ - NEW ATACK: Dissolve 8-2 fire drains & swarm but not absorb
+ - NEW ATACK: Spread 4-1 impact ranged (swarm)
+ COMENT: Yup, it's planed that if the unit has more than maximun health Dissolve can become 8-3 or even higher :D 
+
+ ** Slime: let's make Slime the cold resistant line on Blobs and more:
+ - Impact/Pierce resistance to 70%.
+ - Cold resistance to 10% (from -50% uh really a lot!)
+ - Fire resistance from -20% to -40% considering massive boost at cold resist.
+ - Blade resistance to 30%.
+ - Absorb from 13-2 mele drain to 9-2.
+ - Dissolve damage from 15-1 to 13-1.
+
+ ** Ooze: Some modifications to the unit:
+ - Impact/Cold resistance to 70%.
+ - Cold resistance to 15%.
+ - Fire Resistance to -35%
+ - Blade resistance to 30%
+ - Absorb from 16-2 to 14-2
+ - Dissolve Damage from 20-1 to 17-1
+
+ ** Host: Only ranged unit in the faction, let's increase their base ranged damage but decreasing their absurd potential to deal brutal damage.
+ - Spores damage reworked from 1-12 too 2-7. Now enemies extremely resistant to pierce will take less damage.
+ - NEW WEAPON: Spores 1-3 pierce mele (swarm, denfense only)
+ - Blade resistance from -20% to 0% -worse terrain defenses than usual-
+ - Health from 30 to 34 -considering it moves only 4 tiles-
+ ** Spore Hive: Let's rework ranged and add a really weak mele atack.
+ - Ranged damage reworked from 2-15 to 3-10.
+ - NEW WEAPON: Spores 1-5 mele pierce (swarm, defense only)
+ - Blade resistance from -20% to +10% -worse terrain defenses than usual-
+ Coment: Worst mele weapon in whole Ageless, but better than nothing. Makes this unit more viable in maps like Colosseum and more fun at Orocia.
+ 
+ ** Infected Hound: Charge damage from 10-2 to 7-2, has 50% flat defense less to gamble than on common chargers. Apart has no charge mele weapon.
+ - Undead Hound: Charge damage from 16-2 to 11-2, same reassons than on Infected Hound.
+ 
+ ** Fetid: Physical resistances too high...
+ - Blade resistance to 20%
+ - Pierce resistance to 30%
+ - Fire resistance to -30%
+ coments: factions like Knalga and others without fire/arcane suffer againist this unit.
+ ** Dismembered: resistances distribution that I don't like... let's readjust:
+ - Blade resistance to only 30%
+ - pierce resistance to just 50%
+ - Imact resistance to 20% -instead of 10%- (on lv1 has 40%)
+ - Fire resistance from -40% to -30%
+ ** Rancid:
+ - Pierce resistance to 40%
+ - Fire resistance to -30%
+ ** Putrid:
+ - Impact resistance to 40% (before was 30%, lower than in lv2)
+ - Fire resistance to -30%
+ coments: on thiss case I buffed the lv3, which had lower resistances than lv2 ... but reworked lv2 resistances. Now everything suits alright.
+ 
+ 
+ ** DARK CURRENTSS WILL BE REVIEWED IN A FUTURE REVISION, need to get more used to this line.
+ ** PARASYTE LINES LOOKS FINE IN BALANCE.
+ 
+
+BEEM - Anakes - Devil/Fiend
+Their terrain defense is actaully really bad, can't have more than 40% terrain defense. Sugestion: +10% to all terrain defense.
+ - Fiend: fix that -10% pierce resistance gained at lv3.
+
+BEEM - Anakes - Dark Prophet
+Too low ranged damage. 10-3 is almost lv2 damage, but for sure no lv3 damage. Would sugest a damage of 13-3 or 10-4.
+ 
+Mercenaries - Mustang
+14-3 mele impact atack on lv2 unit with 10 movement. No! that's lv3 damage!!!. Let's nerf to 11-3 then.
+
+Avians - Dart
+Flying charger in which all his line is overperforming and obviously overpowered. Let's nerf only mele damages.
+ ** Dart Charge damage from 10-2 charge to 8-2 charge.
+ ** Armor pierce damage from 25-1 charge to 22-1 charge.
+ ** Daredevil considering skirmisher, charge damage from 10-3 to 8-3
+ ** Divebomber considering marskman charge damage from 13-2 too 11-2
+ ** Rocket considering marskman charge damage fro 18-2 to 15-2
+
+BEEM - WoodWarriors - All Rat riders
+- First of all, looks a way too out of place that a scout with Torch when he levels up is forced to lose that fire mele atack and forced that its
+atacks become blade and pierce. This could be a problem in pvp when deleaing againist players using factions like undead.
+* Consindering this, would sugest to add a lv2 line with torch and unmounted. Maybe 36 hp, 8-3 fire mele and 5-2 fire ranged.
+- Second topic, all rat riders are underpowered at having terrible terrain defenses. Would sugest to increase all non flat terrain def by +10%.
+* Frog riders are doing much better than rat riders.
+If considering to increase terrain defense, consider to nerf a bit their ranged damages. Maybe by -1 or -2 depending the case.
+
+
+Mercenaries - Holy order - Lightwisp
+Actually the Lv1 recruitable unit with most resistances in the game. With a total of +290% overall resistances. Apart it can hide during daytime
+it's a unit with really abusable stats in survival games & RPG ones. The Following nerfs will be done:
+ ** Lightwisp: 
+ - Ranged damage from 6-3 to 5-3, it's scout, not an archer.
+ - Blade/Pierce/Impact resistances to 40%
+ - Fire resistance to 50%
+ - Arcane resistance to 75% (5% more)
+Coment: now is cost ineficent except for dayfade and being arcane on ranged.
+ ** Holy Spirit: It's actually doing MUCH better than Twilight, so Holyspirit will be nerfed and Twilight Strongered.
+ - Cleanse mele to from 15-1 to 6-2 arcane, now is less abusable in Orocia and on RPG.
+ - Lightbeam damage to 7-4
+ - Blade/Pierce/Impact resistances to 40%
+ - Fire resistance to 50%
+ - Arcane resistance to 80% (10% more)
+ ** Arcane Wisp: Following nerfs:
+ - Cleananse mele from 15-2 to 8-3
+ - Lightbeam to 9-5
+ - Blade/Pierce/Impact resistances to 40%
+ - Fire resistance to 50%
+ - Arcane resistance to 85% (15% more)
+ ** Twlight: Actually is underpowered compared to Holy Spirit. Let's consider some love for Twilights:
+ - New aligment: Neutral
+ - NEW WEAPON: Light touch 4-4 arcane mele
+ - Lightbeam to 8-3 arcane
+ - Blade/Pierce/Impact resistances to 40%
+ - Fire/Cold resistance to 30% (+30% at both!)
+ - Arcane resistance to 60% (from 0%)
+ - Health from 22 to 24
+Coments: Now Lightwisp are +245% bonus resistances (+5% per level in Holy spirit advancement) and Twilight is 250% but can hide in 4/6 times
+of the day.
+
+
+Mercenaries - Fanatics - Martyr
+Mele range on suicide atack. This means he can use his suicide mele as retaliation and not dying! needs fix!
+
+Archaic - Despair - Statues
+
+
+
+DESPAIR GENERAL REVISION
+I've seen that some units needs nerf and that many others lv2+ are underpriced. Let's fix prices mostly and let's do the required nerfs.
+
+Despair - Statues
+Looking at their resistances, it's obvious that they need fix, apart they have no defense handicaps... let's nerf!
+ ** Statue/Stonesoldier/Stonewarrior: resistances rebalance:
+ - Blade resistance to 35% (from 60%)
+ - Pierce resistance to 45% (from 60%)
+ - Impact resistance to 15% (from 30%)
+ - Fire resistance to 0% (from 10%)
+ - Lower all terrain non castle defenses by -10% their actual values.
+ - Would lower moments costs in water tiles to 3 for swallow water/swamp and 4 at deep water. As well 3 MP for mountains.
+Coments: -65% total resistances which -55% are physical in nerfs and lowering their resistances and nerfing movility/defense, they're actually
+overpowered tanks for sure.
+
+Despair - Widow
+Actaully really cost efficent mages. Would sugest to reprice to 17g because and modify HP to 28 because of superior defenses/movility than usual units.
+ ** Midnight Beauty: damage nerfss:
+ - Mele from 6-4 to 4-4
+ - Ranged from 12-3 to 11-3
+ - Price from 28g to 32g
+ ** Widow in white: Some nerfs too:
+ - Health from 41 to 37.
+ - Mele from 7-2 to 5-2
+ - Price from 27g to 34g
+ ** Banshee
+ - Mele from 10-2 to 8-2
+ - Price from 40g to 50g
+ 
+ ** Despair Dullohan
+ - Ranged damage from 9-3 to 8-3 considering movement.
+ - Price from 30g to 35g
+ * Black Mastercloack
+ - Price from 35g to 44g
+ ** Black horseman
+ - Price from 30g to 33g
+ ** Black Slayer
+ - Price from 40g to 48g
+ 
+ ** Black Shadow
+ - Price from 24g to 30g 
+ 
+ ** Despair Soldier
+ - Price from 30g to 28g; overpriced line, curious.
+ ** Officer
+ - Price from 44g to 54g
+ ** Lord Knight
+ - Price to 46g (idk, but is more fair than only 39g)
+ 
+ 
+QUENOTH ELVES REVISION
+Many Quenoth Elves are actually overpowered, let's nerf some of those inmediatly:
+
+ ** Quenoth Hunter: among most cost efficent fighters, they got 6 MP! for 15g they're too good... let's nerf their ranged:
+ - Bolas reworked from 4-2 to 4-1 because of slow at ranged.
+ ** Quenoth Warrior:
+ - Mele to 7-4 (from 8-4)
+ - Ranged to 5-2 (from 7-2)
+Coment: Now players will have to consider aboout using slow to make them worth. But still at 60% def in forest and 50% at sand is still a nice unit.
+ ** Quenoth Revager
+ - Mele to 11-4 (from 10-4) -- ignored then
+ - Ranged to 6-3 (from 8-3)
+ 
+ ** Quenoth Lurker
+ - Mele from 4-5 to 3-5 ... Hey, it's a way better than orcish assasins.
+ ** Quenoth Seeker
+ - Ranged damage to 4-3 (from 5-3)
+ ** Quenoth Wayfarer
+ - Ranged damage from 10-3 to 8-3.
+ ** Quenoth Stalker
+ - Mele from 7-3 to 6-3, because of backstab.
+ - Ranged reworked from 4-3 to 5-2
+ - Price from 30g to 34g
+ ** Quenoth Assasin
+ - Mele from 9-3 too 8-3 because of backstab.
+ - Ranged from 8-3 to 7-3
+ 
+ ** Quenoth Rider
+ - Price froom 28g to 32g
+ ** Quenoth Sand Dasher
+ - Price from 43g to 45g
+ 
+ ** Quenoth Marksman
+ - Price from 60g to 40g ... SERIOUSLY OVERPRICED.
+ ** Quenoth Sharpshooter
+ - Price from 90g to 55g ... SERIOUSLY OVERPRICED.
+ 
+ ** Moon Enchantress: Actually too much damage for a unit with a support aura. Let's nerf
+ - Ranged to 7-3 (from 9-3)
+ - Price from 34g to 36g
+ 
+ 
+Mercenaries - Tribalists - Kangaroos
+ - Wallaby: sugesting to 50% their castle defense to make them viable in Orocia and some other survivals (same for lv2 and lv3)
+Aren't Kanguros hot climated animals? would change their -20% fire resistance to +20% fire resistance considering this, apart of not a very used
+unit after all, people doesn't like their stats for Orocia aparently.
+ ** Boxer: for people who dares to lv3 it:
+ - Mele rework to 9-4 marskman (from 10-4 but no special)
+ - Add first strike to 18-2.
+ - 15% impact resistance. Used of being hit by fists/kicks of other boxers!
+Coment: leveling to boxer needs a lot of xp, let's reward more to players that decided to lv3 for Boxers. 
+
+Mercenaries - Tribalist - Indogenous
+Let's half their bonus physical resistances because he has more resistances than Royal Guard alike of better stats than Elvish Hero.
+ - Impact resistance to 10% (from 20%)
+ - Pierce resistance to 15% (from 30%)
+ - Ranged damage to 7-3 (from 8-3)

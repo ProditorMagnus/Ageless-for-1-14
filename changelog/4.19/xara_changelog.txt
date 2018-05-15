@@ -1,0 +1,225 @@
+Implementing balance changes to EFM proposed by IPS, while taking some freedom. I agree with Velensk's review with EFM that 
+many of changes are harmless but thematically unfit, while it's true that the EFM factions can use some buffs. In my personal
+opinion it's better to just buff some numbers, but IPS proposed many weird stuffs to add, so I left out many changes that I 
+can't agree with.
+
+-------------------------------------------------
+EFM Whites
+
+whitesfoot:	 cost 1 on hills, defense 40% on caves
+not implemented:	snow defense	# disagreed by velensk
+AE_efm_whites_ward_foot:	60 village defense
+not implemented: Vigilante are now 70% village defense (instead of 50%)
+not implemented: Scout/Raider is aditionally 60% forest defense (instead of 50%)
+
+-------------------------------------------------
+EFM - Sea States
+Alchemist
+ - AE_MAG_ABILITYHEALS2		# suggested [heals +1]
+ - Health from 25 to 26
+ - Knife damage from 2-2 to 3-2
+ - not implemented: Fire/cold resistance from 0% to 10%
+
+ Concoctionist
+ - AE_MAG_ABILITYHEALS2		# suggested [heals +1]
+ - Health from 38 to 42
+ - Knife damage from 5-2 to 6-2
+ - Poison canister damage from 7-3 to 8-3 and has now +Aimed
+ - Paralysys powder damage fro 3-5 to 3-6
+ - not implemented: Fire/Cold resistance from 0% to 20%
+ - not implemented: Arcane resistance from 20% to 30%
+
+Doctor
+ - Health from 34 to 40
+ - Knife damage from 3-3 to 4-3
+ - {Regenerates}	# suggested:	Has now +Anti-Poison (this unit will cure himself from poison!)
+ - not implemented: Fire/Cold resistances from 0% to 10%
+ - not implemented: Arcane resistance from 20% to 40%
+ 
+Composite Bowman
+ - Health from 32 to 33
+ - Price from 17g to 16g
+
+Veteran Bowman
+ - Compound bow damage from 8-4 to 9-4
+
+
+Veteran Bowman
+ - Compound bow damage from 8-4 to 9-4
+
+
+Horse Arhcers and all advacements.
+ - not implemented: Cold resistance from 0% to 10% 
+ 
+
+Loyalist
+ - Health from 33 to 34
+ - Price from 17g to 16g	# suggested 17 -> 15, but velensk disagreed 
+ 
+
+Vassal
+ - Blade/Impact resistance from 0% to 10% 
+ 
+
+Liegeman
+ - Blade/Impact resistances from 0% to 20%
+ - Pierce resistance from 0% to 10% 
+ 
+
+Paddle Ship
+ - Armed crew damage from 3-2 to 4-2 
+ 
+
+Paddle Frigate
+ - Armed crew damage from 5-4 to 6-4
+ - lime casings damage from 5-4 to 6-4 
+ 
+Regimenteer
+ - Health from 36 to 37
+ - Price from 14g to 13g 
+ 
+
+Retainer
+ - Blade/Pierce resistance from 0% to 10% 
+ 
+ 
+House Guard
+ - Health from 64 to 70 
+
+
+Guild Officer
+ - not implemented:		NEW ATTACK: axe 7-3 blade mele
+ - blade resistance from 0% to 10%
+ 
+
+Merchant Lord
+ - Health from 64 to 66
+ - not implemented: NEW ATTACK: axe 8-4 blade mele
+ - blade resistance from 0% to 10% 
+ - not implemented:	fire 0% to 10%
+ 
+
+Rider/Raider
+ - Cold reistance from 0% to 10%
+
+Cataphract
+ - Pierce resistance from -20% to -10% 
+ 
+-------------------------------------------------
+EFM - Imperialists
+
+Bolter, Ballista
+	fire resistance -30 -> -20	# suggested -30 -> -25 to ballista
+	
+Pelite
+	price 14 -> 13
+	
+Flinger:
+	-Blade/Pierce/Impact resistances from 0% to 10%
+
+Spiker:
+	-hp 44-> 47
+	
+Standard
+	-not implmented: standard not working on higher level units
+	-not implmented: lv.1 leadership
+
+Primus, Legatus
+	-fire/cold resistance -10 -> 0		# suggested: -10 -> -5 to Primus
+	
+-------------------------------------------------
+EFM - HIGHLANDERS
+highlander foot blade/impact/pierce resistance -20 -> -10	# suggested -20 -> -15, but lv.3 units to -10
+
+
+-------------------------------------------------
+EFM - Freeman
+Mufti/Mullah
+	-cold resistance -20% -> -10% 	# suggested -20 -> -15
+	
+Goun
+	-not implemented: new ranged pierce attack
+
+Ensnarer
+	-hp 42->44
+	-blade/pierce/impact resistances +10	# suggested +5
+	
+Sheik
+	-blade resistance 0 -> 10%
+	
+Dervish:
+	-hp 42->44
+	
+Immortal
+	- Health from 58 to 60
+	-blade/pierce/impact resistances +10	# suggested +5
+
+
+-------------------------------------------------
+EFM - Darklanders
+
+Wasp 
+	-not implemented: new marksman attack
+Stalker
+	-not implemented: new marksman attack
+Whisper
+	-not implemented: new marksman attack
+Guerrilla
+	-swamp defense: 30 -> 40
+Guard	
+	-blade/impact resistances 0 -> 10
+Viper
+	-not implmented: new ranged attack	# Quoting Velensk: whip is not ranged
+Serpent
+	-not implmented: new ranged attack
+	-damage 3-3 -> 4-3
+	-resistances: blade -30% -> -20%, impact -20% -> -10%	# suggested -30 -> -25, -20 -> -15
+
+-------------------------------------------------
+
+EFM - Dalefolk
+
+Botanist:
+	-syreleaf fumes now has {AE_CHS_WEAPON_SPECIAL_AIMED}
+	-not implemented: Poisonous Throns 4-3 pierce ranged +aimed +poison
+	
+Foreman:
+	-new 11-2 pierce attack		#really doubt if it's useful, it's 75% pierce damage of the main blade attack
+	-not implemnted: advance to a new lv.3 unit
+
+Delver
+	-new 6-4 pierce attack		
+	-not implmented: advance to new lv.3 unit
+	
+Raven,Mynah:
+	-not implemented: low keep to Mynah because stats too weak 		# can buff health instead?
+
+Rocketers
+	-not implemented: fire resistances	# quoting Velensk: "Why are the rocketeers resistant to fire? If anything, they should be incredibly -vulnerable- to fire."
+
+Shifter
+	-hp 32->34
+	-human fist 3-2 -> 3-3
+	-arcane resistances -20 -> -10
+	-wrathhog cold resistances
+
+Wilderman
+	-fist attack 4-3 -> 4-4
+	-changed boar cold resistances to 20
+	-arcane resistance -20 -> -10
+	
+Canoe
+	-hp 31->33
+
+Catamaran
+	-hp 46->50
+	-not implemented: fire resistances
+
+
+	
+-------------------------------------------------
+	
+
+
+	
+	

@@ -1,0 +1,1310 @@
+
+
+Explanation	Lvl 1			Lvl 2			Lvl 3			Lvl 4
+
+bckstb/flee	Cultist ----------------> Covert ---------------> Spy
+					> 			>
+					> 			> Executor
+					>
+bckstb/zerk				> Overt ----------------> Cleaner
+
+surprise	*Waiter -----------------> Lurker ---------------> Waylayer
+					>
+hitnrun					> Ambuscade
+		
+melee		*Recruit ----------------> Transformed ----------> Mutated --------------> Inhuman
+					>
+					> Rebel ----------------> Subverter
+
+mixed		*Exile ------------------> Banished -------------> Condemned
+
+regen		*Survivor ---------------> Outlaster ------------> Remnant --------------> Primordial
+
+heavy		*Freak ------------------> Miscreation ----------> Monstrosity
+
+scout		*Lookout ----------------> Sentry ---------------> Beacon		
+
+swimmer		*Sewerswimmer -----------> Sewer Slider ---------> Slither
+
+Name:
+Advance From:
+Advance To:
+Race:
+Abilities:
+HP:
+XP:
+Moves:
+COst:
+Alignment:
+Description:
+Attacks:
+Resists:
+arcane-
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-
+Castle-
+Sand-
+Village-
+Grassland-
+Forest-
+Hills-
+Mountains-
+Chasm-
+Swamp-
+Mushroom-
+Cave-
+Deep Water-
+Shallow Water-
+Cave Wall-
+
+Name: Cultist
+Advance From: null
+Advance To: Covert, Overt
+Race: Human
+Abilities:
+HP: 26
+XP:
+Moves: 6
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+dagger melee (blade) 3-4 backstab
+Resists:
+arcane- 20%
+blade- -30%
+cold-
+fire-
+impact- -20%
+pierce- -30%
+Terrain:
+Snow- 2 30%
+Castle- 1 70%
+Sand- 2 30%
+Village- 1 70%
+Grassland- 1 50%
+Forest- 2 70%
+Hills- 2 60%
+Mountains- 3 70%
+Chasm- 100 50%
+Swamp- 1 70%
+Mushroom- 1 70%
+Cave- 1 50%
+Deep Water- 100 30%
+Shallow Water- 3 40%
+Cave Wall- 100 50%
+
+Name: Covert
+Advance From: Cultist
+Advance To: Executioner, Spy
+Race: Human
+Abilities:
+HP: 36
+XP:
+Moves: 6
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+dagger melee (blade) 7-2 backstab flee
+Resists:
+arcane- 20%
+blade- -30%
+cold-
+fire-
+impact- -20%
+pierce- -30%
+Terrain:
+Snow- 2 30%
+Castle- 1 70%
+Sand- 2 30%
+Village- 1 70%
+Grassland- 1 50%
+Forest- 2 70%
+Hills- 2 60%
+Mountains- 3 70%
+Chasm- 100 50%
+Swamp- 1 70%
+Mushroom- 1 70%
+Cave- 1 50%
+Deep Water- 100 30%
+Shallow Water- 3 40%
+Cave Wall- 100 50%
+
+Name: Spy
+Advance From: Covert
+Advance To: null
+Race: Human
+Abilities: Flee
+HP: 45
+XP:
+Moves: 7
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+dagger melee (blade) 7-3 backstab flee
+needle ranged (pierce) 8-2 marksman toxic
+Resists:
+arcane- 20%
+blade- -30%
+cold-
+fire-
+impact- -20%
+pierce- -30%
+Terrain:
+Snow- 2 30%
+Castle- 1 70%
+Sand- 2 30%
+Village- 1 70%
+Grassland- 1 50%
+Forest- 2 70%
+Hills- 2 60%
+Mountains- 3 70%
+Chasm- 100 50%
+Swamp- 1 70%
+Mushroom- 1 70%
+Cave- 1 50%
+Deep Water- 100 30%
+Shallow Water- 3 40%
+Cave Wall- 100 50%
+
+Name: Executioner
+Advance From: Covert
+Advance To: null
+Race: Human
+Abilities:
+HP: 58
+XP:
+Moves: 6
+COst:
+Alignment:
+Description:
+Attacks:
+dagger melee (blade) 15-2 backstab
+Resists:
+arcane- 20%
+blade- -30%
+cold-
+fire-
+impact- -20%
+pierce- -30%
+Terrain:
+Snow- 2 30%
+Castle- 1 70%
+Sand- 2 30%
+Village- 1 70%
+Grassland- 1 50%
+Forest- 2 70%
+Hills- 2 60%
+Mountains- 3 70%
+Chasm- 100 50%
+Swamp- 1 70%
+Mushroom- 1 70%
+Cave- 1 50%
+Deep Water- 100 30%
+Shallow Water- 3 40%
+Cave Wall- 100 50%
+
+Name: Overt
+Advance From: Cultist
+Advance To: Cleaner
+Race: Human
+Abilities:
+HP: 45
+XP:
+Moves: 6
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+shortsword melee (blade) 6-4 backstab
+Resists:
+arcane- 20%
+blade- -20%
+cold-
+fire-
+impact- -10%
+pierce- -20%
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 2 60%
+Hills- 2 60%
+Mountains- 3 60%
+Chasm- 100 50%
+Swamp- 1 70%
+Mushroom- 1 60%
+Cave- 1 50%
+Deep Water- 100 30%
+Shallow Water- 3 40%
+Cave Wall- 100 50%
+
+Name: Cleaner
+Advance From: Overt
+Advance To: null
+Race: Human
+Abilities:
+HP: 56
+XP:
+Moves: 6
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+shortsword melee (blade) 7-5 backstab
+Resists:
+arcane- 20%
+blade- -20%
+cold-
+fire-
+impact- -10%
+pierce- -20%
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 50%
+Forest- 2 60%
+Hills- 2 60%
+Mountains- 3 60%
+Chasm- 100 50%
+Swamp- 1 70%
+Mushroom- 1 60%
+Cave- 1 50%
+Deep Water- 100 30%
+Shallow Water- 3 40%
+Cave Wall- 100 50%
+
+Name: Waiter
+Advance From: null
+Advance To: Lurker, Ambuscade
+Race: Human
+Abilities: Ambush, Sloughblend
+HP: 30
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+dagger melee (blade) 4-2
+bow ranged (pierce) 6-3
+Resists:
+arcane- 20%
+blade- -10%
+cold-
+fire-
+impact- -10%
+pierce-
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 70%
+Mushroom- 1 60%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Lurker
+Advance From: Waiter
+Advance To: Waylayer
+Race: Human
+Abilities: Ambush, Sloughblend
+HP: 46
+XP:
+Moves: 6
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+dagger melee (blade) 4-3 poison
+bow ranged (pierce) 7-4 surprise
+Resists:
+arcane- 20%
+blade- -10%
+cold-
+fire-
+impact- -10%
+pierce-
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 70%
+Mushroom- 1 60%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Waylayer
+Advance From: Lurker
+Advance To: null
+Race: Human
+Abilities: Ambush, Sloughblend
+HP: 58
+XP:
+Moves: 6
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+dagger melee (blade) 5-4 poison
+bow ranged (pierce) 11-4 surprise
+Resists:
+arcane- 20%
+blade- -10%
+cold-
+fire-
+impact- -10%
+pierce-
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 70%
+Mushroom- 1 60%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Ambuscade
+Advance From: Waiter
+Advance To: null
+Race: Human
+Abilities: Ambush, Sloughblend
+HP: 50
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+dagger melee (blade) 6-2
+bow ranged (pierce) 8-3 hitandrun
+Resists:
+arcane- 20%
+blade- -20%
+cold-
+fire-
+impact- -20%
+pierce-
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 70%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 70%
+Mushroom- 1 60%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Recruit
+Advance From: null
+Advance To: Transformed, Rebel
+Race: Human
+Abilities:
+HP: 35
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+spear melee (pierce) 5-4
+spear ranged (pierce) 3-2
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Rebel
+Advance From: Recruit
+Advance To: Subverter
+Race: Human
+Abilities:
+HP: 53
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+spear melee (pierce) 7-4
+spear ranged (pierce) 5-2
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 60%
+Mushroom- 1 60%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Subverter
+Advance From: Rebel
+Advance To: null
+Race: Human
+Abilities:
+HP: 70
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+spear melee (pierce) 10-4
+spear ranged (pierce) 7-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 60%
+Mushroom- 1 60%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Transformation
+Advance From: Recruit
+Advance To: Mutant
+Race: Mutant
+Abilities:
+HP: 58
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Spear melee (pierce) 6-5
+Claws melee (blade) 13-2
+Resists:
+arcane- 0%
+blade- 10%
+cold-
+fire- -20%
+impact-
+pierce- 20%
+Terrain:
+Snow- 2 30%
+Castle- 1 50%
+Sand- 2 30%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 2 60%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 70%
+Mushroom- 1 70%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Mutant
+Advance From: Transformation
+Advance To: Inhuman
+Race: Mutant
+Abilities:
+HP: 76
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+spear melee (pierce) 9-5
+claws melee (blade) 13-3
+bite melee (blade) 25-1
+Resists:
+arcane- 0%
+blade- 10%
+cold- 10%
+fire- -20%
+impact- 10%
+pierce- 30%
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 60%
+Mushroom- 1 60%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Inhuman
+Advance From: Mutant
+Advance To: null
+Race: Mutant
+Abilities:
+HP: 90
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+spear melee (pierce) 10-6
+claws melee (blade) 14-4
+bite melee (blade) 25-2
+tail melee (impact) 18-3
+Resists:
+arcane- 0%
+blade- 20%
+cold- 10%
+fire- -20%
+impact- 20%
+pierce- 40%
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 60%
+Mushroom- 1 60%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Exile
+Advance From: null
+Advance To: Banished, Lonewolf
+Race: Human
+Abilities:
+HP: 34
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Trudgeon melee (impact) 7-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 50%
+Sand- 3 30%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 2 50%
+Mushroom- 2 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Banished
+Advance From: Exile
+Advance To: Condemned
+Race: Human
+Abilities:
+HP: 50
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Club melee (impact) 10-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 50%
+Sand- 3 30%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 2 60%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 2 60%
+Mushroom- 1 60%
+Cave- 1 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Condemned
+Advance From: Banished
+Advance To: null
+Race: Human
+Abilities:
+HP: 74
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Mace melee (impact) 16-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 2 30%
+Castle- 1 50%
+Sand- 2 30%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 1 60%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 30%
+Swamp- 1 70%
+Mushroom- 1 70%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Lonewolf
+Advance From: Exile
+Advance To: null
+Race: Human
+Abilities: Skirmish
+HP: 52
+XP:
+Moves: 6
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Trudgeon melee (impact) 8-3
+Claws melee (blade) 7-4
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 40% 2
+Castle- 50% 1
+Sand- 30% 3
+Village- 50% 1
+Grassland- 40% 1
+Forest- 70% 1
+Hills- 50% 2
+Mountains- 60% 3
+Chasm- 40% 100
+Swamp- 60% 2
+Mushroom- 60% 2
+Cave- 40% 2
+Deep Water- 20% 100
+Shallow Water- 30% 3
+Cave Wall- 40% 100
+
+Name: Survivor
+Advance From: null
+Advance To: Outlaster
+Race: Mutant
+Abilities: Regeneration
+HP: 50
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+fist melee (impact) 6-2
+Resists:
+arcane-
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Outlaster
+Advance From: Survivor
+Advance To: Remnant
+Race: Mutant
+Abilities: Regeneration
+HP: 74
+XP:
+Moves: 5
+COst:
+Alignment: 
+Description:
+Attacks:
+Fist melee (impact) 10-2
+Resists:
+arcane-
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Remnant
+Advance From: Outlaster
+Advance To: Primordial
+Race: Mutant
+Abilities: Regeneration
+HP: 108
+XP:
+Moves: 5
+COst:
+Alignment:
+Description:
+Attacks:
+Fist melee (impact) 12-3
+Inner Strength melee (impact) 32-1
+Resists:
+arcane-
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Primordial
+Advance From: Remnant
+Advance To: null
+Race: Mutant
+Abilities: Regenerates
+HP: 150
+XP:
+Moves: 5
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Fist melee (impact) 18-3
+Ancient Strength melee (impact) 45-1
+Resists:
+arcane-
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Freak
+Advance From: null
+Advance To: Miscreation
+Race: Mutant
+Abilities:
+HP: 38
+XP:
+Moves: 4
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Fist melee (impact) 9-2
+Resists:
+arcane-
+blade- 30%
+cold-
+fire- -20%
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 2 20%
+Castle- 1 50%
+Sand- 2 20%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 2 50%
+Chasm- 100 40%
+Swamp- 1 60%
+Mushroom- 1 40%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Miscreation
+Advance From: Freak
+Advance To: Monstrosity
+Race: Mutant
+Abilities: Terror
+HP: 53
+XP:
+Moves: 4
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Fist melee (impact) 13-2
+Claws melee (blade) 20-1
+Resists:
+arcane-
+blade- 30%
+cold-
+fire- -20%
+impact- 20%
+pierce- 40%
+Terrain:
+Snow- 2 20%
+Castle- 1 50%
+Sand- 2 20%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 40%
+Swamp- 1 60%
+Mushroom- 1 40%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Monstrosity
+Advance From: Miscreation
+Advance To: null
+Race: Mutant
+Abilities: Terror, Spiked
+HP: 69
+XP:
+Moves: 4
+COst:
+Alignment: Chaotic
+Description:
+Attacks:
+Fist melee (impact) 15-3
+Claws melee (blade) 20-2
+Resists:
+arcane-
+blade- 40%
+cold-
+fire- -20%
+impact- 30%
+pierce- 40%
+Terrain:
+Snow- 2 20%
+Castle- 1 50%
+Sand- 2 20%
+Village- 1 50%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 40%
+Swamp- 1 60%
+Mushroom- 1 40%
+Cave- 1 40%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Lookout
+Advance From: null
+Advance To: Sentry
+Race: Human
+Abilities:
+HP: 32
+XP:
+Moves: 8
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+torch melee (fire) 6-3
+Resists:
+arcane- 20%
+blade- -10%
+cold-
+fire-
+impact-
+pierce- -10%
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Sentry
+Advance From: Lookout
+Advance To: Beacon
+Race: Human
+Abilities:
+HP: 48
+XP:
+Moves: 8
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Torch melee (fire) 9-3
+Bow ranged (pierce) 10-2
+Resists:
+arcane- 20%
+blade- -10%
+cold-
+fire-
+impact-
+pierce- -10%
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Beacon
+Advance From: Sentry
+Advance To: null
+Race: Human
+Abilities: Inspire
+HP: 65
+XP:
+Moves: 8
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Torch melee (fire) 14-3
+bow ranged (pierce) 10-3
+Resists:
+arcane- 20%
+blade- -10%
+cold-
+fire-
+impact-
+pierce- -10%
+Terrain:
+Snow- 2 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 1 50%
+Mushroom- 1 50%
+Cave- 1 50%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Sewer Swimmer
+Advance From: null
+Advance To: Sewer Slider
+Race: Mutant
+Abilities: Sloughblend
+HP: 34
+XP:
+Moves: 7
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+Tail melee (impact) 14-1
+Sludge ranged (impact) 3-3 slow
+Resists:
+arcane-
+blade- -20%
+cold- 20%
+fire- -20%
+impact- -10%
+pierce- 10%
+Terrain:
+Snow- 2 20%
+Castle- 1 40%
+Sand- 2 20%
+Village- 1 40%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 1 70%
+Mushroom- 1 40%
+Cave- 1 30%
+Deep Water- 1 50%
+Shallow Water- 1 60%
+Cave Wall- 100 40%
+
+Name: Sewer Slider
+Advance From: Sewer Swimmer
+Advance To: Slitherer
+Race: Mutant
+Abilities: Sloughblend
+HP: 48
+XP:
+Moves: 7
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+tail melee (impact) 22-1
+bite melee (blade) 9-3
+sludge ranged (impact) 4-4 slows
+Resists:
+arcane-
+blade- -20%
+cold- 20%
+fire- -20%
+impact- -10%
+pierce- 10%
+Terrain:
+Snow- 2 20%
+Castle- 1 40%
+Sand- 2 20%
+Village- 1 40%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 1 70%
+Mushroom- 1 40%
+Cave- 1 30%
+Deep Water- 1 50%
+Shallow Water- 1 60%
+Cave Wall- 100 40%
+
+Name: Slitherer
+Advance From: Sewer Slider
+Advance To: null
+Race: Mutant
+Abilities: Sloughblend
+HP: 56
+XP:
+Moves: 8
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+tail melee (impact) 28-1
+bite melee (blade) 10-4
+sludge ranged (impact) 6-4 slows
+Resists:
+arcane-
+blade- -20%
+cold- 20%
+fire- -20%
+impact- -10%
+pierce- 10%
+Terrain:
+Snow- 2 20%
+Castle- 1 40%
+Sand- 2 20%
+Village- 1 40%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 1 70%
+Mushroom- 1 40%
+Cave- 1 30%
+Deep Water- 1 50%
+Shallow Water- 1 60%
+Cave Wall- 100 40%

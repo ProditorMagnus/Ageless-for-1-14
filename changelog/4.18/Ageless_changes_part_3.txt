@@ -1,0 +1,527 @@
+AGELESS ERA FEEDBACK
+
+--> AE Steel Hive Faction
+
+electric rework: increases movement costs of units by +1 instead of duplicating it.
+                 examples: flat from 1 to 2 if afected by electric
+                           forest from 2 to 3 if afected by electric
+                           mountains from 3 to 4 if afected by electric
+                           and more cases.
+Electric nerf is needed to consider some steelhive adjustments.            
+-- Needs too much code change, instead increased multiplier 0.5 -> 0.67
+
+Steel Amniote
+Honestly, I think that this unit can be reworked into something much better... and fun...
+
+Health 35 -> 55
+Colide 2-1 to 3-2
+Fire/Cold/Impact resistances from -20% to -10%
+XP from 3 to 17 (12 at 70% XP modifier)
+Coment: with their 30% defense and 3 movement acomplishes their role of zone of control, player will have to get forced to kill
+        something with it to reheal it and advance to lv2. Not as useless as used to be before advancing and has much better performance
+        when berserked.
+Steel Choriote
+Health 50 -> 55
+Colide damage 3-2 to 5-2 (but now has no specials)
+Batery Pulse damage from 10-1 to 11-1
+Fire/Cold/Impact resistances from -20% to 0%
+Blade resistance from 10% to 20%
+XP from 14 to 20
+Price from 26 to 24
+Coment: now requires more XP, acomplishes better its role of tank and costs considerable upkeep for its low damages. Has around the same damage than
+        default footpad has, but with lv2 upkeeps. Also needs to be a unit that can bother the enemy to be something considerable.
+--> Would sugest to decrease its resistances improvement from +50% to +35%. 
+Coment 2: Increased its XP to AMLA because of the option 'full reheal' which can be abused in RPG maps like colosseum.
+Coment 3: With my changes it's harder that this unit becomes extremely resistant to the wanted atack types in a survival game, also the unit ends 
+          having the same final resistances but at getting more XP.
+          Resistances: This unit starts with +60% base resistance, but can now gain up to 140% from AMLA, before was +200%.
+Coment 4: I hope that with this, Choriote is much better balanced for survival maps and RPG scenarios.
+
+Steel Cybercore
+Considering that it is gained from a Cybercone that just had 1 round of fight, needs repricing.
+Price from 29 to 18
+
+Steel Drone
+Cold resistance from -20% to -10%
+
+
+SteelScout
+It's a unit that by its stats isn't worth, but their aquatics ambushes can result interesting. But only issue is that it has no mele and its ranged
+ atack is not worth for being a unit without mele.
+--> ionblade rename to ion Beam
+--> NEW ATACK: ionblade 4-2 fire mele
+Cold resistance from -20% to 0%
+Fire resistance from -20% to -10%
+XP from 54 to 70
+Coment: their lv3 backstab at ranged is a really formidable atack, which is over-rewarded at lv3 but under-rewarded unit before lv3.
+
+Steel Recon
+--> ionblade rename to ion beam
+--> NEW ATACK: ionblade 5-3 fire mele
+Cold resistance from -20% to 10%
+Fire resistance from -20% to -10%
+
+Steel Larva
+Ranged damage is too similar than on drone, welder and a bit too similar to Oculus, we will diferenciate them of each other.
+Jolt damage from 5-3 to 8-2
+
+Steel Nymph
+Jolt damage from 6-3 to 9-2
+Price from 31 to 28
+Coment: I would highly recomend a new advancement for Steel Nymph in order to leave the player the choice if wanting the leadership from hivequeen and
+becoming ground or if mantaining its water terrain properties. For 1.14 wesnoth update maybe or even later, but I find it's necesary.
+
+UNIT SUGESTION: Steel Syren
+Health: 64
+Movement: 6
+Slap 6-5 impact mele
+Jolt 11-2 fire ranged +marskman +electric
+Resistances:
+--> Arcane: 20%
+--> Cold: 30%
+--> Blade/Pierce: 0%
+--> Fire/Impact -10%
+Terrain Movement/Defenses:
+--> all terrain defenses are the same, also some movement costs will be improved from nymph.
+-> Castle Movement cost from 2 to 1
+-> Unwalkable movement cost from 99 to 3 (but is also 20% unwalkable defense)
+Price: 52
+
+Steel Hivequeen
+Looks a bit underpowered, a small buff to this unit.
+Stab damage from 6-4 to 7-4
+Fire/Cold/Impact resistances from -20% to -10%
+
+Steel Empress
+In terms of stats, it's the lv4 with worst atacks in the game!! (not just in ageless XD). Obviously this unit needs buff.
+Stab damage from 7-4 to 8-4
+Pincers damage from 9-2 to 13-2
+Jolt damage from 8-3 to 9-3
+Fire/Cold/Impact resistances from -20% to 0%
+Coment: now this unit is not a joke in terms of stats. Apart players should be more rewarded for spending such XP in an unit.
+
+Light Shifter
+no-one likes this unit in the actual circunstances... I would modificate just to make it a more or less viable unit... spending money to confuse
+your enemy? 
+
+Health from 15 to 20
+Light ray damage from 3-2 to 5-2
+Arcane resistance from 20% to 80%
+Fire/Cold resistances from -20% to -10%
+XP from 135 to 90
+Price from 8 to 9
+
+Steel Oculus
+Just reworked electric nerfs bug giving it more interesting resistances...
+Cold resistance from -20% to -10%
+Fire resistance from -20% to 0%
+
+Sparkgazer
+Cold resistance from -20% to -5%
+Fire resistance from -20% to 10%
+Price from 39 to 36
+
+Boltstriker
+Considering the lot of experience it is required to lv3... maybe needs some extras.
+Cold resistance from -20% to 0%
+Fire resistance from -20% to 20%
+Price from 69 to 59
+
+
+Steel sentient
+Only objetctions would be that it gains too much damage while AMLA...
+--> It now gains +1 mele or +1 ranged damage instead of +2. So now this unit would be less abusable in RPGs/Survival maps.
+
+Steel Slasher and all advancements:
+Fire/Cold resistances from -20% to -10%
+Coment: we will leave the impact weakness of -20% unchanged in order to be countered by some way by non mages factions like khanlgan aliance.
+
+Steel Vorpal
+Blade resistance from 10% to 20%
+Price from 55 to 57
+
+Steel Fidelant
+Health from 60 to 63
+Movement from 9 to 8
+Impale has now +first-strike.
+Pierce resistance from 20% to 35%
+Price from 53 to 57
+Description: Not as strong as Steel vorpal in a 1vs1 duel, but once it desides to trample an opponent it will do lethal damage to him but at the cost
+that fidelant exposes itself in positions in which it can be seriously damaged. It can also choice to impale its victim to death being a much safer
+atack but at not being so deadly. The reflexes of this machine proves that even at being close ranged it may first strike a man with a pike. Altought, 
+its aerodinamic shape and speed makes harder to direct hit it using pierce weapons.
+
+Steel Welder
+Some adjustments.
+Weld damage from 4-3 to 3-4 (just to diferenciate more from oculus and drones)
+XP from 23 to 27
+
+Steel Repairer
+NEW ATACK: Beam 5-1 fire ranged.
+
+_______________________________________________________________________________________________________________________________________________________
+
+
+BEEM - Wood Warriors Faction
+At simple sight the faction looks boring, mostly because most units are underpowered even to default standards! I will do some buffs to make them more
+fun to be used as well fair repricements too.
+
+Fatal Tangle
+Price from 30 to 33
+Coment: it can poison/slow alike, and has 50% flat defense, regenerates, needs more price.
+
+Exiled Alchemist
+Looks somehow cost ineficent compared to other mages in AE. Just a really small adjustment that comes always handy.
+Forest movement cost from 2 to 1
+Swamp movement cost from 3 to 2 and defense to 30%
+
+Wood's Druid
+Forest movement cost from 2 to 1
+Swamp movement cost from 3 to 2 and defense to 30%
+XP from 74 to 100
+Coment: the increased XP is to compensate their lv2 and lv3 buffs.
+
+Legendary Sorcerer
+In their description it is said that some of them can throw lightning bolts from their staff (also in their description it's said that it is arcane 
+atack type). Let's follow their description to add them a new atack.
+NEW ATACK: Lightnint Bolt 16-2 arcane ranged +magical
+Forest movement cost from 2 to 1
+Swamp movement cost from 3 to 2 and defense to 30%
+Price from 64 to 61
+
+Rats Knight
+Movement from 10 to 8
+Arcane/Cold resistance from 0% to 20%
+Cave movement cost from 2 to 1
+Coment: Rats as fast as horses? mmmm... maybe but not more than them. Also rats are used to live in caves, even if they are giant.
+
+Wildrats knight
+Movement from 11 to 9
+Arcane/Cold resistance from 0% to 20%
+Blade/Pierce/Impact resistances from -10% to 0%
+
+Predator Rat Knight
+Movement from 9 to 8
+Star Knife damage from 8-2 to 6-3 (also sugest to change atack retrait to shurikens)
+Cave movement cost from 2 to 1
+Price from 30 to 32
+
+Swamp Explorer
+-------> [GRAVELY BUGGED, 0% ON ALL TERRAINS AND 99 MOVEMENT COST, NO RESISTANCES SHOWN]
+
+Amphibians rider
+Price from 30 to 32
+
+Young Bigfoot / Bigfoot / Terrible Bigfoot (the same for the 3 units)
+Fire resistance from -30% to -20%
+Mountains defense from 40% to 50%
+
+Faun / Faun Sharpshooter / Faun Sniper
+Arcane resistance from -10% to 0%
+
+Faunshapshooter
+XP from 90 to 72
+Coment: this unit is in a lower tier than elvish marskman, but just has more health and better mele. 
+
+Faun Sniper
+Price from 52 to 55
+
+Faun Captain
+Arcane resistance from -10% to 10%
+Cold resistance from 0% to 10%
+XP from 90 to 80
+
+Faun Overlord
+Arcane resistance from -10% to 10%
+Blade/Cold/Pierce resistance from 0% to 10%
+Coment: it needs to somehow justificate its lack of ranged atacks.
+
+_______________________________________________________________________________________________________________________________________________________
+
+
+MERCS - Highlanders frozen defense from 60% to 50%
+
+_______________________________________________________________________________________________________________________________________________________
+
+
+
+MERCS - Oracles Faction
+Oracle faction is poor at physical atack types, which could be a problem againist certain factions or specific units, for example this faction would
+have hard times defeating a Kirios. Some adjustments are needed.
+
+Arbiter
+NEW ATACK: Sword 8-2 blade mele
+XP from 42 to 46
+Price from 18 to 19
+Description: Some of the most loyal and vigorous oracles impart justice againist anyone that disobeys the basic principle of ethics and morale. Arbiters
+are equiped with a shimmering white armor and are equiped with a special sword that is built precisely to slay mundane and unholy creatures.
+He can also aim with a focus of judment as ranged atack.
+
+Theurgist
+NEW ATACK: Sword 8-3 blade mele
+Arcane resistance from 40% to 45%
+XP from 68 to 80
+Price from 28 to 32
+Coment: It now might be more atractive to certain gameplays, and less abusive againist units too arcane weak.
+Description: Theirjist is are responsable to execute anyone that disobeys the norms with divinelike strikes, his will of justice has increased after
+some battles increasing the power of his judgment strikes and providing an improved arcane resistance.
+
+Judgmentor
+NEW ATACK: Sword 11-3 blade mele 
+Arcane resistance from 40% to 50%
+Price from 48 to 52
+Coment: with even their solid stats they're not that noticed by players.
+Description: JUdmentors are the ones that tells to Theurists and Arbiters who they have to execute. Usually their presence is rare to see because they
+are commonly consulting oracles to view cases of people of creatures to analyze if they could be considered of guilty or if instead they could deserve
+mercy. Once a judmentor desides to take a case with his own hands pherpaps justice usually arrives at the wrong time for the guilty :) 
+
+Beholder
+It doesn't gain traits, fact that makes them somehow cost infeficent. Just lowering impact weakness and giving small resistances.
+Arcane resistance from 0% to 10%
+Impact resistance from -20% to -15%
+Beholders are evil creations of a really twisted warlock. Usually beholders feeds of birds and bats, hunting them with strikes of stare at far also once
+the prey is at close range the tentacle finishes the job. Beholders's evil aparience indicates that they are seething to anything else, but for some
+curious reasson it's calm next to humanoid presence unlike the tought. Curiously, beholder understands most of the orders given to it even with no 
+training at all meaning that probably it has a kind of mental conection with anyone that the creator authorized.
+ 
+Evileye
+Movement from 10 to 9
+Fire/Arcane resistances from 0% to 10%
+Impact resistance from -20% to -10%
+Once beholder has grown out feeding and gained some experience at fighting, the eyes become from blue to red diferenciating them from regular beholders
+quickly apart of the size. It's said that evileyes contrary to the thinked they're almost as loyal than a trained bird if not saying equally loyal. 
+With that new size it can hunt owls and maybe eagles in weird circunstances.
+--> Coment: 50% defense is hated by the players, so giving some resistances to compensate. 
+
+Blindman
+Blind special is now 30% to hit instead of 20%
+Impact resistance from 0% to 10%
+Description: For some reasson Oracles usually have more men which can do predictions about the future than almost any other race, but it's true as well
+that more of them born without being capable to see anything even if it's in the front of their noses. Also, at being blind their other senses are 
+considerably improved likely the hearing and mostly the touch.
+
+At not being capable to see the opponent he has in the front he has not good properties to be warriors, apart they cannot see that well the envoriment
+in which he is fighting which decreases considerably his agility. Still he can react very accurately if someone strikes him with white weapons at close
+range and the damage he will deal in retaliation is unexpectively high. If facing him, it's better using a ranged weapon anulating his only strength
+in a fight.
+
+Master
+Impact resistance from 0% to 10%
+Description: After certain trainaments the master has Sharpen his senses letting him to sense much better the envoirment so for other people he's no
+longer blind but he is still blind ... but just that doesn't matter anymore because he can sense the world and fight by his way. Still, he mantains his
+nice reflexes at striking with his staff with an accuracy that will invalidate any kind of enemy agility, meaning that no matter how agile his opponent
+is, Master will respond with always the same precision in retaliations.
+
+Cleric
+Description: Clerics are men that dedicate their lives at healing wounded oracles and preventing their people sick. Equiped with only with a staff and
+an amulet of arcane protection is the only things he wears. Not an effective warrior, but healing capacities are apreciated in the battlefield. Also,
+Clerics looks like they learn faster at healing arts in battlefield due of more constant healing.
+
+Clergyman
+Pricce from 36 to 32
+Description: Once Cleric has done fine his task for a certain time of service, are ascended to Clergymen. Clergymen have amulets in their staff that 
+allow them to use their extra extra healing powers. If for a reasson a cleric tries to use the staff of clergymen there would be almost no diference between their
+novices staff and clergymen staff.
+
+Bishop
+Price from 41 to 55
+Description: Bishop is the last grade that any cleric would want to acomplish. Bishops cannot heal more than clergymen but their training allowed them
+to have enough faith to can make certain amulets to illuminates their sorroudndings. With this, Bishop can easly erradicate unholy creatures quickly and
+protecting their lower ranks friends and all oracles in overall.
+
+Magnomancer
+XP from 40 to 43
+Description: Some oracles have telekinetic properties but are talentless at the arts of conventional magic, so they focus at potentiating their
+telekinesis. With this they can throw small metalshards with unexpected speed which can be a deadly weapon. Due this, magnomancers can't walk
+that fast while they levitate their metalshards.
+
+Gravitymancer
+Movement from 6 to 5
+NEW ATACK: Metal Shards 3-4 blade mele +swarm
+Metalshards (pierce) damage from 5-6 to 6-6
+Gravity boost damage from 20-1 to 17-1
+XP from 80 to 88
+Price from 34 to 32
+Description: Some oracles have telekinetic properties but are talentless at the arts of conventional magic, so they focus at potentiating their
+telekinesis. With this they can throw small metalshards and even stones with unexpected speed which can be a deadly weapon. Adiotionally, with the
+enough training they can even throw their opponents with a gravity boost causing a potent one strike atack which ends in a temporal confusion for the
+objective if the  strike is sucesful.
+
+Telekinetic
+Movement from 6 to 5
+NEW ATACK: Metal Shards 5-5 blade mele +swarm
+Gravity boost damage from 35-1 to 17-2 (the intention of this atack is to slow the objective, no? apart of making it less abusive in RPG/Survival 
+                                        gameplays)
+Water/Swamp movement cost from 3 to 2 (telekinetic can fleet himself)
+Deep water movement cost from 99 to 3 (still 20% defense)
+Unwalkable movement cost from 99 to 4 (and 10% defense)
+Description: Some oracles have telekinetic properties but are talentless at the arts of conventional magic, so they focus at potentiating their
+telekinesis. With this they can throw small metalshards and even stones with unexpected speed which can be a deadly weapon. Adiotionally, with the
+ enough training they can even throw their opponents with a gravity boost causing potent strikes atack which ends in a temporal confusion for the
+ objective if at least one strike is sucesful.
+
+
+Scrapshifter
+Health from 50 to 45
+Metal fist damage from 20-2 to 11-3 but is still swarm
+NEW ATACK: metal fist 8-1 mele impact -no specials- (it's not useless if you consider it mantains all upgarades in rpg/survivals)
+Metal Shards (blade) damage from 5-10 to 6-8 -still swarm-
+Metal Shards (pierce) damage from 6-8 to 8-6 -still swarm-
+NEW ATACK: Metal Shards (blade) 4-4 (with no specials)
+NEW ATACK: Metal Shards (piere) 5-3 (with no specials)
+Price from 34 to 36
+Coment: sorry for the 6 weapons lv2 unit ... also I remember that there was one special named 'swarm # of strikes' to make swarm have a limit of the
+amount of strikes, meaning that if health is under certain values the amount of strikes is capped instead of being lower than that amount or even zero.
+   If you could aplicate this special, there would be no need to even changem basic metal shards and setting them to be at least 3 ranged strikes to
+   both atacks and no need to add new atacks (except the swarmless metal fist).
+
+Monk
+Arcane resistance from 20%
+Oracles aren't good at hand to hand combats, also some of them rather going in a spiritual trascendence patch. Monks aren't efficent fighters but at 
+least their training and mental peace make them toughter than the expected. 
+
+Guru
+Arcane resistance from 20% to 25%
+After some time of training, their martial skills are improved considerably. Still, in hand to hand combats Guru is at disadventage againist most
+warriors but that doesn't negate that Oracles can use Gurus toughtness in the field to protect their companions at being focused by enemies at the
+front line and preventing their more squishy companions be harmed so easly.
+
+Englitened
+Arcane resistance from 20% to 30%
+Fist has now first strike (on a 8-5 strikes atack isn't that much)
+No-one knows how to explain what happened to Englitened but apparently his training made him into a spiritually superior being. The only remarkable
+diference of englitened is that voluntary somehow in fight he can gain another 2 arms to fight and superior reflexes to strike at first his opponents.
+His extra arms helps him to somehow shield him at making more difficult being direct hit in vital zones. 
+
+Oracle
+It's said that oracles can ocationally see facts that will occur in the future, also this virtue isn't voluntary so the predictions just come to them.  Oracle's predictions aren't always sucessful also their people are 
+attentive to their predictions to prevent some disgraces at time. Belief or not, it's true that Oracles are apreciated by their companions. 
+In fight they can cast quickly lightbeams that oftenly lands their objective.
+
+Prophet
+Similar to oracles they have the virtue of seing facts that will occur in the future, they have more followers because they have a better ratio of 
+predictions. In fight they can use arcane touchs and their staff and cast quick lightbeams.
+
+Seer
+Price from 50 to 55
+Seers in the oracle community are considered as virtous people that after long training and natural talent they can predict oftenly things that will
+occur. Unlike in the case of Oracles or prophets their predictions cannot be offset completely but the grade of damage can be reduced considerably.
+Seers can fire 7 strikes of light beam with considerable strength to his targets.
+
+Diciple
+Diciples are magi that have just started to study magic arts, but they're not sure in what to train. After some time fighting he will ocationally 
+find his talents and focus in a more specialized training in these.
+
+Sage
+Health from 26 to 28
+Blade/Pierce/Imapct resistances from 0% to -10%
+Sages are carismatic monks that unlike monks and their search for spiritual trascendence they focus to lead minor grades monks and undecited diciples.
+They also have excelent movility and agiity to easly avoid strikes.
+
+Psychic
+Staff damage from 10-3 to 8-3
+NEW ATACK: Ki strike 4-2 impact ranged
+After some training Psychic can canalize their Ki to lead weak ranged strikes. Psychic can canalize their Ki control to motivate their not that
+experienced companions. They also have excelent movility and agiity to easly avoid strikes.
+
+Omniscient
+Staff from 13-3 to 8-4 (just to make him difereciable from Psychic with +25% leadership)
+NEW ATACK: Ki strike 6-3 impact ranged
+Cold/Fire resistances from 0% to 10%
+Price from 48 to 52
+Omniscient are charismatic people with a natural talent of leadering most of their companions. After some training their Ki strikes are now as efficent
+as untrained men with physical weapons like bows or slings. It's an impressive if we consider that it comes from the omniscent mind generated with 
+nothing else than his own concentration. Omniscient has also a small and invisible mind shield of ki that sorrounds him that allows him to take a little
+less damage from magical proyectiles.
+
+Darkmage
+Health from 30 to 28 (same as dark adept)
+Cold resistnace from 0% to 10%
+In oracle society dark arts are not seen badly if their people do not use it againist their people. Darkmage are students of dark arts of 'reviving' 
+people as zombie slaves and wide knowledge about death itself. Some people that fought them describe their chillwave as one of the cooldest thing that
+they have ever felt in their lives.
+
+Necromantic
+Health from 58 to 52 (lol it's a lot to be a mage)
+Cold resistance from 0% to 15%
+XP from 100 to 114
+Price from 40 to 42
+Once a darkmage has the proper training, he's capable to rise zombies if their staff does the final hit. It's known that zombies servants have no will
+nor any kind of inteligence because the revival only works on the body (with certain delay, demostrating the small grade of putrefaction) and does not
+save the personality. Zombies does do not have fears or preocupations thing that helps them to be somehow useful in fights apart that they can continue
+the plague process. For not very known reasson this kind of virus that necromantic uses at his staffs only works when a body is at a terminal situation
+meaning it's safe for anyone that is in a sane status.
+
+Quietus
+Cold resistance from 0% to 20%
+Quietus are people that are specialized to brake life's motion quickly. But unlike Necromancers or Liches they do not have the proper formation to send
+undead back to the graves. In oracle society quietus are respected because they sensitive when someone is going to die soon because they by practice
+they gained a kind of 6th sense that allows them to know when someone is close to die even if the other person does not even know and in some cases 
+it can be prevented at time if it's about a close friend or someone close to them. As said, they're specialized to send live people to death if he 
+proposes that, his chillwaves are dangerous at distance and his infected staff with atleast one sucessful hit the victim is already poisoned.
+
+Scholar
+Health from 10 to 13
+Scholars are unnarmed students that dedicates their time at studying eneies... yes... studying enemies. They use an harmless spell at a safe range to
+study their enemy. With this spell they can learn at a surprising speed and in some circunstances become one of the hardest specializations in oracle
+society. 
+--> Coment: The intention is that a Scholar can survive easly if being atacked by one enemy in wrong time of day.
+
+Summoner
+XP from 50 to 60
+Summoners aren't that common in Oracle society. Summoners are capable to cast illusions of some creatures in order to defend themselves, illusions that
+don't durate much more than one round of fighting. With this they are capable to pick between their known options the one that proves to be most
+convenient at each round of fight. At the moment he can cast illusions of gryphon, troll whelp, speraman and drake burner.
+
+Conjurer
+--> Summon ghost rename to Summon wraith (would need a change of the retrait of the atack also)
+Conjurers are formidable in combat, they can cast now stronger illusions of even more variety than Summoner can do. It's proven that Conjurer chosen
+carefully the creatures they want to summon in combat in order to cover almost any existant atack type it's known. At this point their library is of
+6 diferent summoned creatures: gryphon, pikeman, troll, wraith, fire drake and elvish marskman. Counting that their summons are as effective as real
+ones, conjurer is extremely versatile and strong in battle but his only weakness is that conjurers aren't tought at all.
+
+Scientist
+NEW ATACK: Bomb 20-1 fire ranged (no specials)
+Fire/Cold resistances from 0% to 10%
+In oracle society science is apreciated, also unlike conventional science their science is more focused in the search of magical substances that can
+start reactions of diferent nature. At the moment, the most useful one in times of war are the explosive ones.
+--> Coment: Can now be more accurate to units with defense under 30%.
+
+Occultist
+Bomb damage from 32-1 to 28-1 and is still magical
+NEW ATACK: Bomb 28-1 fire ranged (no specials)
+Fire/Cold resistances from 0% to 15%
+XP from 77 to 90
+Occultist have improved the explosive reactions resulting in a bigger explosion. The process comes from sucess and failed tries of increased destructive
+explosive reactions which some of them does not even detonate while others explodes at wrong offset. Occultists are also now more prepared againist
+any possible reaction that could go wrong which is also useful to take less damage from magicians.
+--> Coment: This prevents them one-shooting many lv1's, while encouraging them to strike at magicians. 
+
+Alchemist
+NEW ATACK: Fist 3-2 impact mele
+Bomb damage from 50-1 to 42-1
+NEW ATACK: Bomb 42-1 fire ranged (no specials)
+Fire/Cold resistances from 0% to 15%
+Price from 49 to 56
+Alchemists are mysterous but admirable people in Oracle society. No-one knows how but they found a way to enlarge their longevity, secret that only
+Alchemists after hard working finds by themselves. To communicate their knowledge they encrypt it in order that only experienced occultists and
+alchemists can understand their secret knowledges. Once the explosive reaction is as big possible in a size that isn't dangerous to the alchemist 
+himself.
+--> Coment: Preventing 1 shoot killing some full HP lv2 units. Considering he gains regenerates at lv3, he doesn't need any extra magical resistance.
+
+Wizard
+Wizards are experienced spell casters that can throw fireballs to their foes. Wizards are just starting to learn to be spellcasters and really 
+there is not that much information to say about them for now.
+
+Warlocks
+Warlocks can if given the enough time can create creatures like beholder and others, also once in battle there is not enough time for such creations.
+Also when a fight begins warlocks can cast considerably destructive fireballs to hurt his foes.
+Price from 40 to 42
+--> Coment: It's a red mage with +8 hp and +10% fire resistance, that extra toughtness has to be paid.
+
+Sorcerer
+Mele damage from 8-3 to 7-3
+Price from 52 to 59
+Sorcerers are magnificent personalities, they can invoque diferent curious creatures but usually that's done in times of peace or whenever there are not
+distractions for that. In fight they can cast easly 5 fireballs which is more than the conventional ... also the extra fireball means their size has to
+be smaller than Archmage's fireballs.

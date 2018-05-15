@@ -1,0 +1,1205 @@
+Lvl 0			Lvl 1			Lvl 2 			Lvl 3			Lvl 4
+
+Refugee*----------------> Guard ----------------> Gatekeeper -----------> Roadclearer*
+			>			>
+			>			> Stonewall ------------> Spire*
+			>			>
+			>			> Ruler ----------------> Lord -----------------> Overlord
+			>
+			> Sentry ---------------> Sniper ---------------> Deadeye*
+			>
+			> Sarissan -------------> Hoplite --------------> Phalanx*
+			>			>			>
+			>			>			> Linebacker*			
+			>			>
+			>			> Defender -------------> Protector*
+			>			>
+			>			> Javelineer*
+			>
+			> Rabble ---------------> Maceman --------------> Greeter*
+
+			Courier ----------------> Messenger ------------> Envoy
+
+			Cleaner ----------------> Purifier*
+
+			Focul ------------------> Arsonist*
+
+						Longboat ---------------> Trireme
+
+
+
+Name: Refugee
+Advance From: null
+Advance To: Sentry, Sarissan, Rabble
+Race: Human
+Abilities:
+HP: 16
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+fist melee (impact) 3-3
+rock ranged (impact) 4-2
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Guard
+Advance From: Refugee
+Advance To: Gatekeeper, Stonewall, Ruler
+Race: Human
+Abilities:
+HP: 42
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+sword melee (blade) 10-2
+Resists:
+arcane- 20%
+blade- 30%
+cold-
+fire- -10%
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 3 10%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 3 30%
+Cave- 3 10%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Gatekeeper
+Advance From: Guard
+Advance To: Roadclearer
+Race: Human
+Abilities:
+HP: 58
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+sword melee (blade) 15-2 cleave (does 2 damage to any unit adjacent to both the attacker and defender with each successful strike)
+Resists:
+arcane- 20%
+blade- 50%
+cold-
+fire- -10%
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 3 10%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 3 30%
+Cave- 3 10%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Roadclearer
+Advance From: Gatekeeper
+Advance To: null
+Race: Human
+Abilities:
+HP: 66
+XP:
+Moves: 4
+COst:
+Alignment: neutral
+Description:
+Attacks:
+sword melee (blade) 15-3 cleave (does 2 damage to any unit adjacent to both the attacker and defender with each successful strike)
+sword melee (blade) 22-1 whirl (does 2 damage to any unit adjacent to attacker with successful strike)
+Resists:
+arcane- 20%
+blade- 60%
+cold-
+fire- -10%
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 3 10%
+Castle- 1 60%
+Sand- 3 10%
+Village- 1 60%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 3 50%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 3 30%
+Cave- 3 10%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Stonewall
+Advance From: Guard
+Advance To: Spire
+Race: Human
+Abilities:
+HP: 60
+XP:
+Moves: 3
+COst:
+Alignment: neutral
+Description:
+Attacks:
+sword melee (blade) 14-2
+Resists:
+arcane- 20%
+blade- 30%
+cold- -10%
+fire- -20%
+impact- 40%
+pierce- 40%
+Terrain:
+Snow- 3 0%
+Castle- 1 50%
+Sand- 3 0%
+Village- 1 50%
+Grassland- 1 20%
+Forest- 2 30%
+Hills- 2 30%
+Mountains- 3 40%
+Chasm- 100 20%
+Swamp- 3 10%
+Mushroom- 3 20%
+Cave- 3 0%
+Deep Water- 100 0%
+Shallow Water- 3 10%
+Cave Wall- 100 20%
+
+Name:Spire
+Advance From: Stonewall
+Advance To: null
+Race: Human
+Abilities:
+HP: 78
+XP:
+Moves: 3
+COst:
+Alignment: neutral
+Description:
+Attacks:
+sword melee (blade) 20-2
+Resists:
+arcane- 20%
+blade- 40%
+cold- -10%
+fire- -20%
+impact- 60%
+pierce- 60%
+Terrain:
+Snow- 3 0%
+Castle- 1 50%
+Sand- 3 0%
+Village- 1 50%
+Grassland- 1 20%
+Forest- 2 30%
+Hills- 2 30%
+Mountains- 3 40%
+Chasm- 100 20%
+Swamp- 3 10%
+Mushroom- 3 20%
+Cave- 3 0%
+Deep Water- 100 0%
+Shallow Water- 3 10%
+Cave Wall- 100 20%
+
+Name: Ruler
+Advance From:
+Advance To:
+Race:
+Abilities: Leadership
+HP: 56
+XP:
+Moves: 4
+COst:
+Alignment: lawful
+Description:
+Attacks:
+Sword melee (blade) 10-3
+Resists:
+arcane- 20%
+blade- 30%
+cold-
+fire-
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Lord
+Advance From: Ruler
+Advance To: Overlord
+Race: Human
+Abilities: Leadership
+HP: 68
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+sword melee (blade) 14-3
+Greek Sword melee (fire) 20-1
+Resists:
+arcane- 20%
+blade- 30%
+cold-
+fire- 20%
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Overlord
+Advance From: Lord
+Advance To: null
+Race: Human
+Abilities: Leadership
+HP: 80
+XP:
+Moves: 6
+COst:
+Alignment: lawful
+Description:
+Attacks:
+Sword melee (blade) 20-3
+Greek Sword melee (fire) 24-2
+Resists:
+arcane- 20%
+blade- 30%
+cold-
+fire- 20%
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Sentry
+Advance From: Refugee
+Advance To: Sniper
+Race: Human
+Abilities:
+HP: 32
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+dagger melee (blade) 6-1
+bow ranged (pierce) 5-4 highground (+1 damage if you have higher defence than opponent)
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce- 10%
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Sniper
+Advance From: Sentry
+Advance To: Deadeye
+Race: Human
+Abilities:
+HP: 46
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+dagger melee (blade) 8-1
+bow ranged (pierce) 7-4 highground
+Snipe ranged (pierce) 13-2 marksman
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce- 10%
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Deadeye
+Advance From: Sniper
+Advance To: null
+Race: Human
+Abilities:
+HP: 54
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+dagger melee (blade) 9-2
+bow ranged (pierce) 10-4 highground firststrike
+snipe ranged (pierce) 13-3 marksman
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce- 20%
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Sarissan
+Advance From: Refugee
+Advance To: Hoplite, Defender, Javelineer
+Race: Human
+Abilities: Grouping
+HP: 38
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+spear melee (pierce) 7-2 firststrike
+spear ranged (pierce) 8-1
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce- 10%
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Hoplite
+Advance From: Sarissan
+Advance To: Phalanx, Linebacker
+Race: Human
+Abilities: Grouping
+HP: 55
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+spear melee (pierce) 13-2 firststrike
+sword melee (blade) 6-3
+spear ranged (pierce) 10-1
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce- 10%
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Phalanx
+Advance From: Hoplite
+Advance To: null
+Race: Human
+Abilities: Grouping
+HP: 72
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+spear melee (pierce) 18-2 firststrike
+sword melee (blade) 8-3
+spear ranged (pierce) 12-1
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce- 10%
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 30%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Linebacker
+Advance From: Hoplite
+Advance To: null
+Race: Human
+Abilities: Grouping, Support (+1 grouping damage)
+HP: 68
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+spear melee (pierce) 30-1 firststrike
+sword melee (blade) 11-2
+Resists:
+arcane- 20%
+blade- 10%
+cold-
+fire-
+impact- 10%
+pierce- 30%
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Defender
+Advance From: Sarissan
+Advance To: Protector
+Race: Human
+Abilities: Grouping, Block (+10% physical resist grouping)
+HP: 58
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+Spear melee (pierce) 10-2
+Shieldbash melee (impact) 12-1 slow
+Spear ranged (pierce) 8-1
+Resists:
+arcane- 20%
+blade- 10%
+cold-
+fire-
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Protector
+Advance From: Defender
+Advance To: null
+Race: Human
+Abilities: Grouping, Block
+HP: 65
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+Spear melee (pierce) 10-3
+Shieldbash melee (impact) 20-1 slow
+Spear ranged (pierce) 10-1
+Resists:
+arcane- 20%
+blade- 10%
+cold-
+fire-
+impact- 20%
+pierce- 20%
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Javelineer
+Advance From: Sarissan
+Advance To: null
+Race: Human
+Abilities: Grouping, Supply (+1 ranged strike grouping)
+HP: 52
+XP:
+Moves: 6
+COst:
+Alignment: lawful
+Description:
+Attacks:
+spear melee (pierce) 8-3
+spear ranged (pierce) 10-2
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce- 20%
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Rabble
+Advance From: Refugee
+Advance To: Maceman
+Race: Human
+Abilities:
+HP: 35
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Club melee (impact) 5-4
+Rocks ranged (impact) 6-2
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Maceman
+Advance From: Rabble
+Advance To:
+Race: Human
+Abilities:
+HP: 53
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Mace melee (impact) 7-4
+Rocks ranged (impact) 8-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Greeter
+Advance From: Maceman
+Advance To: null
+Race: Human
+Abilities: 
+HP: 68
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Mace melee (impact) 10-4
+Sling rnaged (impact) 12-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Courier
+Advance From: null
+Advance To: Messenger
+Race: Human
+Abilities:
+HP: 35
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+Sword melee (blade) 7-2
+Shortbow ranged (pierce) 6-3
+Resists:
+arcane- 20%
+blade- 10%
+cold-
+fire-
+impact- 10%
+pierce- -10%
+Terrain:
+Snow- 3 20%
+Castle- 1 50%
+Sand- 3 20%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 50%
+Mountains- 100 30%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Messenger
+Advance From: Courier
+Advance To: Envoy
+Race: Human
+Abilities:
+HP: 48
+XP:
+Moves: 9
+COst:
+Alignment: lawful
+Description:
+Attacks:
+Sword melee (blade) 8-3
+Shortbow ranged (pierce) 7-4
+Resists:
+arcane- 20%
+blade- 10%
+cold-
+fire-
+impact- 10%
+pierce- -10%
+Terrain:
+Snow- 3 20%
+Castle- 1 50%
+Sand- 3 20%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 50%
+Mountains- 100 30%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Envoy
+Advance From: Messenger
+Advance To: null
+Race: Human
+Abilities:
+HP: 60
+XP:
+Moves: 10
+COst:
+Alignment: lawful
+Description:
+Attacks:
+Sword melee (blade) 10-3
+Bow ranged (pierce) 8-5
+Resists:
+arcane- 20%
+blade- 10%
+cold-
+fire-
+impact- 10%
+pierce- -10%
+Terrain:
+Snow- 3 20%
+Castle- 1 50%
+Sand- 3 20%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 50%
+Mountains- 100 30%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Cleaner
+Advance From: null
+Advance To: Purifier
+Race: Human
+Abilities: Heals +4
+HP: 30
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+staff melee (impact) 5-2
+Cleanse ranged (arcane) 8-2 magical
+Resists:
+arcane- 30%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Purifier
+Advance From: Cleaner
+Advance To: null
+Race: Human
+Abilities: Heals +8 Cures
+HP: 48
+XP:
+Moves: 5
+COst:
+Alignment: lawful
+Description:
+Attacks:
+staff melee (impact) 6-3
+cleanse ranged (arcane) 11-3 magical
+Resists:
+arcane- 50%
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Focul
+Advance From: null
+Advance To: Arsonist
+Race: Human
+Abilities:
+HP: 32
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Greek Fire ranged (fire) 13-2
+Resists:
+arcane- 20%
+blade-
+cold-
+fire- 20%
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Arsonist
+Advance From: Focul
+Advance To: null
+Race: Human
+Abilities: Arson (+25% if enemy is on village or forest)
+HP: 52
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Greek Fire melee 4-6
+Greek Fire ranged 14-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire- 40%
+impact-
+pierce-
+Terrain:
+Snow- 3 20%
+Castle- 1 70%
+Sand- 3 20%
+Village- 1 70%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 20%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Longboat
+Advance From: null
+Advance To: Trireme
+Race: Mechanical
+Abilities:
+HP: 60
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Ballista ranged (pierce) 11-2
+Resists:
+arcane- 0%
+blade- 10%
+cold- 40%
+fire- -20%
+impact- 60%
+pierce- 30%
+Terrain:
+Snow- 100 10%
+Castle- 1 30%
+Sand- 100 10%
+Village- 1 30%
+Grassland- 100 20%
+Forest- 100 10%
+Hills- 100 10%
+Mountains- 100 0%
+Chasm- 100 10%
+Swamp- 2 10%
+Mushroom- 100 10%
+Cave- 100 10%
+Deep Water- 100 30%
+Shallow Water- 1 20%
+Cave Wall- 100 20%
+
+Name: Trireme
+Advance From: Longboat
+Advance To: null
+Race: Mechanical
+Abilities:
+HP: 80
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Ballista ranged (pierce) 11-3
+Resists:
+arcane- 0%
+blade- 10%
+cold- 40%
+fire- -20%
+impact- 60%
+pierce- 30%
+Terrain:
+Snow- 100 10%
+Castle- 1 30%
+Sand- 100 10%
+Village- 1 30%
+Grassland- 100 20%
+Forest- 100 10%
+Hills- 100 10%
+Mountains- 100 0%
+Chasm- 100 10%
+Swamp- 2 10%
+Mushroom- 100 10%
+Cave- 100 10%
+Deep Water- 100 30%
+Shallow Water- 1 20%
+Cave Wall- 100 20%

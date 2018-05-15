@@ -1,0 +1,1189 @@
+Level 0 		Level 1 		Level 2 		Level 3
+
+*Gnat -------------------> Fly
+			>
+			> Mosquito
+
+			*Swarm ------------------> Infest ---------------> Drove
+
+			*Drone ------------------> Prince ---------------> Regal
+
+			*Hopper -----------------> Skipper --------------> Glider
+						>
+						> Mantis 
+
+						Queen ------------------> Overmind
+
+			*Beetle -----------------> Stag -----------------> Hercules
+						>
+						> Flea -----------------> Tick
+			 
+			*Termite ----------------> Termite Soldier
+
+			*Spider -----------------> Tarantula ------------> Gargantuan
+						>
+						> Trapdoor Spider
+
+			*Ant --------------------> Soldier Ant ----------> Bull Ant
+						>
+						> Fire Ant
+
+Name:
+Advance From:
+Advance To:
+Race:
+Abilities:
+HP:
+XP:
+Moves:
+COst:
+Alignment:
+Description:
+Attacks:
+Resists:
+arcane-
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-
+Castle-
+Sand-
+Village-
+Grassland-
+Forest-
+Hills-
+Mountains-
+Chasm-
+Swamp-
+Mushroom-
+Cave-
+Deep Water-
+Shallow Water-
+Cave Wall-
+
+Name: Gnat
+Advance From: null
+Advance To: Fly, Mosquito
+Race: Hivespawn
+Abilities:
+HP: 16
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+Bother melee (impact) 2-5
+Resists:
+arcane-
+blade-
+cold-
+fire- -50%
+impact- -20%
+pierce-
+Terrain:
+Snow- 1 60%
+Castle- 1 60%
+Sand- 1 60%
+Village- 1 50%
+Grassland- 1 60%
+Forest- 1 60%
+Hills- 1 60%
+Mountains- 1 60%
+Chasm- 1 60%
+Swamp- 1 60%
+Mushroom- 1 60%
+Cave- 1 60%
+Deep Water- 1 60%
+Shallow Water- 1 60%
+Cave Wall- 100 60%
+
+Name: Fly
+Advance From: Gnat
+Advance To: null
+Race: Hivespawn
+Abilities:
+HP: 28
+XP:
+Moves: 10
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bother melee (impact) 3-8
+Resists:
+arcane-
+blade-
+cold-
+fire- -50%
+impact- -20%
+pierce-
+Terrain:
+Snow- 1 60%
+Castle- 1 60%
+Sand- 1 60%
+Village- 1 50%
+Grassland- 1 60%
+Forest- 1 60%
+Hills- 1 60%
+Mountains- 1 60%
+Chasm- 1 60%
+Swamp- 1 60%
+Mushroom- 1 60%
+Cave- 1 60%
+Deep Water- 1 60%
+Shallow Water- 1 60%
+Cave Wall- 100 60%
+
+Name: Mosquito
+Advance From: Gnat
+Advance To: null
+Race: Hivespawn
+Abilities:
+HP: 24
+XP:
+Moves: 8
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+bite melee (pierce) 8-2 drain
+Resists:
+arcane-
+blade-
+cold-
+fire- -50%
+impact- -20%
+pierce-
+Terrain:
+Snow- 1 60%
+Castle- 1 60%
+Sand- 1 60%
+Village- 1 50%
+Grassland- 1 60%
+Forest- 1 60%
+Hills- 1 60%
+Mountains- 1 60%
+Chasm- 1 60%
+Swamp- 1 60%
+Mushroom- 1 60%
+Cave- 1 60%
+Deep Water- 1 60%
+Shallow Water- 1 60%
+Cave Wall- 100 60%
+
+Name: Swarm
+Advance From: null
+Advance To: Infest
+Race: Drove
+Abilities: regenerates
+HP: 30
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (pierce) 4-6 swarm drains
+Resists:
+arcane-
+blade- 40%
+cold- -20%
+fire- -50%
+impact- 20%
+pierce- 40%
+Terrain:
+Snow- 1 40%
+Castle- 1 40%
+Sand- 1 40%
+Village- 1 30%
+Grassland- 1 40%
+Forest- 1 40%
+Hills- 1 40%
+Mountains- 1 40%
+Chasm- 1 40%
+Swamp- 1 40%
+Mushroom- 1 40%
+Cave- 1 40%
+Deep Water- 1 40%
+Shallow Water- 1 40%
+Cave Wall- 100 40%
+
+Name: Infest
+Advance From: Swarm
+Advance To: Drove
+Race: Hivespawn
+Abilities: Regenerates
+HP: 45
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (pierce) 6-6 swarm drains
+Resists:
+arcane-
+blade- 40%
+cold- -20%
+fire- -50%
+impact- 20%
+pierce- 40%
+Terrain:
+Snow- 1 40%
+Castle- 1 40%
+Sand- 1 40%
+Village- 1 30%
+Grassland- 1 40%
+Forest- 1 40%
+Hills- 1 40%
+Mountains- 1 40%
+Chasm- 1 40%
+Swamp- 1 40%
+Mushroom- 1 40%
+Cave- 1 40%
+Deep Water- 1 40%
+Shallow Water- 1 40%
+Cave Wall- 100 40%
+
+Name: Drove
+Advance From: Infest
+Advance To: null
+Race: Hivespawn
+Abilities: Regenerates
+HP: 60
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (pierce) 9-6 swarm drain
+Resists:
+arcane-
+blade- 40%
+cold- -20%
+fire- -50%
+impact- 20%
+pierce- 40%
+Terrain:
+Snow- 1 40%
+Castle- 1 40%
+Sand- 1 40%
+Village- 1 30%
+Grassland- 1 40%
+Forest- 1 40%
+Hills- 1 40%
+Mountains- 1 40%
+Chasm- 1 40%
+Swamp- 1 40%
+Mushroom- 1 40%
+Cave- 1 40%
+Deep Water- 1 40%
+Shallow Water- 1 40%
+Cave Wall- 100 40%
+
+Name: Drone
+Advance From: null
+Advance To: Prince
+Race: Hivespawn
+Abilities:
+HP: 35
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (pierce) 9-2 poison
+Resists:
+arcane-
+blade-
+cold-
+fire- -50%
+impact-
+pierce-
+Terrain:
+Snow- 1 40%
+Castle- 1 40%
+Sand- 1 40%
+Village- 1 30%
+Grassland- 1 40%
+Forest- 1 40%
+Hills- 1 40%
+Mountains- 1 40%
+Chasm- 1 40%
+Swamp- 1 40%
+Mushroom- 1 30%
+Cave- 1 30%
+Deep Water- 1 40%
+Shallow Water- 1 40%
+Cave Wall- 100 40%
+
+Name: Prince
+Advance From: Drone
+Advance To: Regal
+Race: Hivespawn
+Abilities: Leadership
+HP: 52
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (pierce) 14-2 poison
+Resists:
+arcane-
+blade-
+cold-
+fire- -50%
+impact-
+pierce-
+Terrain:
+Snow- 1 40%
+Castle- 1 40%
+Sand- 1 40%
+Village- 1 30%
+Grassland- 1 40%
+Forest- 1 40%
+Hills- 1 40%
+Mountains- 1 40%
+Chasm- 1 40%
+Swamp- 1 40%
+Mushroom- 1 30%
+Cave- 1 30%
+Deep Water- 1 40%
+Shallow Water- 1 40%
+Cave Wall- 100 40%
+
+Name: Regal
+Advance From: Prince
+Advance To: null
+Race: Hivespawn
+Abilities: Leadership
+HP: 69
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (pierce) 14-3 poison
+Resists:
+arcane-
+blade-
+cold-
+fire- -50%
+impact-
+pierce-
+Terrain:
+Snow- 1 40%
+Castle- 1 40%
+Sand- 1 40%
+Village- 1 30%
+Grassland- 1 40%
+Forest- 1 40%
+Hills- 1 40%
+Mountains- 1 40%
+Chasm- 1 40%
+Swamp- 1 40%
+Mushroom- 1 30%
+Cave- 1 30%
+Deep Water- 1 40%
+Shallow Water- 1 40%
+Cave Wall- 100 40%
+
+Name: Queen
+Advance From: null
+Advance To: Overmind
+Race: Hivespawn
+Abilities: Inspire Heals +8
+HP: 50
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+sting melee (pierce) 25-1 poison drain
+infect ranged (pierce) 11-2 poison plague (gnat)
+Resists:
+arcane-
+blade-
+cold-
+fire- -20%
+impact- -10%
+pierce-
+Terrain:
+Snow- 1 30%
+Castle- 1 40%
+Sand- 1 30%
+Village- 1 40%
+Grassland- 1 30%
+Forest- 1 40%
+Hills- 1 40%
+Mountains- 1 40%
+Chasm- 1 30%
+Swamp- 1 40%
+Mushroom- 2 30%
+Cave- 2 30%
+Deep Water- 1 30%
+Shallow Water- 1 30%
+Cave Wall- 100 40%
+
+Name: Overmind
+Advance From: Queen
+Advance To: null
+Race: Hivespawn
+Abilities: Inspire Heals +8
+HP: 78
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+sting melee (pierce) 38-1 poison drain
+infect ranged (pierce) 11-3 poison plague (gnat)
+Resists:
+arcane-
+blade-
+cold-
+fire- -20%
+impact- -10%
+pierce-
+Terrain:
+Snow- 1 30%
+Castle- 1 40%
+Sand- 1 30%
+Village- 1 40%
+Grassland- 1 30%
+Forest- 1 40%
+Hills- 1 40%
+Mountains- 1 40%
+Chasm- 1 30%
+Swamp- 1 40%
+Mushroom- 2 30%
+Cave- 2 30%
+Deep Water- 1 30%
+Shallow Water- 1 30%
+Cave Wall- 100 40%
+
+Name: Hopper
+Advance From: null
+Advance To: Skipper, Mantis
+Race: Hivespawn
+Abilities:
+HP: 35
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+tackle melee (impact) 10-2 charge
+Resists:
+arcane- 
+blade- 20%
+cold-
+fire- -20%
+impact- -10%
+pierce- 30%
+Terrain:
+Snow- 2 30%
+Castle- 1 50%
+Sand- 2 40%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 3 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 2 40%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Skipper
+Advance From: Hopper
+Advance To: Glider
+Race: Hivespawn
+Abilities: Skirmish
+HP: 53
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+tackle melee (impact) 10-3 charge
+Resists:
+arcane- 
+blade- 20%
+cold-
+fire- -20%
+impact- -10%
+pierce- 30%
+Terrain:
+Snow- 2 30%
+Castle- 1 50%
+Sand- 2 40%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 3 40%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 2 40%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Glider
+Advance From: Skipper
+Advance To: null
+Race: Hivespawn
+Abilities: Skirmish
+HP: 67
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+tackle melee (impact) 14-3 charge
+Resists:
+arcane-
+blade- 20%
+cold-
+fire- -20%
+impact- -10%
+pierce- 30%
+Terrain:
+Snow- 1 30%
+Castle- 1 50%
+Sand- 1 40%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 3 40%
+Hills- 1 50%
+Mountains- 2 60%
+Chasm- 100 40%
+Swamp- 1 40%
+Mushroom- 3 50%
+Cave- 2 30%
+Deep Water- 100 20%
+Shallow Water- 2 20%
+Cave Wall- 100 40%
+
+Name: Mantis
+Advance From: Hopper
+Advance To: null
+Race: Hivespawn
+Abilities: Feeding
+HP: 65
+XP:
+Moves: 7
+COst:
+Alignment: neutral
+Description:
+Attacks:
+scythe melee (blade) 8-4
+Resists:
+arcane-
+blade- 50%
+cold-
+fire- -20%
+impact- -10%
+pierce- 40%
+Terrain:
+Snow- 3 30%
+Castle- 1 50%
+Sand- 3 40%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 2 60%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 60%
+Cave- 3 30%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Beetle
+Advance From: null
+Advance To: Stag, Flea
+Race: Hivespawn
+Abilities:
+HP: 40
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (pierce) 10-2
+Resists:
+arcane-
+blade- 20%
+cold-
+fire- -20%
+impact- 20%
+pierce- 30%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 2 60%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Stag
+Advance From: Beetle
+Advance To: Hercules
+Race: Hivespawn
+Abilities: Stalwart
+HP: 54
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+horn melee (pierce) 15-2 firststrike
+Resists:
+arcane-
+blade- 20%
+cold-
+fire- -20%
+impact- 20%
+pierce- 30%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 2 60%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Hercules
+Advance From: Stag
+Advance To: null
+Race: Hivespawn
+Abilities: Stalwart
+HP: 72
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+horn melee (pierce) 15-3 firststrike
+Resists:
+arcane-
+blade- 20%
+cold-
+fire- -20%
+impact- 20%
+pierce- 30%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 2 60%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Flea
+Advance From: Beetle
+Advance To: Tick
+Race: Hivespawn
+Abilities:
+HP: 45
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (pierce) 5-4 drain
+Resists:
+arcane-
+blade- 20%
+cold-
+fire- -20%
+impact- -20%
+pierce- 20%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 2 60%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Tick
+Advance From: Flea
+Advance To: null
+Race: Hivespawn
+Abilities:
+HP: 58
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (pierce) 9-4 drain
+Resists:
+arcane-
+blade- 20%
+cold-
+fire- -20%
+impact- -20%
+pierce- 20%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 2 60%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Termite
+Advance From: null
+Advance To: Termite Soldier
+Race: Hivespawn
+Abilities:
+HP: 38
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (blade) 5-2
+acidspray ranged (fire) 18-1
+Resists:
+arcane-
+blade-
+cold-
+fire- 20%
+impact- -10%
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 2 60%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Termite Soldier
+Advance From: Termite
+Advance To: null
+Race: Hivespawn
+Abilities:
+HP: 55
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (blade) 6-3
+acidspray ranged (fire) 18-2
+Resists:
+arcane-
+blade- 10%
+cold-
+fire- 30%
+impact- -10%
+pierce- 20%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 2 60%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Spider
+Advance From: null
+Advance To: Tarantula, Trapdoor spider
+Race: Hivespawn
+Abilities:
+HP: 35
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (blade) 5-2 poison
+web ranged (impact) 4-3 slows
+Resists:
+arcane-
+blade-
+cold-
+fire- -20%
+impact- -20%
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 2 60%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Tarantula
+Advance From: Spider
+Advance To: Gargantuan
+Race: Hivespawn
+Abilities:
+HP: 54
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (blade) 8-2 poison
+web ranged (impact) 5-4 slows
+Resists:
+arcane-
+blade-
+cold-
+fire- -20%
+impact- -10%
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 2 60%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Gargantuan
+Advance From: Tarantula
+Advance To: null
+Race: Hivespawn
+Abilities:
+HP: 65
+XP:
+Moves: 6
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (blade) 9-3 poison
+web ranged (impact) 7-5 slows
+Resists:
+arcane-
+blade- 10%
+cold-
+fire- -20%
+impact-
+pierce- 10%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 2 60%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Trapdoor Spider
+Advance From: Spider
+Advance To: null
+Race: Hivespawn
+Abilities: Burrows
+HP: 50
+XP:
+Moves: 6
+COst:
+Alignment: chaotic
+Description:
+Attacks:
+bite melee (blade) 6-3 poison drain
+wrap melee (impact) 8-1 slows
+web ranged (impact) 6-3 slows
+Resists:
+arcane-
+blade-
+cold-
+fire- -20
+impact-
+pierce-
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 3 60%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Ant
+Advance From: null
+Advance To: Soldier Ant, Fire Ant
+Race: Hivespawn
+Abilities:
+HP: 38
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (blade) 7-3
+sting melee (pierce) 10-1 poison
+Resists:
+arcane-
+blade- 10%
+cold-
+fire- -10%
+impact- -10%
+pierce- 10%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 2 60%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Soldier Ant
+Advance From: Ant
+Advance To: Bull Ant
+Race: Hivespawn
+Abilities:
+HP: 57
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (blade) 8-4
+sting melee (pierce) 11-2 poison
+Resists:
+arcane-
+blade- 30%
+cold-
+fire- -10%
+impact-
+pierce- 30%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 2 60%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Bullant
+Advance From: Soldier Ant
+Advance To: null
+Race: Hivespawn
+Abilities:
+HP: 74
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (blade) 13-4
+sting melee (pierce) 22-2 poison
+Resists:
+arcane-
+blade- 30%
+cold-
+fire- -10%
+impact-
+pierce- 30%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 2 60%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%
+
+Name: Fireant
+Advance From: Ant
+Advance To: null
+Race: Hivespawn
+Abilities:
+HP: 52
+XP:
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+bite melee (blade) 7-4
+sting melee (fire) 13-2 poison
+acidspray ranged (fire) 4-4 poison
+Resists:
+arcane-
+blade- 10%
+cold- -20%
+fire- 50%
+impact- -10%
+pierce- 10%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 3 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 2 60%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 20%
+Cave Wall- 100 40%

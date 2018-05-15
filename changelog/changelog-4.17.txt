@@ -1,0 +1,12 @@
+Version 4.17:
+* Units and Factions
+    * Level 3 Gryphon for Monsters, Swamp Pathfinder for Wood Warriors
+    * Deprecated EoC Chaos bowman line
+* Graphics
+    * Some new EoC images
+* Balance
+    * Oracles, Yokai, Tribalists, Blight, Anakes, Avians, Holy Order, Despair, Quenoth, Cultists, Equestrians, ME Highlanders, Emperors Guard
+* Bug Fixes
+    * Shadowsword arcane resistance
+* Other
+    * Removed some too fast units from leader lists

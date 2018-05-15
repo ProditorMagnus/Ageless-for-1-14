@@ -1,0 +1,28 @@
+Version 4.8:
+* Eras and Factions
+    * Added Era of Four Moons
+    * Added the Khalifate faction
+    * Removed the Kalifa faction
+
+* Graphics
+    * None
+ 
+* Balance
+    * Dwarvish Runesmith Attack: 16-2 -> 13-2 | Cost: 30 -> 44
+ 
+* Bug Fixes
+    * Some random ones
+    * Fixed AMLA_TOUGH error for 1.9.7
+ 
+* Other
+    * Added the Era of Four Moons credits
+ 
+* Outstanding issues
+    * The Phalanx ability for Ceresians Halberdier and Pikemen is not yet implemented
+    * Fanatic's suicide ability sometimes doesn't function
+    * Steelhive Telecharging doesn't work correctly.
+    * Need to add Era of Four Moons to RPG and Heroes Era
+    * Need to add the Khalifate faction to RPG and Heroes Era
+    * Need to add Mercenaries to Heroes Era.
+ 
+Notes: This release is mainly a fix for 1.9.7. I will hopeful have the Khalifate faction and Era of Four Moons in the RPG and Heroes version of the era soon.

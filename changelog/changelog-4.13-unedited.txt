@@ -1,0 +1,187 @@
+FULL REDO OF ARCHAIC
+unit trees link to first post
+time over macro
+High Elf formation tabs
+statues petrify shouldnt always be 100% -- Archaic dealt with that sufficiently
+imperial guard attack to 16-3
+tribalist shaman health low 22->26
+perhaps this interrupt should have less strikes/less cth - try -1 strikes
+EoM & IE inspire->illuminate
+avian raven typo desc
+arendians mounted warrior damage type blade -> impact
+sun follower, protector, revenger cost+2
+steelhive slasher increase cost+1
+EoMa saurian shooter cost+1
+whites berserker cost could be higher+1
+blight ooze slightly reduce damage-1/2
+Refugee Protector damage increase+2
+freezing aura description has tabs
+FE horse archer level 2->3 gets no hp - sylvanus too
+wood warriors druid line to chaotic
+dalemen herbalist line needs more damage
+remove enchanters cursed leaders from random
+mistral rime as issaelfr leader
+need to try if interrupt can cause oos -- seems that not, but remove space from description
+equestrians bull is way too strong
+Era of Chaos http://forums.wesnoth.org/viewtopic.php?f=19&t=38109 -- Permission given, http://www.wesnoth.org/irclogs/2015/03/%23wesnoth-dev.2015-03-06.log
+PsychoticKittens to ME units descriptions, archaic and chaos notice
+ME mercenaries neglect mage cost+2
+made arson less bad / check tireme arson and def/balance
+CHANGED all mercenaries unit ids and many abilities ids
+rewrite ME support - that is all refugees that type abilities
+EoMa Blood Warrior lost his ability of Fury after AMLA, in Icywind Orocia. -- unable to replicate -- fixed, unprotected attack_end event for Cursed
+Changed most misc units and abilities ids
+EoS, EotF, FE, ME, Archaic, EoC, EFM, misc format
+vampire trait update
+-nozoc fix
+inform SlowThinker before I release next ageless version if there is need, -- sent
+fanatics bladesman cost -1
+fanatics gossiper +2hp
+yokai charm space
+sea states paddle ship cost 22->20
+water god heal+8
+yokai poltergeist race starts with space
+BEEM dark prophet should have drain
+subversive mage, lamia hp+2
+deal with ABILITY_CAPTION and Arrow Fury format
+EFM hoplite and phalanx race
+steelhive berserker lower terrain defs a lot, and slasher less - steelhive ground flat terrain def 60%->50%, bladewhirler lowered more
+lowered steel larva and slasher line health
+look ukian civilians - made them advance, not didnt make them recruitable
+imperialist standard not affect self, its first level resists
+level 1 rhami resists seem strange
+balloon lines balance - buffed level 2 and 3 versions
+freezing aura must affect allies - check description too -- consider entire special balance, disable in rpg
+fury could be written with negative feedback, that is removing attacks left if not killed, maybe 1 move not 2; consider damage[to lower? would prefer not to] vs cost ! only one of them per version --- just removed +moves to 0, limits to adjacent targets
+spirit dove level down, remove from random leader
+check growing fury damage upgrades - with xp mod upgrades works. let me know if there is different behaviour with something else
+is blight acid too hard to kill? - changed all blobs hp
+test split - split on def too, clearly define side of new units - added missing side filter
+FE armored mechanic health seems too high, same hive overmind - lowered
+queen and overmind melee lowered
+infernai hell dweller balance - cost -3
+whites wardrums id conflicts, not affect enemies - test wardrums and change description
+test saga - clarified description
+aragwaithi ancient banner and its hp
+beast terrain defs - changed to undeadfoot
+latch -- or rewrite to not advance? Dugi had something to manually recreate unit -- check if 1.12 even needs this message - remove message
+talon hero female image - removed female
+statue attack removed def only
+removed unreasonable attack/def only - ukian wardog fire attack is def only why? -- original has disabled too, will enable though, http://forums.wesnoth.org/viewtopic.php?f=19&t=27740&p=525027&hilit=torch#p525027 didnt convince me
+stoic defend only display
+dummy weapon specials for attack/def only
+grenade, hard landing, furious death add damage to description
+write sculpt to not depend on type
+rewrite kirios beam
+remove old eoma files
+slicer-fanatic advance cost changes - lowered fanatic cost and increased damage
+deadly strike description - 6% times level diff -- level 3 unit pierce resist -- should have fire_event=yes
+omen can still aoe petrified ones - finally fixed
+frozen golem aura not working on yokai banshee, ice golem titan doesnt lower dwarf rune lord resist - fixed and informed chaosrider
+frost shieldman mountain movement
+dwarf compounder missing image, EoS dwarf crossbow missing images - added same image as others from this tree
+EE dwarf flamethrower missing image - added, from EoC I suppose
+document about cleave friendly fire
+spore hive does damage to undead[leeches], and allies? same side? & extra space in description
+remove FE orcs shieldbearer leader
+need to check if it is intentional that nixie cant reach mountain - is intentional, water spirit
+welkin huge halo - changed from 400x400 to 216x216
+added ice bear image
+test tame, remove EOTF_ERA_EVENTS
+I recall some nice shuriken image from one bad addon, from EoMaM, for ME
+holy order cleric hp+2
+check yak resists on advance
+AE_arc_khthonfly, AE_arc_despair_stone, AE_arc_despair_spirit, AE_arc_tri_daemon arcane weakness reduced to 30%
+AE_agl_frozen_frost_gunner_master fire weakness reduced to 30%
+IE lavinians formation not working - fixed for feudal era too, made it mostly not clash with core steadfast
+steel cybercore defense not working - fixed some images of that unit too
+EE crab movetype to normal(6& 1/2/3)
+frost queen pierce friendly fire, check xp - added exp and changed description
+dullohan
+vector abilities 262 event.. - changed to filter_wml.. should be completely and utterly op
+menagerie mech defender increase hp
+ukian commander
+fire avatar hp40->48
+swamp witch hp29->27, xp42->48
+vector description
+check fright in game - fixed description
+Duplicate EoS Saurian Warrior name changed, one is Saurian Fighter now
+added some missing units to EoS free saurians recruits
+free saurian leech->drain
+free saurian assassin level 2->3 weakening - reversed
+check how statue petrify works now - changed to not work on leaders, fixed stone twilight
+steelhive female^repairs
+dalefolk delver should have cave not caves
+test cursedsword
+test latch, changed teleport to killed unit, latch -- or rewrite to not advance? Dugi had something to manually recreate unit -- check if 1.12 even needs this message - removed message
+me aquatic fixed
+barbarian goblin hit and run description vs real thing - changed real thing to fit description
+consider mummy to recruit list
+create level 2 mummy
+I suppose I should reduce khalokotaurus & methusalem hp
+kharos war banner reduce xp
+great jinn melee damage improvement is ridiculous.. lowered its xp to compensate --- jinn weakened, but made cheaper
+free saurians mage got quick, quick - replicated, didnt manage to fix -- Unit type where these macros are used want ignore_race_traits not ignore_global_traits
+removed female tornado
+rewrite frozen snowheal - changed to trait <- same hack as core does for undead
+!!!didnt get into 4.12.1 !!! wyvern ought to have normal traits too
+check AE_mrc_refugees_refugeeboat - increased some defs
+change EoC dread to use the one in general
+deal with turtles again - did less than before, expect them be moderately op
+EoMa carpet rider remove strong, check same for anakes archer
+use default khalifate - commented them, will be entirely removed later
+removed EoC vamps in favor of EoM
+removed EoC undead in favor of EE
+removed EoC orcs in favor of EE - integrate the additional units to EE, before EE id changes Ageless_Era\units\EE_units\orcs
+removed EoM elementals in favor of EoC
+removed EoC dwarves in favor of EoS - golem(redownload) line merge to EoS, after EoS id changes
+removed FE aragwaithi in favor of EoC
+FE phalanx ceresian to ability filter
+make sure all [ kill ] are protected and have fire_event=yes - other than suiciders
+Inspired hp 36->42
+menagerie faction image in list heroes
+steelhive lightshifter mp change, deal with steelhive lightshifter, make not rely on external events --- somewhat done, this ability needs major work still
+leviathan level 3-4 increase cold/fire resists
+make yokai kodama worth using - increased damage and hp
+check yokai weaver maiden [traits]
+change cursed weapon special, less_than_equal_to
+allow both Ravana and Laela image for both
+make efm hex not affect leaders
+leaders mp<5 add quick; not in rpg era
+fix surprise - changed from 1.25 to 1.3 for rounding
+attack def anims? - commented, shouldnt show missing image anymore
+EE, and (BEEM) need new format
+autotest movetypes - test passed
+duplicated and renamed some wanted images
+ME ifreet to immune to poison, phantom trait from archaic
+efreeti melee damage+2
+FE goblin striker and flanker hp+10
+some level 1 seal has low xp
+red ulf xp
+frozen amlas too high
+amla values, like master of darkness, orcei, heavy & neutral summoner, whites balladier, steel eagle; global check
+IE Arendian Boltrider xp is too low
+wyvern and wyvern rider xp too high? needs further lowering than to 60? -- better be
+welkin and its level 2s cost - check all welkin level 2
+lower tharis low level xp
+changed xp that was over level*50, or was too low
+level 3 must be at least 100, unless special
+change costs of all too cheap level 3/4 units http://forums.wesnoth.org/viewtopic.php?f=19&t=25274&p=583634#p583631 40 for level 3, 60 for level 4, add comment to mark it autochanged - split string to int with c++ is too much for me, just added +30 to most units cost
+steelhive drain not affect undead
+ageless version num variable
+Seems that 1.12.1 decided to start enforcing id: faction ID - must be unique to your era. No gameplay effect of [ multiplayer_side].
+better grouping would be not defaultlike
+change archaic and EoC multiplayer side ids, fix factions ids, arc mp sides placeholder ids, randoms list
+sort eras and factions alphabetically
+prevented crital bug where vector can happen on high hp, if given strike upgrades
+cursedsword is still stopping plague and some [kill ] is causing problems, must be wrong filter.. yes, filter_attack vs filter_weapon... anyways Removed [kill ] there..
+removed fleshpool from random leader
+archaic needs more leader choices
+check if ai can use statues, if not then remove from orocia -- statue doesnt unpetrify on night, when created with way other than recruiting
+changelogs
+allowed AE_MRC_AMLA_DISEASE 999 times, added max xp increase 10%
+added heal_full=yes to AE_AMLA_ARMOR
+fixed wolfling knife icon
+Khthon thralls damage changed from 120% to 60% of original unit
+Cyborg damage lowered 7-3 and 16-1 to 5-3 and 11-1
+Menagerie engineers repairs lowered from 16 to 8 and 10

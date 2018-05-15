@@ -1,0 +1,1135 @@
+Level 0			level 1			level 2 		level 3
+
+
+
+			[ Serf------------------[ Farmhand -------------[ Freedman
+			[
+			[
+Slave-------------------[
+			[
+			[
+			[ Worker----------------[ Miner ----------------[ StoneShatterer
+
+
+Concubine---------------[ Dancer ---------------[ Entrancer
+
+
+			Slaveholder-------------[ Conductor ------------[ Slavemaster
+						[
+						[ Subjugator
+						[
+						[ Punisher
+
+			Tracker-----------------[ Trailer --------------[ Shadow
+						[
+						[ Gatherer
+
+			
+			Mutt--------------------[ Pursuer --------------[ Chaser
+						[
+						[ Retriever
+						[
+						[ Maneater
+
+Hawk--------------------[ Elder Hawk -----------[ Shouldermount
+			[
+			[ Observer
+
+Unit Descriptions:
+
+Name:
+Advance From:
+Advance To:
+Race:
+Abilities:
+HP:
+XP:
+Moves:
+COst:
+Alignment:
+Description:
+Attacks:
+Resists:
+arcane-
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-
+Castle-
+Sand-
+Village-
+Grassland-
+Forest-
+Hills-
+Mountains-
+Chasm-
+Swamp-
+Mushroom-
+Cave-
+Deep Water-
+Shallow Water-
+Cave Wall-
+
+
+
+Name: Slave
+Advance From: Null
+Advance To: Slave, Worker
+Race: Human
+Abilities:
+HP:20
+XP:20
+Moves: 5
+COst:
+Alignment: neutral
+Description:
+Attacks:
+sickle melee (blade) 5-3
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact-10%
+pierce-0%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 50%
+Swamp- 2 40%
+Mushroom- 3 50%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name:Serf
+Advance From:Slave
+Advance To:Farmhand
+Race: Human
+Abilities:
+HP:35
+XP:
+Moves:5
+COst:
+Alignment:neutral
+Description:
+Attacks:
+sickle melee (blade) 5-4
+pitchfork melee (pierce) 9-2
+pitchfork ranged (pierce) 4-1
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact-10%
+pierce-0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp-2 40%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name:Farmhand
+Advance From:Serf
+Advance To:Freedman
+Race:Human
+Abilities:
+HP:48
+XP:
+Moves:5
+COst:
+Alignment:neutral
+Description:
+Attacks:
+Sickle melee (blade) 7-4
+Pitchfork melee (pierce) 9-3
+Pitchfork ranged (pierce) 5-2
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact-10%
+pierce-0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp-2 40%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name:Freedman
+Advance From:Farmhand
+Advance To:Null
+Race:Human
+Abilities:
+HP:60
+XP:100
+Moves:6
+COst:
+Alignment:neutral
+Description:
+Attacks:
+Sword melee (blade) 10-4
+Spear melee (pierce) 12-3
+Spear ranged (pierce) 8-2
+Resists:
+arcane-20%
+blade-10%
+cold-0%
+fire-0%
+impact-30%
+pierce-10%
+Terrain:
+Snow- 3 30%
+Castle- 1 60%
+Sand- 2 30%
+Village- 1 60%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 50%
+Mountains- 3 60%
+Chasm- 100 50%
+Swamp- 2 40%
+Mushroom- 3 50%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name:Worker
+Advance From:Slave
+Advance To:Miner
+Race:Human
+Abilities:
+HP:40
+XP:
+Moves:5
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+hammer melee (impact) 11-2
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact-20%
+pierce-0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-3 50%
+Hills- 1 60%
+Mountains- 2 70%
+Chasm- 100 50%
+Swamp- 3 40%
+Mushroom- 3 50%
+Cave- 1 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name:Miner
+Advance From:Worker
+Advance To:StoneShatterer
+Race:Human
+Abilities:
+HP:56
+XP:
+Moves:5
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+hammer melee (impact) 17-2
+pickaxe melee (pierce) 10-3
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact-20%
+pierce-0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-3 50%
+Hills-1 60%
+Mountains-2 70%
+Chasm-100 50%
+Swamp-3 40%
+Mushroom-3 50%
+Cave-1 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name:StoneShatterer
+Advance From:Miner
+Advance To:Null
+Race:Human
+Abilities:
+HP:68
+XP:
+Moves:5
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+hammer melee (impact) 22-2
+pickaxe melee (pierce) 14-3
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact-40%
+pierce-10%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-3 50%
+Hills-1 60%
+Mountains-2 70%
+Chasm-100 50%
+Swamp-3 40%
+Mushroom-3 50%
+Cave-1 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name:Concubine
+Advance From:Null
+Advance To:Dancer
+Race:Human
+Abilities:Heal +4
+HP:15
+XP:
+Moves:6
+COst:
+Alignment:Chaotic
+Description:
+Attacks:
+Kiss melee (impact) 1-1 slow
+Woo ranged (cold) 3-3
+Resists:
+arcane-20%
+blade- 0%
+cold-0%
+fire-0%
+impact- 10%
+pierce- 0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-1 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp-2 40%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name:Dancer
+Advance From:Concubine
+Advance To:Enchantress
+Race:Human
+Abilities:Heal +8, Leadership
+HP:28
+XP:
+Moves:7
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+Kiss melee (impact) 1-2 Slow
+Woo ranged (cold) 6-3
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact-10%
+pierce-0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-1 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp-2 40%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name:Enchantress
+Advance From:Dancer
+Advance To:Null
+Race:Human
+Abilities:Heal +8, Cures, Leadership
+HP:42
+XP:
+Moves:7
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+Kiss melee (impact) 1-3 slow poison
+Woo ranged (cold) 8-4
+Resists:
+arcane-40%
+blade-0%
+cold-20%
+fire-20%
+impact-10%
+pierce-0%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-2 30%
+Village-1 60%
+Grassland-1 40%
+Forest-1 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp-2 40%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name:Hawk
+Advance From:Null
+Advance To:Elder Hawk, Observer
+Race:Falcon
+Abilities:
+HP:18
+XP:
+Moves:8
+COst:
+Alignment:neutral
+Description:
+Attacks:
+claws melee (blade) 5-3
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact- -20%
+pierce-0%
+Terrain:
+Snow-1 50%
+Castle-1 50%
+Sand-1 50%
+Village-1 50%
+Grassland-1 50%
+Forest-1 60%
+Hills-1 50%
+Mountains-1 60%
+Chasm-1 50%
+Swamp-1 50%
+Mushroom-3 50%
+Cave-3 40%
+Deep Water-1 50%
+Shallow Water-1 50%
+Cave Wall-100 40%
+
+Name:Elder Hawk
+Advance From:Hawk
+Advance To:Shouldermount
+Race:Falcon
+Abilities:
+HP:35
+XP:
+Moves:9
+COst:
+Alignment:neutral
+Description:
+Attacks:
+claws melee (blade) 7-3
+beak melee (pierce) 10-2
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact- -20%
+pierce-0%
+Terrain:
+Snow-1 50%
+Castle-1 50%
+Sand-1 50%
+Village-1 50%
+Grassland-1 50%
+Forest-1 60%
+Hills-1 50%
+Mountains-1 60%
+Chasm-1 50%
+Swamp-1 50%
+Mushroom-3 50%
+Cave-3 40%
+Deep Water-1 50%
+Shallow Water-1 60%
+Cave Wall-100 40%
+
+Name:Shouldermount
+Advance From:Elder Hawk
+Advance To:Null
+Race:Falcon
+Abilities:
+HP:42
+XP:
+Moves:9
+COst:
+Alignment:neutral
+Description:
+Attacks:
+claws melee (blade) 9-3
+beak melee (pierce) 12-2
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact- -20%
+pierce-0%
+Terrain:
+Snow-1 50%
+Castle-1 50%
+Sand-1 50%
+Village-1 50%
+Grassland-1 50%
+Forest-1 60%
+Hills-1 50%
+Mountains-1 60%
+Chasm-1 50%
+Swamp-1 50%
+Mushroom-3 50%
+Cave-3 40%
+Deep Water- 1 50%
+Shallow Water-1 50%
+Cave Wall-100 40%
+
+Name:Observer
+Advance From:
+Advance To:
+Race:Falcon
+Abilities:skirmish
+HP:25
+XP:
+Moves:11
+COst:
+Alignment:neutral
+Description:
+Attacks:
+Claws melee (blade) 6-3
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact- -20%
+pierce-0%
+Terrain:
+Snow-1 50%
+Castle-1 50%
+Sand-1 50%
+Village-1 50%
+Grassland-1 50%
+Forest-1 60%
+Hills-1 50%
+Mountains-1 60%
+Chasm-1 50%
+Swamp-1 50%
+Mushroom-3 50%
+Cave-3 40%
+Deep Water-1 50%
+Shallow Water-1 50%
+Cave Wall-100 40%
+
+Name:Slaveholder
+Advance From:null
+Advance To:Conductor, Subjugator, Punisher
+Race:Human
+Abilities:
+HP:38
+XP:
+Moves:5
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+Whip melee (impact) 8-3 plague
+Resists:
+arcane-20%
+blade-10%
+cold-0%
+fire-0%
+impact-0%
+pierce-10%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-2 30%
+Village-1 50%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name: Conductor
+Advance From: Slaveholder
+Advance To:Slavemaster
+Race:Human
+Abilities:
+HP:55
+XP:
+Moves:6
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+Whip melee (impact) 12-3 plague
+Resists:
+arcane-20%
+blade-20%
+cold-0%
+fire-0%
+impact-0%
+pierce-20%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name:SlaveMaster
+Advance From:Conductor
+Advance To:Null
+Race:Human
+Abilities:
+HP:76
+XP:
+Moves:6
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+Whip melee (impact) 12-4 plague
+Resists:
+arcane-20%
+blade-20%
+cold-0%
+fire-0%
+impact-0%
+pierce-20%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-3 30%
+Village-1 60%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name:Subjugator
+Advance From:Slaveholder
+Advance To:Null
+Race:Human
+Abilities:
+HP:50
+XP:100
+Moves:5
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+Whip melee (impact) 8-4 Dread Plague
+Net ranged (impact) 7-2 Slow Plague
+Resists:
+arcane-20%
+blade-30%
+cold-0%
+fire-0%
+impact-10%
+pierce-20%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-2 30%
+Village-1 50%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains- 3 60%
+Chasm-100 50%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name:Punisher
+Advance From:Slaveholder
+Advance To:Null
+Race:Human
+Abilities:Terror
+HP:62
+XP:
+Moves:
+COst:
+Alignment:
+Description:
+Attacks:
+Whip melee (impact) 13-3
+Whip melee (blade) 17-2
+Torch melee (fire) 10-3
+Resists:
+arcane-20%
+blade-20%
+cold-0%
+fire-0%
+impact-0%
+pierce-10%
+Terrain:
+Snow-3 30%
+Castle-1 60%
+Sand-2 30%
+Village-1 40%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp-3 30%
+Mushroom-3 50%
+Cave-2 40%
+Deep Water-100 20%
+Shallow Water-3 30%
+Cave Wall-100 40%
+
+Name:Tracker
+Advance From:Null
+Advance To:Gatherer, Trailer
+Race:Human
+Abilities:
+HP:30
+XP:
+Moves:7
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+Spear melee (pierce) 6-3
+Net ranged (impact) 5-3 slow plague
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact-0%
+pierce-0%
+Terrain:
+Snow-2 40%
+Castle-1 60%
+Sand-1 40%
+Village-1 60%
+Grassland-1 40%
+Forest-1 60%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp-2 40%
+Mushroom-2 60%
+Cave-1 40%
+Deep Water-100 10%
+Shallow Water-3 20%
+Cavewall-100 40%
+
+Name:Trailer
+Advance From:Tracker
+Advance To:Shadow
+Race:Human
+Abilities:
+HP:42
+XP:
+Moves:7
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+spear melee (pierce) 9-3
+net ranged (impact) 7-3 slow plague
+bow ranged (pierce) 7-4
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact-0%
+pierce-0%
+Terrain:
+Snow-2 40%
+Castle-1 60%
+Sand-1 40%
+Village-1 60%
+Grassland-1 40%
+Forest-1 60%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp-2 40%
+Mushroom-2 60%
+Cave-1 40%
+Deep Water-100 10%
+Shallow Water-3 20%
+Cavewall-100 40%
+
+Name:Stalker
+Advance From:Trailer
+Advance To:Null
+Race:Human
+Abilities:
+HP:58
+XP:
+Moves:8
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+spear melee (pierce) 12-3
+net ranged (impact) 10-3 plague slow
+bow ranged (pierce) 10-4
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact-0%
+pierce-0%
+Terrain:
+Snow-2 40%
+Castle-1 60%
+Sand-1 40%
+Village-1 60%
+Grassland-1 40%
+Forest-1 60%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp-2 40%
+Mushroom-2 60%
+Cave-1 40%
+Deep Water-100 10%
+Shallow Water-3 20%
+Cavewall-100 40%
+
+Name:Gatherer
+Advance From:Tracker
+Advance To:Null
+Race:Human
+Abilities:Skirmish
+HP:44
+XP:
+Moves:7
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+Spear melee (pierce) 8-4
+net ranged (impact) 7-4 slow plague
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact-0%
+pierce-0%
+Terrain:
+Snow-2 40%
+Castle-1 60%
+Sand-1 40%
+Village-1 60%
+Grassland-1 40%
+Forest-1 60%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp-2 40%
+Mushroom-2 60%
+Cave-1 40%
+Deep Water-100 10%
+Shallow Water-3 20%
+Cavewall-100 40%
+
+Name:Mutt
+Advance From:Null
+Advance To:Pursuer, Retriever, Maneater
+Race:Monster
+Abilities:
+HP:30
+XP:
+Moves:8
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+fangs melee (blade) 7-3
+Resists:
+arcane- 20%
+blade-0%
+cold-0%
+fire-0%
+impact- 10%
+pierce-0%
+Terrain:
+Snow-2 40%
+Castle-1 50%
+Sand-3 30%
+Village-1 50%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name:Pursuer
+Advance From:Mutt
+Advance To:Chaser
+Race:Monster
+Abilities:
+HP:48
+XP:
+Moves:9
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+Fangs melee (blade) 9-3
+Resists:
+arcane- 20%
+blade-0%
+cold-0%
+fire-0%
+impact- 10%
+pierce-0%
+Terrain:
+Snow-2 40%
+Castle-1 50%
+Sand-3 30%
+Village-1 50%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name:Chaser
+Advance From:Pursuer
+Advance To:Null
+Race:Monster
+Abilities:
+HP:56
+XP:
+Moves:10
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+Fangs melee (blade) 11-3
+Resists:
+arcane- 20%
+blade-0%
+cold-0%
+fire-0%
+impact- 10%
+pierce-0%
+Terrain:
+Snow-2 40%
+Castle-1 50%
+Sand-3 30%
+Village-1 50%
+Grassland-1 40%
+Forest-2 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp- 3 30%
+Mushroom- 3 50%
+Cave- 2 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name:Retriever
+Advance From:Mutt
+Advance To:Null
+Race:Monster
+Abilities:Skirmish
+HP:40
+XP:
+Moves:8
+COst:
+Alignment:neutral
+Description:
+Attacks:
+fang melee (blade) 7-3
+Lockjaw melee (pierce) 11-2 plague
+Resists:
+arcane-20%
+blade-0%
+cold-0%
+fire-0%
+impact-10%
+pierce-0%
+Terrain:
+Snow-1 40%
+Castle-1 50%
+Sand-2 30%
+Village-1 50%
+Grassland-1 40%
+Forest-1 50%
+Hills-2 50%
+Mountains-3 60%
+Chasm-100 50%
+Swamp-4 30%
+Mushroom-2 50%
+Cave-1 40%
+Deep Water-100 20%
+Shallow Water-4 30%
+Cave Wall-100 40%
+
+Name:Maneater
+Advance From:Mutt
+Advance To:Null
+Race:Monster
+Abilities:
+HP:50
+XP:
+Moves:7
+COst:
+Alignment:chaotic
+Description:
+Attacks:
+Fang melee (blade) 9-3 berserk
+Resists:
+arcane-20%
+blade-10%
+cold-0%
+fire-0%
+impact-10%
+pierce-10%
+Terrain:
+Snow-3 30%
+Castle-1 40%
+Sand-4 30%
+Village-1 40%
+Grassland-1 30%
+Forest-2 40%
+Hills-2 40%
+Mountains-3 50%
+Chasm-100 40%
+Swamp-3 20%
+Mushroom-3 40%
+Cave-2 30%
+Deep Water-100 10%
+Shallow Water-3 20%
+Cave Wall-100 40%

@@ -1,0 +1,22 @@
+trait legendary affects ranged
+elemental traits differ slightly from mainline ones
+swapped names of diamond and emerald trait
+improvements to the matching of terrain specific effects
+this should allow them to work on more maps, including custom terrain
+fixed charm ability
+aquaner (from rashy era) have now the same mermen units like mainline at their disposal
+fixed a bug und the advancement path for the aquaner (from rashy era)
+modified devling leader traits for curser line: instead of all default traits (=legendary trait) they get beefy & fearless
+fixed image paths for seaStates
+oracles use now hit sounds
+arbiter lines secondary weapon is now of type blade
+for some BEEM calydonians, the icon or attack name was changed from xiphos to spear, matching the pierce type
+fix RE rpg and heroes
+EoMa bloodlust no longer clears status
+mummy image
+FE phalanx lowered to 20%
+Hide unit2_moused_over_x warning, re #12
+Disable interrupt in rpg, re #13
+Fix FE golem attack type changes when leveling
+attempt to fix EoMa area attacks overflow
+fix dragons breath oos #8

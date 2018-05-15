@@ -1,0 +1,42 @@
+Version 4.7:
+* Eras and Factions
+ 
+* Graphics
+    * Fixed bug with Aragwaithi Stongbow missing a northern frame.
+    * Fixed missing standing frames for Aragwaithi Archer.
+    * Fixed missing base frame for Rune Apprentice.
+    * Fixed missing defense frame bug for the entire Avians faction.
+    * Added team color to the Sailer in the Mercenaries faction.
+    * Added TC to Celestial Keeper and the Elemental Djinn, Windherder, and Zephyr.
+ 
+* Balance
+    * Removed the Flying Fortress from the Runemaster's Ageless Heroes faction leader list.
+    * Energy type was removed from Imperial Era and Feudal Era and it was changed to fire. Resistance to fire was changed accordingly. throughout the factions.
+    * Yokai Banshee hitpoints were changed to 22 -> 28.
+    * Added 5-1 Kick attack for Steepe Orc Shieldbearer line to assist in gaining xp.
+ 
+* Bug Fixes
+    * Fixed advancement bug for the Holy Order Interrogator and Inquisition.
+    * Fixed advancement bug for the Holy Order Student, Mage, and Scholar.
+    * Fixed advancement bug for the Holy Order Lightwisp.
+    * Fixed advancement bug for the Hive Gnat, Swarm, and Infest.
+    * Fixed advancement bug for the Emperor's Guard Shuriken Thrower.
+    * Fixed advancement bug for the Refugee Longboat.
+    * Fixed duplicated AE Blight Undertow ids.
+    * Deleted duplicate Runesmith and Runemaster units.
+    * Removed Telecharging ability from the Steelhive Bladwhirler.
+    * Fixed lack of max xp increase for units with monster amla
+    * Cursed weapon special fixed.
+    * Fixed plague bug with Slaver's Tracker line.
+ 
+* Other
+    * Deleted unnecessary file, abilities-ME-1.cfg
+    * Updated credits.
+    * Image size reduced thanks to espreon.
+    * Major update to credits.
+ 
+* Outstanding issues
+    * The Phalanx ability for Ceresians Halberdier and Pikemen is not yet implemented
+    * Fanatic's suicide ability sometimes doesn't function
+    * Steelhive Telecharging doesn't work correctly.
+ 

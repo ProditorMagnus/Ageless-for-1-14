@@ -1,0 +1,289 @@
+Done:
+stone statue needs to be unstored when petrify doesnt happen check if statue gets xp correctly - it does
+kamikaze not in rpg
+tharis matriarch idle animation
+water avatar def needs change
+possessed swords charge to melee
+add heal to elementalist, +8 to mage of water
+check deadzone animation
+carpet master damage must be increased not decreased with level, also description and lawful, same for camel
+eoma dwarf tank holy to arcane
+consider readding pygmies insects attack type
+check if absorb works as described - fixed
+deadly strike has wrong ids in unit files, add to def too
+ME rune improver has to be fixed
+change grenade, to fire and high damage
+eoma barbarian king doesnt get melee damage level 3 -> 4 - added +4 and +6, level 3 -> 4 xp +10
+midnight stalker from welkin does not have image, welkin astral ranger image missing - remove female variant
+imperial era warrior level 2 should be possibly impact too
+check hard landing - needs rewrite to be tied to ability not unit type, check how eoma does it, prevent conflict with ageless
+change rune aura cost 3 and function according to http://forums.wesnoth.org/viewtopic.php?p=573059#p573059 and eoma icon there !! actually. make it get most result either + or -
+rewrite furious death, cleave, rune aura, fix roc summon
+check guru summon - fixed
+brungar expert tamer xp to 150
+ukian dog training doesnt work, make it affect only lower dogs but keep value always 25%
+check if electric works - it does
+make rune aura be activated on selected one only
+rewrite soultaker, it should be special not ability
+destroyers nerf, consider destroyers beast resists, its also too cheap, cyclops balance too, make sure levels dont add too much, units should all be vulnerable to some type, except for one like mara, make destroyers keep weaknesses
+fixed few tharis old images
+check latch - rewrite so that attacker hits kills latcher and when target dies it is cadaver, canrecruit check - NO, transform only when it kills, no suicide, instead of creating new unit it advances, change description
+toad regen to 4 not 6
+document golden mages level 4 leadership
+add steelhive for heroes
+fix amla default for level 1 brungar turtle - automatic check
+http://snag.gy/QBrlo.jpg dwarf tank line need to be synced to eoma, maybe not charge? keep charge, cost is high enough
+desert elves faction name in heroes
+ageless era description, maybe only for 1.12, also forum link
+buff Arcane Rune Splicer maybe 14-3 
+buff desert star melee 7-3, 71 hp, 7-4 slow, 8-5 main attack, level 3 xp to 160
+cavernei guardsman xp 47 -> 40, stalwart hp 58 -> 62, level 3 hp 72 -> 80
+cavernei watcher ranged 5-3, level 2 8-3 but increase hp, 45, level 3 13-3 and 58 hp, 52hp level 2 and 70 level 3
+cavernei fighter level 2 64, level 3 85 hp
+cavernei level 2 eagle hp +7, slightly increase xp - to 42
+cavernei thunderer level 2 47, level 3 63 hp
+kharos defender change from 20 to 10, macro name
+remove one slow strike from crocodile rider, and level 1 ranged 7-2 not 5-3, then level 2 12-2; make tail attack scaling less, 13-2
+high elf formation doesnt work - changed to ability
+fixed EoM water nymph missing advance
+added advance to Ukian Subcommander
+steelhive slasher, sentient idle, (cybercone leveling - not used), amniote facing
+imperial legionaire cost 17 -> 19
+new steelhive unit line
+lavinians archer line fire resists -10%
+essedarius cost 18 -> 20
+laquerius faber to 6-4 and 8-4 and cost to 30 and hp to 53 and lower level 1 xp to 50 and hp to 38
+venator 8-3 marksman and 10-2, cost to 19, level 2 12-3 marksman and 16-2 hp 40 cost 38
+switch piscator and latronis xp
+piscator cost 13 -> 10 hp 28- > 26
+retarius level 1 xp to 50, hp to 42, level 2 attack 13-3, 9-2, 6-4
+river lizard 36hp, level 2 48hp, level 3 64hp
+samnis hp 33 xp 30
+thraex 6-5, level 3 8-5
+secutor 45hp 66xp
+hoplomachos level 3 30% impact and 10-3
+gallus xp to 40
+provocator level 2 11-3 xp 70 and level 3 13-3
+dimacherius 64xp level 3 12-4
+pugnator 4-4 level 2 6-4 14-2  level 3 18-2 7-5
+fear only active on lower units
+area attack name and id
+conflicts with archaic(movetype), update whole archaic part - new units - add level 4 titan, new archaic unit, sunwheel - khthon units
+vector needs ids and need to look how it is in original, work on nonliving too, maybe not on higher levels though, it is strong currently, increase chance to hit and lower convert %, dont heal converted unit ! archaic has whole new approach ! add indicator if health is low enough (desperate vector) ! make vector have higher chance to convert lower lever unit ! chance formula same level 10%, lower levels each time +10% ! disallow on rpg ! requred health be formula like 5+5*level ! might need invisble special to set cth --- doubled each vector attack cth and halved damage, 20% chance increase with level
+added terrapin to rpg
+make imperials sidhe dark thunderblade level 4 and advancement : 7-6 magical backstab, 65hp xp 180 to level, 150amla ranged 6-5 magical , 6mp, skirmisher; cave movecost to 2, mixed fighter
+write summon to not rely on summoners unit ids - done though could be better still
+arendians level 2 mage cost is too high - lowered to 38
+fix vapor and shell events
+fixed terrapin hiding form xp and level
+check when statue should lose health, why steadfast - change to dummy ! test if statues survive keeping unit petrifed for 4 turns ! fix self conflicts ! limit 4 turns even if not released ! make damage they take higher - changed damage to 5 per unit, removed steadfast, fixed conflicts, petrifies weapon special description
+eoma fury name, remove from rpg
+check swallow ids - make heal 4+4*unit level
+change steel cybercone - removed damage
+increase infernai berserkers levels
+area attack needs petrify check
+remove cyclops breaker rage
+anakes cant go to reef - made reef have shallow water values
+moved steelhive drain, knockback events to right specials file, write steelhive electric to single macro
+added amoeba as advance from blob
+ME spores, rewrite suicide, supply-receive, unholybane(removed), block, allied leadership(removed), kamikaze(removed), sacrifice(changed), split(fixed from debug format), spore mist, spread, zeal
+ae refugee boats must be able to move on flat, 5 moves maybe, also village and castle
+efm imperialist phalanx should be level 3
+wonderful jinn xp 190 -> 170
+check flying fortress rpg - disallowed parachute in rpg
+cavernei runelaying: enemy moveto to destroy rune, level 2 has lower values than 3, public labels, prevent new rune when old one is in place, make it work as soon as spawned, rune is removed first and then spawned, figure out way to deal with what happens when runemaster is dead; level 3 only: +1 strike both , both:	healing spot +4/+8 - only one that can be reapplied	resistances +15/+30 all resists	damage +2/+4	chance to hit +10/+20	def +10/+20	nothing with 2-3 times probability - less likely for level 3; rune destroyed, placed, healed - that order --- written a little differently on 4.08.2014, took 12h
+khalifate falcon reef and unwalkable def
+archaic Escort unit graphics was replaced
+mercenaries neglect mage dark aura, drain to 14-2
+xp increase for EoS plainsrider amlas
+runelaying: rest heal overrides rune heal - now both work, unit_to_unrune might cause problems with hp - removed, try marking some effects as permanent and put different name for object then - done, heals not apply runed +3h on 5.08.2014
+changed barbarian king double attack to be like unease
+runelaying rune images, maybe from windsong, add cures for heal - done
+check ME ryu speed, might be too strong in ageless - 8 -> 6, xp 40 -> 48; tatsu speed 9 -> 7, xp 68 -> 76; ryong 10 -> 8
+Shuriken Thrower ranged damage -1, cost -2, level 2 damage lowered also
+eltirean knight errant xp 27 -> 40, disciple of eltire xp 32 > 36
+implement despair changes::
+Change: Shroud level 1 to level 2 exp from 23 to 36. (+13 exp)
+Change: Shroud level 2 to level 3 exp from 49 to 64. (+15 exp)
+Change: Statue level 1 to level 2 exp from 25 to 40. (+15)
+Change: Statue level 2 to level 3 exp from 55 to 70. (+15)
+Suggested change: Rider price 20
+Change Dullohan: Arcane= -30%, Blade = 20%, Cold =10, Fire =0, Impact = 20, Pierce=20,
+Change Dullohan: 7-2 melee charge (from 9-2)
+Change Dullohan: After level EXP = 65 -> 70
+Change Rider: (the other upgrade) 8-2 cold charge (from 7-2), 11-2 spear charge  (from 10-2), Exp 80 (from 65), Change Slayer: (3rd level) 10-2 cold charge (from 8-2), 14x2 pierce first strike charge(from 12x2), 20-2 mele (from 18-2)
+Change: Widow 24hp (from 28)
+Change: Widow price 18    (from 16)
+Change: Widow EXP level 1 to level 2 : 66 (from 36)
+Change: Widow EXP level 2 to level 3 : 100 (from 46)
+Change White Lady: After maximum level advancement to 120 exp(only 80 now which is the same as the other upgrade who is level 2) (this is for consistency's sake.)?? it was 100 but changed still
+Change: Soldier exp 30 (from 23) (just a slight touch on the level 1-2 exp
+Change Soldier Level 2 to level 3 EXP : 60 (from 32)
+implement avian changes::
+Suggested change: Archer price increase to 17
+Suggested change: Archer exp level 1-2 from 40 to 46
+Suggested change: Hawkeye exp level 2-3 from 74 to 90 
+Suggested change: Bombardier exp level 2-3 from 76 to 90
+Suggested change: Broadwing price increase to 20.
+Suggested change: Broadwing exp level 1-2 from 49 to 58.
+Suggested change: Skyterror exp level 2-3 from 84 to 110.
+Suggested change: Skylord exp level 2-3 from 80 to 100
+Suggested change: Dart price increase from 18 to 19 
+Suggested change: Grounded price increase from 17 to 18
+Suggested change: Grounded exp level 1-2 from 42 to 60
+Suggested change: Ironbeak damage from 18-2 to 17-2
+Suggested change: Ironbeak level 2-3 exp increase from 80 to 90
+Suggested change: Steelbeak level 3-4 exp decrease from 126 to 120
+Suggested change: Jackdaw price increase from 17 to 19
+Suggested change: Jackdaw exp level 1 increase from 39 to 50
+Suggested change: Owl Hp from 45 to 35
+Suggested change: Owl exp level 2-3 increase from 64 to 70
+Suggested change: Nightwing Hp from 52 to 42 
+Suggested change: Crow Hp from 48 to 40
+Suggested change Crow Exp level 2-3 from 60 to 70
+Suggested change Raven Hp from 58 to 48
+Suggested changes: Dove HP from 48 to 40
+Suggested changes: Sparrow HP from 50 to 42
+Suggested changes: Hammingbird Hp from 48 to 40
+Suggested changes Falcon Hp from 68 to 58
+Suggested changes Passer Hp from 56 to 48
+make statues release unpetrify happen at units own turn
+lower vectors
+check if shell makes oos when using berserker against it - doesnt
+paddle ship (EFM) animations are slow - commented them
+check aragwaith level 2 guard idle animation missing frame, archer during defense or counterattack, guard and pikeman attack
+check eventide deluminate - added max and min values
+check eoma witch attack animation - commented halos
+Imperial movetypes - more problems found, wyrms are used in EE, files in IE; imperial sidhe spirits are found in feudal --- dealt with, fixed recruit lists for wyrms and sidhe spirits
+kharos shielder cost +1
+IE arendians swordsman cost +1
+EoM bats have no images - fixed
+EoS saurian champion image - using duelist image
+frost faction
+removed xp manipulation of awake
+Infernai::
+Imp fire resistance to 40%
+Scamp fire resistance to 45%  from 70%
+Ifreet, Fiend, Demon dog fire resistance to 50% from 70%
+Pit Fiend fire resistance to 40% from 50%
+Gog fire resistance to 60% from 80%
+Pit Lord fire resistance to 45% from 50% respectively
+Tormentor fire resistance to 50% from 70%
+Demon, Archfiend , Sadist, Hell hound, Master Ifreet fire resistance to 55% instead of 70%
+Magog fire resistance to 65% instead of 80%
+Devil, Horned one, Bloodbather, Cerberus, Ifreet Sultan fire resistance to 60% from 70%
+Incubus fire resistance to 70% from 80%
+Suggested changes: Lost soul fire resistance decreased from 30 to 10. 
+Suggested changes: Lost soul level 1-2 exp increased from 36 to 46 
+Suggested changes: Evil Essence melee damage reduction from 8-3 to 7-3
+Suggested changes: Evil Essence cold resistance decreased from 70% to 60%
+Suggested changes Master Ifreet Hp reduction from 32 to 28
+Suggested changes: Ifreet Sultan HP reduction from  48 to 38
+Suggested changes Scamp: Melee damage reduction from 5-3 to 4-3
+Suggested changes Scamp: Ranged damage reduction from 10-2 to 9-2
+Suggested changes Scamp: HP reduction from 30 to 26
+Suggested changes Scamp: cold resistance reduction from 30% to 20%
+Suggested changes Familiar: Melee damage reduction from 6x4 to 5x4
+Suggested changes Familiar: Ranged damage reduction from 17-2 to 14x2
+Suggested changes Familiar: HP reduction from 45 to 40
+Suggested changes Familiar: cold resistance reduction from 50% to 40%
+Windsong::
+Suggested change: Weaver price decrease from 18 to 17
+Suggested change: Prophetess Hp increase from 38 to 43
+Suggested change: Prophetess movement increase from 5 to 6
+Suggested change: Ascendant Hp increase from 47 to 54
+Suggested change: Ascendant movement increase from 5 to 6
+Suggested change: Herald ranged damage from 12-3 to 13-3 
+Suggested change: Envoy exp increase from 80 to 90 
+Suggested change: Arbiter lvl 3-4 exp decreased from 200 to 130
+Suggested change: Reaver ranged damage increase from 4x4 to 5x4. 
+Suggested change: Reaver exp increase from 80 to 90
+Suggested change: Dreadnought ranged damage increase from 5x5 to 6x5
+Wood Warriors::
+Suggested change Exiled Alchemist:  ranged damage from 5x3 to 6x3
+Suggested change Legendary Sorcerer: ranged damage from 10-3 to 10-4
+Suggested changer Woods Druid: Exp from level 2-3 decreased from 100 to 74 
+Suggested changes Rats knight: damage increase from 6x3 to 8x3
+Suggested changes Rats knight: ranged damage increased from 7x2 to 8x2
+Suggested changes Predator Rats knights : ranged damage decreased from 10x2 to 8x2
+Suggested changes Wildrats knight: damage increase from 7x4 to 8x4
+Wood Warriors Reef movetypes
+Suggested changes Amphibians Rider: melee damage increase from 5x4 slow to 6x4 slow.
+Suggested changes Amphibians Rider: Shallow water movement cost decreased from 2 to 1
+Suggested Changes Fatal Tangle: Regeneration increased from +4 to +8
+Suggested changes Faun Captain: second melee attack gains slow  - 9x2 slow
+Suggested changes Faun Overlord: second melee attack gains slow - 12x2 slow
+Suggested changes Faun Overlord: melee Damage increased from 6x5 to 7x5, second attack from 12x2 to 14x2
+Suggested changes Faun Sniper: ranged damage increase from 10x4 marksman to 12x4 marksman
+Suggested changes Faun Sniper: ranged damage increase from 6x3 poison to 9x3 poison
+Welkin::
+Neophyte Cost increase from 18 to 20
+Pyroation damage from 12-4 to 9x4 (too big of a gap between level 1 -2 and too small between level 2-3)
+Pyroation Exp from 117 from 110
+High Pyroation exp level 3-4  from 153 to 130 (the upgrades at higher levels cost too much compared to other level 4 units)
+Solar Empyrean level 3 ranged damage from 14-4 to 12-4
+Hierarch of Aten damage from 6x3 melee to 7x3 melee
+Hierarch of Aten Hp from 69 to 70
+Hierarch of Aten no image for female (unless it was intended to use gurand flyer's image)
+Hirearch of Aten afterlevel from 185 to 130
+Lunar protector 60exp from 49
+Battle Sage 6x2 , 5x5
+Suggested change Elder Sage exp from 109 to 104
+Suggested change Doyen exp from 161 to 126
+Suggested change Patriarch damage 10x5
+Suggested change Patriarch after level from 203 to 120
+Suggested change Flyer exp from 33 to 40
+Suggested change Grand flyer Hp from 50 to 44
+Suggested change Grand flyer: damage from 6x6 to 6x5
+Suggested change Mentor Hp from 53 to 48
+Suggested change Star shooter exp increased form 42 to 48
+Suggested change Twilight Slayer Hp reduced from 46 to 40
+Suggested change Shadow Raider Hp reduced from 39 to 34 
+Suggested change Shadow Raider exp increased from 120 to 140
+Suggested change Astral Ranger hp reduced from 71 to 55
+Suggested change Suggested change Quickdraw hp reduced from 49 to 42
+Suggested change Suggested change Quickdraw exp increased from 87 to 100
+Suggested change Deadeye hp reduced form 66 to 50
+Suggested change Deadeye damage increased from 6x4 arcane ranged magical to 7x4 arcane ranged magical
+Flurry Exp level 1-2 increased from 27 to 40
+Whirlwind Melee number of attacks decreased from 7x3 to 7x2
+Whirlwind Hp decreased from 48 to 38
+Tornado ranged number of attacks decreased from 8x5 to 8x4
+Tornado Melee number of attacks decreased from 7x4 to 7x3
+Talon Warrior Hp decreased from 51 to 41
+Talon warrior exp increased from 74 to 80
+Tornado Hp reduced from 66 to 52
+Talon Hero Hp reduced from 65 to 55
+Suggested change Mystic 150exp from 180
+Suggested change Mystic Slow 6x3 (here the slow does exactly 50% of the damage so its useful)
+Suggested change Chosen of the forest slow 6x4
+Suggested change to Wyvern : Cost 22
+Suggested change to Wyvern : exp level 1-2 increase from 50 to 66
+Suggested change to Great Wyvern: exp level 2-3 increase from 90 to 126
+Suggested change to Wyvern Rider: cost 24
+Suggested change to Wyvern Rider: exp level 1-2 increase from 56 to 66
+Suggested change to Wyvern Tamer: exp level 2-3 increase from 100 to 136
+Suggested changes Titan: Hp reduced form 55 to 45
+Suggested changes Titan: Blade/Pierce/Impact resistances decreased from 80% to 65% 
+Suggested changes Titan: Fire resistance decreased from 50% to 30%
+Suggested changes Titan: damage reduced from 28x1 to 24x1
+Suggested changes Titan: Speed increase from 3 to 4
+Pacificator: from runemasters, His last form has pierce damage on level 3 melee attack instead of Impact. change that as it is in the first 2 forms and in all 3 forms of EoMa.
+Summons master: Always hits 14x1 attack should be increased to 18-1
+Summons master: (Grand summoner)Exp decreased from 160 to 150
+Master of Darkness: (Great Warlock) Exp decreased from 150 to 135 
+Runemaster: (Rune Artist) Exp decreased from 150 to 130
+Storm witch --> Storm lady exp level up 2-3 increased form 90 to 100 
+Storm lady --> Storm Queen exp level up 3-4 increased from 120 to 140
+Inhuman: (Mutant) Exp decreased from 134 to 124
+Rune Master: (Rune Mage) exp decreased from 200 to 130 
+Metropolitan: (Monsignor) exp increased from 80 to 90
+Barbarian King: (barbarian lord) exp increase from 100 to 120
+Side note: Matriarch of emptiness,darkness, cold matriarch:  (Dark Witch exp from 100 to 130)
+Rewrite Sapper as suggested - no, just capped dmg to 15 for level 2 and higher, added kamikaze animation
+grenade to attack only
+brungar alligator flat movecost 2
+tank is missing charge
+mechanic damage 5-3 -> 4-3
+make rest heal remove hex in rpg era, chat on applying hex to show this possibility - thanks to Elvish_Pillager for code help to show message to observers as well
+last thing: check all eoma units help files with game

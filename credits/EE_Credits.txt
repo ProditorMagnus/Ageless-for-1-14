@@ -1,0 +1,102 @@
+- Extended Era Credits -
+
+MAINTAINER
+-- Benoit Timbert (Noyga)
+
+CUSTOM UNITS
+-- Armageddon Drake: Neoriceisgood
+-- Bears: crwedman (Art) / Mythological or Truper (stats) / Erk (descriptions)
+-- Dwarven Wagons: Neoriceisgood (Art) / Noyga (stats)
+-- Dwarven Flying Machines: Neoriceisgood ? (Art) / Noyga (stats) / Inferno8 (Animations)
+-- Dwarvish Arcanister Line: Wayfarer/ Turin ?
+-- Dwarvish Runner Line: Wayfarer (Art) ? / Turin (stats) ?
+-- Naga Hunter: i don't know (from UtBS), additional frames from Verdanna
+-- Naga Guardians: i don't know (from UtBS)
+-- Naga Depthstalker : Sapient (Concept and Original Idea), Eternal (New Art)
+-- Troll Shaman: Asa Swain ? (Don't Know, from UBTS)
+-- Wose Shaman: I don't know :( Comes from Delfador's Memoir
+-- Fire Sprites/Spirits: Jb/Mythological (idea and stats), Shadow (graphics)
+-- Frost Wyrms: Jb/Mythological (idea and stats), Shadow (graphics), Kalis (descriptions)
+
+CHAOS FACTION
+IDEA / ART
+-- Neoriceisgood
+
+ART TWEAKS
+-- Megane
+-- Neoskel
+-- Shadow Master
+-- Wayfarer
+
+ORIGINAL CODE
+-- Akls
+
+BALANCING
+-- Pietro
+-- Noyga
+
+MISC DESCRIPTIONS
+-- Slug
+-- Dovolente
+
+
+KALIFA FACTION
+IDEA / DEVELOPER
+-- Noy
+
+ART
+-- Xan
+-- ijuric
+-- Eleazar
+
+VARIOUS IDEAS / HELP
+-- Soliton
+-- Doc Paterson
+-- Dragonking
+-- And others...
+
+
+SIDHE FACTION
+IDEA
+-- Thunderblade
+
+ART
+-- Neoriceisgood / Shadow
+
+BALANCING
+-- Causual User
+-- Noyga
+-- Oreb
+-- Truper
+-- Mythological
+
+DESCRIPTIONS
+-- Thunderblade
+-- Truper
+-- Temuchin Khan
+
+
+DARK ELVES FACTION
+IDEA
+-- Belwar
+
+CODER
+-- Assasin
+
+ORIGINAL GRAPHICS
+-- Warrior King
+-- Assasin
+
+NEW GRAPHICS
+-- Neoriceisgood
+
+BALANCING
+-- Noyga
+-- Truper
+
+
+SPECIAL THANKS
+-- Soliton
+-- Tomsik...
+-- Squirrels from the deep forest
+-- Spoons from the eerie table

@@ -1,0 +1,112 @@
+Version 4.9:
+* Eras and Factions
+    * None
+* Graphics
+    * All Era of Four Moons Units: Fixed defense frame path
+    * Warg Stalker Branch: Fixed blank attack icon
+    * Skykindom Hidden Face Branch: fixed image path
+    * Kalifa Ekim: Fixed image path
+    * Devling Flappers: Fixed idle graphic path
+    * Updated Celestials Graphics
+* Balance
+    * Blight
+         * Hound Tree: Removed Skirmish
+         * Infected Hound Melee Damage: 9-2 -> 10-2
+         * Microbe and Blob lines: increased overall arcane resistance
+         * Zombie Melee Attack: 10-3 -> 11-3 & 8-2 -> 10-2
+    * Clockwork Dwarves
+         * Removed energy type resists and replaced it with smaller weakness to cold and fire
+    * Darklanders:
+         * Tribesman Hitpoints: 32-> 35
+         * Militia Hitpoints: 52 -> 56
+         * Guard Hitpoints: 65 -> 71
+         * Hurler Ranged Attack: 4-3 -> 5-3
+         * Stalker Ranged Attack: 6-3 -> 7-3
+         * Whisper Ranged Attack: 8-3 -> 9-3
+         * Viper Hitpoints: 27 -> 32
+         * Serpent Hitpoints: 38 -> 45
+    * Develings: gave small hp boosts to most units, tiny damage boosts to a couple
+    * Emperor's Guard
+         * Imperial Guard Melee Attack: 13-4 -> 11-4 | 17-3 -> 15-3
+         * Demonic Samurai Melee Attack: 10-5 -> 9-5 | 23-2 -> 22-2
+         * Tsuwamono Melee Attack: 13-4 -> 12-4 | Ranged Attack: 15-2 -> 14-2
+         * Samurai Captain Melee Attack: 14-2 -> 13-2
+         * Shogun Melee Attack: 19-2 -> 18-2 | Ranged Attack: 10-4 -> 9-4
+         * Daimyo Melee Attack: 19-3 -> 18-3 | Ranged Attack: 15-4 -> 13-4
+    * Equestrian Knight Cost: 22 -> 18
+    * Eventide
+         * Desperado Hitpoints: 22 -> 32
+         * Madcap Hitpoints: 36 -> 44
+         * Noct Maceman Hitpoints: 32 -> 36
+    * Fanatics Martyr Melee Attack: 60 -> 50 | Gave Precision
+    *Imperialists:
+         * Legionnaire line: increased resistances to physical damage from 20% -> 30%
+         * Legionnaire Hitpoints: 33 -> 37
+         * Shock Troop Melee Attack: 8-3 -> 9-3
+         * Stalwart Hitpoints: 55 -> 60
+         * Gargantaur Melee Attack: 12-3 -> 13-3
+         * Praetorian Hitpoints:  65 -> 73
+         * Slinger Ranged Attack: 8-2 -> 9-2
+         * Flinger Ranged Attack: 8-3 -> 9-3
+         * Standard Melee Attack: 3-3 -> 4-3
+         * Centurion Melee Attack: 5-3 -> 6-3
+         * Primus Melee Attack: 5-4 -> 6-4
+         * Legatus Melee Attack: 7-4 -> 8-4
+    * Refugees:
+         * Refugee: disallowed advancing to Guard
+         * Rabble Melee Attack: 5-4 -> 4-4 | Ranged Attack: 6-2 -> 5-2 | Cost: 15 -> 14
+         * Maceman Ranged Attack: 9-3 -> 7-3
+         * Greeter Ranged Attack: 12-3 -> 10-3
+         * Cleaner Melee Attack: 6-2 -> 4-2 | Ranged Attack: 8-2 -> 7-2
+         * Purifier Ranged Attack: 11-3 -> 10-3
+         * Courier Melee Attack: 7-2 -> 5-2
+         * Messenger Melee Attack: 9-3 -> 7-3
+         * Envoy Melee Attack: 11-3 -> 9-3
+         * Longboat Moves: 5 -> 6
+         * Tireme Moves: 6 -> 7
+         * Javelineer Melee Attack: 7-4 -> 8-3
+    * Hive:
+         * Heavy Beetle Branch Resists: Impact 20% -> 30% | Fire -20% -> 20% | Pierce 30% -> 10%
+         * Draining Beetle Branch Resists: Impact 10% -> 20% | Fire -20% -> 10% | Pierce 30% -> 0% | Blade 20% -> 10%
+    * Steel Hive:
+         * Oculus Ranged Attack: 7-3 -> 6-3 | Melee Attack 5-3 -> 4-3 | Cost 17 -> 16
+         * Spark Gazer Ranged Attack: 11-4 -> 9-4
+         * Bolt Striker Ranged Attack: 13-5 -> 14-4
+         * Slasher Hitpoints: 41 -> 38
+         * Vector Melee Attacks: 7-5 -> 6-5 & 10-4 -> 9-4
+         * Vorpal Melee Attacks: 9-6 -> 8-6 & 12-5 -> 13-4
+         * Sentient Ranged and Melee Attack: 3-3 -> 4-3 | Hitpoints: 35 -> 40 | Cost 23 -> 17 | Damage Type: Fire -> Cold
+    * Tribalist
+         * Boomeranger Melee Attack: 0-0 -> 5-2 | Ranged Attack: 5-1 -> 7-2
+         * Ranger Melee Attack: 0-0 -> 7-2 | Ranged Attack: 7-1 -> 14-2
+* Bug Fixes
+    * Refugee Defender Branch: Fixed block ability
+    * Fanatic Martyr: Fixed Suicide Ability
+    * Fanatic Bladesman Branch: Fixed Zeal Ability
+    * Imperialist: Fixed Sapper Ability
+    * Brungar Tamer Branch: Removed Tame Ability
+    * Slavers Slaveholder Tree: Fixed OOS error with plague weapon special
+    * Dark Current Line: Fixed advancement path; Gave undertow sprite
+    * Darklander Stalker: Changed unit id
+    * Highlander Shaman: Changed unit id
+    * Seastate Snapper: Changed unit id
+    * Era of Myths: Fixed oos errors caused by wrong traits
+    * Removed the dash in Flesh Eater unit id
+    * Removed the dash in Ranger unit id
+    * Fixed all cavalry type units resist in forest
+    * Fixed rage to match description
+* Other
+    * Refugee Longboat & Tireme: Changed move cost to 4 for castle, village, flat, sand, and frozen
+    * Refugee Sarissan Branch: doubled effect of grouping
+    * Refugee Linebacker: Doubled effect of support
+    * Tribalist Boomerang Branch: Removed boomerang and return specials.  Replaced with spinning weapon special
+    * Slightly edited description for Vector
+    * Changed Charm ability to reduce damage inflicted by adjacent enemies and made a few minor balancing changes accordingly
+* Outstanding issues
+    * The Phalanx ability for Ceresians Halberdier and Pikemen is not yet implemented
+    * Steelhive Telecharging doesn't work correctly.
+    * Need to add Era of Four Moons to RPG and Heroes Era
+    * Need to add the Khalifate faction to RPG and Heroes Era
+    * Need to add Mercenaries to Heroes Era.
+    * Need to make Statues kill units when down to low enough hp
+ 

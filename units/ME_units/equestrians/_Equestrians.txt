@@ -1,0 +1,1008 @@
+Level 1 		Level 2 		Level 3			Level 4
+
+Charger ----------------> Crasher --------------> Breaker
+
+Rider ------------------> Equestrian -----------> Jockey
+
+Knight -----------------> Paladin
+			>
+			> Blackknight
+			>
+			> Champion
+
+Vagabond ---------------> Nomad ----------------> Roamer
+
+Bronco -----------------> Mustang
+			>
+			> Bull
+
+Magerider --------------> Mageknight -----------> Templar
+
+Pegasus Rider ----------> Pegasus Knight -------> Silver Pegasus
+
+Searay -----------------> Manta
+
+Name:
+Advance From:
+Advance To:
+Race:
+Abilities:
+HP:
+XP:
+Moves:
+COst:
+Alignment:
+Description:
+Attacks:
+Resists:
+arcane-
+blade-
+cold-
+fire-
+impact-
+pierce-
+Terrain:
+Snow-
+Castle-
+Sand-
+Village-
+Grassland-
+Forest-
+Hills-
+Mountains-
+Chasm-
+Swamp-
+Mushroom-
+Cave-
+Deep Water-
+Shallow Water-
+Cave Wall-
+
+Name: Charger
+Advance From: null
+Advance To: Crasher
+Race: Human
+Abilities:
+HP: 38
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+spear melee (pierce) 11-2 charge
+trample melee (impact) 6-3 charge
+Resists:
+arcane- 20%
+blade- 10%
+cold-
+fire-
+impact- 20%
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 40%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 4 20%
+Cave- 3 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Crasher
+Advance From: Charger
+Advance To: Breaker
+Race: Human
+Abilities:
+HP: 58
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+spear melee (pierce) 16-2 charge
+trample melee (impact) 7-4 charge
+Resists:
+arcane- 20%
+blade- 10%
+cold-
+fire-
+impact- 20%
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 40%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 4 20%
+Cave- 3 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Breaker
+Advance From: Crasher
+Advance To: null
+Race: Human
+Abilities:
+HP: 73
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+spear melee (pierce) 22-2 charge
+trample melee (charge) 9-4 charge dread
+Resists:
+arcane- 20%
+blade- 10%
+cold-
+fire-
+impact- 20%
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 40%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 4 20%
+Cave- 3 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Rider
+Advance From: null
+Advance To: Equestrian
+Race: Human
+Abilities:
+HP: 35
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+sword melee (blade) 6-3
+Resists:
+arcane- 20%
+blade- 30%
+cold- 20%
+fire-
+impact- 30%
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 50%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 50%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 4 20%
+Cave- 3 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Equestrian
+Advance From: Rider
+Advance To: Jockey
+Race: Human
+Abilities:
+HP: 56
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+sword melee (blade) 10-3
+Resists:
+arcane- 20%
+blade- 40%
+cold- 20%
+fire-
+impact- 30%
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 50%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 50%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 4 20%
+Cave- 3 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Jockey
+Advance From: Equestrian
+Advance To: null
+Race: Human
+Abilities:
+HP: 70
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+sword melee (blade) 12-4
+Resists:
+arcane- 20%
+blade- 40%
+cold- 20%
+fire-
+impact- 40%
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 50%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 50%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 4 20%
+Cave- 3 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Knight
+Advance From: null
+Advance To: Paladin, Blackknight, Champion
+Race: Human
+Abilities:
+HP: 42
+XP:
+Moves: 6
+COst:
+Alignment: lawful
+Description:
+Attacks:
+sword melee (blade) 9-2
+mace melee (impact) 6-3
+Resists:
+arcane- 20%
+blade- 30%
+cold-
+fire-
+impact- 40%
+pierce- -10%
+Terrain:
+Snow- 3 30%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 40%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 4 20%
+Cave- 3 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Paladin
+Advance From: Knight
+Advance To: null
+Race: Human
+Abilities: Illuminate Heal +4
+HP: 55
+XP:
+Moves: 6
+COst:
+Alignment: lawful
+Description:
+Attacks:
+sword melee (arcane) 9-3
+mace melee (impact) 9-3
+Resists:
+arcane- 50%
+blade- 30%
+cold-
+fire-
+impact- 40%
+pierce- -10%
+Terrain:
+Snow- 3 30%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 40%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 4 20%
+Cave- 3 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Champion
+Advance From: Knight
+Advance To: null
+Race: Human
+Abilities:
+HP: 65
+XP:
+Moves: 6
+COst:
+Alignment: lawful
+Description:
+Attacks:
+sword melee (blade) 11-3
+mace melee (impact) 9-4
+Resists:
+arcane- 20%
+blade- 50%
+cold-
+fire-
+impact- 40%
+pierce- 
+Terrain:
+Snow- 3 30%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 40%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 4 20%
+Cave- 3 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Black knight
+Advance From: Knight
+Advance To: null
+Race: Human
+Abilities: Terror
+HP: 58
+XP:
+Moves: 5 
+COst:
+Alignment: neutral
+Description:
+Attacks:
+sword melee (blade) 18-2
+mace melee (impact) 13-3
+spear melee (pierce) 30-1
+Resists:
+arcane- 20%
+blade- 30%
+cold-
+fire-
+impact- 40%
+pierce- 20%
+Terrain:
+Snow- 3 30%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 3 30%
+Hills- 2 40%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 4 20%
+Cave- 3 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Vagabond
+Advance From: null
+Advance To: Nomad
+Race: Human
+Abilities:
+HP: 34
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+sword melee (blade) 4-3
+bow ranged (pierce) 11-2
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce- -10%
+Terrain:
+Snow- 3 30%
+Castle- 1 50%
+Sand- 3 20%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 40%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 3 50%
+Cave- 3 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Nomad
+Advance From: Vagabond
+Advance To: Roamer
+Race: Human
+Abilities: skirmish
+HP: 50
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+sword melee (blade) 5-3
+bow ranged (pierce) 11-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce- -10%
+Terrain:
+Snow- 3 30%
+Castle- 1 50%
+Sand- 3 20%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 40%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 3 50%
+Cave- 3 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Roamer
+Advance From: Nomad
+Advance To: null
+Race: Human
+Abilities: Skirmish
+HP: 65
+XP:
+Moves: 8
+COst:
+Alignment: neutral
+Description:
+Attacks:
+sword melee (blade) 8-3
+bow ranged (pierce) 16-3
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce- -10%
+Terrain:
+Snow- 3 30%
+Castle- 1 50%
+Sand- 3 20%
+Village- 1 50%
+Grassland- 1 40%
+Forest- 2 50%
+Hills- 2 40%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 40%
+Mushroom- 3 50%
+Cave- 3 40%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Bronco
+Advance From: null
+Advance To: Mustang, Bull
+Race: Horse
+Abilities:
+HP: 32
+XP:
+Moves: 9
+COst:
+Alignment: neutral
+Description:
+Attacks:
+kick melee (impact) 10-2
+Resists:
+arcane-
+blade-
+cold-
+fire-
+impact-
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Mustang
+Advance From: Bronco
+Advance To: null
+Race: Horse
+Abilities:
+HP: 52
+XP:
+Moves: 10
+COst:
+Alignment: neutral
+Description:
+Attacks:
+kick melee (impact) 12-3
+Resists:
+arcane-
+blade-
+cold-
+fire-
+impact-
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Bull
+Advance From: Bronco
+Advance To: null
+Race: Horse
+Abilities:
+HP: 60
+XP:
+Moves: 7
+COst:
+Alignment: neutral
+Description:
+Attacks:
+kick melee (impact) 20-2
+horn melee (charge) 25-1
+Resists:
+arcane- 
+blade- 10%
+cold-
+fire-
+impact- 30%
+pierce- -10%
+Terrain:
+Snow- 3 20%
+Castle- 1 30%
+Sand- 3 10%
+Village- 1 30%
+Grassland- 1 30%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 100 10%
+Chasm- 100 30%
+Swamp- 3 20%
+Mushroom- 3 30%
+Cave- 3 20%
+Deep Water- 100 10%
+Shallow Water- 3 20%
+Cave Wall- 100 30%
+
+Name: Magerider
+Advance From: null
+Advance To: Mageknight, Troubadour
+Race: Human
+Abilities:
+HP: 30
+XP:
+Moves: 7
+COst:
+Alignment: lawful
+Description:
+Attacks:
+sword melee (blade) 8-1
+fireball ranged (fire) 7-3 magical
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact-
+pierce- -20%
+Terrain:
+Snow-
+Castle-
+Sand-
+Village-
+Grassland-
+Forest-
+Hills-
+Mountains-
+Chasm-
+Swamp-
+Mushroom-
+Cave-
+Deep Water-
+Shallow Water-
+Cave Wall-
+
+Name: Mageknight
+Advance From: Magerider
+Advance To: Templar
+Race: Human
+Abilities:
+HP: 54
+XP:
+Moves: 7
+COst:
+Alignment: lawful
+Description:
+Attacks:
+sword melee (blade) 8-2
+fireball ranged (fire) 8-4
+Resists:
+arcane- 20%
+blade- 10%
+cold-
+fire-
+impact- 10%
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 2 40%
+Hills- 2 50%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Templar
+Advance From: Mageknight
+Advance To: null
+Race: Human
+Abilities:
+HP: 66
+XP:
+Moves: 7
+COst:
+Alignment: lawful
+Description:
+Attacks:
+sword melee (blade) 11-2
+fireball ranged (fire) 12-4
+Resists:
+arcane- 20%
+blade- 20%
+cold-
+fire-
+impact- 20%
+pierce- -20%
+Terrain:
+Snow- 3 30%
+Castle- 1 40%
+Sand- 3 20%
+Village- 1 40%
+Grassland- 1 40%
+Forest- 2 40%
+Hills- 2 40%
+Mountains- 100 20%
+Chasm- 100 40%
+Swamp- 3 30%
+Mushroom- 3 40%
+Cave- 3 30%
+Deep Water- 100 20%
+Shallow Water- 3 30%
+Cave Wall- 100 40%
+
+Name: Troubadour
+Advance From: Magerider
+Advance To: null
+Race: Human
+Abilities: Heal +8, Cures
+HP: 48
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+staff melee (impact) 10-1
+fireball ranged (fire) 10-3 magical
+purify ranged (arcane) 5-6 magical
+Resists:
+arcane- 40%
+blade-
+cold- 20%
+fire- 10%
+impact-
+pierce- -20%
+Terrain:
+Snow-
+Castle-
+Sand-
+Village-
+Grassland-
+Forest-
+Hills-
+Mountains-
+Chasm-
+Swamp-
+Mushroom-
+Cave-
+Deep Water-
+Shallow Water-
+Cave Wall-
+
+Name: Pegasus Rider
+Advance From: null
+Advance To: Pegasusknight
+Race: Human
+Abilities:
+HP: 32
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+spear melee (pierce) 4-4
+spear ranged (pierce) 5-1
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact- -20%
+pierce- -20%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 60%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 3 30%
+Cave- 3 20%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 100 50%
+
+Name: Pegasus Knight
+Advance From: Pegasusrider
+Advance To: Silver Pegasus
+Race: Human
+Abilities:
+HP: 48
+XP:
+Moves: 9
+COst:
+Alignment: lawful
+Description:
+Attacks:
+spear melee (pierce) 6-4
+spear ranged (pierce) 5-2
+Resists:
+arcane- 20%
+blade-
+cold-
+fire-
+impact- -20%
+pierce- -20%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 60%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 3 30%
+Cave- 3 20%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 100 50%
+
+Name: Silver Pegasus
+Advance From: Pegasusknight
+Advance To: null
+Race: Human
+Abilities: heals +4
+HP: 56
+XP:
+Moves: 10
+COst:
+Alignment: lawful
+Description:
+Attacks:
+spear melee (pierce) 7-5
+spear ranged (pierce) 6-3
+Resists:
+arcane- 50%
+blade-
+cold-
+fire-
+impact- -20%
+pierce- -20%
+Terrain:
+Snow- 1 50%
+Castle- 1 50%
+Sand- 1 50%
+Village- 1 50%
+Grassland- 1 50%
+Forest- 1 50%
+Hills- 1 50%
+Mountains- 1 60%
+Chasm- 1 50%
+Swamp- 1 50%
+Mushroom- 3 30%
+Cave- 3 20%
+Deep Water- 1 50%
+Shallow Water- 1 50%
+Cave Wall- 100 50%
+
+Name: Searay
+Advance From: null
+Advance To: Manta
+Race: Human
+Abilities: aquatic
+HP: 40
+XP:
+Moves: 8
+COst:
+Alignment: lawful
+Description:
+Attacks:
+harpoon melee (pierce) 9-2
+stinger melee (pierce) 8-1 poison
+harpoon ranged (pierce) 6-3
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- -30%
+pierce- -10%
+Terrain:
+Snow-4 10%
+Castle-1 30%
+Sand-3 30%
+Village-1 20%
+Grassland-3 20%
+Forest-4 10%
+Hills-4 10%
+Mountains-100 10%
+Chasm-100 10%
+Swamp-1 50%
+Mushroom-4 10%
+Cave-4 10%
+Deep Water-1 70%
+Shallow Water-1 70%
+Cave Wall-100 10%
+
+Name: Manta
+Advance From: Searay
+Advance To: null
+Race: Human
+Abilities: submerge, aquatic
+HP: 58
+XP:
+Moves: 9
+COst:
+Alignment: lawful
+Description:
+Attacks:
+harpoon melee (pierce) 15-2
+stinger melee (pierce) 8-2 poison backstab
+harpoon ranged (pierce) 7-5
+Resists:
+arcane- 20%
+blade- 0%
+cold- 0%
+fire- 0%
+impact- -30%
+pierce- -10%
+Terrain:
+Snow-4 10%
+Castle-2 30%
+Sand-3 30%
+Village-1 20%
+Grassland-3 20%
+Forest-4 10%
+Hills-4 10%
+Mountains-100 10%
+Chasm-100 10%
+Swamp-1 50%
+Mushroom-4 10%
+Cave-4 10%
+Deep Water-1 70%
+Shallow Water-1 70%
+Cave Wall-100 10%
