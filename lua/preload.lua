@@ -15,7 +15,7 @@ function wesnoth.wml_conditionals.AE_is_active()
 end
 
 function wesnoth.wml_conditionals.AE_not_active()
-	return wesnoth.wml_conditionals.is_observer() or not wesnoth.wml_conditionals.is_active()
+	return wesnoth.wml_conditionals.AE_is_observer() or not wesnoth.wml_conditionals.AE_is_active()
 end
 
 function wesnoth.wml_conditionals.Ravana()
@@ -24,6 +24,15 @@ end
 
 function wesnoth.wml_conditionals.AE_beta()
 	return wesnoth.wml_conditionals.Ravana() or AE_use_beta_features == "use_beta_features"
+end
+
+function wesnoth.wml_actions.AE_read_file(cfg)
+	local V = wml.variables
+	V[cfg.variable or "file"] = wesnoth.read_file(cfg.name)
+end
+
+function wesnoth.wml_actions.AE_dofile(cfg)
+	wesnoth.dofile("~add-ons/Ageless_Era/lua/"..cfg.name)
 end
 
 -->>
