@@ -98,4 +98,48 @@ function wesnoth.wml_actions.AE_efm_remove_hex(cfg)
 	end
 end
 
+function wesnoth.wml_actions.AE_efm_shift_unit(cfg)
+	local bear_contains = {"F","Uf","Uu","Uh","Aa^"}
+	local human_contains = {"K","C","Vh","Ve"}
+	local beaver_contains = {"W","w","Ss"}
+	local boar_contains = {"D","Gg","Re","Rp","Gs","Re","Rd","Rr","Dd","Hd","Ur"}
+	local wolf_contains = {"A","Ha"}
+	local goat_contains = {"H","M","Dd^Dr"}
+	-- else human
+	local function get_variation(terrain)
+		for _, t in pairs(bear_contains) do
+			if terrain:find(t) then return "shifter_bear" end
+		end
+		for _, t in pairs(human_contains) do
+			if terrain:find(t) then return "shifter_human" end
+		end
+		for _, t in pairs(beaver_contains) do
+			if terrain:find(t) then return "shifter_beaver" end
+		end
+		for _, t in pairs(boar_contains) do
+			if terrain:find(t) then return "shifter_warthog" end
+		end
+		for _, t in pairs(wolf_contains) do
+			if terrain:find(t) then return "shifter_wolf" end
+		end
+		for _, t in pairs(goat_contains) do
+			if terrain:find(t) then return "shifter_goat" end
+		end
+		return "shifter_human"
+	end
+
+	local units = wesnoth.get_units(cfg)
+	for i,u in ipairs(units) do
+		u:remove_modifications({id="AE_efm_shift_object"})
+		local variation = get_variation(wesnoth.get_terrain(u.x, u.y))
+		u:add_modification("object",{
+			id="AE_efm_shift_object",
+			T.effect{
+				apply_to="variation",
+				name=variation
+			}
+		})
+	end
+end
+
 -->>
