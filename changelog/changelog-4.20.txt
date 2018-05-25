@@ -1,0 +1,11 @@
+Version 4.20:
+* Units and Factions
+    * Updated era: Era of Magic. This means all previous modifications and balance changes are gone.
+* Graphics
+    * 
+* Balance
+    * 
+* Bug Fixes
+    * 
+* Other
+    * Images have been moved to separate addons: Ageless_Resources and Era_of_Magic_Resources
