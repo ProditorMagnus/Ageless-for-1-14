@@ -1,0 +1,19 @@
+- Eternal Era Credits -
+
+
+
+
+ART
+ghype (frankens used parts from AE, WOTG & Golden Age)
+unused skeletal dyno sprite based on redshrikes sprite
+
+DESCRIPTIONS
+none yet
+
+CODING
+ghype (with special thanks to Ravana)
+(some ability codes/specials taken from various AE and WOTG factions)
+
+BALANCING
+IPS
+ElderofZion

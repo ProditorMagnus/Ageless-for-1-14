@@ -1,3 +1,5 @@
+This file is no longer used.
+
 Macros list for ~/anim_macros folder. This will show all the macros in each file in the order they appear.
 
 anim_macros-EE.cfg
