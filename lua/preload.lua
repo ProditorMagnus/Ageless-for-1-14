@@ -7,6 +7,20 @@ local function sign(x)
 end
 local abs=math.abs
 
+function wesnoth.wml_conditionals.AE_is_rpg()
+	local id = wesnoth.game_config.era.id or ""
+	id = id:lower()
+	if id:find("rpg") then
+		return true
+	else
+		return false
+	end
+end
+
+function wesnoth.wml_conditionals.AE_not_rpg()
+	return not wesnoth.wml_conditionals.AE_is_rpg()
+end
+
 function wesnoth.wml_conditionals.AE_is_observer()
 	local all_sides = wesnoth.get_sides()
 	for index, side in ipairs(all_sides) do
