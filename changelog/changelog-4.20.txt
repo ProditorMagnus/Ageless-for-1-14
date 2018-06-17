@@ -1,11 +1,20 @@
 Version 4.20:
 * Units and Factions
     * Updated era: Era of Magic. This means all previous modifications and balance changes are gone.
+    * New era: Millennium Era (MiE). This replaces Vilkai faction.	
+    * New era: Eternal Era (ELE)
+    * Khalifate is renamed to Dunefolk
 * Graphics
-    * 
+    * Fixed some incorrect image paths
 * Balance
-    * 
+    * Oathsworn strike upgrades are not ignored anymore
+    * Several EoMa attacks strike upgrades are ignored now
+    * Frozen golem Knockback has been removed
+    * Oracles Summoner and Conjurer power and cost reduced
 * Bug Fixes
-    * 
+    * Hex, Wardrums, Saga, Shifter, Deadly Strike, 
+    * Invalid units 'Bone Knight', 'AE_rhy_dw_Fighter'
+    * Factions sorting order https://github.com/wesnoth/wesnoth/issues/3177
 * Other
     * Images have been moved to separate addons: Ageless_Resources and Era_of_Magic_Resources
+    * New random group: Random Balanced. Factions given there are expected to be more suitable for competitive games.

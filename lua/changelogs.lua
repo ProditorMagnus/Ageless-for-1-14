@@ -60,6 +60,15 @@ local message = {
 			T.fire_event{name="AE_show_changelog_menu"}
 		}
 	},
+	short_changelog("4.19"),
+	T.option{
+		message="4.19 full changelog (split into 2 messages)",
+		T.command{
+			lua('wesnoth.wml_actions.message{speaker="narrator", message=wesnoth.read_file("~add-ons/Ageless_Era/changelog/changelog-4.19-unedited.txt")}'),
+			lua('wesnoth.wml_actions.message{speaker="narrator", caption="EFM balance", message=wesnoth.read_file("~add-ons/Ageless_Era/changelog/4.19/xara_changelog.txt")}'),
+			T.fire_event{name="AE_show_changelog_menu"}
+		}
+	},
 	short_changelog("4.18"),
 	T.option{
 		message="4.18 full changelog (split into 7 messages)",
