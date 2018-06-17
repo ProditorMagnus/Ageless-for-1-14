@@ -2,6 +2,8 @@ import os
 from collections import defaultdict
 
 replacements = [
+	('{~add-ons/Era_of_Magic/units/hide_help.cfg}',''),
+	('{~add-ons/Era_of_Magic/','{~ERROR_EOMA_ABSOLUTE_PATH/'),
 	('Jinni','Jinn'),
 	
 	('barbarians_rpg','barbarians'),
