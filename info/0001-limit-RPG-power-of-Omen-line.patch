@@ -1,0 +1,140 @@
+From 52c1eaf31722bb58046a1b459d4f29daa8d88487 Mon Sep 17 00:00:00 2001
+From: ProditorMagnus <public.ravana@gmail.com>
+Date: Sun, 17 Jun 2018 23:26:43 +0300
+Subject: [PATCH] limit RPG power of Omen line
+
+---
+ data/EoMa_data/awe.cfg                             |  3 +++
+ data/general_data/weapon_specials/unupgradable.cfg |  2 +-
+ units/EoMa_units/Destroyers/Abaddon.cfg            | 13 +++++++++++++
+ units/EoMa_units/Destroyers/Obliterator.cfg        | 13 +++++++++++++
+ units/EoMa_units/Destroyers/Omen.cfg               | 10 ++++++++++
+ units/EoMa_units/Destroyers/Punisher.cfg           | 10 ++++++++++
+ 6 files changed, 50 insertions(+), 1 deletion(-)
+
+diff --git a/data/EoMa_data/awe.cfg b/data/EoMa_data/awe.cfg
+index 20fdfcc..e7e5d99 100644
+--- a/data/EoMa_data/awe.cfg
++++ b/data/EoMa_data/awe.cfg
+@@ -161,6 +161,9 @@ Adjacent enemy magical units of lower level will do less damage in battle. When
+ 			[/modifications]
+ 		[/filter_wml]
+ 	[/or]
++	[or]
++		lua_function=wesnoth.wml_conditionals.AE_is_rpg
++	[/or]
+ [/not]
+ #enddef
+ 
+diff --git a/data/general_data/weapon_specials/unupgradable.cfg b/data/general_data/weapon_specials/unupgradable.cfg
+index 51733a4..e1055ee 100644
+--- a/data/general_data/weapon_specials/unupgradable.cfg
++++ b/data/general_data/weapon_specials/unupgradable.cfg
+@@ -2,7 +2,7 @@
+ 
+ #define AE_UNUPGRADABLE_STRIKES NUMBER
+     [swarm]
+-        name= _ "unupgradable strikes"
++        name= _ "unupgradable {NUMBER}"
+         description=_"this attack always has {NUMBER} strikes"
+         swarm_attacks_max={NUMBER}
+         swarm_attacks_min={NUMBER}
+diff --git a/units/EoMa_units/Destroyers/Abaddon.cfg b/units/EoMa_units/Destroyers/Abaddon.cfg
+index b675f17..54f70a3 100644
+--- a/units/EoMa_units/Destroyers/Abaddon.cfg
++++ b/units/EoMa_units/Destroyers/Abaddon.cfg
+@@ -52,6 +52,19 @@
+             {WEAPON_SPECIAL_AE_MAG_ALLAROUND 60}
+             {WEAPON_SPECIAL_AE_MAG_NOCOUNTERATTACK}
+ 			{WEAPON_SPECIAL_AE_MAG_SKILLED}
++			{AE_UNUPGRADABLE_STRIKES 3}
++        [/specials]
++    [/attack]
++    [attack]
++        name=omen4sword
++        description=_"attack"
++        icon=attacks/katana.png
++        type=blade
++        range=melee
++        damage=16
++        number=3
++        [specials]
++			{WEAPON_SPECIAL_AE_MAG_SKILLED}
+         [/specials]
+     [/attack]
+     [attack]
+diff --git a/units/EoMa_units/Destroyers/Obliterator.cfg b/units/EoMa_units/Destroyers/Obliterator.cfg
+index 3f2e33f..74a7b3d 100644
+--- a/units/EoMa_units/Destroyers/Obliterator.cfg
++++ b/units/EoMa_units/Destroyers/Obliterator.cfg
+@@ -50,6 +50,19 @@
+             {WEAPON_SPECIAL_AE_MAG_ALLAROUND 60}
+             {WEAPON_SPECIAL_AE_MAG_NOCOUNTERATTACK}
+ 			{WEAPON_SPECIAL_AE_MAG_SKILLED}
++			{AE_UNUPGRADABLE_STRIKES 3}
++        [/specials]
++    [/attack]
++    [attack]
++        name=omen3sword
++        description=_"attack"
++        icon=attacks/katana.png
++        type=blade
++        range=melee
++        damage=13
++        number=3
++        [specials]
++			{WEAPON_SPECIAL_AE_MAG_SKILLED}
+         [/specials]
+     [/attack]
+     [attack]
+diff --git a/units/EoMa_units/Destroyers/Omen.cfg b/units/EoMa_units/Destroyers/Omen.cfg
+index bfcdacb..5853f54 100644
+--- a/units/EoMa_units/Destroyers/Omen.cfg
++++ b/units/EoMa_units/Destroyers/Omen.cfg
+@@ -49,9 +49,19 @@
+         [specials]
+             {WEAPON_SPECIAL_AE_MAG_ALLAROUND 40}
+             {WEAPON_SPECIAL_AE_MAG_NOCOUNTERATTACK}
++            {AE_UNUPGRADABLE_STRIKES 3}
+         [/specials]
+     [/attack]
+     [attack]
++        name=omen1sword
++        description=_"attack"
++        icon=attacks/katana.png
++        type=blade
++        range=melee
++        damage=7
++        number=3
++    [/attack]
++    [attack]
+         name=sword2
+         description={STR_SWORD}
+         icon=attacks/katana.png
+diff --git a/units/EoMa_units/Destroyers/Punisher.cfg b/units/EoMa_units/Destroyers/Punisher.cfg
+index ba639ed..207904a 100644
+--- a/units/EoMa_units/Destroyers/Punisher.cfg
++++ b/units/EoMa_units/Destroyers/Punisher.cfg
+@@ -49,9 +49,19 @@
+         [specials]
+             {WEAPON_SPECIAL_AE_MAG_ALLAROUND 40}
+             {WEAPON_SPECIAL_AE_MAG_NOCOUNTERATTACK}
++			{AE_UNUPGRADABLE_STRIKES 3}
+         [/specials]
+     [/attack]
+     [attack]
++        name=omen2sword
++        description=_"attack"
++        icon=attacks/katana.png
++        type=blade
++        range=melee
++        damage=10
++        number=3
++    [/attack]
++    [attack]
+         name=sword2
+         description={STR_SWORD}
+         icon=attacks/katana.png
+-- 
+2.6.3.windows.1
+

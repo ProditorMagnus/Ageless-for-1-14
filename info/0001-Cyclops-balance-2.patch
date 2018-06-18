@@ -1,0 +1,44 @@
+From 417cf9b99ae476f0682c4628fa065e85c8a4e506 Mon Sep 17 00:00:00 2001
+From: ProditorMagnus <public.ravana@gmail.com>
+Date: Sat, 16 Jun 2018 19:57:32 +0300
+Subject: [PATCH] Cyclops balance #2
+
+---
+ units/EoMa_units/Barbarians/Cyclops_Ancient.cfg | 3 +--
+ units/EoMa_units/Barbarians/Cyclops_Goliath.cfg | 2 +-
+ 2 files changed, 2 insertions(+), 3 deletions(-)
+
+diff --git a/units/EoMa_units/Barbarians/Cyclops_Ancient.cfg b/units/EoMa_units/Barbarians/Cyclops_Ancient.cfg
+index 0d5d047..52553fd 100644
+--- a/units/EoMa_units/Barbarians/Cyclops_Ancient.cfg
++++ b/units/EoMa_units/Barbarians/Cyclops_Ancient.cfg
+@@ -47,12 +47,11 @@
+         description={STR_GAZE}
+         type=fire
+         range=ranged
+-        damage=23
++        damage=25
+         number=1
+         icon="attacks/gaze.png"
+         [specials]
+             {WEAPON_SPECIAL_AE_MAG_PRECISION}
+-            {WEAPON_SPECIAL_DRAIN}
+         [/specials]
+     [/attack]
+     {DEFENSE_ANIM "units/barbarians-cyclops/ancientcyclop.png" "units/barbarians-cyclops/ancientcyclop.png" cyclops-hit-[1~4].ogg }
+diff --git a/units/EoMa_units/Barbarians/Cyclops_Goliath.cfg b/units/EoMa_units/Barbarians/Cyclops_Goliath.cfg
+index d007398..82d1c89 100644
+--- a/units/EoMa_units/Barbarians/Cyclops_Goliath.cfg
++++ b/units/EoMa_units/Barbarians/Cyclops_Goliath.cfg
+@@ -65,7 +65,7 @@
+         description={STR_GAZE}
+         type=fire
+         range=ranged
+-        damage=16
++        damage=14
+         number=1
+         icon="attacks/gaze.png"
+         [specials]
+-- 
+2.6.3.windows.1
+

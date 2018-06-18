@@ -1,0 +1,33 @@
+From 4dc8370408197cdba15f40b960b7706bfe8ca05b Mon Sep 17 00:00:00 2001
+From: ProditorMagnus <public.ravana@gmail.com>
+Date: Sat, 16 Jun 2018 20:31:25 +0300
+Subject: [PATCH] disable bone collector for leaders, re #2
+
+---
+ data/EoMa_data/abilities.cfg | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/data/EoMa_data/abilities.cfg b/data/EoMa_data/abilities.cfg
+index 0cd8f7c..6477ebb 100644
+--- a/data/EoMa_data/abilities.cfg
++++ b/data/EoMa_data/abilities.cfg
+@@ -464,7 +464,7 @@
+     [dummy]
+         id=AE_mag_bonecollector
+         name= _ "bone collector" +" (1/{DIVIDE})"
+-        description=_"This unit gains hitpoints added to its current health whenever it kills a non-magical unit. The amount of hitpoints gained equals"+" 1/"+{DIVIDE}+" "+_"of defeated enemy's max health. This unit also gains +1 max hp with each successful kill of a non-magical unit."
++        description=_"This nonleader unit gains hitpoints added to its current health whenever it kills a non-magical unit. The amount of hitpoints gained equals"+" 1/"+{DIVIDE}+" "+_"of defeated enemy's max health. This unit also gains +1 max hp with each successful kill of a non-magical unit."
+     [/dummy] # wmlxgettext: [abilities]
+ [/abilities]
+     [event]
+@@ -492,6 +492,7 @@
+ 		#heal
+         [filter_second]
+             ability=AE_mag_bonecollector
++			canrecruit=no
+         [/filter_second]
+ 		
+ 		{VARIABLE bcvalue $unit.max_hitpoints}
+-- 
+2.6.3.windows.1
+

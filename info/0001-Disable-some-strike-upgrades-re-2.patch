@@ -1,0 +1,178 @@
+From 51eac738dfff96d59d37efa121713dffacdafdf8 Mon Sep 17 00:00:00 2001
+From: ProditorMagnus <public.ravana@gmail.com>
+Date: Sat, 16 Jun 2018 20:08:08 +0300
+Subject: [PATCH] Disable some strike upgrades, re #2
+
+---
+ units/EoMa_units/Dark_Blood_Alliance/Chosen_of_Marsh.cfg |  1 +
+ units/EoMa_units/Dark_Blood_Alliance/Swamp_Mage.cfg      |  1 +
+ units/EoMa_units/Kharos/Child_of_Light.cfg               | 13 +++++++++++++
+ units/EoMa_units/Kharos/Mistress_of_Light.cfg            | 13 +++++++++++++
+ units/EoMa_units/Kharos/Prophet_of_Light.cfg             |  1 +
+ units/EoMa_units/Sky_Kingdom/Master_Of_Fire.cfg          |  1 +
+ units/EoMa_units/Summoners/Air_God.cfg                   |  1 +
+ units/EoMa_units/Summoners/Efreeti_Great.cfg             |  1 +
+ units/EoMa_units/Summoners/Jinn_Mystical.cfg             |  1 +
+ units/EoMa_units/Summoners/Jinn_Wonderful.cfg            |  1 +
+ units/EoMa_units/Tharis/Master_of_War.cfg                |  1 +
+ 11 files changed, 35 insertions(+)
+
+diff --git a/units/EoMa_units/Dark_Blood_Alliance/Chosen_of_Marsh.cfg b/units/EoMa_units/Dark_Blood_Alliance/Chosen_of_Marsh.cfg
+index d0b5ce5..3cfaf59 100644
+--- a/units/EoMa_units/Dark_Blood_Alliance/Chosen_of_Marsh.cfg
++++ b/units/EoMa_units/Dark_Blood_Alliance/Chosen_of_Marsh.cfg
+@@ -78,6 +78,7 @@
+             {WEAPON_SPECIAL_SLOW}
+             {WEAPON_SPECIAL_POISON}
+             {WEAPON_SPECIAL_MAGICAL}
++			{AE_UNUPGRADABLE_STRIKES 1}
+         [/specials]
+     [/attack]
+     {SAURIAN_CLAW_ANIM chosenofmarsh}
+diff --git a/units/EoMa_units/Dark_Blood_Alliance/Swamp_Mage.cfg b/units/EoMa_units/Dark_Blood_Alliance/Swamp_Mage.cfg
+index 696f935..b6f6c53 100644
+--- a/units/EoMa_units/Dark_Blood_Alliance/Swamp_Mage.cfg
++++ b/units/EoMa_units/Dark_Blood_Alliance/Swamp_Mage.cfg
+@@ -74,6 +74,7 @@
+             {WEAPON_SPECIAL_SLOW}
+             {WEAPON_SPECIAL_POISON}
+             {WEAPON_SPECIAL_MAGICAL}
++			{AE_UNUPGRADABLE_STRIKES 1}
+         [/specials]
+     [/attack]
+     {SAURIAN_CLAW_ANIM damnedshaman}
+diff --git a/units/EoMa_units/Kharos/Child_of_Light.cfg b/units/EoMa_units/Kharos/Child_of_Light.cfg
+index 1c0f6ee..9b48621 100644
+--- a/units/EoMa_units/Kharos/Child_of_Light.cfg
++++ b/units/EoMa_units/Kharos/Child_of_Light.cfg
+@@ -83,6 +83,19 @@
+         [specials]
+             {WEAPON_SPECIAL_MAGICAL}
+ 			{WEAPON_SPECIAL_AE_MAG_ALLAROUND 70}
++			{AE_UNUPGRADABLE_STRIKES 1}
++        [/specials]
++        damage=16
++        number=1
++    [/attack]
++    [attack]
++        name=lightstorm
++        description=_"lightstorm"
++        icon=attacks/lightfocus.png
++        type=arcane
++        range=ranged
++        [specials]
++            {WEAPON_SPECIAL_MAGICAL}
+         [/specials]
+         damage=16
+         number=1
+diff --git a/units/EoMa_units/Kharos/Mistress_of_Light.cfg b/units/EoMa_units/Kharos/Mistress_of_Light.cfg
+index 090838d..ba1b43d 100644
+--- a/units/EoMa_units/Kharos/Mistress_of_Light.cfg
++++ b/units/EoMa_units/Kharos/Mistress_of_Light.cfg
+@@ -98,6 +98,19 @@
+         [specials]
+             {WEAPON_SPECIAL_MAGICAL}
+ 			{WEAPON_SPECIAL_AE_MAG_ALLAROUND 70}
++			{AE_UNUPGRADABLE_STRIKES 1}
++        [/specials]
++        damage=22
++        number=1
++    [/attack]
++    [attack]
++        name=lightstorm
++        description=_"lightstorm"
++        icon=attacks/lightfocus.png
++        type=arcane
++        range=ranged
++        [specials]
++            {WEAPON_SPECIAL_MAGICAL}
+         [/specials]
+         damage=22
+         number=1
+diff --git a/units/EoMa_units/Kharos/Prophet_of_Light.cfg b/units/EoMa_units/Kharos/Prophet_of_Light.cfg
+index 10d4e89..7e39427 100644
+--- a/units/EoMa_units/Kharos/Prophet_of_Light.cfg
++++ b/units/EoMa_units/Kharos/Prophet_of_Light.cfg
+@@ -64,6 +64,7 @@
+         [specials]
+             {WEAPON_SPECIAL_MAGICAL}
+             {WEAPON_SPECIAL_AE_MAG_DAZZLE}
++			{AE_UNUPGRADABLE_STRIKES 1}
+         [/specials]
+         damage=18
+         number=1
+diff --git a/units/EoMa_units/Sky_Kingdom/Master_Of_Fire.cfg b/units/EoMa_units/Sky_Kingdom/Master_Of_Fire.cfg
+index aaacb50..7e4f89b 100644
+--- a/units/EoMa_units/Sky_Kingdom/Master_Of_Fire.cfg
++++ b/units/EoMa_units/Sky_Kingdom/Master_Of_Fire.cfg
+@@ -105,6 +105,7 @@
+         [specials]
+             {WEAPON_SPECIAL_MAGICAL}
+ 			{WEAPON_SPECIAL_AE_MAG_ALLAROUND 70}
++			{AE_UNUPGRADABLE_STRIKES 1}
+         [/specials]
+     [/attack]
+     [attack_anim]
+diff --git a/units/EoMa_units/Summoners/Air_God.cfg b/units/EoMa_units/Summoners/Air_God.cfg
+index 85a42c9..5beea03 100644
+--- a/units/EoMa_units/Summoners/Air_God.cfg
++++ b/units/EoMa_units/Summoners/Air_God.cfg
+@@ -131,6 +131,7 @@ Summoners believe that even the heavens quake upon the sight of this great nimbu
+         [specials]
+             {WEAPON_SPECIAL_MAGICAL}
+ 			{WEAPON_SPECIAL_AE_MAG_ALLAROUND 70}
++			{AE_UNUPGRADABLE_STRIKES 1}
+         [/specials]
+         damage=22
+         number=1
+diff --git a/units/EoMa_units/Summoners/Efreeti_Great.cfg b/units/EoMa_units/Summoners/Efreeti_Great.cfg
+index d840690..eb142d6 100644
+--- a/units/EoMa_units/Summoners/Efreeti_Great.cfg
++++ b/units/EoMa_units/Summoners/Efreeti_Great.cfg
+@@ -87,6 +87,7 @@
+         [specials]
+             {WEAPON_SPECIAL_MAGICAL}
+       	    {WEAPON_SPECIAL_AE_MAG_AREAEFFECTRANDOM 70}
++			{AE_UNUPGRADABLE_STRIKES 1}
+         [/specials]
+     [/attack]
+     [attack]
+diff --git a/units/EoMa_units/Summoners/Jinn_Mystical.cfg b/units/EoMa_units/Summoners/Jinn_Mystical.cfg
+index 6d6bc05..ca07319 100644
+--- a/units/EoMa_units/Summoners/Jinn_Mystical.cfg
++++ b/units/EoMa_units/Summoners/Jinn_Mystical.cfg
+@@ -161,6 +161,7 @@ Beyond imagination, I shall reach out and grasp whatever lies in the shadows for
+ 			{WEAPON_SPECIAL_AE_MAG_ANTISHIELD}
+             {WEAPON_SPECIAL_SLOW}
+             {WEAPON_SPECIAL_AE_MAG_NOCOUNTERATTACK}
++			{AE_UNUPGRADABLE_STRIKES 1}
+         [/specials]
+     [/attack]
+     [attack_anim]
+diff --git a/units/EoMa_units/Summoners/Jinn_Wonderful.cfg b/units/EoMa_units/Summoners/Jinn_Wonderful.cfg
+index b3f40d4..1c30a21 100644
+--- a/units/EoMa_units/Summoners/Jinn_Wonderful.cfg
++++ b/units/EoMa_units/Summoners/Jinn_Wonderful.cfg
+@@ -118,6 +118,7 @@
+             {WEAPON_SPECIAL_AE_MAG_PRECISION}
+ 			{WEAPON_SPECIAL_AE_MAG_ANTISHIELD}
+             {WEAPON_SPECIAL_SLOW}
++			{AE_UNUPGRADABLE_STRIKES 1}
+         [/specials]
+     [/attack]
+     [attack_anim]
+diff --git a/units/EoMa_units/Tharis/Master_of_War.cfg b/units/EoMa_units/Tharis/Master_of_War.cfg
+index 76d36a7..2fcad2d 100644
+--- a/units/EoMa_units/Tharis/Master_of_War.cfg
++++ b/units/EoMa_units/Tharis/Master_of_War.cfg
+@@ -75,6 +75,7 @@
+         [specials]
+             {WEAPON_SPECIAL_MAGICAL}
+       	    {WEAPON_SPECIAL_AE_MAG_AREAEFFECTRANDOM 70}
++			{AE_UNUPGRADABLE_STRIKES 1}
+         [/specials]
+         damage=32
+         number=1
+-- 
+2.6.3.windows.1
+

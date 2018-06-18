@@ -1,0 +1,76 @@
+From e9815daee90a869ae99de7114c77175c8f829b76 Mon Sep 17 00:00:00 2001
+From: ProditorMagnus <public.ravana@gmail.com>
+Date: Sat, 16 Jun 2018 23:54:03 +0300
+Subject: [PATCH] Limit deadzone to 50% in rpg, re #2
+
+---
+ data/EoMa_data/resistance.cfg | 22 ++++++++++++++++++++--
+ lua/preload.lua               | 14 ++++++++++++++
+ 2 files changed, 34 insertions(+), 2 deletions(-)
+
+diff --git a/data/EoMa_data/resistance.cfg b/data/EoMa_data/resistance.cfg
+index 007847a..572d121 100644
+--- a/data/EoMa_data/resistance.cfg
++++ b/data/EoMa_data/resistance.cfg
+@@ -64,13 +64,31 @@
+         apply_to=fire,cold,arcane
+         name= _ "magic absorber"
+         description=_"Area around this unit is purged from most kinds of magic (anti-shield attacks still work fine)
+-- all adjacent units (including enemies) receive a 99% bonus to fire, cold, and arcane resistances,
++- all adjacent units (including enemies) receive a 99% bonus to fire, cold, and arcane resistances (max 99%, in rpg max 50%),
+ - healing and circle of susceptibility around this unit do not work."
+-        affect_self=yes
++        affect_self=no
+         affect_allies=yes
+ 		affect_enemies=yes
+         [affect_adjacent]
+             adjacent=n,ne,se,s,sw,nw
++			[filter]
++				lua_function=wesnoth.wml_conditionals.AE_not_rpg
++			[/filter]
++        [/affect_adjacent]
++    [/resistance]
++    [resistance]
++        id=AE_mag_magicabsorb
++        add=99
++        max_value=50
++        apply_to=fire,cold,arcane
++        affect_self=no
++        affect_allies=yes
++		affect_enemies=yes
++        [affect_adjacent]
++            adjacent=n,ne,se,s,sw,nw
++			[filter]
++				lua_function=wesnoth.wml_conditionals.AE_is_rpg
++			[/filter]
+         [/affect_adjacent]
+     [/resistance]
+ #enddef
+diff --git a/lua/preload.lua b/lua/preload.lua
+index 815c394..185bad0 100644
+--- a/lua/preload.lua
++++ b/lua/preload.lua
+@@ -7,6 +7,20 @@ local function sign(x)
+ end
+ local abs=math.abs
+ 
++function wesnoth.wml_conditionals.AE_is_rpg()
++	local id = wesnoth.game_config.era.id or ""
++	id = id:lower()
++	if id:find("rpg") then
++		return true
++	else
++		return false
++	end
++end
++
++function wesnoth.wml_conditionals.AE_not_rpg()
++	return not wesnoth.wml_conditionals.AE_is_rpg()
++end
++
+ function wesnoth.wml_conditionals.AE_is_observer()
+ 	local all_sides = wesnoth.get_sides()
+ 	for index, side in ipairs(all_sides) do
+-- 
+2.6.3.windows.1
+

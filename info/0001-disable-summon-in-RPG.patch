@@ -1,0 +1,40 @@
+From f64a35c4372c5581bd6f2ae81bffa12d6667781b Mon Sep 17 00:00:00 2001
+From: ProditorMagnus <public.ravana@gmail.com>
+Date: Sun, 17 Jun 2018 02:38:18 +0300
+Subject: [PATCH] disable summon in RPG
+
+---
+ data/EoMa_data/resistance.cfg | 3 +++
+ data/EoMa_data/summon.cfg     | 2 ++
+ 2 files changed, 5 insertions(+)
+
+diff --git a/data/EoMa_data/resistance.cfg b/data/EoMa_data/resistance.cfg
+index 572d121..f99f213 100644
+--- a/data/EoMa_data/resistance.cfg
++++ b/data/EoMa_data/resistance.cfg
+@@ -90,6 +90,9 @@
+ 				lua_function=wesnoth.wml_conditionals.AE_is_rpg
+ 			[/filter]
+         [/affect_adjacent]
++		[filter_base_value]
++            less_than=50
++        [/filter_base_value]
+     [/resistance]
+ #enddef
+ 
+diff --git a/data/EoMa_data/summon.cfg b/data/EoMa_data/summon.cfg
+index 9fae9c0..25b47e2 100644
+--- a/data/EoMa_data/summon.cfg
++++ b/data/EoMa_data/summon.cfg
+@@ -40,6 +40,8 @@ For more information, choose the 'Summoning Help' rightclick option which appear
+         id=summon_{ID}
+         description={DESCRIPTION}+" - "+ _ "gold:"+" "+{COST}
+         [show_if]
++			[AE_not_rpg]
++			[/AE_not_rpg]
+         [/show_if]
+ 
+         [filter_location]
+-- 
+2.6.3.windows.1
+
