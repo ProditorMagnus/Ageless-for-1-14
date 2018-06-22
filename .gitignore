@@ -26,7 +26,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -37,5 +38,5 @@ Icon
 
 *.pbl
 
-_info.cfg
+# _info.cfg # required for 1.14
 *.preprocessed.cfg
