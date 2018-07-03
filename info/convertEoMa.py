@@ -9,12 +9,12 @@ replacements = [
 	
 	('barbarians_rpg','barbarians'),
 	('darkblood_rpg','darkblood'),
-	('destroyers_rpg','destroyers'), # this one is not destroyers_rpg though
+	('destroyers_rpg','destroyers'),
 	('kharos_rpg','kharos'),
 	('runemasters_rpg','runemasters'),
 	('tharis_rpg','tharis'),
 	('skykingdom_rpg','skykingdom'),
-	('alkamija_rpg','summoners'),
+	('summoners_rpg','summoners'),
 	('barbarians_aoh','barbarians'),
 	('darkblood_aoh','darkblood'),
 	('destroyers_aoh','destroyers'),
