@@ -1,0 +1,12 @@
+Version 4.21:
+* Units and Factions
+    * Updated era: Era of Magic. This means all previous modifications and balance changes are gone, see https://github.com/ProditorMagnus/Ageless-for-1-14/issues/2 for changes compared to EoMa.
+* Graphics
+    * Fixed some incorrect image paths
+    * Added missing EoMa resources binary path
+* Balance
+    * Dark legion Drone cost increased, 11 to 13
+* Bug Fixes
+    * ELE shieldwall
+* Other
+    * Fixed movecost 100 warnings
