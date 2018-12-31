@@ -60,7 +60,8 @@ local message = {
 			T.fire_event{name="AE_show_changelog_menu"}
 		}
 	},
-	short_changelog("4.20"),
+	changelog("4.21"),
+	changelog("4.20"),
 	short_changelog("4.19"),
 	T.option{
 		message="4.19 full changelog (split into 2 messages)",

@@ -1,0 +1,20 @@
+Version 4.22:
+* Units and Factions
+    * Added union era - single faction that can recruit all recruitable Ageless units
+* Graphics
+    * Fixed some incorrect image paths
+* Balance
+    * BEEM Anakes, Calydonians, Wood Warriors
+    * EoC Sylvans
+    * Archaic Menagerie, Phantom
+    * Feudal High Elves, Orc Khaganate
+    * Frozen, Yokai
+    * Starshower getting too much hp when advancing
+* Bug Fixes
+    * Sculpt in RPG, ELE Consume and Holy,
+    * EotF reef movement
+    * Vapor not disappearing when damaged
+    * EoMa corpse special events #3827
+    * SH Knockback now requires target have at least 1 max moves
+* Other
+    * https://github.com/ProditorMagnus/Ageless-for-1-14/issues/1 for more details and future plans
