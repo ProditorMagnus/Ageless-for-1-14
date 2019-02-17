@@ -1,0 +1,12 @@
+Version 4.23:
+* Units and Factions
+    * EoMa and EoM update
+* Graphics
+    * Added some missing images - Ageless Resources update
+    * Improved images for EE - Monsters
+* Balance
+    * EoMa and EoM update
+* Bug Fixes
+    * Units having 444 and 555 hitpoints or 100% resistance
+* Other
+    * https://github.com/ProditorMagnus/Ageless-for-1-14/issues/1 for more details and future plans

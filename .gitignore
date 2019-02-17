@@ -40,3 +40,5 @@ Icon
 
 # _info.cfg # required for 1.14
 *.preprocessed.cfg
+
+.vscode
