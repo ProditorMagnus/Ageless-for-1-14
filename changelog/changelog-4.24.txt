@@ -3,3 +3,5 @@ Version 4.24:
     * Ambush-like abilities behave the same for Archaic, EoMa and other factions
 * Bug Fixes
     * Fix Water / Ice Elementals breaking the game
+*Translations
+    * Updated from other eras
