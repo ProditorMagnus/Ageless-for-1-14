@@ -1,0 +1,407 @@
+
+ARCHAIC - Despair
+Lookslike that spearmen are much less popular than widows, but every despair army needs spearmen. Let's do some adjustments to the faction.
+
+The faction had an important problem: no efficient blade, arcane or fire attackers, which is an important problem of balance when this faction 
+is fighting versus heavy walking trees like wose or others. My bandaid to this was adding an optional blade attack to spearmen.
+
+Cloack / Black Shadow / Black Mastercloack
+ - Arcane resistance from -30% to -20%
+ - Black Shadow XP from 55 to 65
+ - Black Mastercloack AMLA XP adjusted from 100 to 115
+ - Black Mastercloack price from 44g to 54g
+
+Black Rider
+ - Hills movement cost from 3 to 2
+ - Mountains movement cost from 4 to 3
+ - Deep water defense from 40% to 30%
+ 
+Black Horseman
+ - Rush damage from 8-2 to 9-2
+ - Cold resistance from 10% to 15%
+ - Hills/cave movement cost from 3 to 2
+ - Mountains movement cost from 4 to 3
+ - Deep water defense from 40% to 30%
+ - XP from 65 to 86
+ 
+Black Slayer
+ - Movement from 9 to 8
+ - Rush damage from 9-2 to 11-2
+ - Spike damage from 12-2 to 14-2
+ - Blade has now +Aimed (50% marskman) and is now 17-2
+ - Cold resistance from 10% to 20%
+ - Hills/cave movement cost from 3 to 2
+ - Mountains movement cost from 4 to 3
+ - Deep water defense from 40% to 30%
+ - Price from 48 to 54
+
+Spearman
+ - Health from 30 to 32
+ - NEW ATTACK: Spear 6-3 blade mele
+ - Fire/Arcane resistances from -20% to -10%
+ - XP from 30 to 38
+Faction doesn't have blade attackers on lv1, this might help a bit.
+ 
+Soldier
+ - NEW ATTACK: Spear 7-3 blade mele +First-Strike
+ - Blade/Pierce/Impact resistances from 20% to 25%
+ - Fire/Arcane resistance from -20% to -10%
+ - XP from 45 to 60
+ 
+Officer
+ - Health fro 64 to 57
+ - Spear damage from 12-3 to 11-3
+ - NEW ATTACK: Spear 9-3 blade mele +first-strike
+ - Blade/Pierce/Impact resistances from 20% to 25%
+ - Fire/Arcane resistance from -20% to -10%
+
+Lord Knight
+ - Movement from 7 to 6
+ - NEW ATTACK: Sword 8-3 pierce mele (same damage as Lv2 soldier's spear damage)
+ - Fire/Arcane resistances from -20% to -10%
+ - Prie from 46g to 50g 
+ 
+Statue       
+ - XP from 25 to 32
+ 
+Stone Solder
+ - XP from 55 to 64
+ - Price from 30g to 32g
+
+Widow 
+Have to test this line for a more exact view of current status of this line.
+
+Midnight Beauty
+ - gaze damage from 11-3 to 10-3
+ 
+Widow-in-White
+ - XP from 56 to 70
+ 
+Banshee
+ - Price from 50g to 54g
+ 
+____________________________________________________________________________________________________________________________________
+
+ARCHAI - Ancient Phantom
+This is mostly a mummy bandaid fix. Mummy spam is inevitable... and ensuring that mummy spam be strongly hit with these nerfs. 
+A faction is about USING a BUILD to have proper results NOT ABOUT SPAMMING a single line.
+
+Mummy
+According to https://units.wesnoth.org/1.12/Ageless_Era/en_US/AE_mrc_oracles_Disciple.html which is a somewhat expensive but cost efficient
+lv0, Mummy is MUCH but MUCH better than how has to be !! Some things will occur to mummy line to harm somewhat hard to players that just 
+finds fun spamming a single line.
+ - Curse has now -Enchanted (always 60% hit chance) instead of +Magical
+ - Blade resistance from 10% to 0%
+ - Pierce/Impact resistances from 20% to 10%
+ - Fire/Arcane resistance from -25% to -35%
+ - Cold resistance from 0% to -5%
+ - Forest/Hill/Swamp/Fungus movement costs from 1 to 2 
+ - Forest/Hill/Fungus defense from 60% to 50%
+ - [WANTED] Swamp movement costs from 1 to 2(Swamp defense might be actually 1, was like that but was not working wat)
+ - [MENTION] mountain defense is now 50% as wanted [mountain=50] instead of [mountains=50] was making this modification to not work.
+             Basically for this, must be considered the Terrain modifier's table name to adjust correctly the changes.
+ - Swallow water movement cost from 3 to 2
+ - XP from 20 to 25
+ - Price fro 11g to 12g
+ 
+Shouldn't be that cost efficient maintaining this unit at lv0 ... quite expensive but afterall is a very bulky mage.
+Decided to decrease hit chance instead of raw damage. Decreasing cth decreases upcoming damage upgrades. Lv1 and other level ups
+are magical on ranged.
+ 
+Mummy Unbound
+ - Blade resistance from 10% to 6%
+ - Pierce/Impact resistances from 20% to 15%
+ - Fire/Arcane resistance from -25% to -30%
+ - Forest/Hill/Swamp/Fungus movement costs from 1 to 2 
+ - Forest/Hill/Fungus defense from 60% to 50%
+ - [WANTED] Swamp movement costs from 1 to 2(Swamp defense might be actually 1, was like that but was not working wat)
+ - [MENTION] mountain defense is now 50% as wanted [mountain=50] instead of [mountains=50] was making this modification to not work.
+             Basically for this, must be considered the Terrain modifier's table name to adjust correctly the changes. 
+ - Swallow water movement cost from 3 to 2
+ - XP from 48 to 57
+ 
+Mummy Noble
+ - Forest/Hill/Swamp/Fungus movement costs from 1 to 2 
+ - [WANTED] Swamp movement costs from 1 to 2(Swamp defense might be actually 1, was like that but was not working wat)
+ - [MENTION] mountain defense is now 50% as wanted [mountain=50] instead of [mountains=50] was making this modification to not work.
+             Basically for this, must be considered the Terrain modifier's table name to adjust correctly the changes. 
+ - Swallow water movement cost from 3 to 2
+ - XP from 110 to 114
+ 
+Mummy King
+ - Forest/Hill/Swamp/Fungus movement costs from 1 to 2
+ - Forest/Hill/Fungus defense from 60% to 50%
+ - [WANTED] Swamp movement costs from 1 to 2(Swamp defense might be actually 1, was like that but was not working wat)
+ - [MENTION] mountain defense is now 50% as wanted [mountain=50] instead of [mountains=50] was making this modification to not work.
+             Basically for this, must be considered the Terrain modifier's table name to adjust correctly the changes. 
+ - Swallow water movement cost from 3 to 2
+ - XP from 143 to 150
+ 
+Mummy Pharo
+ - Forest/Hill/Swamp/Fungus movement costs from 1 to 2 
+ - Forest/Hill/Fungus defense from 60% to 50%
+ - [WANTED] Swamp movement costs from 1 to 2(Swamp defense might be actually 1, was like that but was not working wat)
+ - [MENTION] mountain defense is now 50% as wanted [mountain=50] instead of [mountains=50] was making this modification to not work.
+             Basically for this, must be considered the Terrain modifier's table name to adjust correctly the changes. 
+ - Swallow water movement cost from 3 to 2
+
+____________________________________________________________________________________________________________________________________
+
+EOC - Chaos
+An huge nerf to a specific unit that its special is VERY abusable in any game mode.
+
+Demonshapeshifter
+ - Blade/Pierce/Impact/Fire/Cold resistance from 0% to -13%
+ 
+This is an important nerf, this unit basically heals half of damage taken if it's not arcane type. Not all factions have arcane attackers,
+but this allow the smart use of heavy strikes units to last hit Demonshapeshifter because if the damage taken is lethal there is no healing.
+Favoring at most these heavy 1-2 strikes units that commonly have problems at hitting 50-70% defense targets.
+
+Lv2 is not meant to be tankier than some lv3 fighters...
+
+____________________________________________________________________________________________________________________________________
+
+EoF - Welking
+Slight nerfs to Guardian of Sun and Luna's protector advancements. As well some buffs to Sage level ups.
+
+Guardian of Sun
+ - Sunburst damage from 6-2 to 5-2
+Imagine having 5-4 impact mele and aditionally 6-2 fire on ranged. Remember that many ranged are 18 dmg while this mele was 12 on ranged...
+For now I'm trying a soft nerf of only 1 ranged damage instead of the originally planned of 4-2.
+
+Golden Guard
+ - Sunburst damage from 6-4 to 6-3
+Can be tried, still being 28 dmg on mele and 20 on ranged is quite strong. 
+Now balancing units is harder with the existence of both afterlife and Ageless union... 
+
+Sentinel of moon
+ - Pierce/Blade resistance from 20% to 17% (40% --> 34% during steadfast).
+ 
+This unit starts taking +1 damage at strikes of 7 or higher damage or +2 damage per strike at hira of 36 of higher damage while defending.
+While attacking, this unit takes +1 damage at strikes of 14 exaact damage and from 18 or above damage. 
++2 Dmg taken per strike starts at 50 and some other values higher than that.
+Reasons are quite obvious, there is no defense handicap for having this steadfast nor in damage. 
+
+This unit now needs of atleast x2 upgrades of resistances in orocia to have perfect 50% at pierce/blade, in case of taking only 1 might
+be 22% (44% while defending). This nerf is not intended for Lv3; this is intended to hit players that prefer mantaining units at lower
+levels in afterlife and orocian gameplay.
+
+Elder Sage
+ - Staff damage from 3-2 to 5-2
+ - Price from 30g to 34g
+Countering certain overnerf done to this unit somewhat long ago.
+
+Doyen
+ - Staff damage from 4-2 to 6-2
+ - Cold resistance from 0% to 15%
+ - Price from 49 to 55
+Resistances buffs is to reward better people who decides to level up their units naturally instead of the use of XP mod.
+
+Patriarch
+ - Staff damage from 4-2 to 8-2
+ - Cold resistance from 0% to 25%
+Making its stats be more rightful for lv4.
+
+Battle Sage
+ - Now will regen(+2) per turn!
+ - Fire/Cold resistances from 0% to 10%
+ - Arcane resistance from 20% to 25%
+Reasons of this unit being impopular are blatant, loosing healing+8 from lv1 to only +4 to alied. 
+Srill, levelin strong sages into this option is a quite strong 6-5 blade mele option. 
+
+Battle Seer
+ - Will now regen(+2) per turn!
+ - Will now cure from poison itself! (will be the same if next to Sage or if standing in village)
+ - Fire/Cold resistances from 0% to 15%
+ - Arcane resistance from 20% to 30%
+ - Moonbean is now +Aimed (50% version of marskman) 
+ 
+This unit quite looses magical at ranged (6-2 +magical to 7-3 but specialess which will be now +Aimed) and its healing+4.
+Allowing itself to cure from poison gives it pretty interesting properties while in frontline.
+
+Now you will get a somewhat decent mele fighter if you go for this instead of having another healing+8 sage.
+Will now recive 10-4 damage from 12-4 fire/cold rangeed magical. 
+As always, buffing units that have good reasons to be impopular.
+ 
+____________________________________________________________________________________________________________________________________
+
+EOC - Sylvans
+Some favorable adjustments to Sylvans gameplay.
+
+Elvish Acolyte
+ - NEW ATTACK: gossamer 3-2 impact ranged +slows
+ 
+Looks like an important improvement, just that any Acolyte that desides to use slow ranged is a Acolyte that will not use 7-3 arcane magical.
+But this kinda help at certain situations, specially at survival maps in which Lv1 acolytes damage can be sacrificed for slows.
+Still, it costs 2g more than shaman and decreases your in turn damage dealt to attempt to slow an enemy unit.
+With the slows, it will help these elves to deal with the fact of not having healing+4 shamans but a pair of lines with cures.
+
+Ascetic
+ - gossamer damage from 8-2 to 7-2
+
+Sprite
+ - XP from 40 to 48
+ - Now has +Cures (heals from poison to alied units)
+These elves unlike rebels, they don't have an early healing unit nor anything that allows them to slow.
+
+Fire Faerie / 
+ - Now have +Cures (heals from poison to alied units)
+ 
+Warrior Spirit
+ - NEW ATTACK: Wail 2-2 cold ranged (with its animations!)
+ 
+Considered a buff to this unit because it will never heal +2 per hit at units like human race. Also, it depends of being in forest tiles
+to have its sustain.
+
+____________________________________________________________________________________________________________________________________
+
+Milenium - Forest Keepers
+Adjustment to milenium factions. New era which was not revised by me before.
+
+Still, I kinda liked the treefolks stats, later will ensure making them more balaned and fun to use. For now, faerie nerfs and
+treefolk buff as compesation. Will test them a lot later in various game modes to ensure a fine balance in this faction, 
+their concept is really interesting just that it wasn't properly executed.
+
+
+Sylvan Wyvern
+ - Cry damage from 7-2 to 5-2
+Reason is that this unit moves 9, has 7-3 blade and is too much to ask to have a 7-2 cold (9-2 at daytime) which is strong as well. 
+
+Nighthood Wyvern
+ - Movement from 10 to 9
+ - Cry damage from 8-3 to 6-3
+ - Price from 40g to 37g
+For now will try this moderate nerf. This unit is a bit too hard to kill with only lv1 because of having strong mele and ranged...
+
+Sprite 
+ - Health from 25 to 24
+ - Cold resistance from -10% to 0%
+ - XP from 40 to 48
+ - Price from 18g to 20g
+
+Faerie
+ - Health from 32 to 34
+ - Fire aura damage from 3-4 to 4-3
+ - Cold resistane from -10% to 0%
+ - XP from 70 to 90
+ 
+Sylvan Angel
+ - Fire Aura damage from 4-5 to 5-4
+ 
+Underbrush Faerie
+ - Health from 29 to 27
+ - Faerie touch damage from 6-2 to 5-2
+ 
+Shadow Faerie 
+ - Health from 49 to 40
+ - Faerie touch damage from 8-2 to 6-2
+ - Forest chill damage from 11-2 to 12-2
+ - Fire/Cold resistance from -10% to 0% 
+ - XP from 80 to 90 
+ 
+Nightwood faerie
+ - Health from 62 to 53
+ - Faerie touch damage from 9-2 to 8-2
+ - forest chill damage from 13-2 to 14-2
+ - Fire/Cold resistance from -10% to 0%
+ - Price from 80 to 60
+ 
+Assailant / Dauntless / Vengance
+ - Blade resistance from 0% to 5%
+ - Fire resistance from -40% to -35% (-30% for vengance)
+ - Castle defense from 30% to 40% (attempt of making them somewhat considerable in orocia)
+ - Mountain movement cost from 3 to 2 (still 40% defense)
+This allow them to take 1 less damage per strike from blade strikes with 9 damage or more.
+They don't regen unlike Bark guise, so they depend of being next to a guardian to heal from poison or from damage.
+
+Bark Guise and advancements
+ - Castle defense from 30% to 40% (attempt of making them somewhat considerable in orocia)
+ - Mountain movement cost from 3 to 2 (still 40% defense)
+
+Sylvan Keeper 
+ - Movement from 6 to 5
+ - Impact resistance from 0% to 10%
+ 
+Sylvan Guardian
+ - Piercing root damage from 5-4 to 5-3
+ - Arcane/Cold resistance from 10% to 0%
+ 
+Sylvan God
+ - Health from 78 to 74
+ - Antlers damage from 11-4 to 9-4
+ - Fire/Arcane resistance from 20% to 0%
+
+Thorn Witch
+ - NEW ATTACK: Thorn 3-1 pierce mele +Defend-only
+ - XP from 44 to 41
+Players can now use this unit safely againist early attack dogs in afterlife gameplay. 
+
+Thorn Fury
+ - NEW ATTACK: Thorn 4-1 pierce mele +Defend-only
+ - XP from 77 to 80
+ 
+Sylvan Wrath
+ - NEW ATTACK: Thorn 3-2 pierce mele +Defend-only +First-strike
+ - Price from 43 to 52
+ 
+____________________________________________________________________________________________________________________________________
+
+MILENIUM - CENTAURS
+Well... I'm viewing that defensively they're underpowered just that their offensive and movility are really nice. These concepts
+are hardest to balance (other examples like this one are Marauders and Deep elves). Will not touch this without testing.
+
+____________________________________________________________________________________________________________________________________
+
+MILENIUM - THELIANS
+Few adjustments, saw things I can adjust.
+
+Hart Seeker
+ - Bow damage from 8-3 to 6-3
+ 
+Wolf Fanatic
+ - Price from 38 to 36
+ 
+Nimrod
+ - Bow has now +Aimed (50% marskman)
+ - Price from 46g to 50g
+ 
+Blood Shaman
+ - Curse damage from 10-3 to 9-3
+ 
+Ancestor
+ - Fireball damage from 20-1 to 10-2
+ 
+Forefather
+ - Fireball damage from 31-1 to 15-2
+_____________________________________________________________________________________________________________________________________
+
+MILENIUM VAMPIRES
+Apart of my lazyness, need to test this to see what changes (if have to) be done.
+_____________________________________________________________________________________________________________________________________
+
+ME - Mercenaries
+Important balancing on Rider line which I noticed it's being somewhat overpowered.
+
+Rider
+ - Hills/village defense from 50% to 40%
+ 
+Seeker
+ - Sword damage from 10-3 to 9-3
+ - Spear damage from 15-2 to 13-2
+ - Hills/village defense from 50% to 40%
+ 
+Questfinder
+ - Movement from 10 to 9
+ - spear damage from 20-2 to 18-2
+ - Hills/village defense from 50% to 40%
+ - Price from 50g to 55g
+ 
+Maneuverer
+ - Hills/village defense from 50% to 40%
+ - Blade resistance from 50% to 40%
+
+Guerrilla Cavalry
+ - Sword damage from 14-3 to 12-3
+ - Hills/village defense from 50% to 40%
+ - Blade resistance from 50% to 40%
+ - Price from 70g to 57g

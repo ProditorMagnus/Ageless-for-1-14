@@ -1,0 +1,457 @@
+
+ARCHAIC - Menagerie
+Some corrections that can consider proper to try.
+
+Blue Novice
+ - Fire resistance from 0% to 10%
+Harmless buff? I guess.
+
+Lunar Goo
+Implementing some changes.
+ - Psudopod damage from 3-3 to 4-2 (lowers chance to poison enemies)
+ - Impact resistance from 45% to 55% (fixing wrong pending values)
+Actual problem of Lunar Goo is that you can gain this unit from Lesser Assimilation. And it's only 6g unit.
+
+Lunar Eye
+ - Psudopod damage from 4-3 to 6-2
+ 
+Lunar Stinkbug 
+ - Stench damage from 7-2 to 6-2
+
+Manbot
+ - Spark damage from 4-1 to 5-1
+ - Price from 8g to 9g
+ 
+Mechanical Sentinel
+ - Spark (ranged) is now +Aimed instead of +Skilled special.
+Nerfing its marskman to Aimed (50% marskman) instead of +Skilled is a change that now occurs as the wanted way.
+Previosuly, IPS said about nerfing it's marksman instead of a complete special removal.
+
+____________________________________________________________________________________________________________________________________
+
+ARCHAIC - Primevalists
+Oh oh! this only means some nerfs. Usually not much skill is required to notice how this faction is considerably superior than many
+others. These chaneges shouldn't harm that much skilled Primevalist players, but harms frecuent misstakes at not having a proper
+distribution of damage taken.
+
+Most common nerfs will be decreasing Lv1 regeneration and general XP increase to level up to the blue skinned. Apart of some important
+adjustments.
+
+Cutter
+ - Regenerates+8 is now Regenerates+6 !!
+ - XP from 34 to 41
+ 
+Iron Wheel
+ - Fist damage from 7-2 to 6-2
+ - Arcane resistance from -30% to -25%
+ - Blade resistance from 20% to 10%
+ - XP from 70 to 86
+ - Price from 30 to 32
+ 
+Aerowheel
+ - Arcane resistance from -30% to -20%
+ - Cold resistance from 40% to 25%
+ - Blade resistance from 30% to 20%
+ - Impact resistance from 20% to 10%
+ - Price from 50 to 57
+ 
+Sunwheel
+ - Arcane resistance from -30% to -15%
+ - Blade resistance from 30% to 20%
+ - Impact resistance from 30% to 20%
+ - Cold resistance from 40% to 30%
+ - Fire resistance from 0% to 10%
+ - Price from 50 to 75
+ 
+Firewheel
+ - Movement from 7 to 6
+ - Fire resitance from 50% to 40%
+ - Firewheel attack special is now +Enchanted (always 60% hit) instead of +Magical
+ - Price from 50 to 57
+With these nerfs we're done with this unit for now. Notice that 14-4 is still brutal which at night is 17-4 !
+
+Swiftfoot
+ - Health from 35 to 34
+ - Regenerates+8 is now Regenerates+6 !!
+ - XP from 38 to 41
+ 
+Escort
+We're following first the Scort advancement, which is the Overpowered one. While buffing the other choice to be a viable option.
+ - Glaive damage from 11-3 to 10-3 but still maintains first-strike.
+ - Movement from 6 to 5
+ - Arcane resistance from -30% to -25%
+ - Blade/Pierce resistance from 30% to 20%
+ - Impact resistance from 20% to 10%
+ - XP from 66 to 86
+ - Price from 28 to 32
+ 
+Protector
+ - Arcane from -30% to -20%
+ - Blade/Impact resistances from 30% to 25%
+ - Pierce resistance from 40% to 25%
+ - XP from 105 to 115
+ - Price from 50 to 55
+ 
+Highguard
+ - Arcane from -30% to -15%
+ - Blade/Impact resistance from 40% to 30%
+ - Pierce resistance from 50% to 40%
+ 
+Striker
+ - Arcane resistance from -30% to -25%
+ - Health from 46 to 48
+ - Price from 25 to 28
+ - XP from 70 to 77
+ - Price from 25 to 28
+
+Gyrestriker
+ - Flail damage from 13-4 to 10-5
+ - Arcane resistance from -30% to -20%
+ - Blade resistance from -10% to 0%
+ - Price from 40g to 52g
+
+Slowfoot
+ - Regenerates+8 is now Regenerates+6 !!
+ - XP from 39 to 50
+Hitting both XP and regen might be enough for now to decrease this unit's cost efficiency.
+
+Driver
+ - Chain damage from 11-3 to 10-3
+ - XP from 60 to 86
+ - Price from 25 to 30
+ 
+LineBreaker
+ - Price from 50 to 55
+ 
+Dogface
+ - XP fro 65 to 80
+ - Price from 25 to 28
+ 
+Warrior
+ - Axe damage from 17-2 to 18-2
+ - Impact resistance from 30% to 20%
+ - Pierce resistance from 10% to 0%
+ - XP from 131 to 142
+ - Price from 70 to 55
+ 
+Titan
+ - Axe damage from 20-2 to 22-2
+ - Pierce resistance from 20% to 10%
+Judging fairly, this unit has mele damage of a lv3 but with first strike and marskman. The extra damage looks harmless to add 
+considering it now requires more XP to adquire Titan.
+
+Velite
+Cheap regen unit, well used this unit is helpful. But let's make it more easy to use its advantage.
+ - Health from 28 to 30
+ - Regenerates+8 is now Regenerates+6 !! 
+ - Pierce resistance from 0% to 10%
+ - XP from 40 to 46
+ 
+Hastate
+ - Impact resistance from 10% to 0%
+ - Pierce resistance from 0% to 10%
+ - XP from 80 to 86
+ - Price from 26 to 28
+ 
+Peltast
+ - Health from 48 to 53
+ - Blade/Impact resistance from 30% to 20%
+ - Pierce resistance from 0% to 10%
+ - Price from 46 to 54
+ 
+Primevalist Fighter
+ - Darts damage from 4-3 to 2-3
+The underrated Zealous Primevalist spam. Upkeepless spam anti-abuse.
+
+Primevalist Fanatic
+ - Darts damage from 7-3 to 4-3
+ - Pierce resistance from 0% to 10%
+With certain amount of upgrades, this unit was viable to use at both mele and ranged. Considering that Zealous makes upkeep=0 no matter
+the unit level. I see no problem giving it some extra tankyness for the loss of 40% of its ranged damage.
+
+Primevalist Brigthield
+This unit is VERY abusable in RPG games, specially in games in which you can just buy a weapon to counter his low base damage. Decreasing
+resistances but lowering required XP to lv3.
+ - Arcane resistance from 50% to 40%
+ - Fire/Cold resistance from 40% to 20%
+ - XP from 100 to 90
+ - Price from 25 to 28
+ 
+Primevalist Sun-shield
+ - Sword damage from 12-3 to 10-3
+ - Arcane resistance from 60% to 50%
+ - Fire/Cold resistances from 50% to 35%
+ - Price from 45 to 52
+Looks fair to me that this somewhat resistant slowfoot tank to have lv2 mele damage. Still his base health is just absurd lol.
+Will soon see if this unit still needs more nerfs to prevent certain abuses.
+
+Primevalist Leader
+ - Soul Pierce damage from 8-3 to 6-3
+ - Blade resistance from 10% to 20%
+ 
+Primevalist Monk
+ - Staff damage from 7-2 to 6-2
+ - Price from 28 to 34
+ 
+Primevalist Prior
+ - Base Staff damage from 6-2 to 7-2
+ - Price from 35 to 52
+ 
+____________________________________________________________________________________________________________________________________
+
+ARCHAIC - Ukians
+This is a bandaid fix to dogs which are blatantly overpowered in certain game modes, specially the attack dog.
+
+Dog
+ - Movement from 9 to 8
+ - Sand defense from 60% to 50% 
+ - Swamp movement cost from 1 to 3
+ - Swallow water movement cost from 2 to 3
+ - Coastal Rift movement cost from 1 to 2
+ - XP from 17 to 21 
+
+Attack Dog
+ - Movement from 9 to 8
+ - Blade/Pierce resistance from 10% to 0%
+ - Cold resistance from 0% to 15%
+ - Sand defense from 60% to 50% 
+ - Swamp movement cost from 1 to 3
+ - Swallow water movement cost from 2 to 3
+ - Coastal Rift movement cost from 1 to 2
+ 
+Harrier
+ - Health from 36 to 34
+ - Pierce resistance from 20% to 10%
+ - Fire/Impact resistance from 10% to 0%
+ - Sand defense from 60% to 50% 
+ - Swamp movement cost from 1 to 3
+ - Swallow water movement cost from 2 to 3
+ - Coastal Rift movement cost from 1 to 2
+ - XP from 38 to 46
+ 
+War Hound
+ - Bite damage from 10-3 to 8-4
+ - Torch damage from 18-2 to 13-2
+ - Blade resistance from 20% to 15%
+ - Pierce resistance from 30% to 15%
+ - Impact resistance from 20% to 10%
+ - Cold resistance from 30% to 20%
+ - Sand defense from 60% to 50% 
+ - Swamp movement cost from 1 to 3
+ - Swallow water movement cost from 2 to 3
+ - Coastal Rift movement cost from 1 to 2
+ - AMLA XP from 65 to 86
+ - Price from 28 to 30
+ 
+Seal
+ - Health from 17 to 19
+ - Fangs damage from 6-2 blade to 5-2 pierce
+ - NEW ATTACK: Tail 6-1 impact mele
+ - Arcane/Impact resistance from 0% to 10%
+ - Sand defense from 30% to 40%
+I just want to see more seals lol. Dogs are ridicously good so nobody is even trying seals at all.
+ 
+Pack Seal
+ - Health from 29 to 31
+ - Fangs damage from 11-2 blade to 9-2 piere
+ - NEW ATTACK: Tail 5-2 impact mele (not yet added)
+ - Arcane resistance from 0% to 10%
+ - Blade resistance from 20% to 10%
+ - Pierce resistance from 10% to 0%
+ - Sand defense from 30% to 40%
+ - XP from 40 to 46
+ - Price from 15 to 16
+ 
+Lion Seal
+ - Health from 38 to 40
+ - Fangs damage adjusted from 16-2 blade mele to 13-2 pierce mele.
+ - NEW ATTACK: Tail 8-2 impact mele
+ - Arcane resistance from 0% to 10%
+ - Sand defense from 30% to 40%
+ - Price from 15g to 27g
+ 
+Ice Seal
+ - Health from 26 to 28
+ - Fangs damage from 7-3 blade to 6-3 pierce
+ - NEW ATTACK: Tail 5-2 impact mele (not yet added)
+ - Arcane resistance from 0% to 20%
+ - Impact resistance from 0% to 10%
+ - Castle defense from 40% to 50%
+ - XP from 40 to 46
+ 
+Iceblade Seal
+ - Health from 34 to 37
+ - Fangs damage from 10-3 blade to 9-3 pierce mele
+ - Arcane resistance from 0% to 20%
+ - Impact resistance from 0% to 20%
+ - Blade resistance from 0% to 10%
+ - Price from 25 to 26
+ 
+Ukian Civilian
+ - Price from 8 to 9
+ - XP from 15 to 22
+Compared to default's peasant this is quite fair, Ukian Civilian has 6 more HP and 1 less XP to advance.
+
+
+____________________________________________________________________________________________________________________________________
+
+ME - Hive
+Some various changes to Hive to make them more balanced and dynamic to use.
+
+Soldier Ant
+ - Pierce/Blade resistances from 30% to 25%
+ - Sting damage from 11-2 to 10-2
+ 
+Bull Ant
+ - Bite damage from 13-4 to 12-4
+ - Sting damage from 22-2 to 19-2
+ - Price from 46 to 52
+
+Fire Ant
+ - Sting damage from 13-2 to 11-2
+I see no problem nerfing its sting considering this unit can poison at both mele and ranged.
+
+Stag/Hercules
+ - Fire resistance from 20% to 15%
+This unit originally did not have fire resistance (it was even weak to fire?), dunno, but lowered this to decrease steadfast's bonus
+to something that the unit did not have originally.
+
+Lantern Bug
+ - Tackle damage from 7-4 to 6-4
+ - Flash has now +Aimed (50% version of marskman)
+ - Impact resistance from -30% to -25%
+ - Arcane resistance from 20% to 30%
+ - Fire resistance from 70% to 60%
+ 
+Drone
+ - Sting damage from 9-2 to 8-2
+ - Arcane/Pierce resistance from 0% to 10%
+ - Impact resistance from 0% to -10%
+I do personally dislike that certain units have only -20% or larger weaknesses.
+
+Prince
+ - Sting damage from 14-2 to 12-2
+ - Arcane/Pierce resistance from 0% to 10%
+ - Impact resistance from 0% to -10%
+It's leadership unit that can poison, doesn't need to have normal output of damage. This specially nerfs starting with this unit as leader.
+ 
+Regal
+ - Sting damage from 14-3 to 12-3
+ - Sting damage from 14-2 to 12-2
+ - Arcane/Pierce resistance from 0% to 10%
+ - Impact resistance from 0% to -10%
+ - Price from 46 to 52
+ 
+Wasp
+ - Health from 55 to 52
+ - Sting damage from 9-3 to 8-3
+ - Impact resistance from -10% to -15%
+ - XP from 82 to 75
+Underrated unit that is pretty strong, 1 MP cost everywhere and 60% defense everywhere (just 40% at villages)
+
+Hornet
+ - Sting damage from 15-3 to 13-3 but now has +Frist-Strike
+ - Bite damage from 10-5 to 9-5
+ - Fire resistance from -20% to -15%
+ - Price from 46 to 52
+ 
+Queen
+ - Sting damage from 16-1 to 13-1
+ - Infect damage from 10-2 to 8-2
+ - Will now regen +2 per turn.
+ - Arcane resistance from 0% to 10%
+ - Flat defense from 30% to 40%
+ 
+Overmind
+ - Sting damage from 26-1 to 19-1
+ - Infect damage from 11-3 to 9-3
+ - Will now regen +3 per turn
+ - Arcane resistance from 0% to 10%
+ - Flat defense from 30% to 40%
+ - Price from 48 to 55
+
+Gnat
+Actually Gnat is a somewhat abusable unit, specially in lv1. These few nerfs doesn't affect its viality as unit and prevents abuses.
+ - Bother Damage from 2-5 to 2-4
+ - Fire resistance from 20% to 10%
+
+Fly
+The most nerfed of the Gnat advancement, it has really good reasons to be like this.
+ - Bother damage from 2-8 to 2-6
+ - Movement from 10 to 8
+ - Fire resistance from 20% to 10%
+Before an adjustment, Fly used to have -50% fire resistance (loosing 70% fire resistance when in lv1) but it was changed.
+This version of Fly maintains most of its strengths and prevents some abuses.
+
+Mosquito
+ - Fire resistance from 20% to 10%
+ 
+Hopper
+ - Trackle damage from 10-2 to 9-2
+ - Arcane resistance from 0% to 10%
+ 
+Skipper
+ - Arcane resistance from 0% to 10%
+ - Trackle damage from 10-3 to 9-3
+ - Charge damage from 20-1 to 10-2 (less abusable in RPG)
+
+Glider
+ - Arcane resistance from 0% to 10%
+ - Swamp defense from 40% to 50%
+ - Frozen movement cost from 1 to 2
+ - Swamp movement cost from 1 to 2
+ - Frozen defense from 30% to 40%
+ - Price from 40 to 38
+ 
+Mantis
+I would like to do some reworks to this unit.
+ - Health from 58 to 53
+ - Movement from 6 to 5
+ - Scyche now has +First-Strike and +Aimed (50% marskman)
+ - Pierce resistance from 60% to 45%
+ - Blade resistance from 50% to 35%
+ - Arcane resistance from 0% to 10%
+ - Cold resistance from 0% to -5%
+ - Forest movement cost from 3 to 1
+ - Forest defense from 40% to 50% 
+ - Hills defense from 50% to 40%
+ - Mountain defense from 60% to 50%
+ - Price from 27 to 28
+ 
+With these changes, Mantis is a somewhat viable forest tiles defender line that cannot have 60% defense in any terrain and that offensively
+is more interesting than pre-reworked mantis that was a weird 40% flat defense tank.
+
+Termite
+Now aditionally will have a weak an optional 2 strikes ranged.
+ - NEW ATTACK: Acid Spray 5-2 fire ranged
+ - Price from 17g to 18g
+This will help termite last hit better. No need to implement this attack on lv2 ones.
+ 
+Spider
+This unit's cost efficiency is just absurd. Let's decrease movement by 1.
+ - Movement from 6 to 5
+Spider recived a impact resistance improvement while leveing up, making them better defenders on higher levels. Now it's their turn
+to take their counter-nerf.
+ 
+Tarantula
+ - Movement from 6 to 5
+ - Price from 30g to 33g
+ 
+Gargantuar
+ - Movement from 6 to 5
+ - Web damage from 7-5 to 6-5
+ - Price from 48g to 53g
+_____________________________________________________________________________________________________________________________________
+
+ME - Oracles 
+
+Arbiter/theurgist/judgmentor
+Actually fixing a bug that their new blade attack is not applying because of being arcane type too.
+ - Arbiter's Sword 8-2 is now blade type
+ - Theurgist's Sword 8-3 is now blade type
+ - Judgmentor's Sword 11-3 is now blade type
+After the changes are implemented, will check if this line needs a counter nerf due to their new optional attack type.
+
+
+ 
+ 

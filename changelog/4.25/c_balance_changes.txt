@@ -1,0 +1,69 @@
+Archaic - South seas
+- Seaman line more tankier, but 8-2 impact instead of 10-2. More intended to be a tank role (41 HP with certain weaknesses). Optional 4-3 impact mele for better last hitting.
+- Seaman advancement have better resistances and a little more health, while cheaper in era of heroes, lower damage but optional 6-3 impact + first strike for better last hitting.
+- Swimmers increased survivavility, lower weaknesses, Lv1 now requires 1 MP cost at flat, higher health for lv2 and lv3 but one less movement. Standarized a little their backstab mele. Lowred damages of ranged, but at lv2 now their dmg is 7-2 instead of 14-1 for higher chances of slowing.
+- Shoreman a trustable (kinda overpriced) 6-3 pierce mele (+1 mele) but weakned the optional slow impact mele. All their weaknesses got lowered to 0%.
+- Lorecaster now 0% cold resistant but 10% weak to fire, +1g cost because of maintaining the 6-2 blade mele.
+- Arsonists nerfs considering better cost efficiency at Swimmers/Shoremen and tankier Seamen.
+- Breeze and advancement adjustments. Weaker magical res to decrease their RPG potential, aimed (marskman) on Lv1 and lv2 attacks with swarm, while lowered abusable potential (2-8 --> 2-7 for lv1 and 4-7 for lv2). Weaker mele at both. Lv0 breezes costs +1g because of matchup synergy with swimmers and shoremen backstab attacks.
+- Albatros cost 16g --> 14g and easier to level up and a lot cheaper in era of heroes.
+- Fariness repricing.
+
+Archaic - Orcs
+- Slingers now have much lower cold resistance to more realistic values.
+- Rat riders tail attacks were nerfed, while lv2 and lv3 resistances lowered due too much tankyness.
+- No orc is now 70% defense at castle and village, while some Knave advancement got lowered resistances to more fair values.
+- Fireline torch and fire breath were lowered, but their axe damage deals more damage. Aditional 10% fire res at lv3.
+- Ox riders charge attacks lowered due their low cost and being impact attack type. Still, they can cause strong havoc.
+- Orc medics have -1 mele impact damage per strike.
+- Fariness repricing, and accurately balanced job.
+
+EoC - Summoners
+- Fire imp now costs 14g (+1g) while being -10% arcane res on all levels, and lv1 is now 40% cold weak instead of 30%. Still maintaining their strong 10-2 fire mele status, only buff: 55% fire res at lv1/lv2. Lv2 is now 10% impact res (instead of 20%), while lv3 has only +10% fire res (60%) than before at the cost of -10% arcane res.
+- Ethereal dragon/Serpetns now move -1 tile.
+- Ice clubs now costs 1g less, and lv3 gains optional pierce mele in order to not lose their base pierce attack. Few extra health at all levels if I can remember fine.
+- Vine leapers and advancement gain slightly better resistances and a little more health. Lv2 requires a little more XP to lv3.
+- Shock birds +2 HP and +10% to fire/cold/arcane res from their previous values. Lv2 and Lv3 shock birds gain 50% Marskman on blade ranged attacks. Still a cost ineficient scouting unit that preffer trying this slight buff first.
+- Sylph now moves 5 tiles on Lv1 and requires a little more XP to lv2.
+- Undynes and advancements are now 30% impact resistant instead of 20%.
+- Stone giant does a little less blade damage on lv3.
+- Summoners
+a) Lv2 (except summoner of air) loses 1 arcane damage on that one attack. Air summoner losses 1 movement. All summoners gain worse mele at lv2 and lv3 by not that much, still better values than in default mages. Lv3 summoners with no exception losses 1 arcane damage per strike.
+b) Earth/water summoners now deal some more damage on their element ranged attack (specially lv3 water summoner at being now 9-3 +slow instead of 12-2, for higher chances of slowing). Fire master +1 fire ranged damage on their lv3. Decided that it's better to make summoners be more specialists in their elements instead of having a fairly good optional arcane ranged.
+c) All summoners received certain movement costs improvement and/or defenses depending their elements, in order to make easier the use of their ressugerence special, decreasing handicaps on defense and sometimes in movement costs.
+d) All elemental summoners and masters of elements received a description!
+- Fairness repricing.
+
+EoC - Quenoth Elves
+- Hunters now are 5 movement which was added to archers that now are 6 movement.
+- Improved general balance.
+- Certain line of elves which is swift foot used to lose 1 ranged strike at poison attack, now as compesation they adquire 50% marskman to compesate the lost strike, which at Lv3 is a bonus that is adquired from investing such XP at leveling it. While the other option got nerfed their ranged.
+- Various other misc stuff that I cannot remember well...
+- Fairness repricing on all units of this faction.
+
+MERCS - Avians
+- Lv1 broadwing -1 mele damage per strike, and his advancement got some nerfs considering the advantages of +marskman in their attack (leadership lines do a little less ranged damage), while lv2 terror has a little less hp and lv3 dreadnought has -1 ranged damage on marskman and -2 on northwind.
+- Mother and advancement now moves 5 tiles instead of 6 tiles. Still being a strong healer.
+- Dart now moves 7 tiles and have some worse terrain defense 50% --> 40% and worse ranged (don't know if all dart advancement lines got nerfed their ranged damage, must check, later and report the issue).
+- Lv2 charger which has marskman has now 50% version marskman on attack due it's good movement costs and easy access to vulnerable enemy tiles.
+- Pidgeon advancement which illuminates is now neutral aligment instead of lawful because of supportive role.
+- Certain nerfs on damage on some other avians, which are still fine.
+
+MERS - Infernai
+- Ifreets: 40% --> 30% physical resistances, while their temptaion attacks are now 2 strikes instead of 1, nerfing RPG potential.
+- Lv2 and Lv3 ifreets have less mele damage. Don't remember if their fireballs were lowered by 1 or not, whatever the case leave it as how it is.
+- General Repricement for fairness in the revised units.
+
+MERCS - Fanatics 
+- Genies non arcane resistances will now be 20% all (instead of 30% to blade/pierce/impact and 40% to cold/fire)
+- Terrorist damages are now Lv1 at mele/ranged +1, while Lv3 terrorist damage is not that much different of Lv2's mele/ranged, while both having fewer health.
+- General repricement for fairness in the revised units.
+
+MERCS - Slavers
+- Nerfs to harlots movement 6 --> 5 while made some of her movement costs be worse. Don't remember if now harder to lv1.
+- Lv2 harlots are harder to gain because of needing more XP. Fewer health for these without healing+8 because of having absurd tankyness considering their charm (enemy -20% dmg) into more fair values.
+- Tracker nerfed, skirmisher now has 6 movement and 6-4 impact ranged which cannot be 9-4 at night, still a strong unit.
+- Slight nerfs to advanecment of lv1 slavers, in values that can be said strong as well.
+- Podder movement costs considerably improved, lv1 mediocre spearman unit that now can reach better some tiles due better movement costs.
+- Mutts movement costs improved at hills and mountains (except for retreivers and man-eaters).
+- Certain repricement for more fairness.
