@@ -24,7 +24,6 @@ replacements = [
 	('skykingdom_aoh','skykingdom'),
 	('summoners_aoh','summoners'),
 
-	("{MAGENTA_IS_THE_TEAM_COLOR}",""),
 	('#textdomain wesnoth-Era_of_Magic','#textdomain wesnoth-Ageless_Era'),
 	('_"gaze"','{STR_GAZE}'),
 	('_"bolas"','{STR_BOLAS}'),
