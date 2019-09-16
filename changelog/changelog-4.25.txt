@@ -1,0 +1,15 @@
+Version 4.25:
+* Balance
+    * Menagerie, Primevalists, Ukians, Hive, Oracles
+    * Despair, Phantoms, Chaos, Welkin, Sylvans, Forest Keepers, Thelians, Mercenaries
+    * South-Seas, Northern Orcs, EoC Summoners, Quenoth Elves, Avians, Infernai, Fanatics, Slavers
+    * Centaur Fighter, Fallen Fighter, EE Dragons weakened
+* Bug Fixes
+    * Weapon special events check if special is active
+    * Arcane Aura does not affect its owner
+    * ELE Banner is not cumulative
+* Graphics
+    * New images for Galleys and Ethereal Orb line
+* Other
+    * This is first version which is also for 1.15
+    * Removed units which have max level less than 2 from rpg random leader
