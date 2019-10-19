@@ -1,0 +1,316 @@
+
+EE - Monsters
+Monsters faction needs some rebalancing in certain units and builds. There must be a compesation of the +Marskman removal from dragon lines.
+And in general, there is a tons of disbalances in that faction and some even in the side of underpowered...
+Usually new players or players that are first time this faction have worse ressults than if the same players were using other faction...
+Reasons are quite obvious, the roles aren't exactly the same as of most factions.
+
+Little Spider / Spider / Overgrown spider
+ - Forest defense from 30% to 40%
+So at least they will benefit from being in forest tiles. Having the 40% defense that most units are used but at flat.
+
+Wolf
+This line is a blatant case of underpowered. Will increase their health.
+ - Health from 28 to 32
+ 
+
+Great Wolf
+Some various buffs to make this unit be quite more useful.
+ - Health from 40 to 42
+ - Fangs damage from 5-4 to 6-4 and now has +Aimed (50% version of Marskman).
+This will be consired as a balance test, making lv1 wolves boost higher level wolves's (50%) marskman.
+
+
+Direwolf
+ - Health from 52 to 55
+ - Movement from 7 to 8
+ - Fangs now has +Aimed (50% version of marskman)
+
+Sneaky Tentacle
+My apologies, but I'm lowering the cold resistance of this dead cuttlefish's spawn. On orocian gameplay dealing this unit with magical
+cold attackers is quite painful. Just increasing relative damage taken by +50%.
+ - Cold resistance from 60% to 40%
+
+____________________________________________________________________________________________________________________________________
+
+Imperial - Lavinian Legion
+Some adjustment to this faction, certain units have too much damage in this faction. While the whole faction having problems to cold attacks.
+Some units will get a slight bonus to cold resistance.
+
+Auxiliary arcane resistance from 0% to 10%
+
+Light Infantryman
+ - Arcane/Cold resistance from 0% to 10%
+
+Rorarius 
+ - Arcane/Cold resistance from 0% to 10%
+ - Price from 32g to 30g
+
+Skirmisher arcane resistance from 0% to 10%
+
+Velite
+ - Spear damage from 10-3 to 9-3
+ - Javelin damage from 10-2 to 8-2
+ - Arcane/Cold resistance from 0% to 10%
+ 
+Slinger
+ - Sling damage from 6-4 to 5-4
+ - Arcane resistance from 0% to 10%
+ 
+Funditor
+ - Sling damage from 9-4 to 8-4
+ - Arcane/Cold resistance from 0% to 10%
+
+Siege archer 
+ - cold resistance from -20% to -15%
+ - Price from 26g to 29g
+ 
+Saggitarius
+ - Cold resistance from -20% to -15%
+ - Price from 34g to 42g
+
+
+Field Ballista
+ - Health from 36 to 39
+ - Ballista damage from 18-2 to 19-2
+ - Arcane resistance from 0% to 10%
+ - Cold resistance from -20% to -10%
+3 movement really sucks, this unit deserves some considerations at being that slow...
+Has mele to defend himself from berserk, but losses steadfast and 1 movement point which both facts are significant.
+
+Archuballistarius
+ - Health from 46 to 50
+ - Ballista damage from 24-2 to 25-2
+ - Arcane resistance from 0% to 10%
+ - Cold resistance from -20% to -10%
+ - Price from 38g to 44g
+ 
+Legionaire
+Lowering lv1/lv2/lv3 damages at shield and pilum. Won't affect unit's survivavility at all but prevents certain abuses.
+ - Shieldbash damage from 15-1 to 14-1
+ - Pilum damage from 6-1 to 4-1
+ 
+Propugnator
+ - Shieldbash damage from 20-1 to 17-1
+ - Pilum damage from 6-2 to 4-2
+ 
+Praetorian Guard
+ - Shieldbash damage from 22-1 to 20-1
+ - Pilum damage from 7-2 to 5-2
+ 
+Decurion
+ - Pilum damage from 6-2 to 4-2
+ - Price from 28g to 32g
+ 
+Centurion
+ - Pilum damage from 8-2 to 5-2
+ - Price from 40g to 48g
+ 
+Signifier
+ - Health from 54 to 47
+ - Price from 28g to 32g
+This one unit is more support rather than fighter even if this can accomplish the role of fighter as well.
+ 
+Aquilifer
+ - Health from 54 to 56
+ - Price from 40g to 50g
+Worth making more significant leveling up to Aquilifer. After all, before the nerf/buffs this unit gain +0 HP on lv3.
+
+____________________________________________________________________________________________________________________________________
+
+Feudal - Clockwork dwarves
+Considering that these dwarves doesn't deserve the -10% fire/cold weaknesses and instead lowering these weaknessese to 0%.
+
+Greaser/Oiler
+ - Fire/Cold resistances from -10% to 0%
+ 
+Blazer
+ - Fire resistance from -10% to 20%
+ - Cold resistance from -10% to 0%
+ - Price from 61g to 54g
+ 
+Armored Mechanic
+Before, it was blatant that armored mechanic was a very superior unit than blazer, needs adjustments becasue of healing+8 considerations.
+ - Blaze damage from 16-2 to 13-2
+ - Fireball damage from 12-2 to 11-2
+ - Price from 57g to 54g
+ 
+He's tankier (specially to physical damage) and heals+8 compared to blazer, seems fair. 
+While Blazer will now be 20% fire resistant instead of -10% fire weak.
+
+Triggerman/Gunner/Artillery
+ - Fire/Cold resistances from -10% to 0%
+ - Gunner price from 34g to 32g & Health from 47 to 48
+ - Artillery price from 63g to 52g & Health from 61 to 62 
+ 
+Miasmist price from 28g to 32g (poison on ranged and quite good mele/resistance) are painful to deal againist.
+
+Gas Baron
+ - Miasma damage from 9-4 to 8-4
+ - Price from 57g to 54g
+ 
+Marshal Price from 29g to 34g
+
+Iron Golem Solder (cannot find this unit's files to implement manually the changes!)
+This unit is among most efficient between various factions in whole ageless (specially with upgrades gamemodes like orocia). 
+Ranged damage nerfs will ocurr.
+ - Flash Cannon damage from 13-1 to 11-1
+ - Price from 30g to 32g
+ 
+Goliath (cannot find this unit's files to implement manually the changes!)
+ - Flash cannon damage from 19-1 to 16-1 and is now +Aimed (50% version of marskman) instead of full 60% marskman.
+ - Price from 67g to 63g
+
+Wanderer
+Actual OP unit. Going to do certain slight nerfs to all lv1, lv2 and lv3 of this line.
+ - Fire resistance from -10% to -20% 
+ 
+Rambler
+ - Movement from 6 to 5
+ - Fire resistance from -10% to -20%
+ - XP from 80 to 91
+ - Price from 30g to 32g
+ 
+Itinerant
+ - Movement from 7 to 5
+ - Can no longer move at unwalkable, instead of requiring 3 movement points (for 60% defense).
+ - Fire resistance from -10% to -20%
+ - Price from 51g to 55g
+ 
+Steel Eagle price from 25g to 30g
+ 
+____________________________________________________________________________________________________________________________________
+ 
+Feudal Orcish Knagates
+After certain rework to knagates, they're stronger than they used to be, still somewhat underpowered. I'm buffing here.
+
+Gobling Hunter
+ - Health from 26 to 28
+ - Swallow water defense from 20% to 30% 
+ - Swamp defense IS intended to be 40% , but it's being 30% , please help at fix.
+ - Mountains defense from 50% to 60%
+ 
+Gobling Flanker
+ - Swallow water defense from 20% to 30%
+ - Swamp defense is intended to be 40% but is being 30%.
+ - Mountains defense from 50% to 60%
+ - Price from 26g to 28g
+ 
+Gobling Striker
+ - Swallow water defense from 20% to 30%
+ - Swamp defense is intended to be 40% but is being 30%.
+ - Mountains defense from 50% to 60%
+ - Price from 22g to 27g
+ 
+IceWind herder
+ - Frost wind damage from 6-3 to 7-3
+ - frostbite damage from 4-4 to 5-4
+ 
+Icewind drover
+ - Frostwind damage from 7-4 to 8-4
+ - frostbite damage from 9-3 to 10-3
+ 
+Icewind Master 
+ - Pierce/Impact resistances from -10% to 0%
+ 
+Outcast
+ - Health from 50 to 53
+ - Cold resistance from 20% to 40% 
+
+Pariah
+ - Blade/Pierce/Impact resistances from -10% to 0%
+ - Cold resistance from 20% to 40%
+ 
+Shielbearer
+ - Castle defense from 60% to 50%
+An unit with such resistances must never be 60% defense at all costs.
+Much is that this unit IS 40% flat defense !!
+
+Rigid
+ - Castle defense from 60% to 50%
+ - XP from 50 to 55
+ 
+Stoic
+ - Shield no longer has slow on mele nor defense only!
+ - Shield damage from 16-2 to 14-2
+ - Castle defense from 60% to 50%
+ - AMLA XP from 150 to 165 due it's resistances and RPG abusability.
+ - Price from 41g to 44g
+16-2 is a quite decent attack for a lv3 tank, will see later if this needsa to be lowered or not, but slows but unable to attack
+are details that both needs to be fixed
+
+Juggernaut
+ - blade resistance from 0% to 10%
+ - Price from 36g to 34g
+ 
+Vanguard
+ - Flail damage from 10-2 to 12-2
+ - Price from 36g to 33g
+
+Khan
+ - Flail damage from 13-2 to 15-2
+
+Warrior
+ - NEW ATTACK: Hatchet 4-1 blade ranged (even with its animations from Highlander forester's hatchet!)
+This is specially helpful in Orocia survivals games and why not at colosseum.
+
+Bladesman
+ - NEW ATTACK: Hatchet 5-2 blade ranged
+
+Massif
+ - NEW ATTACK: Hatchet 8-2 blade ranged
+
+Spearman
+ - NEW ATTACK: Javelin 6-1 pierce ranged (same as lv1 spearmen from various factions)
+ (no animations at all, but whatever, the attack exists)
+ 
+Skewer 
+ - NEW ATTACK: Javelin 10-1 pierce ranged
+ 
+____________________________________________________________________________________________________________________________________
+
+
+EE - Enchanters
+Some small fixes.
+
+Floating Sword 
+ - Health from 23 to 24 as compensation of the previous nerf of their resistances
+ 
+Magic Sword's Health from 27 to 28
+
+Shifting Sword
+Underrated or not, I'm going to slightly nerfing it.
+ - Movement from 7 to 6
+
+Rune Purist
+This unit needs a ceratain nerf, my fix is nerfing CTH (chance to hit) to make it scale fewer from upcoming damage and strikes upgrades.
+ - Light rune damage from 2-10 to 3-10 and now is +Enchanted (always 60%) instead of +Magical.
+ 
+This will not change that much this unit's effectiveness in normal gameplay but makes its upgrades less abusable.
+ 
+Arcane Rune Transcriber
+ - Light rune damage adjusted from 3-7 to 7-4 in order to scale worse with upgrades.
+ - Fireball damage from 7-4 to 5-4 (still looks weird to me that this unit has fireballs... left to lv1 fireball dmg)
+Weird , arcane rune transcriber had as name "arcane" in his name but his main attack used to be the fireballs... still maintaining fireballs.
+Awful the ending of this unit, but the previous way this unit was being seemed akward to me.
+
+Arcane Rune Splicer 
+ - Health from 48 to 52
+ - Chisel damage from 9-1 to 10-1
+ - Light rune damage adjusted from 5-7 to 7-5
+ 
+Rune Splicer
+ - Ice rune is now +Enchanted instead of +Magical
+ - Water rune is now +Enchanted instead of +Magical
+Better to stop the combination of +Magical and +Slow in both attacks of this unit, apart of having somewhat good damage, can slow as well.
+
+Runemage
+ - Light rune damage adjusted from 4-8 to 5-6
+ 
+Runemaster 
+ - Light rune damage from 5-10 to 6-8
+ - Ice rune damage from 10-5 to 9-5
+
+____________________________________________________________________________________________________________________________________
+ 
+ 
