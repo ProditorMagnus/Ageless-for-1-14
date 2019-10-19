@@ -1,0 +1,280 @@
+
+AE - Steelhive
+Some balance improvement to steelhive. Lightshifter nolonger will have that fuction that nobody wants to confuse enemy units at the cost of
+loosing any obtained upgrades in orocia/RPG gameplay.
+
+Steel Lightshifter 
+This unit had planned to have lv1 advancement , but for now, will leave it a lv0 that can be somewhat useful that can be used as an excelent
+magical damage sponge.
+ - Removed like +200 lines of unwanted code were removed, in purpose to be a more normal unit.
+ - Fire/Cold resistances from -10% to 60%
+ - Blade/Pierce resistances are now 0%
+ - Impact resistance from -20% to -30%
+ - Description adjusted to unit's new functionality.
+
+I don't even remember the changes proposed for lv0 / lv1 lightshifter that I proposed long ago, but this AMLA lv0 is quite acceptable, just
+that it doesn't has ZOC never for now.
+
+Steel Vector
+ - Movement from 7 to 6
+ - Stab damage from 9-4 to 8-4
+ - Price from 37g to 34g
+ 
+Steel Vorpal
+ - Movement from 7 to 6
+ - Stab damage from 13-4 to 11-4
+ - Impact resistance from -20% to -10%
+ - Price from 57g to 54g
+ 
+Fidelant
+ - Movement from 8 to 7
+ - trample damage from 9-5 to 8-5
+Yea, really good complete 16-5 damage, because 18-5 is really sick... but depending of so many strikes to deal complete damage means risks
+from retaliations. For now , just lowering to 8-5. I Remember having adjusted this insane attack from 13-4 to 9-5 (a severe nerf considering charge)
+ 
+____________________________________________________________________________________________________________________________________ 
+ 
+
+Era of Myths
+General overview to improve better EoM balance and amking it a better experience to be tried.
+As far as I know, only Windsongs are currently in a good stima between AE community.
+
+____________________________________________________________________________________________________________________________________
+
+EOM - The Warg 
+Actually using this faction is pretty akward... there are some blatant underpowered here that must be buffed.
+The fact is that nobody wants to use the warg faction due of being somewhat more akward to use than defaultlike factions.
+
+Shapeshifter
+ - Aurawave damage from 3-2 to 4-2
+ 
+Changeling
+ - Health from 44 to 47
+ - XP from 85 to 75
+ - Price from 30g to 28g
+
+Wolfing price from 58g to 51g
+
+Black Hunter
+ - Movement from 5 to 6
+ 
+Nighteye
+ - Health from 49 to 52
+
+Fire Sprite 
+ - Health from 24 to 26
+ 
+Flame Sprite 
+ - Healh from 32 to 35
+ - Price from 34g to 30g
+ 
+Flame Spirit
+ - Health from 44 to 47
+
+Fenrir
+ - battle axe damage from 13-4 to 12-4
+ - Price from 45g to 54g
+Still a formidable unit, and a very complete fighter that is really worthy to have.
+
+Pack leader price from 50g to 54g
+Garou price from 68g to 72g
+Moonblade price from 48g to 52g
+
+Water Dryad
+I find harmless giving them some extra cold resistance.
+ - Cold resistance from 0% to 10%
+ 
+Water Nymph
+ - Cold resistance from 0% to 20%
+ - Price from 23g to 28g
+ 
+Water Shyde
+ - Cold resistance from 0% to 20%
+ - Arcane resistance from -10% to 0%
+ - Price from 35g to 44g
+ 
+____________________________________________________________________________________________________________________________________
+ 
+EoM - Devlings
+Uhm ... overgrowns modifications ehmmmm, I pretty dislike the results of lv1 overgrowns right now... basically, devlings are high in upkeep
+if not recruiting nailers often, and usually ppl often prefer going the more worthy but stable overgrowns. I propose to make Lv1 overgrowns
+somehwat highly cost efficient but hard to level up. As said in Warrior's description, overgrown ones aren't as bright than their smaller
+companions.
+
+And wtf have ocurried to nailers?! at their current status they're worthless as nothing else than free XP to enemies.
+And they're actually not having ZOC and it's not even being mentioned!! (THIS can LITERALLY ruin your game, not being warned of no ZOC)
+
+But basically, I'm seing that right now everything that aren't overgrowns nor Cursers are highly wrong in balance... and too underpowered
+to even be considered to buy. Would have never imagined that devlings status could've been going that bad. 
+
+I can't find possible that new results with nailers can be worse than their actual status. Compared to orcish grunts tehy're still weak.
+And they're no ZOC , which hits hard in tactical means. 
+
+Overgrown
+ - Fist damage from 6-3 to 7-3
+ - XP from 36 to 48
+The fact is that spending XP in overgrowns that are weaker than loyalist lv2 fighters or elvish heros justificates the low pricing
+of overgrowns. As well the somewhat akward traits that devlings carries with them.
+
+Soldier
+ - Health fro 45 to 47
+
+Grand Hero price from 55g to 65g
+Grand Chief price from 56g to 67g
+
+Nailers
+as compesation of overgrown's extra impact damage per strike, their impact has to be lowered.
+And WHYYYYYY nailers have so low health?! basically they're free XP to enemies!!
+Apart of being 40% flat defense... unlike other lv1 smaller devlings, highly underpowered!
+No ZOC? let's make them cheap upkeepless health unit.
+ - Health from 22 to 29 (+7 HP buff lv1...)
+ - Nail Em damage from 15-1 to 14-1
+ - Club'Em damage from 6-2 to 5-2
+ - Arcane/Cold resistance from -10% to 0% (-1 impact damage's consideration vs undead faction)
+ - XP from 32 to 40
+ 
+Not attempting to give 50% flat defense, BUT, giving important toughtness buffs.
+A thing is buying a cheap 11g upkeepless unit, other thing is buying a 11g unit that very likely is more useful for your opponent than 
+for yourself... this unit deserves all these buffs to make it to at least be useful...
+
+Spikers 
+ - NEW ATTACK: Club em 10-2 impact mele
+ - Arcane/Cold resistance from -10% to 0%
+ - Blade/Fire resistance from 0% to 10%
+Comes from cheap lv1 and has 1 upkeep less. Still some resistances buffs are harmless.
+
+Staplers
+ - NEW ATTACK: Club em 14-2 impact mele
+ - Arcane/Cold resistance from -10% to 0%
+ - Blade/Fire resistance from 0% to 10%
+
+Flappers
+Resistances buffs, actually their weaknesses makes this unit awful to use.
+ - blade resistance from -10% to 0%
+ - Arcane/Cold resistance from -20% to -10%
+
+Flyers
+ - Arcane/Cold resistance from -20% to -10%
+ - Price from 27g to 30g
+Not a quite popular unit and can't be 60% defense (except in funguss...), seems fair.
+
+Attackers 
+ - Arcane resistance from -20% to -10%
+ - Price from 42g to 45g
+ 
+Sneak
+that hp... wat xd
+ - Health from 13 to 16
+ 
+____________________________________________________________________________________________________________________________________
+ 
+
+EOM - Vampires
+Some considerations to make this faction more friendly to use. Only a malbron slight nerf.
+
+Blood Manipulator
+Actually, there is not much sense picking this advancement instead of Flesh Artisan because the 2nd one being too superior. 
+Giving Wipe attack to lv2 as well
+ - NEW ATTACK : Wipe 10-2 arcane ranged +Enhanced
+This will make this unit be more useful againist very fire resistant units like Fire elementals and others. 
+Making this unit a better ranged support againist various type of units.
+
+Flesh Artisan
+ - Blood Boil damage from 8-3 to 7-3 (same as lv1)
+Do not underrate units that have good damage at both ranged and mele, specially if any of these are +magical.
+
+Being 9-3 mele and 7-3 +Magical oin ranged is still really fine, just that it's health is somewhat short for fighter role, BUT, its damages
+are clearly fine AND still has more health than a generic mage (apart of if strong trait can 18-2 drain backstab mele at nights)
+
+Sire price from 44g to 52g
+Methusalem prie from 70g to 77g
+
+Malborn
+it's intention is not to kill nor to steal the kills, apart that being 4 mele strikes with poison can bother a lot.
+ - Poisoned Knife damage from 4-4 to 3-4
+ 
+____________________________________________________________________________________________________________________________________
+
+EOM - Elementals
+Didn't see this one faction in really long in ageless. Let's do some performance updates.
+
+Razorbird/Thunderbird
+ - Fire resistance from 0% to 10%
+ 
+Earth elemental
+Basically this one is too tank for the low pricing it has. 50-60% defense available with 50% blade resistance and 60% to pierce.
+Surely, this is not fine.
+ - Mountains defense from 60% to 50%
+ - XP from 37 to 45
+
+Rock Golem
+ - Mountains defense from 60% to 50%
+ -- XP from 78 to 83
+ 
+Stone Titan
+ - Fist damage from 12-3 to 13-3
+ - Mountains defense from 60% to 50%
+
+Fire elemental XP from 34 to 42
+
+Living Furnace
+ - Fire claws damage from 9-3 to 14-2 (in order to diferenciate more from earth elementals) 
+ - Price from 26g to 28g
+
+Lava Beast 
+ - Fire claws damage from 13-3 to 19-2
+ - Price from 38g to 45g
+
+Fire Wisp
+ - Price from 34g to 32g
+ 
+Vine Beast 
+I disagree making this unit be 70% forest defense, but in compesation I want to make it more stable so it won't depend that much in 
+forest terrain.
+ - Pierce resistance from 20% to 30%
+ - Forest defense from 70% to 60%
+ - Cold resistance from 0% to 10%
+ - Swamp defense from 30% to 40%
+ - Swallow water defense from 20% to 30%
+ - XP from 36 to 42
+ - Price from 16g to 15g
+At being more in synergy with nature, isn't unlogical it has +10% water tiles defense than average units.
+ 
+Vine Tiger
+ - Health from 46 to 51
+ - Claws damage adjusted from 7-4 to 6-5
+ - Cold resistance from 0% to 10%
+ - Pierce resistance from 20% to 30%
+ - Forest defense from 70% to 60%
+ - Swamp defense from 30% to 40%
+ - Swallow water from 20% to 30%
+ - XP from 82 to 88
+
+Vine Monster
+ - Health from 55 to 62
+ - Claws damage adjusted from 10-4 to 8-5
+ - Thorns damage adjusted from 9-3 to 7-4
+ - Ensnare damage from 12-2 to 9-2
+ - Cold resistance from 0% to 10%
+ - Pierce resistance from 20% to 30%
+ - Fire resistance from -20% to -10% (lv3 bonus)
+ - Forest defense from 70% to 60%
+ - Swamp defense from 30% to 40%
+ - Swallow water from 20% to 30%
+ 
+Ice Crab
+Quite weak at its current status, let's make it somewhat worthy.
+ - Pierce resistance from 10% to 20%
+ - Fire resistance from -50% to -40%
+ - Arcane resistance from -10% to 10%
+ - Cold resistance from 90% to 80%
+ - Price from 24g to 27g
+ 
+Ice Shell
+ - Pierce resistance from 10% to 20%
+ - Fire resistance from -50% to -30% (+10% bonus for lv3)
+ - Arcane resistance from 0% to 10%
+ - Cold resistance from 90% to 80%
+ - Price from 35g to 45g
+
+Hopefully these resistances makes this unit more viable choice.
