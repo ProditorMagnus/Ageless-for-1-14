@@ -59,6 +59,7 @@ local message = {
             T.fire_event { name = "AE_show_changelog_menu" }
         }
     },
+    changelog("4.25"),
     T.option {
         message = "4.25 balance changes (3 messages)",
         T.command {
