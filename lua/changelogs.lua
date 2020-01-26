@@ -60,11 +60,12 @@ local message = {
         }
     },
     T.option {
-        message = "4.26 balance changes (3 messages)",
+        message = "4.26 balance changes (4 messages)",
         T.command {
             lua('wesnoth.wml_actions.message{speaker="narrator", message=wesnoth.read_file("~add-ons/Ageless_Era/changelog/4.26/a_balance_changes.txt")}'),
             lua('wesnoth.wml_actions.message{speaker="narrator", message=wesnoth.read_file("~add-ons/Ageless_Era/changelog/4.26/b_balance_changes.txt")}'),
             lua('wesnoth.wml_actions.message{speaker="narrator", message=wesnoth.read_file("~add-ons/Ageless_Era/changelog/4.26/c_balance_changes.txt")}'),
+            lua('wesnoth.wml_actions.message{speaker="narrator", message=wesnoth.read_file("~add-ons/Ageless_Era/changelog/4.26/d_balance_changes.txt")}'),
             T.fire_event { name = "AE_show_changelog_menu" }
         }
     },

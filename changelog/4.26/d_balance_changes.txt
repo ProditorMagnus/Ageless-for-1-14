@@ -1,0 +1,91 @@
+
+
+____________________________________________________________________________________________________________________________________
+
+ARCHAIC - Ancient Phantom
+This is mostly a mummy bandaid fix. Mummy spam is inevitable... and ensuring that mummy spam be strongly hit with these nerfs. 
+A faction is about USING a BUILD to have proper results NOT ABOUT SPAMMING a single line.
+
+Mummy
+Fixing bug at resistances
+ - Pierce/Impact resistances adjusted from -10% to +10% as expected and wanted.
+
+____________________________________________________________________________________________________________________________________
+
+Milenium - Forest Keepers
+Few readjustments, once again, of things that can be done even better of precious balance proposals.
+
+Noticing that whole faction is weak to arcane attack types, which means that agianist specific matchups of ageless, this faction losses
+except if overplaying the opponent ...
+
+Sprite / Faerie 
+ - Arcane resistance from -10% to 0%
+ - Faerie Price from 42g to 40g
+ 
+Sylvan Angel
+ - Arcane resistance from -10% to +10%
+ - Forest defense from 60% to 70% (same values as of lv1-lv2)
+ 
+Underbush Faerie
+This unit's magical weakness aren't fair or atleast aren't with the previous nerfs of mine... let's counter-nerf.
+ - Fire/Cold resistances from -10% to 0%
+ 
+Shadow Faerie
+Looking that actually this unit is somewhat low in dmgs, but with too abusable RPG potential. No modifications at the moment only pricement.
+ - Price from 46g to 40g
+ 
+Nightwood Faerie
+ - Forest Chill damage from 13-2 to 15-2 (it's just absurd that it only adquires +1 dmg on that attack on lv3)
+ 
+Apart that with this attack's buffs, the unit itself is weaker than it used to be, just taht only stronger forest chill attack.
+You're free to read AE 4.25 (b) balance changes to compare.
+
+Keeper 
+ - Health from 34 to 36
+
+Sylvan Guardian
+Concerning to the somewhat hard nerf to this unit, seems fair a XP buff to make lv3 be obtainable quicker.
+ - XP from 110 to 100
+ - Price from 42g to 37g
+ 
+Assaliant / Dauntless / Vengance
+ - Arcane resistance from -20% to -15% (I'ma try it, afterall, no arcane resistant units in the faction after sylvan guardian/god nerf)
+ - Blade resistance from 5% to 6% (to really help them absorb 1 less damage at strikes of 9 or more dmg)
+ - Fire resistance from -35% to -30% (for all level, as new value of lv3)
+ (standarization of fire weakness of -30% for all assaliant and level ups)
+
+ - Vengance movement from 5 to 6 
+ - Vengance's price from 47g to 51g
+
+Wouldn't agree at lowering arcane resistance in assaliant without testing them, but factional weaknesses are obvious, there are no
+unit that are tought to arcane attacks at all, so helping the no regen assaliant to take a little less damage seems harmless to be tried.
+
+Thorn Withc
+ - Health from 27 to 28
+ - XP from 41 to 40
+ - Village defense from 60% to 50% (same as flat)
+Not all factions have access to fire/arcane magical.
+
+Thorn Fury
+ - Health from 37 to 38
+ - Movement from 6 to 5
+ - Village defense from 60% to 50% (same as flat)
+ 
+Combines certain movility with tankyness and linebreaking potential, too much in a single unit.
+Apart that is only vulnerable to fire/arcane magical attacks because of it's higher than usual defenses.
+In case you don't have either fire/arcane attacks and specially if not magical, this unit causes a tons of havoc.
+Not all factions have fire/arcane magical attackers.
+
+Sylvan Wrath 
+ - Health from 47 to 48
+ - Thorn damage from 9-6 to 8-6
+ - Village defense from 60% to 50% (same as flat)
+Added this unit a 3-2 mele +first strike that can be upgraded in survivals, seems fair decreasing 1 dmg per ranged strike.
+
+Elder Bark 
+ - Crush damage from 16-2 to 15-2
+ - Rock damage from 12-1 to 10-1 (to be exactly between lv1 and lv3 ranged)
+This line gets resistances upgrades while leveing up, reason why lowered -1 mele damage to lv2 and lve3
+
+Sentry Bark 
+ - Crush damage from 21-2 to 20-2
