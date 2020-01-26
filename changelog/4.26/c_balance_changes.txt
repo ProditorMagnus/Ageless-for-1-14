@@ -1,0 +1,186 @@
+
+
+___________________________________________________________________________________________________________________________________
+ 
+FEUDAL - Clockwork dwarves
+These units have certain disbalances, adjusting.
+
+Iron Golem Soldier
+Minor nerfs, only to ranged at momment.
+ - Flash cannon damage from 13-1 to 11-1
+ - Price from 30g to 32g
+ 
+Goliath
+ - Flash Cannon damage from 19-1 to 16-1 and downgraded +Marskman to +Aimed (50% version marskman)
+ - Price from 67g to 64g
+ 
+Oiler 
+ - Fireball damage from 10-2 to 9-2
+ - Fire/Cold resistances from -10% to 0%
+
+Blazer
+ - Health from 59 to 60
+ - Blaze damage from 18-2 to 17-2
+ - Fire resistance from -10% to 20%
+ - Cold resistance from -10% to 0%
+ - Price from 61g to 54g
+ 
+Armored Mechanic
+Actually at this point, there is almost no reason to pick blazer right now, Armored mechanic used to have better resistances, heals+8 
+and loss of damage wasn't that significant. Lowering seriously mechanic's general damage output but at being somewhat acceptable.
+
+ - Blaze damage from 16-2 to 12-2
+ - Fireball damage from 12-2 to 7-4 (better ranged damage, but much worse RPG potential)
+ 
+General idea is that this unit has less raw damage than Blazer, but giving a 4 fire strikes at ranged if owning one of these. Thing that
+in very specific cases is more convenient than Blazer's 11-3 fireballs.
+
+Miasmist
+ - Health from 46 to 48
+ - Miasma damage from 7-3 to 6-3
+ - XP from 74 to 82
+ 
+Gas Baron
+ - Miasma damage from 9-4 to 8-4
+ - Price from 57g to 55g
+ 
+Marshall price from 29g to 34g
+Both marskman mele and +leadership aura in one unit.
+ 
+Triggerman / Gunner / Artillery
+ - Fire/Cold resistances from -10% to 0%
+ - Gunner health from 47 to 48
+ - Gunner price from 34g to 33g
+ - Artillery Price from 63g to 57g
+ 
+Wanderer
+ - Fire resistance from -10% to -15%
+ - Unwalkable defense from 60% to 0%
+ 
+Rambler
+ - Movement from 6 to 5
+ - XP from 80 to 86
+ - Fire resistance from -10% to -15%
+ - Unwalkable defense from 60% to 0%
+ - Price from 30g to 32g
+ 
+Itinerant
+ - Movement from 7 to 5
+ - Fire resistance from -10% to -15%
+ - Unwalkable movement cost from 3 to 99
+ - Unwalkable defense from 60% to 0%
+ - Price from 51g to 53g
+ 
+Steel Eagle
+ - Health from 39 to 42
+ - NEW ATTACK: Clockwork gun 7-1 pierce mele
+ - Clockwork gun damage from 5-7 to 4-6
+ - Fire resistance from -10% to 0%
+ - Price from 25g to 32g
+ 
+In a later review, will have a better look to wooden birds and steel eagles, just giving to lv2 a mele and decreasing the absurd potential
+of 5-7 with 9 movement, but, stabilizing unit's survivavility
+
+____________________________________________________________________________________________________________________________________
+
+FEUDAL - Orcish Knagates
+Buffs, this faction is actually seriously impopular because of being underpowered, even with my reworks.
+
+Hunter 
+ - Health from 26 to 28
+ - Swallow Water defense from 20% to 30%
+ - Mountains defense from 50% to 60%
+ (swamp defense should be 40% but actually is 30% , if possible find to fix that)
+ 
+Striker 
+Important thing of this unit is that as gobling, can adquire negative traits 
+(specially -1 mele damage per strike... which with backstab hits seriously hard... needs buffs)
+ - Knife (mele) attack will now have +First-strike (which is now explained by a modification in unit description)
+ - Swallow Water defense from 20% to 30%
+ - Mountains defense from 50% to 60%
+ (swamp defense should be 40% but actually is 30% , if possible find to fix that)
+ - Price from 22g to 24g
+ 
+Flanker
+ - Swallow Water defense from 20% to 30%
+ - Mountains defense from 50% to 60%
+ (swamp defense should be 40% but actually is 30% , if possible find to fix that)
+
+Icewind Herder
+let's try some buffs
+ - frost wind damage from 4-4 to 5-4
+ - frostbite damamge from 6-3 to 7-3
+ - XP from 50 to 49
+ 
+Outcast
+ - Health from 50 to 51
+ - Blade/Pierce/Impact resistances from -10% to 0%
+ 
+Pariah 
+ - blade/pierce/Impact resistances all adjusted to 0%
+ - Arcane resistance from 0% to 10%
+ - Cold resistance from 20% to 30%
+ 
+Icewind Drover
+ - XP from 100 to 88
+ - Price from 36 to 34
+ 
+Icewind Master 
+ - Blade resistance from 10% to 0%
+ - Impact/Pierce resistances from -10% to 0%
+
+Shieldbearer
+ - Shieldbash damage from 9-1 to 5-2
+ - Castle defense from 60% to 50%
+ This unit will always do more damage in retaliation than in offensive, but always in attacks of the same amount of strikes.
+
+Rigid
+ - Shieldbash damage adjusted from 14-1 to 9-2
+ - XP from 50 to 64
+ - Castle defense from 60% to 50%
+ XP increase is to make sure, this unit is not abusable in any game mode, by requiring the same amount of XP as of leveling up
+ a normal unit. 
+ 
+Stoic
+ - The unit no longer has +Steadfast (Doesn't even need it, with lv3 upgrades of resistances)
+ - NEW ATTACK: Kick 10-2 impact mele (this allow the unit to be somewhat useful on max level apart of being just a sponge of damage)
+ - Shieldbash damage from 16-2 to 13-2 and no longer has +Slows special.
+ - Castle defense from 60% to 50%
+ - Price from 41g to 44g
+ 
+Spearhead
+ - Flail damage from 9-2 to 10-2
+ - Impact resistance from 10% to 20% (bandaid fix to increase cost efficiency, will think later in something better)
+ - XP from 40 to 43 
+ - Price from 17g to 18g
+ 
+Better a more expensive Spearhead, but a more notisable one.
+ 
+Vanguard
+ - Flail damage from 10-2 to 12-2 
+ - Price from 36g to 34g
+ 
+Khan
+ - Flail damage from 13-2 to 15-2
+ - Impact resistance from 10% to 20%
+ 
+Warrior
+ - Blade resistance from 0% to 6% (will take 1 less damage from strikes of 9 or more)
+(Another quick bandaid fix for now, a later but better proposal will come for the next release)
+
+Bladesman
+ - Axe damage from 14-2 to 15-2
+ - Blade resistance from 10% to 20%
+ 
+Massif
+ - Axe damage from 14-3 to 15-3
+ 
+Spearman
+ - NEW ATTACK: Spear 6-1 pierce ranged
+ - Price from 26g to 28g (factional limitations, makes this unit more valuable)
+ 
+Skewer
+ - NEW ATTACK: Spear 9-1 pierce ranged
+ - Price from 44g to 48g
+
+____________________________________________________________________________________________________________________________________ 
