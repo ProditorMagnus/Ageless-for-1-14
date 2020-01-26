@@ -1,0 +1,8 @@
+Version 4.26:
+* Balance
+    * Clockwork dwarves, Khagnates, Forest Keepers
+* Bug Fixes
+    * Reverted "Weapon special events check if special is active"
+    * Union era dunefolk
+* Other
+    * Removed union era from units.wesnoth.org
