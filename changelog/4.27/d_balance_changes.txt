@@ -1,0 +1,713 @@
+
+Imperial - Sidhe
+Didn't think that this faction could cause a lot of havoc , specially at competitive RPG / Afterlife gameplay with the addition of XP
+mod. It's blatant that some of their units can be abused from their actual stats to do insane amount of damage or just to be 
+exceptional tanks with almost no counter at all.
+
+Hoarfroster
+ - Frost Wind damage adjusted from 3-7 to 4-5
+ 
+Snowdancer
+ - Frost wind damage adjusted from 4-8 to 5-6
+
+Blizzard Lord
+ - Frost Wind damage from 5-9 to 7-6
+ - Cold resistance from 20% to 30%
+ 
+Thunderblade 
+ - Sword damage from 9-5 to 8-5
+ 
+Tracker
+ - Spear (mele) damage from 6-3 to 5-3
+Preventing this unit being abusive 9-3 + poison at night if strong trait.
+
+Windrunner
+ - Spear (mele) damage from 9-3 to 8-3
+ 
+Warrior Spirit
+This unit is extremely unfair for other players at both games creepwars and afterlife, at having no drainer handicap and to scale too good
+with extra health points. At having magical on lv2 and lv3 ... certain things will be nerfed at here. 
+ - Health from 20 to 24
+ - Arcane resistance from -30% to -40%
+ - Physical resistances from 50% to 40%
+ - Fire resistance from 10% to 0%
+ - Cold resistance from 70% to 65%
+ - XP from 30 to 45
+ 
+A flat -55% resistance nerf between the 6 attack types.
+Fair point of floating swords is that they don't get ranged until lv4 and they're 40% defense at most common terrains.
+
+
+Ancestor
+ - Health from 28 to 33
+ - Regenerates changed to Selfheal(6)
+ - Requiem's +Magical changed to +Enchanted (always 70% --> 60%)
+ - Physical resistances from 50% to 40%
+ - Arcane resistance from -30% to -40%
+ - Fire resistance from 10% to 0%
+ - Cold resistance from 70% to 65%
+ - XP from 80 to 85
+ - Price from 44g to 42g
+ 
+I just completely disagree at over-rewarding people that only knows any unit in an existing era. Decreasing the advantage at knowing
+specific units that are simply too difficult to be countered for certain factions.
+ 
+
+Forefather
+ - Health from 40 to 48
+ - Regenerates changed to Selfheal(6)
+ - Requiem's +Magical changed to +Enchanted (always 70% --> 60%)
+ - Arcane resistance from -30% to -40%
+ - Physical resistances from 50% to 40%
+ - Fire resistance from 10% to 0%
+ - Cold resistance from 70% to 65%
+ - XP from 80 to 85
+ - Price from 74g to 63g
+
+
+_____________________________________________________________________________________________________________________________________
+
+
+RE Ships
+Considered that all these ships are akward to use except the elvish boat, but all of them will be buffed considering their obstinant
+movetype, specially the larger ships that actually are terrible at being forced to have maximun terrain defense of 40%
+
+
+movement_type=AE_RHY_ship
+ - Castle movement cost from 5 to 3
+ - Castle defense from 10% to 20%
+
+These changes to Ships ARE NOT PRESENT in the sent file, but it's a proposal to make them somewhat more viable in maps like orocia.
+As well making them somewhat more smooth to use.
+Sometimes, realism has huge consecuences at gameplay, this time will focus more on gameplay over realism.
+
+
+
+ [Regis]
+
+Frigate
+ - Health from 48 to 52
+ - Movement from 6 to 7
+ - Blade/Cold resistance from 10% to 15%
+ - Pierce resistance from 40% to 45%
+ 
+Galleon
+ - Health from 55 to 63
+ - Movement from 7 to 8
+ - Blade/Cold resistance from 10% to 15%
+ - Pierce resistance from 40% to 45%
+ 
+ 
+ [Marashy / Trarashy]
+
+Cog
+ - Heañth from 38 to 40
+ - Movement from 6 to 7
+ 
+Schooner
+ - Health from 44 to 50
+ - Movement from 7 to 8
+ - Ballista damage from 6-4 to 5-5
+ 
+
+ [Dark Elves]
+
+Elvish Boat
+ - Health from 36 to 38
+ - movement from 6 to 7
+ - Armed crew damage from 8-1 to 9-1
+ 
+Elvish Ship
+ - Health from 44 to 50
+ - Movement from 7 to 8
+
+
+ [Dardo] 
+ 
+Galley
+ - Health from 44 to 47
+ - Movement from 6 to 7
+ - Blade/Cold resistance from 10% to 15%
+ - Pierce resistance from 40% to 45%
+ 
+Triremme
+ - Health from 49 to 57
+ - Movement from 7 to 8
+ - Armed Crew damage from 9-2 to 10-2
+ - Blade/Cold resistance from 10% to 15%
+ - Pierce resistance from 40% to 45%
+ 
+Rhinoreme
+ - Health from 49 to 60
+ - Movement from 8 to 9
+ - Armed Crew damage from 10-2 to 12-2
+ - Blade/Cold resistance from 10% to 15%
+ - Pierce resistance from 40% to 45%
+ - Impact resistance from 0% to 10%
+ 
+ 
+ 
+ [Chevalier]
+ 
+Caravel
+ - Health from 46 to 49
+ - Movement from 6 to 7
+ - Blade/Cold resistance from 10% to 15%
+ - Pierce resistance from 40% to 45%
+ 
+Corvette
+ - Health from 50 to 60
+ - Movement from 7 to 8
+ - Blade/Cold resistance from 10% to 15%
+ - Pierce resistance from 40% to 45%
+ 
+ 
+_____________________________________________________________________________________________________________________________________
+
+RE - Dwarves
+Apreciable buff to Dwarvish Scorpio/Ballistas while adjusting dwarven spirits to a more similar context as of floating swords.
+
+
+Dwavish Scorpio
+Idea is simple, giving a bonus mele attack, an always 1 strike one that has counter (so it won't be instantly deleted by zerkers)
+Also increasing the amount of situations this unit can really work well
+ - Health from 60 to 66
+ - New Attack: Ballista 13-1 +defend-only +first-strike +counter [+UNUPGRADABLE(1) not yet implemented]
+ - Hidden Attack: Old 25-1 (-10% accuracy) attack will not be showed? considering about removing the attack? "range" doesn't work
+                  and cannot be used by AI at all.
+ - Ballista (ranged) will now have +Counter (at least 60% in retaliation)
+ - Arcane resistance from 50% to 60%
+ - Cold resistance from 10% to 15%
+ - Fire resistance from -40% to -50%
+ - Blade resistance from 0% to 10%
+ - Impact resistance from 10% to 15%
+ - Pierce resistance from 40% to 45%
+ - XP from 160 to 136
+ - Price from 53g to 55g
+ - Role adjusted to archer (from fighter)
+It will not be defeated by lv1 berserkers now.
+
+
+Dwarvish Ballista 
+ - Health from 75 to 88
+ - New Attack: Ballista 19-1 +defend-only +first-strike +revenge [+UNUPGRADABLE(1) not yet implemented]
+ - Hidden Attack: Old 35-1 (-10% accuracy) attack will not be showed? considering about removing the attack? "range" doesn't work
+                  and cannot be used by AI at all.
+ - Ballista will now have +Aimed (50% masrskman) and +Counter (at least 60% chance to hit on retaliation)
+ - Arcane resistance from 50% to 60%
+ - Cold resistance from 10% to 15%
+ - Fire resistance from -40% to -50%
+ - Blade resistance from 0% to 10%
+ - Impact resistance from 10% to 15%
+ - Pierce resistance from 40% to 45%
+ - Price from 63g to 72g
+ - Role adjusted to archer (from fighter)
+ 
+ 
+Dwarvish Spirit 
+I'm nerfing this unit by a more interesting way. Will increase slightly it's physical resistances but will decrease it's defenses all to -10%.
+ - Physical resistances from 50% to 55%
+ - Arcane resistance from -10% to -30%
+ - Fire resistance from 10% to 15%
+ - Cold resistance from 70% to 60%
+ ---> All terrain defenses will be lowered to 40% (except these that will be marked to 50%)
+      - Castle defense lowered to 45% (undecited if 40% or 50% were more fair, so I left to 45%)
+      All other terrains will be adjusted 50% [hills/mountains/caves]
+ - XP from 33 to 43
+ 
+ 
+Dwarvish Ancestor
+ - Movement from 6 to 5
+ - Physical resistances from 50% to 55%
+ - Arcane resistance from -10% to -30%
+ - Fire resistance from 10% to 15%
+ - Cold resistance from 70% to 60%
+ ---> All terrain defenses will be lowered to 40% (except these that will be marked to 50%)
+      - Castle defense lowered to 45% (undecited if 40% or 50% were more fair, so I left to 45%)
+      All other terrains will be adjusted 50% [hills/mountains/caves]
+ - XP from 96 to 100
+ 
+ 
+Dwarvish Forefather
+ - Movement from 7 to 6
+ - Physical resistances from 50% to 55%
+ - Arcane resistance from -10% to -30%
+ - Fire resistance from 10% to 15%
+ - Cold resistance from 70% to 60%
+ ---> All terrain defenses will be lowered to 40% (except these that will be marked to 50%)
+      - Castle defense lowered to 45% (undecited if 40% or 50% were more fair, so I left to 45%)
+      All other terrains will be adjusted 50% [hills/mountains/caves]
+ - XP from 96 to 100
+ - Price from 51g to 55g
+ 
+_____________________________________________________________________________________________________________________________________
+
+ELE - Centaurs
+All Eternity Era units will be nerfed because their balance was blatantly done to be above default standards (thing that 
+the era's author was advised that Ageless would gradually be more default-like balance... and that I was personally not agree
+with his "it's ageless, they can be op lol")
+
+At least, can say that of all of ELE's faction this one is actually the least OP.
+
+
+Angelician XP from 36 to 43
+
+Arch Priestess
+ - Health from 35 to 44 (did not gain any extra HP at leveling before)
+ - Light sparks damage from 4-6 to 5-6
+ - {AE_ELE_WEAPON_SPECIAL_HOLY} will now affect bonus damage from 50% to 20% againist undead.
+   Such special that gives extra damage againist specific enemies is unfair for the other side units. Specially if given upgrades to dmg.
+ - Price from 42g to 48g
+
+Archer's XP from 40 to 44
+Actually a very cost efficient archer. Lacking limitations of movilty by just 2 more gold and optional 60% def at forest.
+
+Fighter
+ - Sword damage from 5-3 to 6-3
+ - XP from 33 to 40
+
+Warrior XP from 60 to 67
+
+Spear Fighter XP from 60 to 72
+Helpful auras units usually demand more XP to be adquired.
+
+Centaur Captain's spear (ranged) damage from 9-2 to 8-2
+It's a +20% damage aura unit that has nothing else than 60 HP and 7 movement and quite decent mele, pretty much useful.
+
+Patrol XP from 36 to 39
+
+Chaser
+ - Chain (ranged) damage from 7-2 to 6-2
+ - XP from 60 to 72
+ - Price from 29g to 32g
+ 
+Retreiver
+Likely slow at both mele and ranged isn't enough OP... lol
+ - Chain Whip damage from 12-3 to 11-3 and no longer has +First-strike
+ - Leather Whip damage from 8-3 to 5-3
+ - Blade resistance from 10% to 0%
+ - Impact resistance from 20% to 10%
+ - Pierce resistance from 0% to -10%
+
+
+Guard 
+ - Glaive damage from 16-3 to 15-3
+ - Fist damage from 26-1 to 14-2 and will have +Unupgradable(2)
+ - Spear damage from 15-1 to 12-1 and will no longer be +first-strike
+ 
+Pegasus 
+ - Spear (arcane) will now have +First-Strike (will help at certain countering to Skeletical Spear fighter)
+ - XP from 40 to 43
+(giving +First-strike to an attack that can only be used offensively isn't a notisable bonus, but helps againist a specific unit that
+ is present in its corresponding era)
+ 
+Centinel
+ - Spear (arcane) will now have +First-strike
+ - XP from 70 to 80
+ 
+ 
+Centaur Guardian
+Bugged resistances (lower than of lv2?) and missing marskman on divine spear, basically bugged in it's purpose.
+ - Health from 72 to 64
+ - Divine Spear will now have +Marskman +First-strike (it used to not have lv2's marskman lol)
+ - Shield damage from 11-3 to 8-4
+ - Javeline damage from 9-2 to 6-3
+ - Blade resistance from -10% to 0% (no longer bugged, but nerfed if ghype has applied correctly the resistances lol)
+ - Impact resistance from -20% to 20%
+ - Switched fire resistance from 10% to cold 10%
+ - Pierce resistance from 0% to -10% (fixed the bugged resistances at impact/blade, seems fine nerfing pierce lol)
+ - Price from 53g to 55g
+ ----- Decided to add more strikes but lowering damages at the other 2 attacks in order to make the unit scale worse with extra strikes
+       if used in XP mod. Decreasing reward of giving extra strikes in this unit.
+ I'm not changing this unit before testing it or viewing others testing it.
+ 
+ 
+Divine
+ - Divine Spear damage from 13-3 to 11-3 but now has +First-Strike and +Aimed (50% version marskman)
+ - Divine Spear (pierce) damage from 15-3 to 13-3 and will now have +First-Strike and its +Marskman lowered to +Aimed.
+ - Spear (ranged) damage from 12-1 to 7-2
+ - Price from 48g to 51g
+ 
+ 
+Seductress
+ - Health from 31 to 32
+ - XP from 40 to 45
+ - Price from 14g to 15g
+ 
+Javelinier 
+ - XP from 60 to 65
+ - Price from 31g to 29g
+
+Spearmaiden
+ - Shield's resistant value from 4 to 3
+ - NEW ATTACK: Shield 9-2 impact +Defend-only
+ 
+_____________________________________________________________________________________________________________________________________
+
+ELE - Fallen
+I'm lowering upcoming values of consume ratio, because it's what make fallen be OP.
+No, it's not balanced how units end having more health than maximun health too often at adquiring unlimited amounts of health.
+Various max Lv3 absurdly low XP to reheal... tamer and level up scream being mele instead of ranged lol best errors.
+
+Will focus in few standard values.
+ ** 0.125 (Charge attacks only)
+ ** 0.16 (Fallen's Lord ranged)
+ ** 0.17 (most common)
+ ** 0.185 (slightly improved consume)
+ ** 0.192 (improved consume)
+ ** 0.20 (only in Lv1 Fallen Enforcer)
+
+Fallen Enforcer
+ - Ageless dagger consume from 0.2 to 0.17
+ - Ageless dagger (poison) consume from 0.25 to 0.2
+ 
+ 
+Fallen Infiltrator
+ - Ageless dagger consume from 0.25 to 0.17
+ - Ageless dagger (poison) from 0.25 to 0.17
+ - XP from 56 to 70
+ 
+Fallen Liquidator
+ - Health from 50 to 52
+ - Ageless dagger consume from 0.25 to 0.17
+ - Ageless dagger (poison) damage from 7-5 to 6-5 and consume from 0.33 to 0.193
+ 
+ 
+Fallen Asperser
+ - Energy Blast adjusted from 6-4 to 5-5 , +Magical lowered to +Enchanted (always 60% to hit) 
+                                           +Consume lowered from 0.2 to 0.17
+ - XP from 62 to 74
+ - Price from 40g to 37g
+ The extra strikes but the lower cth is a smart nerf. Changing by not much its flat damage but worsening a lot any upcoming upgrade of damage.
+ 
+ 
+Fallen Inquisitor
+ - Health from 39 to 52 (lol , it had less HP than lv2...)
+ - Staff damage from 7-2 to 8-2
+ - Energy Blast adjusted from 8-4 to 7-5 , +Magical lowered to +Enchanted
+                                         , consume lowered from 0.2 to 0.17
+ - AMLA XP from 62 to 150 (grave problem there)
+ - Price from 30g to 48g
+ 
+
+Fallen Fighter
+ - Health from 32 to 34
+ - Ageless blade consume from 0.2 to 0.17
+
+Fallen Slayer 
+ - Health from 42 to 47
+ - XP from 59 to 72
+ - Price from 34g to 32g
+ 
+Fallen Decapitator
+ - Health from 51 to 54
+ - Ageless blade consume from 0.2 to 0.17
+ - AMLA XP from 59 to 150
+ - Price from 33g to 51g
+ 
+ 
+Fallen Revenger 
+ - Health from 40 to 45
+ - Ageless blade consume from 0.33 to 0.185
+ - Ageless blade + Flail consume from 0.4 to 0.193 (This is an HUGE nerf to a BROKEN attack)
+ - Scream damage from 8-2 to 5-3
+ - XP from 50 to 70
+ 
+Fallen Purgator
+ - Health from 55 to 60
+ - Ageless blade consume from 0.33 to 0.193
+ - Ageless blade + flail consume fro 0.5 to 0.193
+ - Scream damage from 12-2 to 7-3
+ - Price from 45g to 51g
+ 
+
+Fallen Rider
+ - Ageless blade damage from 10-2 to 11-2 and consume lowered from 0.25 to 0.185
+ - XP from 47 to 52
+
+Fallen Knight
+ - Ageless blade damage from 12-2 to 14-2 and consume from 0.25 to 0.185
+ - Ageless blade consume from 0.15 to 0.125
+ - Scream damage from 8-2 to 6-2
+ - XP from 80 to 86
+ 
+Fallen Lord
+ - Ageless blade (no charge) will now be +cosnume 0.185 instead of specialess (possibly autor misstaken at coding this without consume)
+ - Ageless blade (charge) damage from 14-3 to 13-3 and +consume lowered to 0.193 (from 0.33)
+ - Scream damage from 10-2 to 8-2 and consume lowered from 0.2 to 0.16
+ 
+Scorch King
+ - Ageless blade consume from 0.33 to 0.185
+ - Scream damage from 10-2 to 8-2
+ - Fire resistance from -20% to 0%
+ - Cold from -10% to -30%
+ 
+Fallen shieldbearer
+find kinda useless the shield attack on lv2, will give it +Resistant(1)
+ - Health from 50 to 52
+ - Shield now has +Resistant(1) (this attack when used offensively received -1 damage per strike)
+ - XP from 60 to 69 
+ 
+Fallen ShieldMaster
+Lowering defenses for more fairness in competitive PvP gameplay, this unit can prevent a lot of damages taken. 
+ - Shield will now have +Resistant(1)
+ - Cold resistance from -10% to -15%
+ - Village/Mountain defenses lowered from 60% to 50%
+ - Hills/Forest defenses from 50% to 40%
+ - Frozen defense from 30% to 20%
+ 
+Fallen Master
+ - Health from 62 to 64
+ - Mace damage from 10-4 to 9-4
+ - Meteorite damage adjusted from 6-5 to 7-5 but +Magical downgraded to +Enchanted (always 60% chance to hit)
+ 
+Fallen Overlord
+ - Health from 78 to 80
+ - Price from 58g to 72g
+ 
+Fallen Supreme Lord
+ - Health from 90 to 100
+ - Death mace damage adjusted from 14-4 to 15-4
+ - Price from 75g to 93g
+ 
+Fallen Tamer
+ - Swallow value lowered from 6 to 4
+ - Tail damage from 15-2 to 14-2
+ - Scream is no longer mele! now will be ranged!
+ - Scream damage from 8-1 to 6-1
+ - XP from 65 to 80
+ 
+Fallen Beast
+Huge nerf to terror aura because otherwise, it's too overpowered...
+ - {ABILITY_TERROR_LEVEL_3} lowered to {ABILITY_TERROR_LEVEL_1}
+ - Swallow value lowered from 8 to 5
+ - Scream is no longer mele! now will be ranged!
+ - Scream damage from 12-1 to 9-1
+ - XP from 90 to 120
+ - Price from 45g to 54g
+ 
+Fallen DragonRider
+ - {ABILITY_TERROR_LEVEL_3} lowered to {ABILITY_TERROR_LEVEL_2}
+ - Hardlanding value lowered from 20 to 15
+ - Health from 81 to 86
+ - Swallow value lowered from 10 to 6
+ - Tail no longer has +Slow but will now have +Stun
+ - Scream is no longer mele! now will be ranged!
+ - Scream damage from 16-1 to 12-1
+ - Price from 60g to 75g
+ 
+
+_____________________________________________________________________________________________________________________________________
+
+ELE - Horned Skeletons
+
+Corpse
+ - Health from 22 to 21 
+ - Bone fist damage from 6-2 to 5-2
+ - Blade resistance from 40% to 30%
+ - Cold resistance from 60% to 50%
+ - Fire/Impact resistance from -20% to -30%
+ - Pierce resistance from 60% to 45%
+ - XP from 24 to 29
+There is no problem with recruited skeletons, PROBLEM IS plagued ones. Basically, nerfing so hard the swarm of bones.
+
+
+Corpse Fighter 
+ - No longer has +Amputatation!
+ - Dagger damage adjusted from 9-3 to 7-3
+ - Severed head damage adjusted from 7-1 to 4-2 +First-strike (short range throw lol)
+ 
+Corpse Amputator
+ - Health from 44 to 44 (-20% damage aura, is a good reason to nerf HP)
+ - Severed head damage adjusted from 14-1 to 7-2 +First-strike
+ - XP from 60 to 85
+ - Price from 25g to 30g
+ 
+
+Corpse Eliminator
+ - Severed head damage from 17-1 to 9-2 +first-strike
+ - NEW ATTACK: Severed Head 8-1 impact ranged
+ - AMLA XP from 71 to 150
+ - Price from 31g to 45g
+ 
+Corpse Mage 
+ - Heañth from 30 to 29
+ - XP from 40 to 46
+ - Cost from 15g to 17g
+ 
+Corpse Burner 
+ - Health from 42 to 40
+ - XP from 50 to 72
+ - Price from 25g to 30g
+
+Corpse Inferno
+ - Firetouch damage from 12-2 to 10-2
+ - Fire resistance from 40% to 30%
+ - AMLA XP from 50 to 150
+ - Price from 25g to 50g
+
+
+Coprse Bone Shooter 
+ - Health from 43 to 42
+ - Bow damage adjusted from 6-4 +Marskman +Fearles (+25% dmg at night but -25% at day) to 9-3 +Nighteye (Marskman but only in night)
+ - XP from 35 to 70 (Ghype setting Lv1 XP value in a lv2 .__. ...)
+ - Price from 25g to 30g
+ 
+Corpse Headhunter
+ - Health from 53 to 52
+ - Bow damage from 8-4 +Fearless (wut, it lost the lv2 marskman?) to 8-5 +Aimed (50% marskman) +Nighteye (60% marskman on night)
+ - Price from 25g to 47g
+
+
+
+Skeletal Witch's Fist damage from 4-2 to 3-2
+Skeletal Sorceress -- XP from 72 to 80
+Skeleal Maistrese -- Price from 50g to 54g
+
+
+Lich Adept
+It's cost efficiency is just absurd, has tons of bulkyness and somewhat decent damage at both mele and ranged, even at being
+a much better choice than Skeletal Witch in terms of cost efficiency. It does even have 6 movement and 35 HP...
+ - Chillwave is now +Enchanted (always 60% hit chance)
+ - XP from 34 to 42
+Giving it a fair margin to still be "stronger" than it's intended to be, but it was really necessary to slightly nerf it.
+
+
+Lich Lord
+ - Health from 48 to 45
+ - XP from 64 to 80
+ - Price from 32 to 36 (+3g because of lich lord special)
+ 
+Lich King 
+ - Health from 60 to 54
+ - XP from 105 to 117
+ - Price from 50g to 55g
+ 
+Lich Overlord price from 65g to 72g
+
+Lich Underlord 
+ - necro sword damage from 7-5 to 6-5 (will no longer be 9-5 at night)
+ - XP from 55 to 80
+ - Price from 32g to 36g
+ 
+Lich Tyrant 
+ - Health from 50 to 52
+ - necrosword damage from 10-5 to 8-5 and no longer has +Counter (defensive marskman)
+ - Corruption damage from 11-2 to 12-2
+ - Price from 32g to 55g
+
+Skeletal Creep
+ - Health from 33 to 32
+ - XP from 35 to 39
+ - Price from 17g to 18g
+
+Skeletal Viper
+There is a lot of complaints about this unit, specially because of the fact of having backstab in a somewhat weak ranged, special that
+by most users is not well seen... giving a slight buff to make it more worthy. 
+ - Claws damage from 8-3 to 7-3
+ - Chillwave now has +Aimed (50% version of marskman)
+
+Horse Rider price from 16g to 17g
+Horse Fighter XP from 85 to 90
+
+Skeletal Mage Rider
+Skeletal Mage Knight's Scyche damage from 17-2 to 16-2
+ 
+Skeletal Spear Fighter's XP from 35 to 38
+
+Skeletal Guard
+ - Health from 50 to 52
+ - Spear damage from 11-3 to 10-3
+ - Impact resistance from -5% to -10%
+ - Cold resistance from 30% to 40%
+ - Blade from 40% to 45%
+ - Price from 39g to 35g
+ - Attempted to give them a description :)
+ 
+Skeletal Fortress
+ - bloody spear (pierce) name changed to bloody halberd.
+ - Halberd damage adjusted from 14-3 to 17-2
+ - Javelin damage from 11-2 to 9-2
+ - Impact from 10% to 0%
+ - Blade resistance from 40% to 45%
+ - Pierce resistance from 60% to 65%
+ - Cold resistance from 20% to 30%
+ 
+_____________________________________________________________________________________________________________________________________
+
+ELE - Vikings
+Certain adjustments, some standarization will be done.
+Viewing these vikings and centaurs, was pretty unfair for both of them being in the same era againist the more OP fallen and skeletons lol
+
+Jagare XP from 40 to 43
+Snikskytter XP from 75 to 80
+
+Skarpskytter
+ - Marskman-defense's name adjusted to +Counter (functionally this doesn't change the unit)
+
+Ster XP from 70 to 85
+
+Lendrs XP from 38 to 43
+Thane XP from 60 to 85
+Hersir cost from 50g to 52g
+
+Jarl 
+ - Health from 64 to 62
+ - XP from 92 to 143
+ - Price from 45g to 54g
+ 
+High King
+ - Health from 70 to 77
+ - Price from 52g to 70g
+ This is done mostly to be a better wave unit in last orocia's wave. seems fair after he needing more XP to be obtained.
+ 
+Oks Kriger's XP from 32 to 40
+
+Stor Oks
+ - Shield now has +Resistant(1) -when used offensively this unit takes 1 less damage per enemy strike-
+ - XP from 55 to 70
+ - Price from 28g to 30g
+
+Okse Skjold
+ - Shield now has +Resistant(1) -when used offensively this unit takes 1 less damage per enemy strike-
+ - Price from 38g to 46g
+ 
+ Sverd Kriger's XP from 32 to 38
+ 
+ Stor Sverd
+ - XP from 55 to 72
+ - Price from 28g to 29g
+ 
+ Sverd Skjold 
+ - Shield now has +Resistant(1) -when used offensively this unit takes 1 less damage per enemy strike-
+ - Price from 38g to 46g
+ 
+ Spyd Kriger's XP from 32 to 40
+ 
+ Stor Spyd
+ - Shield now has +Resistant(1) -when used offensively this unit takes 1 less damage per enemy strike-
+ - XP from 55 to 64
+ 
+ Spyd Skjold 
+ - Shield now has +Resistant(1) -when used offensively this unit takes 1 less damage per enemy strike-
+ - Price from 39g to 44g
+ 
+Huskarl's price from 35g to 57g
+Radningar XP from 65 to 71
+Merki's price from 45g to 48g
+
+Viking Skuldelev's XP from 35 to 42
+
+Viking Oseberg
+ - Armed crew damage from 5-4 to 6-3
+ - Archers damage from 8-4 to 7-4
+ - XP from 50 to 70
+ 
+Viking Gokstad 
+ - Archers damage from 10-4 to 9-4
+ - XP from 180 to 159
+I think that I will see very few of these being leveled to lv4, will be really weird viewing someone getting the lv4 of this.
+ 
+Viking Roskilde
+ - Health from 68 to 75
+ - Price from 62g to 65g

@@ -1,0 +1,154 @@
+
+This list will include general EOS balancing and a part of pending Imperial Era review.
+
+Will take a more focused view in Orcish Gladiators faction later, that needs special caring considering it's the actual faction with most
+cost efficient lv0's and to be honest, most likely the most interesting faction from that era.
+
+Will later see Issaelf faction, they share animal folder with Aredian's falcons, no problem viewing them on 4.28 ...
+
+___________________________________________________________________________________________________________________________________________
+
+
+EOS - Eltireans
+Some slight adjustments.
+
+Lightbringer --- price from 40g to 34g
+
+Crusher
+ - Stunstrike damage from 16-1 to 14-1
+It used to not have impact resistances, now, in consideration of it's +slows its damage at slowing attacks will be lowered at lv2/lv3.
+
+Destroyer
+ - Stunstrike damage from 22-1 to 19-1
+
+Tempress (coment)
+Strong Lady'O'War can be smartly leveled up to be 18-3 backstab at daytime. 
+ 
+Siren
+ - Crossbow damage from 6-5 to 5-5 considering it has 5 poisoning strikes.
+ 
+Fury 
+ - XP from 80 to 76
+ - Price from 35g to 34g
+ 
+Sky Captain
+ - Cold/Blade resistances from 0% to 10%
+ - XP from 150 to 140
+ - Price from 48g to 54g
+ 
+Sky Lord
+ - Blade resistance from 0% to 20%
+ - Pierce/Cold/Impact resistane from 0% to 10%
+ - Price from 65g to 70g
+ 
+___________________________________________________________________________________________________________________________________________
+
+EOS - Eventide
+
+Mariner --- Price from 28g to 26g
+
+Navigator
+ - Forest/Hills/Fungus/Cave movement cost from 3 to 2
+Basically, this unit has lv2 damages, no resistances, just certain swiftness at aquatic tiles. Let's remove handicap at continental terrains.
+
+___________________________________________________________________________________________________________________________________________
+
+EOS - Free Saurians 
+
+Saurian soulmage
+ - Cold resistance from 40% to 20% (-20% to +20% in a single advancement is a lot)
+ - Price from 40g to 38g
+
+Saurian Shockfrost
+ - Cold resistance from 40% to 30%
+ - XP from 100 to 130 (come on it's lv3 to lv4...)
+ - Price from 40g to 48g
+(They have battle tutors, it's okey)
+
+Saurian Mystic
+ - Fire resistance from -10% to 0%
+
+___________________________________________________________________________________________________________________________________________
+
+EOS - Minotaurs
+
+Mystic 
+ - Staff damage from 9-3 to 7-3
+ - Mountains defense from 70% to 60%
+ - Price from 55g to 46g
+They do not need that 9-3 mele ... it's too abusable...
+
+Slayer
+ - Ranged damage from 8-2 to 7-2
+
+Executioner
+ - Ranged damage from 9-3 to 7-3
+If it didn't have poison on mele, wouldn't be of much bother that ranged damage...
+
+Overlord
+ - Crossbow damage from 8-4 to 7-4
+ 
+Gnoll and advancements --- arcane resistance from 0% to 10%
+
+___________________________________________________________________________________________________________________________________________
+
+Imperial - Aredians
+Some buffs and fair pricement for lv3...
+Faction that used to have as only strength high lv1 damage, but lower HP on lv2/lv3 ... 
+and no damage rewards at higher leves (apart of feather bows and Arrow Winds)
+All pricement are all better, cannot be worse than their previous values...
+
+Lv2 reprices only
+Mounted Warrior --- price from 48g to 40g
+Chief --- price from 34g to 36g
+
+Lv3 reprices only
+Arrow Wind --- Price from 84g to 55g
+Warlock --- Price from 104g to 57g
+Warlord --- Price from 68g to 57g
+Horse Master --- Price from 81g to 60g
+Slayer --- Price from 78g to 55g
+
+Bowknight
+ - HP from 37 to 42
+ - Price from 32g to 36g
+ 
+Bowmaster
+ - HP from 45 to 52
+ - Price from 45g to 51g
+
+Boltrider 
+ - HP from 35 to 38
+ - Price from 30g to 36g
+
+Horse Marskman 
+ - HP from 42 to 47
+ - Price from 45g to 54g
+
+
+Falcon Lord 
+ - HP from 25 to 26
+ - NEW ATTACK: Claws 3-3 +Aimed (50% version of marskman)
+ (Attack exists, but lacks of any animation nor sounds)
+ - Fire resistance from -10% to 0%
+So they can do something else appart of charing at their MAX LV1 level... somewhat viable with upgrades in orocian/RPG games.
+ - Price from 20g to 15g
+
+Wanderer
+ - Blade resistance from -30% to -20%
+
+Hero
+ - HP from 48 to 51 (too low extra HP during advancement)
+ - Blade resistance from -30% to -20%
+ - Price from 76g to 52g
+
+Battlear
+ - Movement from 4 to 5 (as of lv2)
+ - Price from 68g to 54g
+
+Hunter
+ - HP from 46 to 48
+ - Price from 39g to 29g
+
+___________________________________________________________________________________________________________________________________________
+
