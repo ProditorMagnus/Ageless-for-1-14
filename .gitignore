@@ -42,3 +42,4 @@ Icon
 *.preprocessed.cfg
 
 .vscode
+.idea

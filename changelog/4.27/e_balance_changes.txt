@@ -1,0 +1,648 @@
+ 
+_____________________________________________________________________________________________________________________________________
+
+EoF - Brungars
+An apreciable revision to brungars, fixing few not so fine details at here.
+
+Undecited Student
+A lv0 that is unnecesairly too good... a lv0 that is 7-2 which is already lv1 damage and exagerated +Marskman on ranged.
+ - Fist damage from 7-2 to 6-2
+ - Rock damage from 7-1 to 6-1 and +Marksman lowered to +Aimed (50% marksman)
+ - XP from 20 to 25
+ 
+Ocean Apprentice 
+ - Fist damage from 7-2 to 6-2
+ - Price from 18g to 19g (just in case if Era of Heroes)
+ 
+Ice Apprentice
+It's indebatible that this option is much worse as unit than Wave rider patch. Will do some slight changes.
+ - Ice hammer from 5-3 to 6-3
+ - Cold resistance from 40% to 20%
+ - Fire resistance from -20% to 0%
+ 
+Crystal Master 
+ - Cold resistance from 40% to 30%
+ - Fire resistance from -20% to 0%
+ 
+Toxin Specialist
+ - Toxic cloud damage from 8-4 to 7-4
+ 
+Herbalist 
+ - Health from 37 to 35
+ - Movement from 4 to 5
+ 
+Practitioner
+ - health from 50 to 46
+ - Movement from 4 to 5
+ - Price from 70g to 54g
+ 
+ --> Crab's health from 30 to 32 (as monster cannot gain traits at all)
+on a later revision maybe for upcoming 4.28 I would like to change the race of various animals that are actually considered "monsters"
+to "animal" race.
+ 
+_____________________________________________________________________________________________________________________________________
+
+EoF - Nordhiris
+Saw very recently very specific situation of underpowered at here, I'm buffing only these few cases.
+
+Northern Archer 
+Actually a very cost ineficient archer, I'm buffing it.
+ - Health from 29 to 30
+ - Movement from 5 to 6
+ - XP from 44 to 42
+
+Northern Strongbow
+ - Movement from 5 to 6
+ 
+Northern Greatbow
+ - Movement from 5 to 6
+ - Price from 44g to 46g
+ 
+Northman 
+ - Village/Mountain defense from 50% to 60%
+The only Nordhiris unit that will have 60% village/Mountain defense, otherwise this unit is somewhat too cost ineficient. 
+ 
+Northguard
+... a lv2 with only 6-4 blade mele and 5-3 pierce ranged , basically it has (almost) lv1 damages unlike the other advancement.
+ - Bow damage from 5-3 to 6-3
+ - Village/Mountain defense from 50% to 60%
+ 
+Slaughterer
+This is at most a buff test. Slaughterer has stats of a lv2 that can advance to lv3 ... will give a conditional buff.
+ - Now has +Forest-Keeping (this unit will heal+4 per turn if on forest tile)
+ - Mountains movement cost from 3 to 2
+Not that much, nordhiris has easy access to heal+4 units, but this gives a little more of flexibility to slaughterer, specially if he
+far of his alies; which additionally follows his description.
+ 
+Poacher & Prowlers
+Guessed they were too weak, but realized they level up really fast, not doing changes. They can become 7-6 (8-6 if lv3) with no real
+difficulty, which is only means an early game heavy damage dealer. Also their lower tier poison least can troll regen or healing in villages.
+
+Wildheart / Feralheart / Wolfheart
+ - Forest defense from 50% to 60%
+ - Feralheart's price from 38g to 41g
+ - Wolfheart's price from 55g to 63g
+This option is on survivals considerably weaker than the other patch, also leadership and better resistances are more notisable. So I'm buffing.
+
+Nothernfighter 
+ - Price from 20g to 26g (leadership and low-upkeep advantages)
+No longer insanely cost efficient.
+
+Nothern Warrior
+ - Price from 30g to 45g
+Lv3 leadership aura for only 30g is INSANE. Basically it's buying a lv2 with lv3 aura that can boost alied units damage considerably.
+Still much cheaper than other lv3 leadership units in the game, and -1 upkeep per turn, it's fine really.
+
+Nordhiris Warlord
+ - Price from 40g to 66g
+ 
+_____________________________________________________________________________________________________________________________________
+
+MERCS - Infernai
+Actual hidden overpowered, facts that not so many part of the community knows due the impopularity to of the faction.
+Originally planned to only nerf lost soul movetype (slightly) and decreasing unwalkable defense... but more needs to be done...
+
+Infernai's movetype
+ - Unwalkable defense from 50% to 40%
+
+Controlled's XP from 24 to 30
+Possesed's XP from 50 to 60
+
+Hellhound's price from 34g to 32g
+
+Fiend XP from 34 to 37
+Scamp's (unrecruitable, except in heroes) price from 14g to 16g
+
+Demon's Price from 25g to 29g
+ --- Leadership increasing cost of this unit. Still cheap leadership aura and somewhat high HP. So it's fine.
+
+ 
+Devil
+ - Sword (fire) damage from 14-3 to 13-3
+ - Fireball damage adjusted from 14-1 to 7-2
+ - XP from 100 to 115
+ - Price from 43g to 53g
+ 
+Lucifer
+ - Sword (fire) damage from 18-3 to 17-3
+ - Fireball damage from 10-3 to 9-3
+ - Price from 53g to 72g
+ 
+Horned One
+It's charge attack and general sword damage are real problems. Horn at night can one hit various Lv3 units if sucessful hit, while sword's damage
+is just so exagerated. I don't think that 72-1 at night is balanced :)
+ - Sword damage from 14-4 to 13-4
+ - Horn damage from 30-1 to 24-1
+ - Fireball damage from 14-1 to 11-1
+ - Price from 43g to 53g
+Appart of the brutal potential this unit has in RPG/Creep wars with its horn... reason why I lowered a whole -6 dmg to horn.
+
+Archfiend's price from 26g to 30g
+Bloodbather's price from 43g to 48g
+
+Hell Dweller
+ - XP from 32 to 39
+ - Fungus defense from 70% to 60%
+ - Unwalkable defense from 60% to 40%
+ - Price from 13g to 15g
+ 
+Infernal Troglodyte
+ - XP from 54 to 65
+ - Fungus defense from 70% to 60%
+ - Unwalkable defense from 60% to 40%
+ - price from 25g to 28g
+ 
+Infernal Troglodyte
+ - Fungus defense from 70% to 60%
+ - Unwalkable defense from 60% to 40%
+ - Price from 43g to 50g
+ 
+Pit Master 
+ - Price from 43g to 47g
+ 
+Tormentor 
+ - Whip (blade) damage from 10-3 to 9-3
+ - Flamming Whip damage from 20-1 to 18-1
+
+Lost Soul / Evil Essence
+ - Swallow/Deep water movement cost from 3 to 2
+
+_____________________________________________________________________________________________________________________________________
+
+ARCHAIC - Ukians
+Will do some important adjustments to Ukians, specially to specific units.
+
+Ukian Race (Spearmen, archers and advancements) 
+ - Sand movement cost from 2 to 1 (still, they maintain their 40% sand defense).
+ - Fungus movement cost from 3 to 2
+ - Impasable defense from 90% to 10%
+
+Seress
+Seems that many players are not comfortable with this unit enough, apart of low heal+4 seems that her stats are not enough good
+for common skill levels, so I'm going to do some buffs favoring a better experience with the only lv2 healer of Ukians.
+ - She will now heal+6 !!
+ - Health from 37 to 39
+ - Fire/Cold resistance from 0% to 10%
+ - XP from 68 to 77 (stronger lv2 and OP lv3 deserves more XP, but at least her step on lv2 is more acceptable now)
+ - Price from 24g to 28g
+ 
+Ukian Witch
+ - Fire/Cold resistances from 40% to 30%
+ - Frozen defense from 60% to 40%
+ - Price from 38 to 51
+
+Ukian Veteran 
+ - Health from 50 to 52
+ - Throwing axe from 8-3 to 7-3
+ - Price from 25g to 28g
+ 
+Ukian Signalman
+ - Health from 50 to 52
+ - Axe from 12-3 to 11-3
+ - Torch damage from 16-2 to 15-2
+ 
+Ukian Flaresman
+ - Price from 34g to 51g (illuminates aura and more lv3 price like)
+ 
+ Ukian Officer
+ - Impact resistance from 0% to 10%
+ - Price from 30g to 32g
+ 
+Ukian Subcommander
+ - Health from 76 to 70 (they're super tank for being lv3 leadership aura?)
+ - Price from 45g to 57g
+ 
+Ukian Commander 
+ - Price from 65g to 77g
+ 
+Ice Seal
+ - Health from 26 to 30
+ - Frozen defense from 70% to 65%
+ 
+Seal Iceblade
+ - Health from 37 to 39
+ - Impact resistance from 80% to 20% (major bug fixing lol)
+ - Frozen defense from 70% to 65%
+ 
+ 
+Nothern Ranger
+This unit is actually an exceptionally OP tank !! basically used to be swift-foot with even PHYSICAL resistances !!
+And making it a more offensively notisable unit.
+ - Sword damage from 7-3 to 8-3 and now is +Aimed (50% marskman)
+ - Cold resistance from 50% to 35%
+ - Flat defense from 60% to 50%
+ - Castle / Village / Forest / Hill defense from 70% to 60%
+ - Fungus defense from 70% to 50%
+ - Sand movement cost from 1 to 2
+ - Frozen defense from 40% to 50% (as much as of flat)
+Let's make him swim!
+ - Deep water movement cost from 99 to 4 and defense to 30%
+ - Price from 25g to 32g
+ 
+ 
+ 
+Only left his 70% defense at mountains. Facts are that this unit can easily deal so much damage by receiving too low damage.
+Thing that more skilled players can demostrate as broken. Actually being flawless this unit is extraordinarly good... a way too much.ç
+
+Imagine a lv2 dwarf with 60% flat defense, 70% def at forest and lv1 damages, yup this is Nothern Ranger!
+At least with his new +Aimed he can be a somewhat good counter of Swiftfoots or units that depend on their 70% defense terrain.
+He still maintains all his positive physical resistances, considered more a problem his actual too high defense values.
+
+
+_____________________________________________________________________________________________________________________________________
+
+
+Imperial - Marauders
+Actually these very movible but volatile (high damage , low toughness) have certain issues, at ending into a very devastating victory 
+or the very opposite a devastating defeat. Will do some interventions to marauders.
+
+Axeman 
+ - Health from 32 to 34
+ - Axe damage from 6-3 to 5-3 (preventing them to be 9-3 at night if strong)
+Focusing him to be mostly a ranged damage support. Apart there are already too many 7-3 blade in the faction, so I think this will not
+hurt that much marauders gameplay.
+
+Hunter 
+ - Axe damage from 7-3 to 5-4
+ - Price from 42g to 30g
+There are already too many 3 strikes blade mele of 9 or 10 damage, adjusting this. Also, it will make lv1 units attack him at night
+at mele be more temptative as taking less damage in the very first strikes, specially at night (9-3 to 6-4 at night if not strong or
+10-3 vs 7-4 if strong).
+
+Woodsman
+ - Axe damage from 11-4 to 10-4
+ - Price from 70g to 47g
+This nerf gives an important early game difference, 12-4 vs 14-4 at night, precising of strong trait for a 14-4 instead of 15-4.
+
+Crusher
+Unlike many berserkers, rage(3) is an event that only triggers on attack not while defending, and in very specific situations this unit
+can be considered as game breaker (these units that for too low effort can define too early the result of a game as product of Overpowerement)
+Doesn't suffer at all of any handicap of having rage(3) special on mele.
+ - Health from 36 to 37
+ - Blade resistance from 10% to 0% (they actually don't need it)
+ - Hills defense from 60% to 50%
+ 
+Mauler
+ - Hills defense from 60% to 50%
+There are various fighters that can cover better hills terrain, not letting Mauler do a defensive role as good as other fighters.
+
+Fay's price from 19g to 20g
+
+Seereess
+ - Cold Blast damage from 10-3 to 9-3
+ - Price from 30g to 32g
+ 
+Galdra
+ - Fist damage from 8-4 to 7-4
+ - price from 30g to 52g
+ 
+Shieldmaiden
+ - Spear damage from 12-2 to 11-2
+ 
+Valkyrie
+ - Health from 64 to 60
+ - Spear damage from 15-2 to 14-2
+ - Arcane resistance from -20% to 30%
+ - Price from 40g to 53g
+ 
+Raider 
+ - Net damage from 7-2 to 6-2
+ 
+Jarl
+ - Sword damage from 12-3 to 11-3
+ - Price from 30g to 36g
+ 
+Lord's price from 75g to 57g
+
+Pillager 
+ - Sword damage from 10-4 to 9-4 (look a lv2 that if strong can be a devastating 14-4 at nights ...)
+ - Price from 30g to 32g
+Its lv2's damage was even more exagerated than lv3's damage between lv3's standards.
+
+Scorcher
+ - Price from 90g to 53g
+
+_____________________________________________________________________________________________________________________________________
+
+Imperial - Orcs gladiators
+Will do certain adjustments to orcei gladiators as they have some serious balance issues with the damage some of their units are capable
+to do. 
+
+Latronis XP from 22 to 30
+
+Venator
+ - Health from 32 to 33
+ - Bow damage from 8-3 to 7-3 but maintains +marksman
+ - Bow (fire) damage from 10-2 to 8-2 and is now +Aimed (50% version of marksman)
+ - Price from 19g to 18g
+ 
+Venator Faber
+ - Health from 40 to 42
+ - Bow damage from 12-3 to 11-3 but maintains +marksman
+ - Bow (fire) damage from 16-2 to 13-2 and now is +Aimed
+ - Fire resistance from 0% to 10% (will make them to be less affraid when attacking fire based mages or shielding againist them)
+ - Price from 38g to 36g 
+Hard to define what's best to do on here, but Orcei Gladiators don't have any mage.
+A thing is sure that Venator Faber is strongest non elf archer in whole ageless, but cannot lv3 and is somewhat fragible.
+Also, abou Fire arrow, it's more effective againist objectives with at least 60% or higher defense than its original attack and it also
+makes the attack scale better with upcoming upgrades of damage, as it doesn't has any lv3.
+I'm sure that these limitations on mages and healers could hit somewhat hard to various players that tries them.
+ 
+Essedarius
+ - Fangs damage from 7-2 to 6-2
+ - Swallow water movement cost from 6 to 5
+ - [ATTEMPT] Swamp movement cost from 6 to 5
+ - Frozen defense from 20% to 30% 
+
+Essedarius Vulpis
+ - Fangs damage from 8-3 to 7-3
+ - Swallow water movement cost from 6 to 5
+ - [ATTEMPT] Swamp movement cost from 6 to 5
+ - Frozen defense from 20% to 30% 
+ 
+Gallus 
+ - Price from 16g to 15g
+Seems a bit overpriced, will low their cost by 1 less, dwarvish fighter is a more clever unit. 
+
+Murimillo
+ - Sword damage from 10-3 to 9-3 (devastating infantry charge attack that needs to be lowered!)
+ - XP from 60 to 72
+ - Price from 26 to 28
+ 
+Murmillo Leonis 
+ - Fire resistance from -10% to 0%
+Weaker lv2 that needs more XP to lv3 needs a slight compesation on lv3.
+
+Dimacherius price from 26g to 28g
+Dimacherius Fortis price from 55g to 48g
+
+Provocator 
+ - sword damage from 11-3 to 10-3
+ - XP from 70 to 72
+ 
+Provocator Leonis 
+ - fire resistance from -10% to 0%
+ - Price from 55g to 52g (charge > Marksman, reason of diferent pricing)
+ 
+Piscator 
+ - XP from 18 to 25
+ 
+Retiarius
+ - Trident damage adjusted from 7-3 to 10-2
+ - Movement from 6 to 5
+ - Price from 16g to 17g
+
+Fleet Retiarius
+ - Trident damage from 13-3 to 15-2
+ - Price from 47g to 32g
+ 
+Paegniarius
+ - Price from 35g to 30g
+ 
+Brutal Paegniarius
+ - Price from 65g to 53g
+Tons of health... will need to test this to see if it can be considered as fair lol, but it has almost no resistances.
+As well it doesn't has regen, also consider it's from a faction that has no healers.
+
+Bestiarius
+ - Price from 35g to 32g
+ 
+Feral Bestiarius 
+ - Price from 65 to 53g
+ 
+Khampsa
+ - Price from 27g to 29g
+ 
+Khampsa Audentis
+ - Price from 55g to 53g
+ 
+Hoplomachus
+Actually a terrible unit, basically can't tank well because its poor health, it's slow, doesn't has good damage, let's buff.
+ - Health from 40 to 46
+ - Spear damage from 7-3 to 8-3
+ 
+Hoplomachus Fortis
+ - Health from 55 to 58
+ -`Price from 60g to 55g
+ 
+Secutor 
+ - Price from 26g to 28g
+ 
+Secutor Leonis
+ - Health from 50 to 53
+ - Sword damage adjusted from 4-8 to 5-7
+ - Price from 46g to 51g
+
+ 
+Thraex
+ - Price from 26g to 28g
+50% flat defense is something considerably useful, helps at tanking in plains... okey.
+
+Thraex Paratus 
+ - Price from 55g to 53g
+ 
+_____________________________________________________________________________________________________________________________________
+
+MERCS - Fanatics
+Fixing a pair of things that need to be nerfed.
+
+Mindless
+An unit being berserk in a faction that has easy acess to slowing special... and being capable to ignore most physical resistances
+by berserking with fire mele... ofc has to be nerfed. IT CAN DEFEAT AN SLOWED ROYAL GUARDSMAN (Lv3 unit) in similar defense and neutral ToD.
+ - Health from 58 to 52
+ - Torch damage from 12-2 to 11-2
+ - Hills defense from 60% to 50%
+ 
+Genie / Master genie
+ - Unwalkable defense from 60% to 50%
+ 
+_____________________________________________________________________________________________________________________________________
+
+Archaic - Phamtom
+Will copy/Paste all proposed at AE part a) AND implementing more stuff to that for part e)
+I can say I was wrong that Phamtom needed just nerfs, but problem is that they SUCK againist default undeads!
+So even knowing this, apart of the already mentioned nerfs I will add new stuff to Phantom.
+
+Will separate the already mentioned in part A) and still implement it AND adding to that new stuff from part E)
+
+ ------  [PART A list of changes]
+Archaic - Phantom
+Finally the rightful and needed nerf of phantom defenses which was caused by a wrong implementation of only Feather dancer buffs.
+
+Tomg Guardian and advancements
+Fairly good movement costs and physical resistances, deserves defenses nerfs.
+ - Forest/Hill/Fungus/Mountains defense from 60% to 50% 
+
+Huntress and advancements
+ - Forest/Hill/Fungus/Mountains defense from 60% to 50% 
+
+Divine Jay
+Its damage is a way too good... rusheable even as fighter, lowering damages.
+ - Peak damage from 12-2 to 10-2
+ - Talon damage from 8-3 to 7-3
+ -----  [/PART A list of changes]
+
+
+REVERTED THE 60% --> 50% MOUNTAINS DEFENSE IN SPECEFIED UNITS
+SO, THEY WILL RETAIN THEIR 60% MOUNTAINS DEFENSE, EVERYTHING ELSE WILL BE CHANGED IN DEFENSES.
+
+Apart that fixing their bugged 60% defenses into their natural and wanted value of 50% could make phantom be more equilibrated
+still, there are other important stuff (fixing lacks in faction) 
+
+Aditionally, by fixing the misstaken 60% def of Phantom at these terrains, I'm lowering weaknesses to them.
+ --> Tomb Guards (non steadfast) will no longer be fire weakness, new fist attacks to work better on skeletons and costs 1g less.
+ --> Lv2 and Lv3 Huntress lowered Arcane weaknesses, new arcane arrows, standarized +10% cold res in all levels.
+ --> Feather and advancements better slightly improved blade resistance and less weak to fire (defense nerf won't affect them)
+ 
+As phantoms can't actually hide to fire/arcane, specific lines are now more resistant to fire and arcane.
+
+
+Huntress
+Thinking it really well, a cool extra that could receive these archers because THE FACTION NEEDS THAT is allowing huntress be
+more useful againist undead like enemies is giving an optional unholy arrow special.
+ - NEW ATTACK: Unholy missile 4-3 arcane ranged.
+ - Bow no longer has +Strive
+ - Cold resistance from 0% to 10% (this will help them living more often to 3 Dark Adept strikes)
+ 
+Thinked that very physical/Pierce resistant units (ghost, skeletons, etc) mosat of them are weak to arcane.
+At least a 80/70% hit chance source of ranged damage againist woses... as mummies cannot exploit wose's bad terrain defenses.
+Still, againist high defense enemies lv0 mummies can do their work.
+
+
+Archer 
+ - Health from 40 to 42
+ - NEW ATTACK: Unholy missile 6-3 arcane ranged +Aimed (50% marksman)
+ - Arcane resistance from -10% to -5%
+ - XP from 70 to 75
+ 
+High Archer 
+ - Arcane resistance from -10% to 0%
+ 
+ 
+Tomb Guard 
+Removing completely fire weakness on non steadfast Tomb Guards and advancements aswell of making glance plague work more often.
+Giving new fist attack that is +66.67% effective againist default-like skeletons than theirs spears and can kind of scare with upgrades.
+ - NEW ATTACK: Fist 5-2 impact mele
+ - Glance damage adjusted from 5-1 to 3-2
+ - Fire resistance from -10% to 0%
+ - Price from 16g to 15g
+ 
+Spear 9-2 (x0.4 = 3.6 --> 4-2 per strike) --- if on night , 3.6 x 1.25 = 4.5 (5-2?)
+Fist 5-2 (x1.2 = 6 --> 6-2 per strile) ---- if on night , 6 x 1.25 = 7.5 (8-2?)
+This is something to consider in WC II gameplay, so yea, I find it convenient.
+Costless bonuses that could help slightly, no calculus have been done if strong trait, not that interested in looking these details myself.
+ 
+ 
+Tomb Shield-Guard 
+ - Glance damage from 8-1 to 4-2 
+ 
+Tomb Sentinel
+ - Health from 52 to 53
+ - NEW ATTACK: Fist 6-3 impact mele
+ - Glance damage adjusted from 8-1 to 4-2
+ - Fire resistance from -10% to 0%
+ - Pierce resistance from 25% to 30%
+Consider the changes are being aplied while the nerf of -10% defense at various 60% def terrains.
+They will at least now have an optional 3 strikes attack at last hitting very wounded enemies if needed. Which also works better on skeletons.
+ 
+Tomb Protector 
+ - Health from 65 to 68
+ - NEW ATTACK: Fist 8-3 impact mele
+ - Fire resistance from -10% to 0%
+ - Pierce resistance from 25% to 30%
+
+Feather Dancer
+ - Blade resistance from 10% to 15%
+ - Impact resistance from 15% to 20%
+ - Fire/Arcane resistances from -20% to -15%
+ - Cold resistance from 0% to 10% (same as default's fencers or huntress's buff)
+Will now take 4-4 againist blade mele fighters that are commonly 5-4.
+Free buffs to feather dancer as I realized average users can't benefit that well from them at all.
+
+Only source of blade attack up to lv3 tomb guards... so made them be stronger in terms of durabilty.
+I'm completely sure that anyone would prefer a more cost efficient but non-skirmisher unit as only source of blade attacks.
+Adaptating Phantom to their actual limitations but at still working better.
+ 
+
+Wing Dancer / Wing Warrior 
+ - Blade resistance from 10% to 15%
+ - Arcane resistance from -20% to -15%
+ - Cold resistance from 0% to 10%
+ - Wing Warrior's health from 64 to 60
+
+
+Vapor Lv1
+Basically, a new unit with a new role. It will now suicide into their enemies and deal damage at contact. Cheapest suiciding unit.
+Will no longer be mirage like as Lightshifter doesn't since 4.26. Now a somewhat usable unit.
+(No, if accomplishing its purpose, it will not give any XP to enemies)
+
+Health: 1
+Movement: 5
+Movetype: AE_arc_phantom_spirit
+Aligment: Chaotic
+Cost: 6
+(No ZoC)
+
+exothermic dissipation 9-1 fire kamikaze +Ubiquitous (always 90% hit chance)
+endothermic dissipation 6-1 cold kamikaze +Ubiquitous (always 90% hit chance)
+
+Specials:
+     {ABILITY_AE_SUICIDE}
+     {ABILITY_SKIRMISHER}
+ 
+Resistances: -899% to all (no, it will inevitably die in 1 hit always!)
+Defenses: regularly 30% (as if your attacks are magical againist it)
+
+Coment: 
+It's intentionally less cost efficient than kamikaze gobling which is 20-1 always hit at 12g.
+x2 of these can deal up to 16 fire damage in neutral time of day with 90% hit accuracy (another disadventage over kamikaze gobling).
+Also, this unit has 6 movement, flying like movement and +Skirmisher, which is easier to make it contact with an enemy before being hit.
+Remember that if enemy player finds to hit are free 4 XP to them.
+
+Made it be Lv1 forcing that if used in afterlife gameplay it can at least give early XP buff to enemies if spammed by a player.
+
+_____________________________________________________________________________________________________________________________________
+
+RE - Luz
+
+Angel
+ - Health from 27 to 31
+ - Price from 18g to 17g
+ 
+_____________________________________________________________________________________________________________________________________
+
+MERCS - Equestrians
+Nerfing only Paladin's aligment as it it's a brutal counter of a large list of chaotic units which are weak to arcane.
+
+Paladin 
+ - Aligment changed to Neutral (will no longer be +25% damage by its own Illuminates aura)
+ - Flail damage from 9-3 to 10-3
+ 
+Affects at most arcane sword by decreasing it by a whole -25% damage on non night times.
+While flail being only -1 less damage on non nightimes while only +1 dmg on night.
+And ofc, this nerf hits harder if you give bonus damage to Paladin as there will not be a +25% booster by illuminates from being lawful.
+
+_____________________________________________________________________________________________________________________________________
+
+MERCS - Holy Order
+Only HP nerfs for Inquisition and Torturer as their tankyness potential is just absurd by lowering by lowering by 15% the
+damage of units on the same level than them and 15% times more the difference of levels.
+
+Inquisition 
+ - Health from 55 to 48
+ - Price from 27g to 30g
+ 
+Torturer 
+ - Health from 74 to 62
+ 
+_____________________________________________________________________________________________________________________________________
+
+EFM - Lizards
+Actually they're pretty dangerous at their 90% def terrain againist archers. Reason why I'm lowering their 90% defenses to 85%.
+
+Lizard (obtained by lv3 plague of Lizard Eye)
+ - Impassable defense from 90% to 10%
+ - Castle/Forest/Swamp/Swallow Water/Coastal Rift defenses from 90% to 85%
+ - Deep Water defense from 80% to 40%
+
+ 

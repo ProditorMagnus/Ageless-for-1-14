@@ -1,0 +1,507 @@
+
+AE - Dark Legion
+Adjustments to Drones in this faction and few other units.
+
+Crossbowman 
+ - Movement from 6 to 5
+ - XP from 70 to 80
+ - Price from 25g to 27g
+ 
+Advanced Crossbowman
+ - Movement from 6 to 5
+
+Drone Protector
+ - No longer has steadfast!
+ - Pierce/Cold/Blade resistances from 10% to 20% (the same values as before counting steadfast).
+ - Price from 36g to 32g
+Huge Orocia/RPG nerf, but a somewhat decent buff in other game modes.
+Also this makes +Armored trait protector drones no longer be OP with their steadfast.
+ 
+ 
+Drone
+ - Claws damage from 9-2 to 8-2
+ 
+Their main purpose is being a somewhat cheap unit that can reach/move well in any kind of terrain. Blade damage for soldiers in dark legion.
+Also they have an optional poison mele. I just don't want ppl spamming drones in any kind of mode, will test later.
+
+
+Sentry Drone
+ - Impact resistance from -5% to 0%
+ - Blade resistance from -5% to -10%
+ - Price from 28g to 30g
+ 
+Defining better their weakness/resistances. Apart makes no sense lowering lv1 impact res from 0% to -5%.
+ 
+
+Assault Drone
+ - Health from 40 to 42
+ - Claws damage from 7-3 to 6-3
+ - Energy Shock damage from 9-3 to 7-4 (to be more different from Protector's drone ranged)
+ - Price from 29g to 30g
+
+Seems fair lowering slighyly this unit so it has "almost" lv1 mele unit retaliation and 7-4 fire ranged.
+Being 50% flat defense and lower weaknesses than Sentry Drones makes this a somewhat decent flat holder defender.
+Not very tanky, but will always deal decent damage in retaliation in any of the 2 ranges (mele and ranged alike)
+
+War Drone
+ - Claws damage from 9-3 to 8-3
+ - Energy Shock damage from 10-4 to 11-4
+(it demands a tons of XP to lv3, apart that 11-4 marskman is inferior thatn red mage's 12-4 magical).
+
+
+Dark Raider
+ - Health from 38 to 36
+ - Torch damage adjusted from 4-3 to 6-2
+ - Fire resistance from 0% to 10%
+This way, its torch will have more pressence as a 6-2 (that can be 9-2 at night if strong trait)
+Less tanky, but can have a more notisable pressence in the battlefield with that adjusted torch attack.
+
+Dark Pillager
+ - Sword damage from 6-4 to 7-4
+ - Fire resistance from 10% to 20%
+No lv3 mounted unit that has -1 blade damage than the other option, but an 8-3 mele torch attack, compensed as well for its 20% fire res.
+
+Gunner's XP from 60 to 70 (more popular than Halberd)
+
+_____________________________________________________________________________________________________________________________________
+
+AE - Desert Elves 
+First notisable stuff is that this faction only has 5 recruitable units... second is that they do not have any fire/impact ranged mage...
+Interventions to this faction's unit repricement, and new units will be done this time by myself.
+
+[NEW UNIT] 
+Dust Faerie 
+HP: 29
+Movement: 6
+3-3 claws pierce mele
+8-2 Dust Tornado +Magical
+
+XP: 45 (32 XP at 70% XP modifier)
+
+Resistances
+ -10% to arcane and impact
+ +10% to fire
+ +20% to pierce
+Price: 19g
+ 
+My opinion: 
+
+"An unit that has 50% at most of common terrains (flat, forest, hills, etc), while having 1 movement cost at there.
+Are good counters of Swift-Foots, Skeletons and more useful againist troll-whelps and HI's than archers. 
+Sligthly resistant to pierce/fire which makes them somewhat more tanky againist loyalists. 
+20% to pierce allows them to be used more aggresively againist enemy archers.
+Mele being pierce is a choice of mine to add more pierce to the faction , fighters being 6-4 mele and arhcers being only 4-4 at ranged.
+This unit is not meant to be very cost efficient, it's completing a role that the faction was missing.
+Hope to not have misstaken at giving them 6 movement instead of 5, but their HP seems somewhat low to me, but they're not meant
+to be tanker than archers at all, but want to make them feel somewhat different compared to other units in AE desert elves"
+
+
+[NEW UNIT] 
+Dusk Twist
+HP: 38
+Movement: 6
+5-3 claws pierce mele
+9-3 Dust Tornado +Magical
+
+Resistances
+ -10% to arcane and impact
+ +10% to fire
+ +20% to pierce
+Price: 36g
+
+
+[NEW UNIT]
+Dusk Whirlwind
+HP: 48
+Movement: 6
+7-3 claws pierce mele
+11-4 Dust Tornado +Magical
+
+Resistances
+ -10% to arcane and impact
+ +10% to fire
+ +20% to pierce
+Price: 57g
+
+
+[NEW UNIT]
+Dust Vengance (Lv2)
+HP: 36
+Movement: 7
+7-2 Twist arcane mele +Magical
+4-7 Sand Storm impact ranged +Swarm
+
+Resistances: 
+ -30% to arcane
+ -20% to Cold
+ -20% to Impact
+ +10% to fire
+ +40% to blade
+ +50% to pierce
+ 
+Coment about the unit:
+Well, it's not as strong as the other advancement, but if well used can tank well a lot of damage, still, againist certain factions
+it's not a recomendable unit to consider. But this unit is slightly underpowered because of certain OP RPG potentail, apart that
+it's the only source of arcane attack type in the whole faction. Will see if later this unit will need buff or not, but consider this
+advancement is completely optional. Only in case of if needed, I could lower impact weakness later.
+
+Desert Archer 
+There's no need to be loyal to campaign's desert elves values, this is just an AE's adaptation and will modify values for fairness.
+ - Health from 29 to 31
+ - Price from 17g to 15g
+
+Desert Ranger's price from 40g to 38g
+Desert Avenger's price from 80g to 57g
+
+Desert Marskman 
+ - HP from 37 to 40
+Not being capable of being 70% def at forest, makes this unit some what more fragible than elvish marskman, reason why they deserve
+to have some extra HP at all levels.
+
+Desert Sharpshooter
+ - HP from 47 to 50
+ - Price from 90g to 53g
+ 
+Desert Fighter
+ - Price from 15g to 16g
+ - XP from 40 to 44
+It's weird viewing a unit that is 6-4 mele and aditionaly having any ranged in whole Ageless... a somewhat strong unit.
+
+Desert Captain's price from 34g to 35g
+Desert Marshal's price from 80g to 57g
+
+Desert Hero
+ - XP from 80 to 88
+ - Price from 28g to 32g
+ 
+Desert Champion's price from 100g to 55g
+Talking sincerely, one of most beast mele damages among all lv3 if only this unit has strong trait at day for a total of 14-5 blade attack.
+
+Desert's Prowler price from 90g to 57g
+
+Desert Rider price from 28g to 31g
+Desert Outrider price from 43g to 46g
+
+Desert Horseman's Sword damage from 7-5 to 6-5
+
+Elvish Shyde price from 94g to 52g
+
+
+
+_____________________________________________________________________________________________________________________________________
+
+AE - Deep Elves
+Some variations to AE's deep elves, mostly to adapt more fairness and certain resistances variation between the faction.
+These proposals are a desviation of original deep elves, which their gameplay will be still be different as of the other deep elves faction
+in add-ons servers. In each desition made by me I will explain my reasons of why by my personal criteria.
+
+Will make most of deep elves be 40% frozen defense and 1 movement cost there, to increase the amount of total maps in which they can be
+viable to use, apart that will help them like how movement costs are in the side of drakes in default era.
+
+Bloodmaiden
+First point of this, is that I will worse much her resistances but maintaining her 7-4 blade mele, making her the indeeed highest damage
+dealer between all 4 strikes fighter in whole Ageless era, but at certain cost of taking more damage than a regular fighter.
+An unit that the faction WILL need for real damage, but that will not be spammable because of obvious reasons.
+ - HP from 29 to 30
+ - Movement from 7 to 6
+ - Arcane resistance from 10% to -10%
+ - Impact resistance from 10% to 0%
+ - Pierce resistance from 0% to -10%
+ - Swallow water defense from 20% to 30%
+ - Swallow water movement cost from 3 to 2
+ - Frozen defense from 30% to 40%
+ - Frozen movement cost from 2 to 1
+ - XP from 35 to 42
+ - Price from 15g to 16g
+ 
+Basically, this unit is an explosive +40% damage version of common 5-4 fighters, but takes some extra damage againist blade/pierce attacks
+and not resistant to arcane any longer. An unit that has to be recruited in moderation but that can deal heavy damage.
+
+This unit cannot be considered as fighter, instead, could be considered as "assasin" or somekind of that. This unit will deal heavy damage
+at the cost of its own survavility, which will make of her a less cost efficient mele unit than spearmen or something else in other factions.
+
+Aditionally, blooodmaiden and advamcenemts will be 30% swallow defense instead of 20% and movement cost 2 instead of 3.
+(considered this as a quite decent compensation for all the nerfs done to this line) that will help her chase/escape at specific situations.
+
+
+Vengance
+ - Health from 38 to 42
+ - Movement from 7 to 6
+ - Sword damage increased from 9-4 to 8-5
+ - Arcane resistance from 10% to -10%
+ - Impact resistance from 10% to 0%
+ - Pierce resistance from 0% to -10%
+ - Swallow water defense from 20% to 30%
+ - Swallow water movement cost from 3 to 2
+ - Frozen defense from 30% to 40%
+ - Frozen movement cost from 2 to 1
+ - Price from 27g to 30g
+ - Now will advance to Seeker
+
+8-5 in terms of lv2 damage is lower than 7-4 in standards of lv1 damage. But Vengance can gain strong trait for a total of 9-5 blade mele
+thing that default's death-blade can't. Defense/Movement costs are the same for lv3.
+
+
+[NEW UNIT]
+Seeker
+HP: 52
+Movement: 7
+ Sword 9-6 blade mele 
+ 
+
+ Resistances
+ -10% to arcane, pierce and blade
+
+Price: 48g
+
+This unit's damage with Aspect of the hunter if strong and if using the skill can be a absolutely devastating 12-6 mele unit.
+Thing is that, this unit takes so much extra damage and her base health is betwen lv2 standards (with een weaknesses, less tankier
+than lv2 fighter afterall). Reasons why this unit is -10% at 3 common attack types (blade/pierce/arcane).
+Also in Orocia/RPG gameplay , her high damage-output shines cause of her base 6 strikes.
+
+
+Night Maiden 
+On this case, I will adapt the Nightstaker's Crossbow to AE Maiden line since lv1, but splitting damges as a 2 strikes ranged.
+Being a crossbow that can be reloaded before firing, could explain it's first strike. Adapting mele to be +Marskman to make the unit
+more notisable between various BloodMiadens at having at least more CTH, specially againist swift foot.
+ - Health from 27 to 32
+ - Movement from 7 to 6
+ - Sword attack adjusted from 8-3 to 6-3 and now +Marskman
+ - NEW ATTACK: Crossbow 5-2 pierce ranged +first-strike
+ - Arcane from 10% to -10%
+ - Cold resistance from 0% to 10%
+ - Blade resistance from -10% to +10%
+ - Frozen defense from 30% to 40%
+ - Frozen movement cost from 2 to 1
+ - Price from 16g to 18g
+ 
+Nightstalker
+ - Health from 35 to 38
+ - Movement from 8 to 6
+ - Sword damage adjusted from 11-3 to 8-3 and now +Masrkman
+ - NEW ATTACK: Crossbow 8-2 pierce ranged +first-strike
+ - Arcane from 10% to -10%
+ - Cold/pierce resistance from 0% to 10%
+ - Blade resistance from -10% to +20%
+ - Frozen defense from 30% to 40%
+ - Frozen movement cost from 2 to 1
+Somewhat low health, but has skirmisher, 6 movement and fairly good resistances.
+
+Baroness
+ - Health from 43 to 46
+ - Movement from 9 to 7
+ - Sword damage from 13-3 to 11-3 and now +marskman
+ - NEW ATTACK: Crossbow 11-2 pierce ranged +first-strike
+ - Arcane from 10% to -10%
+ - Cold/pierce resistance from 0% to 10%
+ - Blade resistance from -10% to +20%
+ - Frozen defense from 30% to 40%
+ - Frozen movement cost from 2 to 1
+Talking honestly, this skimirsher deals a tons of damage, up to 14-3 +marskman at night, just that its 46 base HP is terrible for a lv3
+Health, still, somewhat awarded with decent resistances being only weak to arcane attacks.
+
+
+Vault Lurker
+ - Health from 32 to 36
+ - Movement from 8 to 7
+ - Sword damage from 9-4 to 7-4 +Marskman
+ - NEW ATTACK: Crossbow 6-2 pierce ranged +First-Strike
+ - Arcane from 10% to 0%
+ - Cold resistance from 0% to 10%
+ - Blade resistance from -10% to +10%
+ - Frozen defense from 30% to 40%
+ - Frozen movement cost from 2 to 1
+ 
+
+Priestess of the Vault
+ - Frozen defense from 30% to 40%
+ - Frozen movement cost from 2 to 1
+
+Matriarch's Price from 26g to 30g
+
+
+Patroness
+ - price from 45g to 50g
+ - Now will advance to Harbinger
+ 
+ 
+[NEW UNIT]
+Harbinger
+HP: 66
+Movement: 6
+ Faerie Touch 11-2 arcane mele
+ Shadow wave 12-5 impact ranged +Skilled
+ 
+
+ Resistances
+ +20% to impact/arcane
+ +10% to fire/cold
+  +0% to pierce/blade
+
+Price: 80g
+
+This addition is rightful to be done because of 2 strong reasons, the first one, making Patroness a viable option for RPG games as well
+at convincing players about another viable alternative option appart of spamming strikes at Seer's implosion attack.
+Second, giving Orocia's Last wave another dangerous lv4 unit, on this case an Heavy physical damage caster.
+Not as dangerous as EoMa's Guru but has higher concentrated damage to single target and 6 movement (instead of 5) of floating as well.
+
+Seer
+Only 2 changes, first to slightly nerf it on RPG and second changing her mele to be slightly different from Patroness
+ - Faerie Touch adjusted from 9-2 to 6-3
+ - Implosion damage from 45-1 to 42-1
+ - Price from 42g to 48g
+
+Looks irrelevant, but -3 damage per strike (even if it's under 10% of base damage) can make certain difference in competitive RPG's as
+creep wars. 5 Sucessful strikes means 15 less damage that enemy player will receive cause of this nerf, which in very specific situations
+could be the difference if a player could be slain or not. I refuse downgrading lower than this one value.
+
+Tyrhai Rider
+
+Exception with movement costs in frozen is here, but instead it gets 1 MP cost at sand and 40% def at both sand and frozen.
+But 2 MP cost at frozen, afterall, buffs ARE BUFFS, JUST AGREE WITH'EM !!!
+Apart slight differences with movement costs increases versality on faction.
+Natural reasons: in default era, Tyrhai Rider are the natural counters of drakes and they need to not have issues at chasing drakes.
+Apart, in 1vs1 this unit losses to drake clasher.
+ - Trample damage adjusted from 14-1 to 7-2
+ - Arcane resistance from 10% to -10%
+ - Cold resistance from 0% to 10%
+ - Blade resistance from -10% to 0%
+ - Impact resistance from 10% to 20%
+ - Pierce resistance from 0% to -10%
+ - Sand/Frozen defense from 30% to 40%
+ - Sand movement cost from 2 to 1
+ 
+ 
+Tyrhai Rider
+ - HP from 42 to 46
+ - Trample damage adjusted from 18-1 to 9-2
+ - Arcane resistance from 10% to -10%
+ - Cold resistance from 0% to 10%
+ - Blade resistance from -10% to 10%
+ - Impact resistance from 10% to 30%
+ - Pierce resistance from 0% to -10%
+ -`Price from 32g to 34g
+ - Sand/Frozen defense from 30% to 40%
+ - Sand movement cost from 2 to 1
+ 
+Black Tyrhai
+ - Trample damage from 12-2 to 11-2
+ - Arcane resistance from 10% to -10%
+ - Cold resistance (unchanged from 0%)
+ - Fire resistance from 0% to 10%
+ - Blade resistance from -10% to 0%
+ - Impact resistance from 10% to 0%
+ - Pierce resistance (unchanged from 0%)
+ - Sand/Frozen defense from 30% to 40%
+ - Sand movement cost from 2 to 1
+ - Village defense lowered from 60% to 50% (feral creature)
+ 
+Shadow Tyrhai
+ - Trample damage from 17-2 to 14-2
+ - Arcane resistance from 10% to -10%
+ - Cold resistance (unchanged from 0%)
+ - Fire resistance from 0% to 10%
+ - Blade resistance from -10% to 0%
+ - Impact resistance from 10% to 0%
+ - Pierce resistance (unchanged from 0%)
+ - Sand/Frozen defense from 30% to 40%
+ - Sand movement cost from 2 to 1
+ - Village defense lowered from 60% to 50% (feral creature)
+ - Price from 45g to 48g
+ 
+Minotaur
+Increasing slightly damage, resistances but decreasing cost (which will make them less cost efficient) and reworking horns.
+Also, +10% def at mountains. But no frozen/sand buffs and Movement cost at fungus to 1, so they have full smoth movement in all cave tiles.
+Extra 3 --> 2 swallow water movement cost considering their muscled body.
+ - Health from 49 to 52
+ - Fist damage from 8-2 to 11-2
+ - Ram changed from 14-1 pierce +charge to 9-2 pierce +knockback
+ - Arcane resistance from 10% to 0% (they're cursed lol, weird that they're arcane resistant)
+ - Blade resistance from -10% to 0%
+ - Impact resistance from 10% to 20%
+ - Fire/pierce resistances from 0% to 10%
+ - Mountains defense from 40% to 50%
+ - Swallow water movement cost from 3 to 2
+ - Fungus movement cost from 2 to 1
+ - Price from 22g to 26g
+ 
+
+Lidh
+After thinking really well what to exactly do to this unit, I got a nice idea for this. Now its role will be more offensive.
+ - Faerie Fire no longer has +Stardust but instead has +Aimed (50% version of Marskman)
+ - Arcane resistance from 10% to 30%
+ - Fire/Cold resistances from 0% to 20%
+ - Impact from 10% to 0%
+ - Frozen defense from 30% to 40%
+ - Frozen movement cost from 2 to 1
+ 
+Phade
+ - Health from 33 to 36
+ - Faerie Fire no longer has +Stardust but instead has +Aimed (50% version of Marskman)
+ - Arcane resistance from 10% to 30%
+ - Fire/Cold resistances from 0% to 20%
+ - Impact from 10% to 0%
+ - Price from 27g to 28g
+ - Frozen defense from 30% to 40%
+ - Frozen movement cost from 2 to 1
+ 
+Irr
+ - Health from 46 to 48
+ - Faerie Fire no longer has +Stardust but instead has +Aimed (50% version of Marskman)
+ - Arcane resistance from 10% to 30%
+ - Fire/Cold resistances from 0% to 20%
+ - Impact from 10% to 0%
+ - Price from 38g to 44g
+ 
+Elthare
+ - Health from 32 to 38
+ - Magical Sword no longer has +Stardust
+ - Faerie fire damage from 4-4 to 5-3 (worsening in RPG)
+ - Arcane resistance from 10% to 30%
+ - Blade resistance from -10% to 0%
+ - Fire/Cold resistances from 0% to 10%
+ - Frozen defense from 30% to 40%
+ - Frozen movement cost from 2 to 1
+ - Price from 29g to 30g
+ - usage=archer to usage=fighter (for whenever AI can recruit this unit, will now do it at its corresponding role)
+
+Was thinking a while, is this right if Night-Stalker has now 8-3 blade +marskman as mele? then got it and got convinced it is.
+Differences between aligment and amount of strikes (and arcane ranged) allows this unit to still have a role even if having level up
+Night-Stalkers. Can suit in the same army if owning both units, so it's fine yeah.
+
+[NEW UNIT] 
+Lv0 Wisp 
+4-2 orb arcane ranged +Magical
+
+HP: 14
+Movement: 7
+XP: 27
+
+Resistances:
+ -10% to arcane
+ +10% to blade/fire/Impact
+ +20% to impact
+ +30% to cold
+ 
+Price: 12g
+
+It has a tons of animations to look smoothly, thing which I'm not going to spend my efforts because of already reworking too hard
+in AE_deep_elves faction in overall. The lots of resistances adjustments, certain attacks adjustments, new attacks for few existing units,
+and even new advamcement and new recruitable orb for AE_deep_elves with very slight modification to 
+
+
+[NEW UNIT]
+Greater Wisp Lv1 (not recruitable except in era of heroes)
+9-2 orb arcane ranged +Magical
+
+HP: 26
+Movement: 7
+Cannot advance to lv2 (due to the tons of work required, and I want to focus on other aspects of Ageless later)
+
+
+Resistances:
+ -10% to arcane
+ +10% to blade/fire/Impact
+ +20% to impact
+ +30% to cold
+Price: 21g

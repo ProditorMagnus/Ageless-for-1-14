@@ -1,0 +1,226 @@
+
+AE - Steelhive
+My first attempt of creating a new unit by myself! the Level up of Lightshifter : Steel Mirage
+
+Lightshifter 
+ - XP from 90 to 40
+ - Now can advance to: Steel Mirage
+ 
+NEW UNIT! 
+Steel Mirage Lv1
+ HP : 32
+ MP : 5
+ Colide 4-1 impact mele
+ Light ray 6-2 arcane ranged +concentrated (+1 damage per strike per sucesful hit) +Aimed (50% version of marksman)
+
+Resistances:
+ - 85% to arcane 
+ - 65% to fire/Cold
+ - 0% to blade/pierce
+ - -20% to impact
+ 
+AMLA XP: 86 (60 at 70% modifier)
+Cost: 15g (in era of heroes)
+
+This unit is not strong, but is fairly viable considering it takes only 1/3 damage from cold/fire attacks and 1/7 of arcane attacks.
+Which is a valuable shield againist heavy mages, taking only 6-4 from Default's arch mage. 
+
+And its damage scales better than of average archers, at having both +aimed and +concentrated extras.
+Fair enough to no have lv2.
+
+In villages (60% defense) this unit is hard to destroy considering it's high 60% defense and absurd magical resistance which 
+are aditionally excelent village keepers.
+
+____________________________________________________________________________________________________________________________________
+
+BEEM - Anakes
+Again, slight buffs to anakes
+
+Heterodox
+ - Blade resistance from 40% to 50% (as of heavy infantryman)
+ - XP from 50 to 46
+
+Heretic blade resistance from 40% to 50%
+
+Apostate
+ - Cave movement cost from 3 to 2 (it can decide if walking or "fly")
+ - Price from 57g to 55g
+ 
+Daemon
+ - Fireball damage from 7-3 to 6-3 (but compensed by the following defense buffs)
+ - Forest defense from 40% to 50%
+ - Hills defense from 40% to 50%
+ - Village defense from 50% to 60%
+ - Cave movement cost from 3 to 2
+Nerfing ranged damage but compensed by extra utility, which in overall is better apreciated.
+ 
+Archdaemon
+ - Scyche has now +First-Strike
+ - Fireball damage from 10-3 to 5-5
+ - Forest defense from 40% to 50%
+ - Hills defense from 40% to 50%
+ - Village defense from 50% to 60%
+ - Cave movement cost from 3 to 2
+ 
+Adjusted its attacks to make it a somewhat more interesting unit. 
+Intention was to lower the base damage of fireballs, but making it a more interesting attack which in overall, scales worse at
++25% daytime (6-5 vs 12-3 is really different), but compensed by a somewhat crappy 8-4 but now +first-strike
+
+Unit will now take less damage considering the lots of +10% defense, so the nerf of ranged damage is worth its price.
+
+
+Slaughterer / Massacrer
+ - Mountains movement cost from 99 to 4
+Allowing the unit to move in mountains if needed/possible.
+
+
+Spellcaster 
+ - XP from 94 to 83
+One less lv1 kill required to level up Spellcaster to lv3 in 70% XP modifier.
+
+Imp
+ - Mountains defense from 50% to 60%
+ - XP from 43 to 40
+  
+Stormbringer
+ - Mountains defense from 50% to 60%
+ - XP from 71 to 69
+ - Price from 35g to 34g
+
+Leech Rider
+ - XP from 37 to 40
+ 
+Leech Knight
+ - XP from 90 to 77
+____________________________________________________________________________________________________________________________________
+
+Archaic - Ukians
+Just a better lv0 balance.
+
+Ukian Dog and advancements
+ - Hills movement cost from 1 to 2
+ (Please help me at making this canine be 2 MP cost at swamp instead of 1 ...)
+ 
+Technically it's wanted that it be MP cost at swamp of 2 , but actaully is of 1 ...
+
+Ukian Civilian HP from 24 to 21
+
+____________________________________________________________________________________________________________________________________
+
+Archaic - Despair
+Minor Adjustments
+
+Statue
+Another XP nerf
+ - XP from 32 to 38
+
+Stone Solder
+ - XP form 63 to 75
+ 
+Stone Warrior
+ - Price from 34g to 48g
+Not balanced... but more fair lol
+
+Widow-in-white
+A fairly good lv3 mage that demands too few XP to be adquired.
+ - song of rememberence damage from 12-2 to 11-2
+ - XP from 70 to 85
+ - Price from 34g to 36g
+ 
+____________________________________________________________________________________________________________________________________
+
+Archaic - Phantom
+Finally the rightful and needed nerf of phantom defenses which was caused by a wrong implementation of only Feather dancer buffs.
+
+Tomg Guardian and advancements
+Fairly good movement costs and physical resistances, deserves defenses nerfs.
+ - Forest/Hill/Fungus/Mountains defense from 60% to 50% 
+
+Huntress and advancements
+ - Forest/Hill/Fungus/Mountains defense from 60% to 50% 
+
+Divine Jay
+Its damage is a way too good... rusheable even as fighter, lowering damages.
+ - Peak damage from 12-2 to 10-2
+ - Talon damage from 8-3 to 7-3
+ 
+____________________________________________________________________________________________________________________________________
+
+Imperial - Lavinian Legion
+Some adjustment to this faction, certain units have too much damage in this faction. While the whole faction having problems to cold attacks.
+Some units will get a slight bonus to cold resistance.
+
+Auxiliary arcane resistance from 0% to 10%
+
+Light Infantryman / Rorarius
+ - Fire weakness from -10% to 0%
+ - Impact resistance from -20% to -15%
+Don't want to lower any other physical weakness in order to perserve the unit's original essence.
+ 
+Skirmisher / Velite
+ - Cold resistance from 10% to 20%
+ - Impact resistance from -20% to -15%
+ - spear damages from 10-3 and 10-2 to 9-3 and 8-2
+Slightly weak to fire, but more resistant to cold than other 2 lines.
+ 
+Slinger / Funditor
+ - Fire resistance from -10% to 0%
+Lowest of all resistances (-20% to impact), cause of decent mele/ranged. 
+
+Praetorian Guard
+ - Correctly applying this time Pilum damage from 7-2 to 5-2 
+Preventing this unit be 9-2 ranged at daytime, maintaining the best of the attack the +slows
+ 
+River Calf
+Certain nerfs to this unit because of being somewhat op ... level up too fast for its bulkyness... and absurd base HP
+ - Arcane resistance from 20% to 10%
+ - XP drom 29 t 36
+ 
+River Horse
+ - Arcane resistance from 20% to 10%
+ - XP from 52 to 66
+ 
+Hippopotamus
+ - Arcane resistance from 20% to 10% 
+ - Price from 46g to 51g
+
+____________________________________________________________________________________________________________________________________
+
+ 
+Feudal Orcish Knagates
+After certain rework to knagates, they're stronger than they used to be, still somewhat underpowered. I'm buffing here.
+
+ 
+Gobling Flanker
+Flanker's damage adjustments, in order to make it somewhat more useful in mele in terms of army size, but nerfing slightly their ranged.
+ - Knife damage adjusted from 8-2 to 6-3
+ - Harpoon damage from 7-3 to 6-3
+
+At this point, it's mele is not just as Warrior's -1 mele damage and somewhat more useful attack, and certainily more realistic.
+Icewind herders are now 7-3 pierce +magical cause of buff, there is no problem at nerfking flanker's ranged damage slightly as its 
+main purpose is slowing enemies.
+ 
+Gobling Striker
+ - Swallow water defense from 20% to 30%
+ - Swamp defense is intended to be 40% but is being 30%.
+ - Mountains defense from 50% to 60%
+ - Price from 22g to 27g
+ 
+Spearhead 
+ - XP from 43 to 45
+ - Price from 16g to 18g as wanted
+
+Warrior
+Concerning to recent buffs of +6% blade resistance and 4-1 hatchet
+ - XP from 34 to 42
+ 
+Bladesman
+ - XP from 70 to 80
+ - Price from 28g to 30g
+Stronger unit deserves highger prices and higher XP to lv3, but is a much better lv2 than it used to be 2 versions ago.
+
+Spearman XP from 70 to 75
+ 
+____________________________________________________________________________________________________________________________________
+ 
+ 
