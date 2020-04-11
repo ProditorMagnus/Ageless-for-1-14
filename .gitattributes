@@ -2,6 +2,7 @@
 * text=auto
 *.cfg text eol=lf
 *.txt text eol=lf
+*.lua text eol=lf
 
 # Custom for Visual Studio
 *.cs     diff=csharp
