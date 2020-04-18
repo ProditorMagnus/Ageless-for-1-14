@@ -4,11 +4,10 @@ Ninja ------------------> Ninja Warrior --------> Shinigami
 			>
 			> Ninja Assassin -------> Shadow Ninja
 
-Samurai ----------------> Monofu ---------------> Tsuwamono
-			>
+Samurai ----> Monofu ---------------> Tsuwamono
+			                        > Demonic Samurai
 			> Bushi ----------------> Imperial Guard
-						>
-						> Demonic Samurai
+						
 
 Mounted Samurai --------> Shogun  --------------> Daimyo
 
