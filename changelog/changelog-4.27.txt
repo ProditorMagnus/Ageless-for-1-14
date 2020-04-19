@@ -1,0 +1,6 @@
+Version 4.27:
+* Balance
+    * Brungars, Nordhiris, Infernai, Ukians, Marauders, Orcs gladiators, Fanatics, Phantom, Luz, Equestrian, Holy Order, Sidhe, Fallen, Regis, RE Dwarves, Centaurs, Fallen, Horned Skeletons, Vikings, Dark Legion, Desert Elves, Deep Elves, Eltireans, Eventide, Free Saurians, Minotaurs, Arendians, Steelhive, Anakes, Lavianian Legion, Orcish Khagnates, Pygmies
+    * Removed Um extra attack
+* Other
+    * Removed longshot from RE ballista
