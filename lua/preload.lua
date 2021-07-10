@@ -8,7 +8,7 @@ end
 local abs=math.abs
 
 function wesnoth.wml_conditionals.AE_is_rpg()
-	local id = wesnoth.game_config.era.id or ""
+	local id = wesnoth.scenario.era.id or ""
 	id = id:lower()
 	if id:find("rpg") then
 		return true
@@ -65,11 +65,11 @@ function wesnoth.wml_actions.AE_efm_add_hex(cfg)
 		if abs(defense) > (max_cth-def_redu) then return sign(defense)*max_cth end
 		return sign(defense)*(abs(defense)+def_redu)
 	end
-	
+
 	local units = wesnoth.get_units(cfg)
 	for _,u in pairs(units) do
 		local def = wml.get_child(u.__cfg, "defense")
-		
+
 		u:add_modification("object",{
 			id="AE_efm_hex_object",
 			T.effect{
