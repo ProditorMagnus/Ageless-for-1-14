@@ -1,4 +1,4 @@
 Version 4.28:
 * Other
     * First version aimed for wesnoth 1.15.14+
-    * Removed unit AE_ext_orcs_Orcish_Nightblade
+    * Removed AE_ext_orcs_Orcish_Nightblade as Orcish Nightblade is in core
