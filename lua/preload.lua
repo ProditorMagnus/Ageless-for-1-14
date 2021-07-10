@@ -17,14 +17,17 @@ function wesnoth.wml_actions.store_time_of_day(cfg)
 	if not turn or turn == 0 then
 		turn = wesnoth.current.turn
 	end
+	if turn ~= wesnoth.current.turn then
+		wml.error("store_time_of_day does not support different turn")
+	end
 
 	local variable = cfg.variable or "time_of_day"
 
 	local out
 	if x and y then
-		out = wesnoth.schedule.get_time_of_day(x, y, turn)
+		out = wesnoth.schedule.get_time_of_day(x, y)
 	else
-		out = wesnoth.schedule.get_time_of_day(1, 1, turn)
+		out = wesnoth.schedule.get_time_of_day(nil)
 	end
 
 	for key, value in pairs(out) do
