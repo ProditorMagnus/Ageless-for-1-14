@@ -1,4 +1,5 @@
 Version 4.28:
-* Other
-    * First version aimed for wesnoth 1.15.14+
-    * Removed AE_ext_orcs_Orcish_Nightblade as Orcish Nightblade is in core
+  * First version aimed for wesnoth 1.15.15+ (1.15.14 does not work)
+  * There will be many deprecation messages. If it seems like they break anything, please report
+  * Removed AE_ext_orcs_Orcish_Nightblade as Orcish Nightblade is in core
+  * There is [resource] containing events Ageless relies on. It should be loaded in scenarios where user might not play with Ageless
