@@ -67,6 +67,7 @@ replacements = [
 	("""
     description={NO_DESCR_AVAILABLE}""","""
     description={AE_EOMA_UNIT_NOTICE}+{NO_DESCR_AVAILABLE}"""),
+	("AE_mag_not_rpg","AE_not_rpg"),
 	("__DUMMY__","__DUMMY__")
 ]
 
