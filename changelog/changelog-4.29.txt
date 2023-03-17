@@ -1,3 +1,4 @@
-Version 4.28:
+Version 4.29:
   * Era of Magic update
-  
+  * Keep Era of Magic textdomain so that translations may work
+  * Silence some warnings
