@@ -1,0 +1,99 @@
+DARK LEGION
+
+- Dark Bowman XP from 39 to 36
+- Dark Crossbowman XP from 80 to 70 , crossbow (fire) damage increase to 11-2 , HP to 48 (+3) , price to 24g (-3g)
+- Dark Advamced crossbowman crossbow (fire) damage increase to 16-2 , HP to 64 (+4) , added 10% fire ressistance , price to 50g (+4g)
+- Dark Longbowman XP from 75 to 65 , price to 25g (-3g)
+
+- Assault Drone blade/pierce/cold ressistances to 10% (+10%) , HP to 45 (+3) , price to 28g (-2g)
+- War Drone HP to 60 (+8) , melee readjusted from 8-3 to 7-4 , price to 56g (+4g)
+
+- Drone Sentry fire weakness decrease to -10% (+10%) , HP to 48 (+2) , price to 28g (-2g)
+- Drone Enforcer fire weakness decrease to -10% (+10%) , HP to 65 (+3) , Fangs damage increase to 12-3 , claws damage readjusted from 9-4 to 8-5 , price to 56g (+4g)
+
+- Pillager price to 30g (-4g)
+
+- Protector drone HP to 46 (+7) , movement to 5 (-1) , AMLA XP increase to 100 (+20) , price to 30g (-2g)
+- Rayblade HP to 44 (+6)
+- Stormblade HP to 63 (+14) , Energy Shock damage increase to 9-2 , price to 54g (+4g)
+
+- Dark Warrior Price to 60g (+6g)
+- Champion Price to 54g (+11g)
+- Gunner Price to 24g (-2g)
+- Elite Gunner price to 51g (+5g)
+- Halberdier price to 24g (-2g)
+- Deathmaster price to 53g (+7g)
+
+- Crusher HP to 50 (+2) , impact ressistance increase to 20% (+10%)
+- Guardian XP from 100 to 80 , impact ressistance to 20% (+10%) , price to 29g (-6g)
+- Terror Impact ressistance increase to 20% (+10%)  
+
+
+DEEP ELVES
+
+- Mintours movement to 6 (+1) , new special +low-upkeep , AMLA XP lowered to 100
+Extra movement will allow this unit to get better positioned before day starts, and low upkeep to hoar less golds for an unit you can use only 4/6 of game.
+
+- Tyr'hai rider XP from 45 to 40 , movement to 7 (+1)
+
+- Blood Maiden XP from 42 to 40
+- Vengeance XP from 90 to 85
+
+- Lidh ranged damage increase to 5-4 , also getting self heal(2) -doesn't cure poison- as bonus.
+- Phade HP to 40 (+4) , movement to 6 (+1) , ranged damage increase to 8-4 , XP from 90 to 80 , also getting self heal(2) -doesn't cure poison- as bonus. 
+- Irr HP to 49 (+3) , movement to 6 (+1) , ranged damage increase to 11-4 , unit will now regen+5 and can cure poison from itself , price to 53g (+9g)
+- Elthare HP to 42 (+4) , ranged damage increase to 6-3 , will now regens+4 and can cure itself from poison.
+
+- Nightmaiden HP to 34 (+2)
+- Nightstalker HP to 45 (+7) , both melee and ranged damage increases from 8 to 9, spurt temporally adjusted to 2 as it's not bugged, price to 28g (-4g)
+- Baroness of the Night HP to 55 (+7) , melee damage increase to 12-3 , temporally setted to lv1 spurt value as it's not bugged, price to 54g (+6g)
+- Vault Lurker HP to 42 (+6) , adjusted ranged fro, 6-2 to 5-3, cold ressist to 20% (+10%) , temporally adjusted spurt of lv1 as it's not bugged.
+
+- Priestess of the vault movement to 6 (+1)
+- Seer NEW ATTACK: Energy Ball 9-4 arcane ranged +first-strike , melee damage increase to 7-3 , price to 56g (+8g)
+- Patroness XP from 150 to 120 , price to 55g (+5g)
+- Harbinger ranged attack damage type changed from arcane to impact, price to 85g (+5g)
+
+
+FROZEN
+
+- Frost Gunner HP to 42 (+4) , XP from 86 to 80 , arcane ressist to -10% (-20%) , cold spikes damage increase to 11-2 , price to 30g (-2g)
+- Frost Gunner Master HP to 55 (+3) , arcane ressist to 0% (-20%) , fire ressist to -20% (+10%) , cold spikes damage increase to 16-2 , melee damage increase to 6-4
+- Berserker Golem cold crazy blades damage increase to 7-3 , price to 33g (-3g)
+
+- Frost Shooter HP to 42 (+4) , pierce ressistance to 20% (+10%) , XP from 88 to 80 , price to 28g (-4g)
+- Frost Fury Shooter HP to 52 (+2) , arcane ressitance to -10% (+10%) , cold ressist to 50% (+10%) , price to 54g (+7g)
+- Frost Warrior HP to 45 (+3) , blade ressistance to 30% (+10%) , XP from 80 to 95
+- Frost Heavy Warrior HP to 72 (+15)
+
+- Frost Lanceman price to 25g (-3g)
+- Frost Lancemaster price to 52g (+4g)
+
+- Frost Mage fire ressistance to -10% (+5%) , blade ressistance to 0% (+5%) , arcane ranged damage increase to 9-3 , melee damage decrease to 5-2 , price to 35g (-2g)
+- Frost sorceress melee damage decrease to 8-2 , arcane ranged damage increase to 12-3
+- Frost Witch XP from 100 to 75 , price to 34g (-3g)
+- Frost Queen HP to 45 (+2) , cold ranged damage decrease to 16-2
+
+- Big Ice Golem XP from 100 to 85 , price to 29g (-3g)
+- Ice Golem King XP from 134 to 120, price to 55g (-10g)
+
+
+STEEL HIVE
+
+- Amniote added "low upkeep" special
+- Steel Choriote melee damage increase to 6-2 , price to 22g (-2g)
+- Steel Scout price to 32g (-2g)
+
+- Steel Nymph price to 24g (-4g)
+- Steel Syren price to 45g (-7g)
+- Steel Hivequeen XP from 125 to 100
+- Steel Empress Melee damages increased to 9-4 & 15-2 , ranged damage increase to 10-3 , price increase to 84g (+9g)
+
+- Steel Mirage AMLA XP adjusted from 86 to 90 , price to 14g (-1g)
+
+- Steel Sparkgazer XP from 84 to 80 , price to 29g (-7g)
+- Boltstriker price to 55g (-4g)
+
+- Bladewhilder price to 37g (-3g)
+- Steel Vector XP from 75 to 80 , price to 27g (-7g)
+- Steel Fidelant AMLA XP increase to 125
