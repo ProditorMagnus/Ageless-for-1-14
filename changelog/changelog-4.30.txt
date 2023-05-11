@@ -1,4 +1,3 @@
-
 DARK LEGION
 
 - Dark Bowman XP from 39 to 36
@@ -193,6 +192,63 @@ Additionally zerking axe damage increase to 9-4 as compensation. Unit also gains
 
 - Skuldelev NEW ATTACK: fire arrows 7-2 , price to 20g (+1g)
 - Gokstad XP from 159 to 110
+
+
+ELE - FALLEN
+
+- ALL TAMERS blade resistance from 0% to 10% , impact resistance from -20% to -10%
+- Dragon Rider hard-landing value decreased to 10 (-5)
+- ALL Fallen (infanry) cold ressist to 10% (+20%)
+- ALL Fallen (infantry) forest movemnet cost from 2 to 1
+- Fallen Horses cold ressist to 10% (+20%)
+
+
+- TRASCEDENT AURA REWORK
+It now works more similar to Decay, as previous way was causing way too weird ressults in testing.
+1) Now magic ressistances upgrades are cumulative and could potentially go higher than 0%
+2) Now all physic ressistances do correctly get lowered by -20% correctly, same as if affected by enemy decay.
+3) Now decreases cold ressistance by -10%
+--- Indirectly, Asperser & Inquisitor ingame ressistances from -20% to 0%.
+Idea is that trascendent aura substracts more than what it adds, being situational. Gives 50% in ressists and -70% in weaknesses.
+
+- Fallen Enforcer HP to 32 (+1) , range damage increase to 5-3 , XP from 45 to 40
+- Fallen Infiltrator HP to 44 (+4) , added 50% markman on ranged.
+- Fallen Liquidator added 50% marksman on ranged, HP to 55 (+3) , price to 50g (+2g)
+- Fallen Inquisitor HP to 55 (+3) , price to 55g (+7g)
+
+
+- Fallen Fighter ranged damage increase to 5-2 , XP from 45 to 42 , HP to 36 (+2)
+- Fallen Slayer HP to 52 (+5) , price to 30g (-2g)
+- Fallen Decapitator HP to 60 (+6)
+
+
+ELE - HORNED SKELETONS
+
+- Corpse price to 9g (+1g)
+- Corpse Archer ranged damage adjusted to 6-3 , movement to 6 (+1)
+- Corpse Bone Shooter movement to 6 (+1)
+- Corpse HeadHunter movement to 6 (+1) , price to 51g (+4g)
+- Corpse Fighter HP to 36 (+2)
+- Corpse Amputator HP to 42 (+2) , XP from 85 to 80
+- Corpse Eliminator HP to 56 (+2) , price to 54g (+9g)
+- Corpse Inferno price to 55g (+5g)
+
+- Lich Underlord melee damage decrease to 6-4 , ranged damage increase to 10-2
+- Lich Tyrant melee damage decrease to 8-4
+
+- Skeletal Viper melee damage increase to 8-3
+
+- Skeletal Horse fihter price to 44g (+6g)
+- Skeletal Horse knight HP to 60 (+5) , price to 60g (+5g)
+
+- Skeletal Frontliner HP to 46 (+4) , price to 35g (-4g)
+- Skeletal Banner Bone HP to 55 (+5) , price to 48g (-3g)
+- Skeletal Guard price to 30g (-5g)
+- Skeletal Fortress price to 54g (+3g)
+
+- Skeletal Sorceress price to 36g (+4g)
+- Skeletal Maistresse price to 60g (+6g)
+
 
 
 EE - Monsters
