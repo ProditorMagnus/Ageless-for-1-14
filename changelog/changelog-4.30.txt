@@ -614,6 +614,30 @@ They now can be quite useful againist default skeletons...
 - Midnight Beauty HP to 48 (+2)
 
 
+ARCHAIC - PHAMTOM
+Overperforming because of too much movement liberty at hills/forest/etc , still expensive in XP.
+Gonna balance both aspects in phamtom.
+
+- All "walking" phantom swamp and forest movement cost from 1 to 2
+
+- Huntress XP from 50 to 42
+- Archer price to 29g (-3g)
+- Stalker HP to 42 (+2)
+
+- Mummy Unbound XP from 57 to 51
+- Mummy Noble XP from 114 to 100 , HP to 44 (+2) , price to 36g (-6g)
+- Mummy King XP from 143 to 140 , price to 62g (+3g)
+- Mummy Pharo price to 115g (+25g)
+
+- Spirit Jay XP from 47 to 44
+
+- Feather dancer XP from 42 to 39
+- Wing Dancer price to 29g (-2g)
+- Winged Warrior Claw damage increase from 6-3 to 9-3 , price to 55g (+3g)
+
+- Tomb Sentinel XP from 65 to 75
+
+
 BEEM - Wood Warriors
 - All bigfoots cave movement cost from 3 to 1 , cave defense from 30% to 50%
 - All bigfoots fire ressistance to -10% (+10%)
@@ -659,3 +683,4 @@ Fire ressist +10%
 Ohter units
 - Gust XP from 50 to 60
 - Attack Dog berserk attack worsened from 5-3 to 6-2
+- Fixed Lv2 welking luna sentinel bugged ressists
