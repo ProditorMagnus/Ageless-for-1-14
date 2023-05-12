@@ -1,3 +1,4 @@
+
 DARK LEGION
 
 - Dark Bowman XP from 39 to 36
@@ -220,6 +221,15 @@ Idea is that trascendent aura substracts more than what it adds, being situation
 - Fallen Fighter ranged damage increase to 5-2 , XP from 45 to 42 , HP to 36 (+2)
 - Fallen Slayer HP to 52 (+5) , price to 30g (-2g)
 - Fallen Decapitator HP to 60 (+6)
+- Fallen Revenger HP to 48 (+3)
+- Fallen Purgator HP to 63 (+3) , price to 55g (+4g)
+
+- Fallen Shieldbearer HP to 54 (+2) , shield attack now has ressistant+2 , price to 30g (-2g)
+- Fallen Shieldmaster cold ressist from -15% to -10% , HP to 66 (+2) , price to 55g (+7g)
+- Fallen Master XP from 160 to 130 , price to 60g (+2g)
+- Fallen Overlord XP from 240 to 190 , price to 80g (+8g)
+- Fallen Supreme Lord fixed knockback special in melee (previously some special that does not work) , price to 125g (+32g)
+
 
 
 ELE - HORNED SKELETONS
