@@ -680,6 +680,98 @@ Movement 8 , skirmisher
 Price: 50g , AMLA XP : 150
 Fire ressist +10%
 
+
+
+
+EOC - Aragwaith
+Underperforming, particularly in higher level XP's.
+
+- Strongbow XP from 85 to 75 , price to 27g (-11g)
+- Greatbow HP to 50 (+4) , price to 52g (+7g)
+- Slayer price to 53g (-9g)
+
+- Eagle rider melee damage increase to 7-3 , price to 22g (-1g)
+- Eagle Master HP to 48 (+3) , price to 38g (+3g)
+- Lance price to 32g (-2g)
+- Silvershield price to 50g (+2g)
+
+- Flagbearer XP from 100 to 85 , price to 29g (-11g)
+- Captain XP from 175 to 115 , price to 52g (-8g)
+- Ancient Banner price to 85g (-5g)
+- Pikeman price to 24g (-4g)
+- Guardian HP to 65 (+3)
+
+- Swordsman price to 13g (-1g)
+- Guard price to 31g (+4g)
+- Shield Guard price to 55g (+10g)
+- Longswordsman flat defense to 50% , price to 29g (+2g)
+- Swordsmaster HP to 54 (+2) , flat defense to 50% , price to 55g (+12g)
+
+- Wizard XP from 100 to 90 , price to 34g (-9g)
+- Sorceress HP to 47 (+3) , price to 62g (-6g)
+
+
+EOC - Chaos
+
+- Gunner XP from 46 to 44
+- Marksman HP to 55 (+2) , XP from 80 to 75 , price to 27g (-3g)
+- Sharpshooter price to 55g (+12g)
+
+- Doom Guard HP to 55 (+3) , arcane/impact res to 15% , XP from 90 to 80 , price to 31g (-4g)
+- Hell Guardian HP to 66 (+3) arcane/impact res to 15% , price to 55g (-25g)
+Less resistant (arcane & impact) than EE counterparts, but EOC ones have more damages.
+- Knight of Chaos HP to 55 (+4) , XP from 95 to 75
+- Razerman blade ressistance to 10% , price to 52g (+10g)
+
+- Chaos Magus price to 34g (-6g)
+- Lorekeeper price to 60g (-20g)
+
+- Cavalier price to 29g (-5g)
+- Pillager price to 32g (-2g)
+
+- Marauder HP to 42 (+2) , XP from 70 to 65 , price to 26g (-14g)
+- Soulhunter HP to 52 (+6) , price to 46g (-54g)
+
+- Demonic Hound price to 37g (-3g)
+- Hell Hound price to 60g (-14g)
+I would price it even lower, but in WC fighting a swarm of these things could be a problem...
+
+- Blood Imp price to 26g (-2g)
+- Gutwrencher Imp ranged strike decreased by 1 , price to 52g (+2g)
+- Armaggedon Imp blade damage decrease to 13-4 , ranged damage decrease to 7-3
+
+- Demon Grunt HP to 42 (+2) , ranged damage decrease to 6-3 
+- Demon Warrior ranged damage decrease to 7-4
+- Demon Lord ranged damage decrease to 8-4
+- Lumeril Guard HP to 64 (+6) , ranged damage decrease to 9-2 , price to 54g (-8g)
+
+- Sphapeshifter weaknesses increased from -13% to -15% , ranged damage increase to 8-2 , ranged accuracy lowered to +enchanted
+movement lowered to 5 (-1) 
+
+- Zephyr HP to 43 (+3) , price to 26g (+2g)
+- Stormtyde price to 54g (-5g)
+- Slashing Gale price to 58g (-52g) , cold res to 10% (-10%) , arcane res to -10% (+10%)
+- Spelldancer no longer has +skirmisher , melee damage decrease to 7-3 , price to 52g (+4g)
+
+
+EOC - Sylvan
+
+- Wose Shaman HP to 57 (+2) , price to 29g (-11g)
+
+- Ascetic XP from 94 to 88 , price to 35g (-2g)
+- Mystic arcane damge increase to 11-4
+- Avatar arcane damage increase to 11-5 , gossamer damage readjusted from 9-3 to 8-4 and removed unwanted (strive) special.
+
+- Ancestor XP from 124 to 95
+
+- Dusk Faerie price to 20g (-1g)
+- Night Nymph cold damage increase to 13-2 , price to 36g (-2g)
+- Eventide cold damage increase to 16-2 , price to 58g (+3g)
+
+- Fire Faerie price to 36g (-4g)
+- Forest Spirit cold ressistance to 50% (+10%)
+
+
 Ohter units
 - Gust XP from 50 to 60
 - Attack Dog berserk attack worsened from 5-3 to 6-2
