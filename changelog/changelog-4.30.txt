@@ -755,7 +755,6 @@ movement lowered to 5 (-1)
 
 
 EOC - Sylvan
-
 - Wose Shaman HP to 57 (+2) , price to 29g (-11g)
 
 - Ascetic XP from 94 to 88 , price to 35g (-2g)
@@ -770,6 +769,133 @@ EOC - Sylvan
 
 - Fire Faerie price to 36g (-4g)
 - Forest Spirit cold ressistance to 50% (+10%)
+
+
+MiE - Sylvan Keepers
+Took me a while to view their melee units deficiency reason why most players struggles when using them.
+XP decreases on higher level units as well of some readjustments to some other units.
+
+- Assailant HP to 35 (+1) , cold res to 10% (+10%)
+- Dauntless XP from 80 to 74 , pierce ressistance to 35% (+5%) , cold res to 10% (+10%) , price to 25g (-3g)
+- Vengeance pierce ressistance to 35% (+5%) , cold res to 10% (+10%) , fire res to -25% (-5%)
+They need higher ressists because they usually have worse terrain defenses and in overall bad magic ressists.
+
+- Bark Elder XP from 100 to 80 , price to 29g (-3g)
+- Ghastbark XP from 86 to 77 , fire ressistance from to -30% (+10%) , cold res to 20% (+10%) , price to 29g (-6g)
+- Fearless Dourbark fire ressistance from to -30% (+10%) , cold res to 20% (+10%) , price to 54g (+2g)
+Bad defenses and no ressists gain unlike the ther option seemed quite unfair to me.
+
+- Faerie XP from 90 to 84 , price to 36g (-4g)
+- Underbush Faerie cold res to 10% (+10%) , HP to 28 (+1)
+- Shadow Faerie XP from 96 to 86 , cold res to 10% (+10%) , cold dmg increase to 13-2 , price to 37g (-3g)
+- Nightwood Faerie cold dmg increaes to 16-2 , cold res to 10% (+10%)
+
+- Sylvan Keeper cold res to 10% (+10%)
+- Sylvan Guardian price to 31g (-6g)
+
+- Thorn Witch XP from 40 to 38 , price to 16g (-1g)
+- Thorn Fury XP from 80 to 75 , price to 28g (-2g)
+
+
+MiE - Centaurs 
+Terribly underpowered, this is why nobody likes them. Let's buff intensively.
+
+- ALL centaurs cold ressistance to 20% (+20%)
+- ALL centaurs impact ressistance to 10% (+20%)
+- ALL centaurs (except lancers) pierce ressistance to -10% (+10%)
+They do terrible againist undead and their bad ressists overall doesn't help much.
+- Mountain Defense to 60% (+20%)
+- Swallow Water defense to 30% (+10%)
+- Hills movement cost to 1 (-1)
+- Sand movement cost to 2 (-1)
+- Frozen movement cost to 1 (-1)
+- Frozen defense to 40% (-20%) -I guess it was meant to be 40% originally lol-
+These buff are quite valuable, they need a factional strenght...
+
+- ALL Cornur cold/arcane ressistance to 10% (+10%)
+- ALL Cornur frozen movement cost to 2 (-1)
+
+- Archer XP from 43 to 38
+- Composite now has 50% marksman in ranged, melee damage increase to 7-2 , XP from 85 to 75 , price to 30g (-6g)
+- Sharpshooter melee damage to 9-2 , price to 55g (+3g)
+
+- Fighter NEW ATTACK: Hooves 5-2 impact melee
+- Warrior added parry 5% on melee (sword), XP from 76 to 80 price to 30g (-2g)
+NEW ATTACK: Hooves 8-2 impact melee +5% parry
+- Heroic added parry 5% on melee (sword), price to 57g (+14g)
+NEW ATTACK: Hooves 11-2 impact melee +5% parry
+
+- Lancer impact melee adjusted from 6-2 to 5-3 , fire ressistance to 10%
+- Knight impact melee adjusted from 9-2 to 8-3 , fire ressistance to 10% , impact ressistance to 20% (+30%) , price to 36g (-4g)
+- Paladin impact melee strikes increased by 1, fire ressistance to 10% , impact ressistance to 20% (+30%)
+pierce ressistance to -10% (+10%) , price to 60g (+2g)
+
+- Mystic fire ressistance to 10% , XP from 50 to 46
+- Augur fire ressistance to 20% , XP from 100 to 88 , price to 38g (-2g)
+- Oracle fire ressistance to 20% , price to 62g (+7g)
+
+- Dehorned Croock XP from 35 to 33 , price to 14g (-1g)
+- Dehorned Rascal XP from 66 to 58 , fire ranged damage increase to 11-2 , price to 22g (-7g)
+- Dehorned Scoundrel pierce ranged damage increase to 9-4 , fire ranged damage increase to 16-2 price to 46g (+4g)
+
+- Valiant impact damage increae to 9-2 , XP from 42 to 39
+- Battler impact damage increase to 13-2 , XP from 78 to 68 , price to 24g (-7g)
+- Protector impact damage increase to 19-2 , price to 48g (+5g)
+
+- Shaman XP from 46 to 42 , all magic ressists to 10%
+- Warlock HP to 48 (+4) , all magic ressistances to 20% (+10%) , XP from 80 to 72
+- Horned Elder HP to 57 (+2) , price to 48g (+6g)
+ 
+ 
+MiE - Thelians
+Some XP adjustments, mostly.
+
+- ALL wolves 10% (+10%) arcane ressistance.
+
+- Hart Seeker price to 32g (-4g)
+
+- Wolf Fanatic price to 33g (-3g)
+
+- Hunter XP from 42 to 38
+- Deerstalker now have 50% marksman in ranged, price to 26g (-3g)
+
+- Shaman XP from 51 to 45
+- Blood Shaman XP from 100 to 83 , price to 31g (-7g)
+- Master of Curses price to 52g (-3g)
+- Druid XP from 100 to 70 , price to 31g (-7g)
+
+- Chieftain XP from 100 to 78 , price to 28g (-4g)
+- Bravewolf HP to 57 (+2), price to 56g (+2g)
+- Spearman price to 24g (-4g)
+- Guardian price to 52g (+3g)
+
+- Ancestor XP from 120 to 95 , price to 37g (-3g)
+
+
+MiE - Vampires
+Minor corrections and recheck after real long.
+
+- Apprentice XP from 50 to 46
+- Savant XP from 100 to 85 , price to 33g (-7g)
+
+- Commander XP from 90 to 80 , price to 30g (-4g)
+- Count XP from 180 to 110 , price to 55g (+7g)
+- Prince price to 82g (+17g)
+- Shadow Fighter XP from 80 to 75 , price to 28g (-4g)
+- Night Warrior price to 52g (+8g)
+
+- Blood Hunter price to 27g (-4g)
+
+- Shadow Archer price to 29g (-2g)
+- Night Angel price to 53g (+6g)
+
+- Savage XP from 50 to 46
+- Lunatic price to 32g (-2g)
+
+- Winged XP from 46 to 42
+- Wind Chaser HP to 43 (+2)
+- Heaven Hunter fangs damage increase to 8-3 , HP to 54 (+3) , price to 54g (+8g)
+
 
 
 Ohter units
