@@ -1,4 +1,6 @@
 
+Ageless Edit log
+
 DARK LEGION
 
 - Dark Bowman XP from 39 to 36
@@ -682,7 +684,6 @@ Fire ressist +10%
 
 
 
-
 EOC - Aragwaith
 Underperforming, particularly in higher level XP's.
 
@@ -755,6 +756,7 @@ movement lowered to 5 (-1)
 
 
 EOC - Sylvan
+
 - Wose Shaman HP to 57 (+2) , price to 29g (-11g)
 
 - Ascetic XP from 94 to 88 , price to 35g (-2g)
@@ -898,7 +900,248 @@ Minor corrections and recheck after real long.
 
 
 
+EFM - Dalefolk
+Minor Pricement and XP adjustments at most.
+AMLA XP that are lower than 100 adjusted to 120 so they can gain +strikes upgrades even if inteligent trait.
+(except wilderman)
+
+- Beacon Price to 34g (-6g)
+- Conduit Price to 60g (+10g)
+
+- Botanist arcane/cold ressistance to 20% (+10%) , price to 26g (-4g)
+
+- Mountainer cold ressistance to 10% (+10%)
+
+- Delver cold ressistance increase to 20% (+10%) , price to 26g (-2g)
+- Foreman cold ressistance to 20% (+10%)
+
+- Raven cold ressistance to 20% , now has +feeding
+- Mynah cold ressistance to 20% , now has +feeding , accuracy +5% on their melee
+
+- Rocketer XP from 40 to 38
+- Bombardier XP from 85 to 70 , price to 26g (-3g)
+- Battery price to 50g (+8g)
+
+Not sure how to evaluate Shifter without proper testing, then for later.
+
+
+EFM - Darklanders
+AMLA XP that are lower than 100 adjusted to 120
+(Beastskull intentionally requires 1 AMLA to then gain strikes becuase of powerful berserker)
+(Serpent won't as well because why it has to deal high damages? it gained lv2 massive damage buff to not get murdered by lv1 serkers)
+
+- Beastskull price to 37g (-3g)
+
+- Catamaran price to 22g (-2g)
+
+- Wasp price to 26g (-3g)
+- Stalker XP from 90 to 75 , price to 25g (-4g)
+- Whisper price to 48g (+9g)
+
+- ALL jaguar riders and level up fire ressist to 10% (cheetah 20% instead)
+
+- Wrath price to 37g (-3g)
+- Vengeance price to 57g (+7g)
+- Judgement price to 75g (+15g)
+
+- Guerrila sword damage increase to 7-4 , ranged damage increase to 11-1 , price to 26g (-2g)
+- Militia Impact ressistance to 10% , price to 26g (-2g)
+- Guard price to 53g (+13g)
+
+- Serpent cold ressistance to 10%
+
+
+EFM - Freemen
+If you question me, nobody will tell they love this faction lol
+AMLA XP that are lower than 100 adjusted to 120
+(Roc needs one AMLA because 18-3 is already insane base value)
+
+- Aristocrat XP from 50 to 42
+- Amir XP from 100 to 80 , price to 28g (-2g)
+- Caliph price to 55g (+25g)
+- Vizier XP from 100 to 80
+- Sultan price to 57g (+11g)
+
+- Howler XP from 100 to 90 , price to 32g (+2g)
+- Screecher price to 54g (+9g)
+
+- Mufti XP from 90 to 85 , price to 33g (-2g)
+- Mullah price to 57g (+12g)
+
+- Great Roc price to 53g (+3g)
+Freemen recruits lv2 rocs in standard version of eras... too risky to adjust pricement.
+
+- Ensnarer price to 28g (-1g)
+- Guardsman price to 23g (-2g)
+- Goun price to 47g (+9g)
+
+- Wanderer price to 14g (-1g)
+- Dervish XP from 90 to 75
+Being 70% sand defense and better ressists than swift-foot can be problematic, reason I did not reprice lower.
+- Immortal price to 54g (+11g)
+- Nomad melee damage increase to 7-4 , price to 28g (-2g)
+They enjoy of great mobility, but their melee was underperforming.
+- Sheik now has 50% flat defense, price to 52g (+8g)
+Unit was bit underpowered in both levels
+
+
+EFM - Highlanders
+Minor buffs because they have negative ressists which in certain cases is a problem.
+Solution in here is decreasing a bit XP's to lv3 and some units having +10% res to one physic element.
+AMLA XP that are lower than 100 adjusted to 120 
+(Elephants needs one AMLA because in offensive 15-4 for a lv3 is insane!)
+(Hippos as well, because of insane bulks)
+
+- Warrior XP from 80 to 74 , price to 23g (-1g)
+- Chief Impact ressistance to -10% (+10%) , price to 50g (+10g)
+
+- Oliephant price to 52g (+7g)
+
+- Hippopotamus price to 40g (-4g)
+
+- Hunter XP from 40 to 37
+- Prowler XP from 80 to 74 , price to 23g (-3g)
+- Manhunter pierce ressistance to -10% (+10%) , price to 50g (+8g)
+
+- Lion Adept XP from 100 to 85 , price to 33g (-2g)
+- Lion Master price to 57g (+12g)
+- Lion Renegade XP from 100 to 85 , price to 33g (-2g)
+- Lion Maverick price to 55g (+10g)
+
+- Strider XP from 70 to 65 , price to 25g (-1g)
+- Wind Walker pierce ressistance to -10% (+10%) , price to 48g (+13g)
+
+- Shaman XP from 100 to 85 , price to 31g (-3g)
+- Warlock XP from 100 to 85
+- Spirit Welder price to 57g (+7g)
+
+
+EFM - Imperialists
+Few XP and pricement adjustments
+
+- MAX LEVEL AMLA XP values from 100 to 120 (115 for lv2 slingers)
+This is sometimes a problem, requirimg AMLA to get strikes which is not of help.
+
+- Ballista XP from 50 to 46
+- Bolter price to 33g (-2g)
+
+- Avalanche price to 62g (+17g) , AMLA XP from 100 to 120
+- Tank price to 57g (+12g) , AMLA XP from 100 to 120
+
+- Hoplite arcane ressistance to 15% (-5%)
+- Phalanx arcane ressistance to 15% (-5%) price to 55g (+13g)
+- Shock Troop all physical ressist to 10% (-10%) , XP from 100 to 90 , price to 37g (+1g)
+Charge is very powerful... it needs to be considered in unit design...
+- Gargantaur blade/pierce ressist to 10% (-10%) , price to 62g (+17g) , AMLA XP from 100 to 120
+- Stalwart price to 30g (-2g)
+- Praetorion price to 55g (+15g)
+
+- Velite XP from 70 to 63 , fire ressist to 10%
+- Equite fire ressist to 15% , price to 43g (+3g)
+
+- Slinger XP from 39 to 36
+- Flinger AMLA XP from 80 to 115 
+- Spiker AMLA XP from 80 to 115
+
+- Centurion XP from 100 to 84 , price to 34g (-6g)
+- Primus XP from 140 to 115 , price to 57g (+7g)
+- Legatus all Physical ressists to 15% (+5%) , price to 80g (+15g)
+
+
+EFM - Pygmies
+
+- MAX LEVEL AMLA XP values from 100 to 120 (115 for max Lv2)
+This is sometimes a problem, requirimg AMLA to get strikes which is not of help.
+
+- Knat from 28 to 27
+- Fly XP from 44 to 41
+- Mudfoot price to 20g (-9g)
+- Stinger price to 22g (-5g)
+
+- Piper XP from 50 to 45
+- Charmer melee damage increase to 4-3
+
+- Puma XP from 42 to 38
+- Lynx price to 28g (-2g)
+- Saber Cat price to 48g (+8g)
+
+- Spider Rider XP from 50 to 44
+- Great Spider price to 34g (-4g)
+- Web Spitter price to 36g (-4g)
+
+- Grand Cocodrile price to 27g (-2g)
+
+- Wyrd price to 33g (+3g)
+- Lizard Eye price to 55g (+5g)
+- Sorceress price to 57g (+12g)
+
+- Lizard price to 6g (+1g)
+
+
+EFM - Sea States
+
+- Lv3 AMLA XP's from 100 to 120
+
+- Concoctionist fire/cold res to 10% , arcane res to 30% , price to 27g (-1g)
+- Doctor regenerates worsened to self-heal(4) , price to 28g (-4g)
+
+- Turtle XP from 78 to 75
+- Snapper price to 44g (+5g)
+
+- Composite Bowman XP from 44 to 42
+- Veteran Bowman price to 29g (-4g)
+- Elite Bowman price to 55g (+13g)
+These lv3 archers are really insane units lol...
+
+- Sagiharii XP from 96 to 85 , price to 32g (-5g)
+- Clibbanarii price to 57g (+12g)
+
+- Liegeman price to 52g (+14g)
+
+- Paddle warship XP from 100 to 85 , price to 32g (-8g)
+- Paddle Frigate price to 54g (-6g)
+
+- Guild Officer XP from 90 to 80 , price to 32g (-3g)
+- Merchant Lord price to 57g (+7g)
+- Retainer price to 27g (-1g)
+- House Guard price to 52g (+12g)
+
+- Raider price to 30g (-2g)
+- Cataphract price to 57g (+14g)
+
+
+EFM - Whites
+
+- Lv3 AMLA XP's adjusted to 120
+
+- Keeper XP from 40 to 38
+- Huntress XP from 80 to 75 , price to 30g (-3g)
+- Bow Lady price to 53g (+7g)
+- Storm Lady price to 62g (+17g)
+- Storm Queen price to 93g (+33g)
+
+- Raider flat defense increase to 40%
+Unit has lv1 damages at both ranges, needs this buff.
+
+- Heat Guard price to 32g (+2g)
+- Soul Guard price to 52g (+12g)
+
+- Terror Strider price to 36g (+6g)
+
+- Guardian flat defense increase to 40% , village defense to 65% , XP from 74 to 70 , price to 23g (-1g)
+- Sentinal flat defense increase to 40% , village defense to 65% , price to 52g (+17g)
+- Vigilange flat defense increase to 40% , village defense to 65%
+
+- Housecarl XP from 80 to 74 , price to 26g (-2g)
+- Thane price to 50g (+10g)
+- Bard XP from 84 to 78
+- Balladier price to 50g (+10g)
+
+
+
+
 Ohter units
 - Gust XP from 50 to 60
 - Attack Dog berserk attack worsened from 5-3 to 6-2
 - Fixed Lv2 welking luna sentinel bugged ressists
+
