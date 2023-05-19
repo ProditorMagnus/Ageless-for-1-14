@@ -263,7 +263,7 @@ ELE - HORNED SKELETONS
 
 
 
-EE - Monsters
+EE - MONSTERS
 Underpowered faction that urgently needs buff, no access to magical or high accuracy specials is a big problem.
 
 - All fire wisps are now 40% impact (+10%) , 70% fire (+10%) ressistant and -40% (-10%) cold ressistat. 
@@ -290,7 +290,7 @@ Underpowered faction that urgently needs buff, no access to magical or high accu
 Just buffed what had to be buffed for viability, rest are fine and are viable enough even with no buffs.
 
 
-ME - Emperors Guard
+ME - EMPEROR GUARDS
 Just some slight buffs because faction has no healers.
 
 - Martial Artist XP from 48 to 40
@@ -328,7 +328,7 @@ Just some slight buffs because faction has no healers.
 - Elite Kyu fire ressistance increase to 10% , price to 53g (+2g)
 
 
-ME - Mercenary 
+ME - MERCENARIES
 Minor balance adjustments. Few buffs because of another faction without healers.
 
 - Protector price to 52g (+12g)
@@ -381,7 +381,7 @@ Lv1 exile XP nerf, slight buffs, and pricement fairness.
 - Primordial price to 90g (+34g)
 
 
-EE - Dark ELVES
+EE - DARK ELVES
 
 - Sorceress can now cure allies from poison! XP from 86 to 80 , price from 36g to 33g
 
@@ -406,7 +406,7 @@ EE - Dark ELVES
 - Boreal Wyrm ranged damage increase to 8-4 , price to 60g (+6g)
 
 
-EE - Chaos
+EE - CHAOS
 
 - Evil Crab HP to 41 (+4)
 - Hell Crab HP to 58 (+6) , price to 30g (-4g) , will now have +Feeding
@@ -435,7 +435,7 @@ EE - Chaos
 - Abobination impact/cold ressistances to 10% (+10%) , price to 50g (-4g)
 
 
-EE - Nagas
+EE - NAGAS
 - Naga hunter bow damage increase to 8-2 
 - Naga Assasin HP to 45 (+3) , ranged now has 50% marksman.
 This will help nagas to not be un-useful anymore.
@@ -446,7 +446,7 @@ EE - ORCS
 Later I will review orcs, but orcs are so MEH...
 
 
-Feudal - Ceresians
+FEUDAL - CERESIANS
 Just fixing what once was overnerfed. 
 
 - Order Knight HP to 42 (+4) , XP from 76 to 80 , price to 31g (-3g) , arcane ressistance to 30% (+10%)
@@ -478,7 +478,7 @@ Just fixing what once was overnerfed.
 blade/cold ressist to 10% , impact ressist to 20% , pierce ressist to -10%
 
 
-Feudal - Clockwork
+FEUDA - CLOCKWORK
 
 - Greaser XP from 38 to 34 (hard to level because 1 strike)
 - Armoer Mechanic HP to 58 (-6) , price to 53g (-4g)
@@ -497,7 +497,7 @@ Feudal - Clockwork
 - Golem Soldier XP from 50 to 46
 
 
-Feudal - High Elves
+FEIDAL - HIGH ELVES
 
 - ALL high elves cave movement cost from 3 to 2
 - All high elves fungus movement cost from 3 to 2 , defense from 30% to 50%
@@ -540,7 +540,7 @@ Feudal - High Elves
 - Aegis HP to 68 (+3) , price to 55g (+3g) , shield damage increase to 13-2
 
 
-Feudal - Knagates
+FEUDAL - KNAGATES
 - Orc Knagates standarized mountain movement cost from 3 to 2 (except scout), mountain defense from 50% to 60%.
 
 - Herder price to 21g (+1g)
@@ -556,7 +556,7 @@ Feudal - Knagates
 - Skewer price to 52g (+4g)
 
 
-Imperial - Aredian
+IMPERIAL - AREDIAN
 Aredian foot frozen movement cost from 3 to 2
 Aredian foot sand defense to 40% (+10%)
 Aredian horses no longer weak to fire.
@@ -581,7 +581,7 @@ Fixed unwalkable and impassable terrain defenses.
 - Battlear price to 52g (-2g)
 
 
-ARCHAIC - Despair
+ARCHAIC - DESPAIR
 - Cloaks will now be 60% (-10%) cave defense.
 - Cloaks pierce ressistance adjusted to 40% (-10%) , impact ressistance adjusted to 50% (+20%) , cold ressist to 50% (+10%)
 - Despair fighters forest movement cost from 2 to 1
@@ -616,7 +616,7 @@ They now can be quite useful againist default skeletons...
 - Midnight Beauty HP to 48 (+2)
 
 
-ARCHAIC - PHAMTOM
+ARCHAIC - PHANTOM
 Overperforming because of too much movement liberty at hills/forest/etc , still expensive in XP.
 Gonna balance both aspects in phamtom.
 
@@ -640,7 +640,57 @@ Gonna balance both aspects in phamtom.
 - Tomb Sentinel XP from 65 to 75
 
 
-BEEM - Wood Warriors
+BEEM - ANAKES
+Previous rebalance process in Anakes was really good... really few things to modify here.
+
+- Slaugterer price to 30g (-5g)
+- Massacrer price to 55g (-2g)
+
+- Heretic XP from 84 to 80 , price to 28g (-4g)
+
+- Hierophant price to 30g (-4g)
+- Dark Prophet price to 51g (-7g)
+- Spellcaster XP from 86 to 72 , price to 30g (-4g)
+Weak lv2 mage that cannot make a good use of melee plague.
+- Price to 56g (-2g)
+
+- Devil XP from 95 to 82
+- Fiend price to 55g (+5g)
+- Stormbringer HP to 47 (+2) , XP from 69 to 65 price to 28g (-6g)
+- Alastor HP to 58 (+2) , now has parry(+5%) on ranged.
+
+- Leech Knight price to 32g (-2g)
+- Leech Draggon blade melee damage increase to 9-4 , price to 56g (+2g)
+
+- Sharp Eye price to 26g (-3g)
+- Terrorbow movement to 6 (+1) , price to 52g (+7g)
+
+
+BEEM - CALYDONIANS
+
+- Dardanian Pillager price to 25g (-2g)
+- Dardanian Ravager price to 52g (+2g)
+
+- Dioian Veteran price to 36g (-4g)
+- Dioian Swordmaster price to 57g (-3g)
+
+- Polemarch XP from 94 to 84 , price to 28g (-8g)
+lower defenses in combination of only 20% pierce ressistance makes this unit more fragible than most steadfast units.
+Not a good thing to be weak to archers and pikemen
+- Diarch price to 52g (-4g)
+- Strategos HP to 55 (+2) , price to 56g (+2g)
+
+- Veteran Peltast HP to 39 (+2) , price to 26g (-4g)
+- Hippikon price to 44g (+4g)
+- Hetaroi price to 62g (+5g)
+
+- Gymnet XP from 82 to 72
+- Rhodian Slinger price to 54g (+2g)
+- Toxotes price to 28g (-2g)
+- Cretan Toxotes price to 54g (+6g)
+
+
+BEEM - WOOD WARRIORS
 - All bigfoots cave movement cost from 3 to 1 , cave defense from 30% to 50%
 - All bigfoots fire ressistance to -10% (+10%)
 - All bigfoots mountain movement cost from 3 to 2 , mountain defense to 60% (+10%)
