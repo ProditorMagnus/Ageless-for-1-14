@@ -734,7 +734,7 @@ Fire ressist +10%
 
 
 
-EOC - Aragwaith
+EOC - ARAGWAITH
 Underperforming, particularly in higher level XP's.
 
 - Strongbow XP from 85 to 75 , price to 27g (-11g)
@@ -762,7 +762,7 @@ Underperforming, particularly in higher level XP's.
 - Sorceress HP to 47 (+3) , price to 62g (-6g)
 
 
-EOC - Chaos
+EOC - CHAOS
 
 - Gunner XP from 46 to 44
 - Marksman HP to 55 (+2) , XP from 80 to 75 , price to 27g (-3g)
@@ -805,7 +805,7 @@ movement lowered to 5 (-1)
 - Spelldancer no longer has +skirmisher , melee damage decrease to 7-3 , price to 52g (+4g)
 
 
-EOC - Sylvan
+EOC - SYLVAN
 
 - Wose Shaman HP to 57 (+2) , price to 29g (-11g)
 
@@ -823,7 +823,7 @@ EOC - Sylvan
 - Forest Spirit cold ressistance to 50% (+10%)
 
 
-MiE - Sylvan Keepers
+MiE - SYLVAN KEEPERS
 Took me a while to view their melee units deficiency reason why most players struggles when using them.
 XP decreases on higher level units as well of some readjustments to some other units.
 
@@ -849,7 +849,7 @@ Bad defenses and no ressists gain unlike the ther option seemed quite unfair to 
 - Thorn Fury XP from 80 to 75 , price to 28g (-2g)
 
 
-MiE - Centaurs 
+MiE - CENTAURS
 Terribly underpowered, this is why nobody likes them. Let's buff intensively.
 
 - ALL centaurs cold ressistance to 20% (+20%)
@@ -899,7 +899,7 @@ pierce ressistance to -10% (+10%) , price to 60g (+2g)
 - Horned Elder HP to 57 (+2) , price to 48g (+6g)
  
  
-MiE - Thelians
+MiE - THELIANS
 Some XP adjustments, mostly.
 
 - ALL wolves 10% (+10%) arcane ressistance.
@@ -924,7 +924,7 @@ Some XP adjustments, mostly.
 - Ancestor XP from 120 to 95 , price to 37g (-3g)
 
 
-MiE - Vampires
+MiE - VAMPIRES
 Minor corrections and recheck after real long.
 
 - Apprentice XP from 50 to 46
@@ -950,7 +950,7 @@ Minor corrections and recheck after real long.
 
 
 
-EFM - Dalefolk
+EFM - DALEFOKK
 Minor Pricement and XP adjustments at most.
 AMLA XP that are lower than 100 adjusted to 120 so they can gain +strikes upgrades even if inteligent trait.
 (except wilderman)
@@ -975,7 +975,7 @@ AMLA XP that are lower than 100 adjusted to 120 so they can gain +strikes upgrad
 Not sure how to evaluate Shifter without proper testing, then for later.
 
 
-EFM - Darklanders
+EFM - DARKLANDERS
 AMLA XP that are lower than 100 adjusted to 120
 (Beastskull intentionally requires 1 AMLA to then gain strikes becuase of powerful berserker)
 (Serpent won't as well because why it has to deal high damages? it gained lv2 massive damage buff to not get murdered by lv1 serkers)
@@ -1001,7 +1001,7 @@ AMLA XP that are lower than 100 adjusted to 120
 - Serpent cold ressistance to 10%
 
 
-EFM - Freemen
+EFM - FREEMEN
 If you question me, nobody will tell they love this faction lol
 AMLA XP that are lower than 100 adjusted to 120
 (Roc needs one AMLA because 18-3 is already insane base value)
@@ -1035,7 +1035,7 @@ They enjoy of great mobility, but their melee was underperforming.
 Unit was bit underpowered in both levels
 
 
-EFM - Highlanders
+EFM - HIGHLANDERS
 Minor buffs because they have negative ressists which in certain cases is a problem.
 Solution in here is decreasing a bit XP's to lv3 and some units having +10% res to one physic element.
 AMLA XP that are lower than 100 adjusted to 120 
@@ -1066,7 +1066,7 @@ AMLA XP that are lower than 100 adjusted to 120
 - Spirit Welder price to 57g (+7g)
 
 
-EFM - Imperialists
+EFM - IMPERIALISTS
 Few XP and pricement adjustments
 
 - MAX LEVEL AMLA XP values from 100 to 120 (115 for lv2 slingers)
@@ -1098,7 +1098,7 @@ Charge is very powerful... it needs to be considered in unit design...
 - Legatus all Physical ressists to 15% (+5%) , price to 80g (+15g)
 
 
-EFM - Pygmies
+EFM - PYGMIES
 
 - MAX LEVEL AMLA XP values from 100 to 120 (115 for max Lv2)
 This is sometimes a problem, requirimg AMLA to get strikes which is not of help.
@@ -1128,7 +1128,7 @@ This is sometimes a problem, requirimg AMLA to get strikes which is not of help.
 - Lizard price to 6g (+1g)
 
 
-EFM - Sea States
+EFM - SEA STATES
 
 - Lv3 AMLA XP's from 100 to 120
 
@@ -1160,7 +1160,7 @@ These lv3 archers are really insane units lol...
 - Cataphract price to 57g (+14g)
 
 
-EFM - Whites
+EFM - WHITES
 
 - Lv3 AMLA XP's adjusted to 120
 
@@ -1186,6 +1186,108 @@ Unit has lv1 damages at both ranges, needs this buff.
 - Thane price to 50g (+10g)
 - Bard XP from 84 to 78
 - Balladier price to 50g (+10g)
+
+
+EotF - BRUNGARS
+
+- Alliggator (unrecruitable lv1) price to 19g (-4g)
+- Cocodrile (unrecruitable lv2) price to 32g (-14g)
+
+- Cocodrile Rider price to 36g (-4g)
+
+- Amateur Tamer HP to 33 (+3) , ranged damage increase to 3-2
+- Experienced Tamer HP to 45 (+5) , price to 28g (-11g)
+- Expert Tamer HP to 60 (+5) price to 50g (+14g)
+ 
+- Sea Turtle HP to 48 (+3) , movement to 5 (-1) -like ALL other levels- , price to 31g (-9g)
+- Giant Sea Turtle price to 54g (+4g)
+- Leviathan ranged damage decrease to 9-4 , price to 83g (+13g)
+
+- Council Elder HP to 45 (+2) , price to 33g (-2g)
+- High Council Member price to 55g (+5g)
+- High Council Elder price to 77g (+17g)
+
+- Crab XP from 39 to 36
+- Overgrown crab XP from 78 to 75 , price to 28g (-7g)
+- Giant Crab price to 52g (+2g)
+
+- Dwarvish Huntsman HP to 45 (+2) , price to 27g (+1g)
+- Dwarvih Huntsmater HP to 53 (+3)
+
+- Harpoon Specialist HP to 47 (+5g)
+
+- Apothecary XP from 58 to 49
+- Herbalist price to 27g (-3g)
+- Practitioner price to 48g (-4g)
+- Herbicider HP to 43 (+3) , price to 30g (-5g)
+- Toxin Specialist HP to 57 (+2) , price to 53g (-2g)
+
+- Ocean Apprentice XP from 54 to 48
+- Ice Apprentice HP to 40 (+2) , XP from 80 to 70 , frozen movement cost to 1 (-1) , frozen defense to 30% (+10%) , price to 29g (-5g)
+- Crystal Master HP to 53 (+3) , frozen movement cost to 1 (-1) , frozen defense to 40% (+20%) price to 53g (+3g)
+- Wave Master price to 55g (+3g)
+
+
+EotF - NORDHIRIS
+
+- Witch Doctor price to 34g (-3g)
+- Warlock price to 53g (-21g)
+
+- Northern Warrior price to 53g (+8g)
+Lv3 leadership aura and -1 upkeep per turn, actually a good purchase.
+- Northend Warlord price to 72g (+6g)
+- Wildheart HP to 44 (+4) , mountains/frozen defense to 60% (+10%)
+- Feralheart HP to 63 (+3) , mountains/frozen defense to 60% (+10%) , price to 48g (+7g)
+- Wolfheart mountains/frozen defense to 60% (+10%) , price to 67g (+4g)
+
+- Northern Archer XP from 42 to 37
+- Northen Strongbow HP from 42 to 44 , XP from 74 to 72 , price to 29g (-1g)
+- Northern Greatbow price to 52g (+6g)
+
+- Northman HP to 37 (+1) , XP from 36 to 34
+- Northguard HP to 52 (+2) , price to 24g (-2g)
+
+- Slaughterer mountain/village defense to 60% (+10%) , movement to 6 (+1) , HP to 48 (+1)
+
+- Prowler HP to 48 (+3)
+- Artic Prowler HP to 63 (+3) , price to 50g (+13g)
+
+- Dire Reaver HP to 44 (+2)
+
+- Snow Runner bow damage increase to 4-2 , XP from 44 to 42
+- Farseer HP to 39 (+1) , how has +forest-keeping for self heal in forests , price to 27g (-11g)
+- Frostdasher price to 26g (-2g)
+
+
+EotF - WELKING
+Fixing some previous over-nerf and adjusting correctly some stuff
+
+- Talon Warrior melee damage increase to 8-3
+
+- Mentor XP from 94 to 82
+- Grand Flyer HP to 50 (+6) , price to 31g (-2g)
+- Lord price to 59g (+3g)
+
+- Golden Guard movement to 5 (+1) , price to 30g (-8g)
+- Sentinel of Moon ressist bug fix from -17% to 17% , price to 32g (-6g)
+
+- Pyronation HP to 40 (-5) , movement to 5 (+1) , price to 38g (-1g)
+- Solar Empyrean ranged damage decrease to 11-4 , aligment change to NEUTRAL , price to 60g (+9g)
+Ridicously powerful unit, not boosting is own damage from illuminates will make him a much more fair unit.
+- High Pyration HP to 55 (-5) , movement to 5 (+1) , price to 64g (+5g)
+- Hietarch of Aten movement to 5 (+1) , price to 85g (+3g)
+
+- Battle Sage XP from 100 to 75 , price to 26g (-12g)
+- Battle Seer price to 48g (-8g)
+- Elder Sage XP from 100 to 80 , price to 30g (-4g)
+- Doyen price to 53g (-2g)
+- Patriarch price to 72g (-2g)
+
+- Quick Draw pierce damage increase to 8-4 , arcane damage increae to 6-4 , XP from 100 to 80 , price to 32g (-2g)
+- Deadeye HP to 52 (+2) , arcane damage increase to 8-4
+- Astral Ranger HP to 52 (-3) , melee strikes decrease by -1 , price to 54g (-3g)
+- Twilight Slayer HP to 45 (+5) , cold res to 20% (+20%) , arcane res to 30% (+10%) , pierce res to 20% (+10%)
+Massie buff on Twilight Slayer otherwise it's useless unit.
 
 
 
