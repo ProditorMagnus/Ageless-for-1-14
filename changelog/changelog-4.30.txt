@@ -1,5 +1,6 @@
 
 Ageless Edit log
+46 factions reviewed so far (EOM , EOMA, RE excluded)
 
 DARK LEGION
 
@@ -1290,10 +1291,140 @@ Ridicously powerful unit, not boosting is own damage from illuminates will make 
 Massie buff on Twilight Slayer otherwise it's useless unit.
 
 
+EOS - ELTIREANS
+
+- Bishop price to 31g (-7g)
+- Archbishop price to 49g (-5g)
+- Lightbringer price to 32g (-2g)
+
+- Pyromancer price to 37g (-5g)
+- Hydromancer price to 37g (-5g)
+- Whirpool Lord price to 82g (+5g)
+
+- Glory Seeker price to 15g (-1g)
+- Patrol Captain XP from 70 to 80
+- Sky Captain XP from 140 to 120 , price to 57g (+3g)
+- Sky Lord price to 77g (+7g)
+
+- Calmblade XP from 56 to 62
+- Crusher XP from 56 to 64
+
+- Knight Errant arcane and cold ressistnace are now the opposite.
+- Knight of the Sun XP from 70 to 80 , arcane and cold ressistnace are now the opposite.
+- Guardian of the Sun price to 54g (+4g) , arcane and cold ressistnace are now the opposite.
+It makes 0 sense how an human is -10% arcane res but 10% cold res lol
+
+- Lady of War price to 16g (-1g)
+- Fury XP from 76 to 70 , price to 28g (-6g)
+- Mistress price to 53g (+3g)
+- Tempress HP to 39 (+3) 
+- Siren HP to 55 (+5) 
+
+
+EOS - EVENTIDE  
+
+- Auxilary XP from 36 to 34
+- Lineman movement to 6 (+1) , price to 24g (-2g)
+
+- Madcap melee damage increase to 9-2
+
+- Arcane archer movement to 6 (+1) , arcane damage increae to 13-1 , price to 29g (-3g)
+- Diu Keenshot price to 55g (+3g)
+
+- Eventide Alchemist price to 29g (-5g)
+- Eventide Poisoner price to 51g (-3g)
+
+- Dreadlord Sword is now blade attack type (instead of impact)
+
+- Swabie XP from 35 to 33 , price to 13g (-1g)
+- Mariner HP to 47 (+2) , XP from 70 to 60 , price to 22g (-4g)
+- Navigator ranged damage increased to 12-2
+Second time I give +1 to his ranged damage lol
+
+
+EOS - FREE SAURIANS
+
+- Fighter XP from 75 to 57 , price to 23g (-3g)
+- Warchief price to 43g (+3g)
+
+- Duelist XP from 100 to 80 , price to 31g (-4g)
+
+- Elementalist AMLA XP fixed from 50 to 120 , price to 35g (-5g)
+- Saurian Healer price to 28g (-6g)
+- Soulmage XP from 60 to 72
+- Shockfrost price to 55g (+7g)
+- Ice Lord cold damage decrease to 16-4
+
+- Mystic fire damage increase to 13-2
+
+- Saurian Warrior XP from 85 to 77
+- Saurian Hero price to 56g (+4g)
+
+- Lizard Master AMLA XP set to 120 , price to 34g (-6g)
+
+- Skulker HP to 42 (+2) , price to 28g (-6g)
+- Assasin HP to 55 (+2)
+
+- Spider XP from 45 to 40
+- Tarantula impact melee damage increase to 9-1 , HP to 45 (+1)
+
+- Swamp XP from 45 to 42
+- Swamp Fighter HP to 44 (+2) , fire/cold res increase to -10% (+10%) 
+- Swamp Warrior HP to 55 (+3) , fire/cold res increase to 0% (+20%)
+The other option is really badass, hard to compete with it. And cannot nerf it as nobody likes free saurians :D
+
+
+EOS - MINOTAURS
+
+- Boar Knight XP from 110 to 90 , price to 44g (+7g)
+- Boar Cataphract price to 66g (+6g)
+
+- Cutthroat XP from 50 to 45
+- Slayer price to 32g (-3g)
+
+- Gore XP from 45 to 42
+- Gore Rouser price to 31g (-4g)
+- Gore Savage price to 31g (-4g)
+
+- Mystic forest defense to 50% (-10%) , price to 41g (-5g)
+- Warlock price to 40g (-5g)
+- Elder staff damage increase to 11-2 , price to 65g (-5g)
+
+- Gnoll Keeneye HP to 47 (+2) , price to 23g (-4g)
+
+
+EOS - TRITHTHA
+
+- Fighter XP from 34 to 45 (1.18 XP values)
+- Runefighter axe damage increase to 9-3 , hammer damage adjusted from 11-1 to 10-2 , XP from 68 to 88 , price to 35g (+3g)
+- Runewarrior axe damage increase to 13-3 , hatchet damage lowered from 14-1 to 7-1 , HP to 63 (+3) , price to 60g (+6g)
+
+
+- Compounder XP from 95 to 70 , NEW ATTACK: crossbow 11-2 fire ranged , price to 27g (-3g)
+- Repeater NEW ATTACK: crossbow 11-3 fire ranged , price to 54g (+8g)
+Only this option gains fire ranged, so people will not just focus on the marksman option.
+- Arblaster price to 54g (+8g)
+
+- Plainsmaster HP to 48 (+2) , fire ranged ajdjust from 18-1 to 9-2 , impact res to 0% (+10%) , price to 32g (-3g)
+
+- Rusher XP from 47 to 45 , mountain defense to 60% (-10%)
+- Charger flat/forest/sand defense to 40% (+10%) , mountains defense to 60% (-10%) , XP from 85 to 80 , price to 33g (+4g)
+- Linebreaker flat/forest/sand defense to 40% (+10%) , mountains defense to 60% (-10%) , price to 57g (+14g)
+
+- Shieldman impact damage decrease to 12-1 , XP from 47 to 42 
+- Guard impact amage decrease to 17-1 , XP from 85 to 78
+- Defender pierce melee damage increase to 10-3 , impact melee damage decrease to 21-1 , price to 57g (+14g)
+
+
+
+
+
+
+
+
 
 
 Ohter units
 - Gust XP from 50 to 60
 - Attack Dog berserk attack worsened from 5-3 to 6-2
-- Fixed Lv2 welking luna sentinel bugged ressists
 
