@@ -1,6 +1,6 @@
 
 Ageless Edit log
-46 factions reviewed so far (EOM , EOMA, RE excluded)
+51 factions reviewed so far (EOM , EOMA, RE excluded)
 
 DARK LEGION
 
@@ -1416,13 +1416,177 @@ Only this option gains fire ranged, so people will not just focus on the marksma
 - Defender pierce melee damage increase to 10-3 , impact melee damage decrease to 21-1 , price to 57g (+14g)
 
 
+IMPERIAL - CAVERNEI
+
+- Steelclad price to 35g (+3g)
+- Lord ranged damage decrease to 7-2 , price to 63g (+9g)
+
+- Guardian XP from 40 to 35 , ranged damage increase to 6-1
+- Stalwart ranged damage adjusted from 8-1 to 6-2 , XP from 85 to 78 , price to 30g (-2g)
+- Sentinel melee damage adjusted from 9-3 to 8-4 +first-strike , price to 54g (+13g)
+
+- Thunderer XP from 40 to 35
+- Thunderguard XP from 95 to 70 , price to 25g (-5g)
+- Dragonguard price to 57g (+11g)
 
 
+IMPERIAL - ISSAELFR
+
+- Gelus HP to 40 (+2) , XP from 90 to 75 , melee damage increase to 6-2 , price to 29g (-11g)
+- Borealis HP to 50 (+5) , melee damage increase to 9-2 , price to 52g (-13g)
+- Mountaineer impact melee damage increase to 7-2 , price to 31g (-11g)
+- Alpine Ranger impact increase to 9-2 , price to 59g (-21g)
+
+- Glavier HP to 50 (+2) , pierce res to 20% (+10%) , price to 26g (-14g)
+- Glaive master HP to 67 (+3) , pierce res to 20% (+10%) , price to 54g (-21g)
+- Ice Romaer HP to 45 (+1) , XP from 73 to 70 , price to 27g (-6g)
+- Ice Dancer HP to 57 (+3) , melee gains parry+5% , price to 52g (+2g)
+
+- Mistral Glacialist price to 37g (-7g)
+- Mistral Cryomancer price to 57g (-23g)
+- Mistral Rime Keeper price to 36g (-7g)
+- Mistral Rime Castellan price to 55g (-25g)
+
+- Yak Knight pierce melee damage to 8-3 , impact res to 10% (+10%) , price to 40g (-4g)
+- Yakmount Margrave all damages increase by 1, impact res to 20% (+20%) , price to 60g (-20g)
+
+- Seal damage increase to 6-3 , price to 11g (-2g)
+- Fleet Seal XP from 80 to 52 , price to 21g (-7g)
+- Elder Seal price to 40g (-5g)
 
 
+IMPERIAL - LAVINIAN LEGION
+
+- Light Infantry HP to 31 (+3) , XP from 40 to 34 , arcane res to 20% (+10%) , flat/sand/cave def to 50% , price to 13g (-1g)
+Frozen defense to 40% (+20%) 
+- Rorarius arcane/cold res to 20% (+10%) , flat/sand/cave def to 50% , Frozen defense to 40% (+20%) , price to 25g (-5g)
+- Skirmisher XP from 40 to 34 , arcane res to 20% (+10%) , fire res to 0% (+10%) , price to 15g (-1g)
+- Velite arcane res to 20% (+10%) , pierce/fire res to 0% (+10%) 
+- Slinger arcane res to 20% (+10%) , price to 15g (-1g)
+- Funditor impact res to -15% (+5%) , arcane res to 20% (+10%) , fire res to 10% (+10%) , price to 25g (-3g)
+
+- Ballista HP to 45 (+6) , movement to 4 (+1) , ranged damage lowered to 17-2 , XP from 58 to 67 , price to 29g (+1g) 
+cold res to 10% (+20%) , fire res to -20% (-10%) , pierce res to 30% (+10%) , impact to 0% (-10%) , arcane res to 20% (+10%) 
+- Archuballistarius HP to 55 (+5) , movement to 4 (+1) , ranged damage lowered to 23-2 , AMLA XP to 120 , price to 52g (+6g)
+cold res to 10% (+20%) , fire res to -20% (-10%) ,  pierce res to 30% (+10%) , impact to 0% (-10%) , arcane res to 20% (+10%) 
+
+- Siege Archer HP to 42 (+4) , XP from 60 to 75 , price to 30g (+1g)
+- Saggitarius HP to 52 (+4) , cold res to -10% (+5%) , price to 52g (+10g)
+
+- Decurion cold res to -10% (+10%) , XP from 72 to 85 , price to 35g (+3g)
+- Centurion cold res to -10% (+10%) , price to 60g (+12g)
+
+- Propugnator HP to 48 (+2) , shield damage lowered to 16-1 , XP from 64 to 80 , price to 32g (+4g) , +Steadfast replaced by shield-defense(20)
+- Praetorian Guard cold res to -10% (+10%) , +Steadfast replaced by shield-defense(20) , price to 55g (+15g)
+This is actually considered a BUFF unless playing orocia or RPG lol
+
+- Signifer blade res to 20% (-10%) , cold res to 0% (+20%) 
+- Aquilifer  res to 20% (-10%) , cold res to 0% (+20%) , fire res to 0% (+10%) , arcane res to 10% (+10%) can now heal allies from poison.
+
+- Horseman XP from 38 to 45 , price to 22g (+1g)
+- Claimant HP to 52 (+2) , price to 38g (+3g)
+- Champion HP to 66 (+4) , price to 55g (+5g)
+
+- River Horse price to 35g (-3g)
 
 
+IMPERIAL - MARAUDERS
+- ALL marauders cave defense from 20% to 40%
+- Axemen and level up cave defense from 20% to 30%
+- Valkyie cave defense from 20% to 30% , mountain defense from 50% to 60%
 
+- Hunter bow damage increase to 8-4 , XP from 72 to 75 , price to 25g (-5g)
+- Woodsman melee damage lowered by 2 , ranged damage increased by 2 , price to 52 (+5g)
+They're low in pierce damage, this change might benefit them as faction.
+- Mounted Axeman HP to 53 (+5) , movement to 7 (-1) , melee damage increase to 8-4 , price to 39g (+5g)
+Some extra bulk in marauders faction will help quite lot more as no lv3 unit.
+
+- Sea Wolf HP to 63 (+3) , fire res to -20% (+10%) , price to 47g (+7g)
+
+- Fay arcane res to 10% (+10%)
+- Seress arcane res to 10% (+10%) 
+- Galdra arcane res to 10% (+10%) , price to 54g (+2g)
+- Shieldmaiden arcane res to 20% (+20%)
+- Valkyrie HP to 62 (+2) , arcane res to 40% (+10%) 
+
+- Raider HP to 46 (+3) , price to 29g (-3g)
+
+- Warrior XP from 35 to 38
+- Jarl XP from 78 to 85
+- Lord price to 61g (+4g)
+- Pillager XP from 65 to 82 , price to 29g (-3g)
+- Scorcher torch damage increase to 16-2
+
+IMPERIAL - ORC GLADIATORS
+
+- ALL lizard riders arcane res to 10% (+10%)
+- Orcs frozen movement cost to 2 (-1)
+- minutiwheel frozen movement cost to 3 (-1)
+- minutiwheel frozen defense to 30% (+10%)
+- minutiwheel swallow water movement cost to 5 (-1)
+(heavy armored orcs have no movement cost buff)
+
+- Dimacherius price to 27g (-1g)
+- Dimacherius fortis price to 53g (+1g)
+- Murmillo HP to 52 (-3) , XP from 72 to 85 , price to 34g (+6g)
+- Murmillo Leonis price to 62g (+7g)
+- Provocator XP from 72 to 82 
+- Provocator Leonis HP to 69 (+2) , price to 57g (+5g)
+
+- Bestiarius price to 25g (-7g)
+- Feral Bestiarius pierce melee damage increase to 13-3 price to 52g (-1g)
+- Paegniarius price to 26g (-6g)
+- Brutal Paegniarius impact res to 10% (+10%) , price to 51g (-2g)
+
+- Hoplomachus HP to 50 (+4) , price to 28g (-2g)
+- Hoplomachus Fortis HP to 62 (+4) , pierce damage increase to 11-3 , added parry(5%) in sword.
+- Secutor melee changed from 4-7 to 5-6 , HP to 48 (+3) , price to 30g (+2g)
+- Secutor Leonis HP to 57 (+4) , added parry(+5%) on melee , price to 55g (+4g)
+RANGED REWORK: Attack set to 0-0 , interrupt removed , added +15% parry in ranged attack , added +magic-counter
+
+This balance them really much, meaning ranged attack will in mot cases help the unit take less damage but not massively less damage in some cases...
+
+- Thraex XP from 60 to 84 , price to 26g (-2g)
+- Thraex Paratus now gains +Skirmisher! , price to 55g (+2g)
+
+- Khampsa Audentis AMLA XP from 100 to 120
+
+
+IMPERIAL - SIDHE
+
+- Fury XP from 50 to 46
+- Wildblade HP to 42 (+2) , price to 32g (-3g)
+- Whirlwind HP to 54 (+4) , price to 57g (-10g)
+
+- Snowdancer price to 27g (-13g)
+- Blizzard Lord price to 56g (-4g)
+That unit in night time is scary 9-6 cold ranged on night, which can be real devastating to many units.
+
+- Raindancer XP from 48 to 46
+- Warmage XP from 76 to 84
+- Thunderblade XP from 180 to 135 , price to 58g (+2g)
+- Storm Lord price to 90g (-16g)
+
+- Dark Thunderblade REWORK
+HP to 67 (+2)
+Melee damage increae to 8-6 , removed backstab.
+NEW ATTACK: 7-5 blade melee +magical +backstab (same as origianal but -1 strike)
+Ranged attack reworked from 6-5 to 8-4
+Price: 88g
+
+- Warrior XP from 42 to 37
+- Bladespinner price to 28g (-4g)
+- Wardancer price to 56g (+4g)
+- Herald XP from 100 to 85
+- Warsinger price to 57g (+5g)
+- Veiledblade price to 29g (-3g) -low HP, high risk to use for massive damage if strong-
+- Shadowdancer XP from 180 to 135 , price to 56g (+4g)
+
+- Warrior Spirit XP from 45 to 43
+- Ancestor price to 38g (-4g)
+- Forefather AMLA XP from 100 to 120 , price to 57g (-6g)
+
+- Bear AMLA XP from 100 to 120 (so can farm XP mod strikes)
 
 Ohter units
 - Gust XP from 50 to 60
