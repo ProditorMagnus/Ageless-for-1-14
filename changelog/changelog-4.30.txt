@@ -1551,6 +1551,15 @@ This balance them really much, meaning ranged attack will in mot cases help the 
 
 - Khampsa Audentis AMLA XP from 100 to 120
 
+- Venator Faber price to 32g (-4g)
+- Essedarius XP from 50 to 48
+- Essedarius Vulpis price to 39g (-3g)
+
+- Laquerius XP from 50 to 45
+- Laquerius Faber price to 28g (-2g)
+- Retiarius XP from 50 to 45
+- Fleet Retiarius price to 30g (-2g)
+
 
 IMPERIAL - SIDHE
 
