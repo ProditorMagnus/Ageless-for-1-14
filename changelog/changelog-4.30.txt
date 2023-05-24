@@ -1,6 +1,6 @@
 
 Ageless Edit log
-69 factions reviewed so far (EOM , EOMA, RE excluded)
+76 factions reviewed so far (EOM , EOMA, RE excluded)
 
 Also reworked ELE - Trascendent special
 Also fixed ME - Triplestrike no longer incluiding EoMa - Triplestrike as well.
@@ -2321,3 +2321,209 @@ NEW ATTACK: Curse 6-5 +magical +slows , voodoo attacks +5% accuracy , price to 5
 - Endemic XP from 80 to 75 , price to 26g (-2g)
 - Indigenous HP to 70 (+2) , pierce ressistance to 20% (+5%) , price to 53g (+5)
 - Chieftain price to 59g (+4g)
+
+
+EOM - CELESTIALS
+Not sure if I can keep the consistency between EOM balance againist itself, but there is tons of underpowered nobody wants to use in EOM.
+Will later recheck a EOM vs EOM balance in another release, not being massively underpowered is way more important!
+
+- Divine Knight HP to 52 (+7) , XP from 95 to 80 , blade/impact ressistances to 10% (+10%) , blade damage increase to 14-2 , price to 31g (-1g)
+- Divine Champion HP to 70 (+8) , blade res to 20% (+10%) , impact res to 10% (+10%) , price to 55g (+5g)
+It was extremely underpowered...
+- Protector HP to 53 (+3) , fire melee increase to 7-4 , blade/impact res to 10% (+10%) , price to 31g (+2g)
+- Holy Sentinel  impact res to 20% (+10%) , blade res to 10% (+10%) , fire melee damage increase to 8-5 , price to 57g (+7g)
+- Quester HP to 54 (+4) , price to 34g (+2g)
+
+- Keeper XP from 85 to 77 , arcane ressistance to 20% (+10%)
+- Sentinel HP to 63 (+3) , arcane res to 20% (+10%) , price to 51g (+9g)
+
+- Light Spirit aligment changed to NEUTRAL, fire res to 10% (+10%) , cold res to -10% (-10%) , ranged damage increase to 5-4
+- Lantern Archon HP to 34 (+2) , aligment changed to NEUTRAL, fire res to 10% (+10%) , cold res to -10% (-10%) , ranged damage increase to 8-4 , price to 31g (+5g)
+- Master of Light HP to 42 (+4) , fire res to 10% (+10%) , cold res to -10% (-10%) , price to 48g (+16g)
+Only lv3 is lawful because of damage bonus upgrades , fire res to be more ressistant to drakes and loy mage, cold weakness for DA and chaotic mages.
+
+- Claymant HP to 45 (+3) , price to 37g (-3g)
+- Herald XP from 180 to 120
+- Seraph price to 95g (+15g)
+
+- Acolyte XP from 58 to 49
+- Great Wizard HP to 42 (+1) , melee damage from 5-2 to 7-2 , arcane res to 20% (+10%) , XP from 115 to 95 , price to 36g (+1g)
+- Sage HP to 50 (+2) , melee damage increase to 9-2 , arcane res to 20% (+10%) , price to 57g (+4g)
+It's crazy he uses an hammer and deals less melee damage than Mystic/Prophet
+
+- Mystic HP to 40 (+2) , arcane res to 30% (+20%) , XP from 105 to 85
+- Prophet HP to 48 (+2) , arcane res to 30% (+20%) , price to 55g (+3g)
+In times having option for arcane damage is important (As of drakes) this buddy will help more than other option.
+
+- Zealot XP from 38 to 36
+- Militant XP from 65 to 60 , blade res to 10% (+10%) , arcane res to 20% (+10%) , price to 23g (-2g)
+- Sicarius blade res to 10% (+10%) , arcane res to 20% (+10%) , price to 48g (+13g)
+
+
+EOM - DEVLING
+
+- Blaphemists XP from 75 to 72 
+Guess will leave this price because of weaker traits.
+- Offenders price to 51g (+7g)
+- Abusers price to 70g (+7g)
+
+- Flyers HP to 42 (+3)
+- Attackers HP to 55 (+2) , price to 53g (+8g)
+
+- Nailers XP from 40 to 36
+- Spikers pierce damage decrease to 28-1 
+Too OP one hitting a melee fighter at full HP, reason of the -2 damage nerf.
+- Staplers pierce damage decrease to 40-1 , impact damage decrease to 32-1 , price to 48g (+8g)
+Not allowing melee fighters to hit more than 1 hit is a problem, high base price gets discounted by low upkeep.
+
+- Soldier HP to 50 (+3), XP from 50 to 60 , price to 26g (-2g)
+- Chief XP from 120 to 100 , price to 49g (+6g)
+- Grand Chief HP to 77 (+5) , price to 75g (+8g)
+- Warrior HP to 52 (+2) XP from 47 to 60 , price to 27g (-1g)
+- Hero XP from 120 to 110 , price to 50g (+7g)
+- Grand Hero price to 80g (+15g)
+
+- Sneak XP from 23 to 20
+- Little Ninja XP from 70 to 65
+- Little Magican cold res to 0% (+10%) , arcane res to -10% (+10%) , price to 48g (+6g)
+
+
+EOM - ELEMENTALS
+- Razor wings now have 60% in a lot of terrains instead of 50%.
+- Razor Wings now have 0% (+10%) ressistance on arcane.
+- Earth elementals and advancement arcane -10% (-10) ressistance.
+- Water elementals (Undine Family) have now arcane (-10%) ressistance.
+ 
+- Thunderbird ranged damage adjusted from 16-2 to 10-3 , price to 36g (+4g)
+This option was terrible compared to wind spirits.
+
+- Wind Spirit XP from 35 to 38 , melee damage decrease to 5-2
+- Zephyr XP from 60 to 66 , price to 35g (-2g)
+- Djinn melee damage decrease to 8-3 , Djinn price to 57g (+3g)
+
+- Rock Golem HP to 51 (+2)
+- Stone Titan price to 55g (+5g)
+
+- Burning Furnace price to 29g (+1g)
+- Lava Beast price to 54g (+9g)
+- Fire Wisp price to 31g (-1g)
+- Fire Ghost melee damage increase to 11-2 , price to 55g (+9g)
+
+Vinebeast is Somewhat overpowered, need testing to confirm that lol
+- Vine Tiger price to 31g (+1g)
+- Vine Monster price to 56g (+8g)
+
+- Undine HP to 40 (+3) , price to 28g (+1g)
+- Tempest Undine HP to 52 (+6) , all damages decreased by 1 , cold res to 40% (+10%) , price to 53g (+8g)
+Added cold res because otherwise in XP modding is a nerf, but, unit needs more HP and less damages.
+
+- Ice Crab pierce ressistance to 30% (+10%) , fire ressistance to -30% (-10%) , XP from 78 to 68 , price to 25g (-2g)
+- Ice Shell melee damage increase to 11-3 , price to 50g (+5g)
+Low HP's , reason of their low pricing.
+
+
+EOM - WARG 
+Many secondary/support units in here are significantly underpowered, let's buff
+
+- Black Fur XP from 42 to 34 , added +nightstalk
+- Black Hunter fire ressistance to 0% (+10%) , increased forest/mountains defense to 65% (+5%) , flat defense to 50% , price to 32g (+2g)
+Unit needs more features to be conisderably useful.
+
+- Flame Spirit price to 56g (+6g)
+This unit was fixed long ago.
+
+- Changeling HP to 49 (+2) , XP from 75 to 60 , price to 25g (-3g)
+- Wolfling HP to 66 (+3) , added +first-strike on melee
+Terrible unit, hope that with buffs is viable.
+
+- Shadow PeltHP to 42 (+2) , XP from 80 to 65 , price to 29g (-1g)
+- Night Eye HP to 52 (+2) , price to 52g (+7)
+Cannot be exposed too many tiles because of low base HP, still decent damages.
+
+- Warrior Warg price to 27g (-3g)
+- Fenrir price to 56g (+2g)
+- Moonblade price to 55g (+3g)
+- Pack Leader price to 60g (+6g)
+- Garou price to 84g (+12g)
+
+- Water Nymph XP from 78 to 70
+
+
+EOM - THERIAN
+
+- Wildcat XP from 100 to 80 , ranged damage increase to 5-3 , price to 31g (-5g)
+Excess of XP kills viability of going on this strong unit.
+
+- Leopard Therian HP to 77 (+2) , price to 54g (+6g)
+- Panther Therian HP to 70 (+3) , added parry(+5%) in ranged , price to 54g (+8g)
+
+- Falcon Therian XP from 35 to 30
+- Falcon XP from 70 to 60 , ranged damage increase to 5-3 , price to 28g (-2g)
+- Gyrfalcon HP to 52 (+1) , pierce res to 0% (+10%) , price to 50g (+10g)
+- Peregrine Falcon HP to 48 (+2) , price to 54g (+14g)
+
+- Hunter XP from 35 to 33
+- Tracker HP to 48 (+2) , melee damage increase to 8-2 , XP from 58 to 55
+- Ranger all damages increase by 1 , price to 49g (+8g)
+
+- Defender HP to 50 (+2) , now has +first-strike in melee, movement to 6 (+1) , price to 25g (-7g)
+
+- Aura Monk XP from 80 to 75 , price to 27g (-8g)
+- Aura Master cold/fire ressist to 10% (+10%) , price to 54g (+4g)
+
+- Cobra price to 26g (-2g)
+- King Cobra price to 50g (+12g)
+- Spitting Cobra HP to 48 (+4) , melee damage increase to 9-3 , price to 48g (+8g)
+
+
+EOM - VAMPIRES
+
+- Apprentice XP from 55 to 48
+- Blood Manipulator XP from 95 to 82 , price to 34g (-6g)
+- Sangel price to 54g (+4g)
+- Flesh Artisan price to 32g (-2g)
+
+- Fledgeling XP from 40 to 38
+- Duelist XP from 86 to 73
+- Swordancer price to 54g (+9g)
+Looks low in damages, but best is getting all strong Fledgeling into this option.
+- Noble XP from 87 to 84
+- Sire XP from 180 to 140 , price to 57g (+4g)
+- Methusalem price to 93g (+16g)
+That lot of HP in Methusalem xD
+
+- Malborn now has parry(+5%) in melee
+- Thin Blood XP from 38 to 35
+- Half Blood price to 24g (-4g)
+- Day Hunter price to 52g (+8g)
+- Twilight Hunter price to 50g (+6g)
+
+
+EOM - WINDSONG
+
+- Emmisary price to 36g (+2g)
+- Reaver price to 32g (-2g)
+- Dreadnought price to 54g (+20g)
+
+- Sky Crystal arcane resistance to -30% (+20%)
+
+- Envoy HP to 46 (+2) , XP from 80 to 74 , price to 34g (-4g)
+- Herald price to 57g (-3g)
+- Prophetess XP from 60 to 80 , Melee damage increase to 7-2 , fire/cold ressistances to 10% (+10%) , price to 34g (-6g)
+- Ascendant HP to 49 (+2) , fire/cold ressistances to 10% (+10%) 
+
+- Pathfinder HP to 41 (+4) , XP from 74 to 72 , price to 32g (-6g)
+- Farstrider HP to 57 (+5) , price to 54g (+6g)
+- Skyrunner price to 33g (-5g)
+
+- Savant price to 37g (-3g)
+- Arbiter XP from 180 to 130
+- Runeforger movement to 6 (+1) , flat defense to 50% , arcane ressistance to 30% (+10%) , HP to 49 (+2) , price to 55g (-5g)
+
+- Heretic HP to 47 (+2) , XP from 80 to 78 , price to 29g (-11g)
+- Harbinger price to 57g (+7g)
+- Lorekeeper price to 31g (-9g)
+- Oathkeeper price to 55g (+5g)
+
+
+
