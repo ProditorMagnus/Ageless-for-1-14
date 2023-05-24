@@ -1,6 +1,6 @@
 
 Ageless Edit log
-76 factions reviewed so far (EOM , EOMA, RE excluded)
+77 factions reviewed so far (EOM , EOMA, RE excluded)
 
 Also reworked ELE - Trascendent special
 Also fixed ME - Triplestrike no longer incluiding EoMa - Triplestrike as well.
@@ -2526,4 +2526,15 @@ EOM - WINDSONG
 - Oathkeeper price to 55g (+5g)
 
 
+EE - Dwarves 
 
+- Flamethrower HP to 45 (+3) , price to 30g (-5g)
+
+- Runesmith XP from 100 to 88 , price to 34g (-9g) 
+- Runemaster XP from 200 to 150 , price to 60g (+10g)
+- Arcanister price to 90g (+40g)
+
+- Steamcopter price to 29g (+2g)
+
+- Thunderwheel price to 27g (+2g)
+- Warwheel price to 48g (+13g)
