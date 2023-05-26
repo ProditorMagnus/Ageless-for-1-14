@@ -5,6 +5,16 @@ Ageless Edit log
 Also reworked ELE - Trascendent special
 Also fixed ME - Triplestrike no longer incluiding EoMa - Triplestrike as well.
 
+ME - Movefoot types spotted and fixed in 25/05/2023 (2 weeks later than other changes)
+Didn't expect MERCS foottypes were THAT STRANGE lmao
+
+Usually factions listed in first will have more accurate and exact rebalance changes.
+Factions in bottom is most likely to have inexactitudes at balancing while not as much as before the changes
+
+First on list, revision of factions with no healers (special focus of this release).
+Then , factions reviewed era per era.
+
+
 DARK LEGION
 
 - Dark Bowman XP from 39 to 36
@@ -295,7 +305,15 @@ Just buffed what had to be buffed for viability, rest are fine and are viable en
 
 
 ME - EMPEROR GUARDS
-Just some slight buffs because faction has no healers.
+Didn't expect emperor guard were doing THAT BAD with movement costs... buff was much stronger than expected.
+- ninjafoot / samuraifoot / martialfoot --> reef movement cost 2 (-1)
+- samuraifoot cave movement cost to 2 (-1)
+- samuraifoot / samuraimounted --> swamp/water defense to 20% (-10%)
+- samuraifoot / samuraimounted --> sand movement cost to 2 (-1)
+- samuraifoot / samuraimounted --> sand defense to 30% (+10%)
+- samuraiheavy cave movement cost to 2 (-1)
+- samuraimounted WATER defense to 20% (-20%)
+- samuraimounted frozen defense to 30% (+10%)
 
 - Martial Artist XP from 48 to 40
 - Musha XP from 82 to 80 , price to 27g (-3g)
@@ -334,6 +352,10 @@ Just some slight buffs because faction has no healers.
 
 ME - MERCENARIES
 Minor balance adjustments. Few buffs because of another faction without healers.
+They should be more adaptable to foregein terrains.
+- mercfootsoldier / mercfootsoldier2 / mercfootsoldier3 / mercarcher --> reef movement cost to 2 (-1)
+- mercarcher2 / mercarcher3 / merclight1 / merclight2 / mercmage --> reef movement cost to 2 (-1)
+- merchorse frozen movement cost to 2 (-1)
 
 - Protector price to 52g (+12g)
 
@@ -357,6 +379,10 @@ Minor balance adjustments. Few buffs because of another faction without healers.
 
 ME - CULT
 Lv1 exile XP nerf, slight buffs, and pricement fairness.
+- cultlightfoot sand defense to 40% (+10%)
+- cultlightfoot / cultmedfoot / cultbushfoot / cultfoot --> reef movement cost 2 (-1)
+- cultmutantfoot / exilefoot / exilefoot2 / exilefoot3 --> reef movement cost to 2 (-1)
+
 
 - Covert price to 32g (-4g) , HP to 38 (+2)
 - Spy HP to 48 (+3) , price to 52g (+6g)
@@ -1759,6 +1785,7 @@ Some adjustments, just that.
 - Striker arcane XP from 77 to 85 , ressist to -20% (+5%) , price to 30g (+2g)
 - Gire Striker price to 62g (+10g)
 
+- Velite XP from 46 to 35
 - Hastate HP to 42 (+2) , gains parry(+5%) in melee , XP from 86 to 77
 - Peltast HP to 55 (+2) , gains parry(+5%) in melee , accuracy(+5%) in ranged , price to 52g (-2g)
 
@@ -1894,6 +1921,18 @@ And groundeds...
 
 
 ME - BLIGHT
+- blightfoot / blobfoot / microbe / zombiefoot / blobswim --> cave movement cost to 1 (-1)
+- blightfoot frozen defense to 30% (+10%)
+Being 30% frozen defense but 3 MP cost in sand is a bad exchange.
+Cold, humid places, makes sense it's good for blight.
+- zombieheavy frozen defense to 20% (+10%)
+- zombiefoot frozen defense to 30% (+10%) and movement cost to 2 (-1)
+30% frozen defense (2 MP cost) is not a good exchange in comparation of 3 MP cost / 20% defense on sand.
+- hostfoot cave movmeent cost to 1 (-1) , cave defense to 40% (+10%)
+- hostfoot frozen defense to 30% (+20%)
+Particularly good in cold/humid terrains (even if in frozen movement it struggles)
+- crawlerfoot frozen defense to 40% (+10%) 
+- ALL unwalkable defense is set to 10% instead of higher.
 
 - Acid
 a) HP to 24 (-2) , ranged has now +drains +absorb , blade/impact lowered by 10% , cold res lowered to -50% (-10%)
@@ -1935,6 +1974,10 @@ This is actually a nerf, unit can block tiles in day but could deal +25% damage 
 
 
 ME - ENCHANTERS
+- enchantfoot / cursefoot / sellfoot / reductfoot --> reef movement cost 2 (-1)
+- enchantfoot / cursefoot / sellfoot / reductfoot--> frozen movement cost to 2 (-1)
+- enchantfoot / cursefoot --> water/swamp defense to 20% (-10%)
+- enchantfoot / cursefoot / sellfoot / reductfoot --> fungus movement cost to 2 (-1)
 
 - Stockpiler pierce and blade damages decreased by 1, price to 54g (+1g)
 
@@ -1974,6 +2017,15 @@ irrelevant nerf for a mage.
 
 
 ME - EQUESTRIANS
+- chargefoot / equestrianfoot / nomadfoot / broncofoot --> frozen/sand movement cost to 2 (-1)
+- chargerfoot / equestrianfoot / nomadfoot / broncofoot --> reef movement cost to 3 (-1) , defense to 30% (+10%)
+- chargerfoot / equestrianfoot / broncofoot --> sand defense to 30% (+10%)
+- nomadfoot / broncofoot cave movement cost to 2 (-1) 
+- nomadfoot / broncofoot sand defense to 40% (+20%)
+- nomadfoot / broncofoot frozen defense to 40% (+10%)
+- broncofoot mountains movement cost to 5 (-1)
+- broncofoot / bullfoot --> arcane ressistance to 10% (+10%) 
+- bullfoot frozen defense to 30% (+10%)
 
 - Bull all damages decreased by 1 , price to 32g (-1g)
 
@@ -2004,6 +2056,12 @@ ME - EQUESTRIANS
 
 
 ME - FANATICS
+Severe buff
+- fanafoot / martyrfoot / fanalightfoot  --> reef moement cost to 2 (-1)
+- fanafoot / sandfoot / camelfoot --> water/swamp defense to 20% (-10%) 
+- fanafoot / sandfoot --> cave/fungus defense to 40% (+10%)
+- sandfoot mountains defense to 60% (+10%)
+- camelfoot reef defense to 30% (-10%)
 
 - Bladesman XP from 46 to 41
 - Zealblade price to 54g (+6g)
@@ -2034,6 +2092,13 @@ ME - FANATICS
 
 
 ME - HIGHLANDERS
+- highfoot / plunderfoot / vikingfoot / giantfoot  --> cave movement cost to 1 (-1)
+- highfoot / plunderfoot / vikingfoot / woodfoot --> sand defense to 20% (+10%)
+- vikingfoot reef defense to 40% (-20%)
+- drunkfoot reef defense to 30% (-10%)
+- giantfoot cave defense to 30% (+10%)
+Woodfoot is basically a improved version in forest that receives no buff in cave.
+Basically spotting this at time, prevented highlanders to just only gains more nerfs than buffs
 
 - Contestant HP to 35 (+2)
 - Stonethrower HP to 47 (+3) , XP from 72 to 67 , price to 28g (-4g)
@@ -2075,6 +2140,7 @@ Too many nerfs in highlanders, need a buff even in something strong.
 
 
 ME - HIVE  
+- hivequeen(foot) arcane ressistance to 20% (+20%)
 - Hivefoot now has 10% arcane res
 - ALL flies
 
@@ -2122,6 +2188,13 @@ AND MORE AWE COUNTERS COMING IN 4.31
 
 
 ME - HOLY ORDER 
+- officerfoot / officermounted --> sand movement cost to 2 (-1)
+- officerfoot cave defense to 40% (+10%)
+- officerfoot / officermounted / interrogatorfoot --> water/swamp defense to 20% (-10%)
+- officermounted frozen movement cost to 2 (-1)
+- officermounted frozen defense to 30% (+10%)
+- interrogatorfoot cave movement cost to 1 (-1)
+Interrogator sacrifices +1 sand movement cost for -1 movement cost, sometimes this can be favorable.
 
 - Crusader arcane melee attack adjusted from 10-2 to 8-3 , price to 24g (-2g)
 - Paladin price to 57g (+5g)
@@ -2155,6 +2228,8 @@ ME - HOLY ORDER
 
 
 ME - INFERNAI
+- infernaicave unwalkable defense to 50% (-10%)
+- infernaidog reef movement cost to 2 (-1)
 
 - Dominated price to 48g (+8g)
 
@@ -2192,6 +2267,10 @@ Pretty bulky lv2 leadership unit
 
 
 ME - ORACLES
+- disciplefoot / darkfoot / sagefoot / savantfoot / omniscientfoot --> reef movement cost to 2 (-1)
+- disciplefoot / darkfoot water/swamp defense to 20% (-10%)
+- disciplefoot / darkfoot frozen defense to 30% (+10%)
+- omniscientfoot water/swamp/frozen defenses from 60% to 50%
 
 - Evileye added parry(5%) on ranged , price to 33g (-1g)
 
@@ -2231,6 +2310,18 @@ ME - ORACLES
 
 ME - REFUGEES
 Pretty interesting faction, I should test them soon.
+Really underpowered in exotic terrains...
+- refugeefoot / refugeehorse water/swamp defense to 20% (-10%)
+- refugeefoot / refugeehorse sand movement cost to 2 (-1) , sand defense to 30% (+10%)
+- refugeefoot / refugeeheavy / refugeewall --> cave movement cost to 2 (-1) , cave defense to 40% (+20%)
+- refugeefot fungus movement cost to 2 (-1)
+- refugeewall frozen movement cost to 2 (-1)
+- refugeeheavy sand defense to 20% (+10%)
+- refugeehorse frozen movement cost to 2 (-1) , sand defense to 30% (+10%)
+- refugeeboat sand/frozen movement cost from IMPASSABLE to 3
+- refugeeboat cave movement cost from IMPASSABLE to 6
+- refugeeboat castle defense to 20% (+10%)
+
 
 - Cleaner XP from 54 to 47
 - Purifier price to 38g (-4g)
@@ -2264,6 +2355,8 @@ low health, reason it doesn't cost even more.
 
 
 ME - SLAVERS
+- freefoot / entrancefoot / holdfoot / conductfoot --> reef movement cost to 2 (-1)
+- subjfoot / punishfoot / muttfoot / eaterfoot --> reef movement cost to 2 (-1)
 - All mutts (except berserk) fire ressistance to -10% (+10%)
 
 - Elder Hawk price to 18g (+8g)
@@ -2288,6 +2381,7 @@ ME - SLAVERS
 
 
 ME - TRIBE
+- tribefoot / tribeheavy / tribefoot2 / tribefoot3 / tribewally / triberoo --> reef movement cost to 2 (-1)
 
 - Boomerang Thrower melee damage decrease to 4-2 , NEW ATTACK: Boomerang 6-2 impact melee +spinning +attack only , ranged damage increase to 8-2 , price to 18g (+1g)
 - Ranger NEW ATTACK: Boomerang 11-2 impact melee +spinning +attack-only
