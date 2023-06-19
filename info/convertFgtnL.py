@@ -30,14 +30,14 @@ replacements = [
 
 def getAgelessPath(dname, fname):
 	if "factions" in dname:
-		return os.path.join(".","Ageless_Era","factions","FgtnL",fname)
+		return os.path.join(".","Ageless_Era","factions","FL",fname)
 	if "units" in dname:
 		basename = os.path.basename(dname)
 		if basename == "units":
 			basename = ""
-		return os.path.join(".","Ageless_Era","units","FgtnL_units",basename,fname)
+		return os.path.join(".","Ageless_Era","units","FL_units",basename,fname)
 	if "macros" in dname:
-		return os.path.join(".","Ageless_Era","data","FgtnL_data",fname)
+		return os.path.join(".","Ageless_Era","data","FL_data",fname)
 	raise Exception("Unhandled folder {}".format(dname))
 
 eras = defaultdict(str)
@@ -58,7 +58,7 @@ for dname, dirs, files in os.walk("."):
 		for (find, replace) in replacements:
 			s = s.replace(find, replace)
 		if "factions" in dname:
-			s = s.replace('name= _ "', 'name= _ "FgtnL - ')
+			s = s.replace('name= _ "', 'name= _ "FL - ')
 			if "Heroes" in fname:
 				eras["heroes"] += s
 				eras["heroes"] += "\n"
@@ -73,18 +73,18 @@ for dname, dirs, files in os.walk("."):
 			with open(afpath, "w", encoding="utf8") as f:
 				f.write(s)
 
-with open("Ageless_Era/units/FgtnL_units/units.cfg", "a", encoding="utf8") as f:
+with open("Ageless_Era/units/FL_units/units.cfg", "a", encoding="utf8") as f:
 	f.write("""
 
-{GET_AE_UNITS FgtnL_units/frakcja1}
-{GET_AE_UNITS FgtnL_units/frakcja2}
-{GET_AE_UNITS FgtnL_units/frakcja3}
-{GET_AE_UNITS FgtnL_units/frakcja4}
-{GET_AE_UNITS FgtnL_units/frakcja5}
+{GET_AE_UNITS FL_units/frakcja1}
+{GET_AE_UNITS FL_units/frakcja2}
+{GET_AE_UNITS FL_units/frakcja3}
+{GET_AE_UNITS FL_units/frakcja4}
+{GET_AE_UNITS FL_units/frakcja5}
 """)
 
 # factions to file
 for era in eras:
 	os.makedirs(os.path.dirname("Ageless_Era/factions/{}/".format(era)), exist_ok=True)
-	with open("Ageless_Era/factions/{}/{}-FgtnL.cfg".format(era, era), "w", encoding="utf8") as f:
+	with open("Ageless_Era/factions/{}/{}-FL.cfg".format(era, era), "w", encoding="utf8") as f:
 		f.write(eras[era])

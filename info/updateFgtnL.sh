@@ -8,11 +8,11 @@ cd ./Forgotten_Legends/
 cd ..
 wmlindent ./Forgotten_Legends/Ageless_Era
 
-rm -r ./Ageless_Era/data/FgtnL_data
-rm -r ./Ageless_Era/units/FgtnL_units
-mv ./Forgotten_Legends/Ageless_Era/data/FgtnL_data ./Ageless_Era/data/FgtnL_data
-mv ./Forgotten_Legends/Ageless_Era/units/FgtnL_units ./Ageless_Era/units/FgtnL_units
+rm -r ./Ageless_Era/data/FL_data
+rm -r ./Ageless_Era/units/FL_units
+mv ./Forgotten_Legends/Ageless_Era/data/FL_data ./Ageless_Era/data/FL_data
+mv ./Forgotten_Legends/Ageless_Era/units/FL_units ./Ageless_Era/units/FL_units
 
-mv ./Forgotten_Legends/Ageless_Era/factions/default/default-FgtnL.cfg ./Ageless_Era/factions/default/default-FgtnL.cfg
-mv ./Forgotten_Legends/Ageless_Era/factions/heroes/heroes-FgtnL.cfg ./Ageless_Era/factions/heroes/heroes-FgtnL.cfg
-mv ./Forgotten_Legends/Ageless_Era/factions/RPG/RPG-FgtnL.cfg ./Ageless_Era/factions/RPG/RPG-FgtnL.cfg
+mv ./Forgotten_Legends/Ageless_Era/factions/default/default-FL.cfg ./Ageless_Era/factions/default/default-FL.cfg
+mv ./Forgotten_Legends/Ageless_Era/factions/heroes/heroes-FL.cfg ./Ageless_Era/factions/heroes/heroes-FL.cfg
+mv ./Forgotten_Legends/Ageless_Era/factions/RPG/RPG-FL.cfg ./Ageless_Era/factions/RPG/RPG-FL.cfg
