@@ -10,8 +10,9 @@ replacements = [
 	# needs manual review
 	#("FL","AE_FGTNL_"),
 	
-	# probably core macro
+	# incorrect replacements
 	("MUZZLE_AE_FGTN_","MUZZLE_FL"),
+	("~AE_FGTNL_","~FL"),
 	
 
 	("""
