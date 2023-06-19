@@ -5,10 +5,10 @@ from collections import defaultdict
 replacements = [
 	
 
-	#("FL_","AE_FGTN_"),
-	#("_FL","_AE_FGTN_"),
+	("FL_","AE_FGTN_"),
+	("_FL","_AE_FGTN_"),
 	# needs manual review
-	#("FL","AE_FGTNL_"),
+	("FL","AE_FGTNL_"),
 	
 	# incorrect replacements
 	("MUZZLE_AE_FGTN_","MUZZLE_FL"),
