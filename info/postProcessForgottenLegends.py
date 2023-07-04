@@ -20,8 +20,8 @@ replacements = [
 	("{ABILITY_DEFENDER","{AE_FL_ABILITY_DEFENDER"),
 	("{ABILITY_LEADERSHIP_MONSTERS_2","{AE_FL_ABILITY_LEADERSHIP_MONSTERS_2"),
 	("{ABILITY_LEADERSHIP_MONSTERS_3","{AE_FL_ABILITY_LEADERSHIP_MONSTERS_3"),
-	("{ABILITY_MASTERHEAL","{AE_FL_ABILITY_MASTERHEAL"),
-	("{ABILITY_ULTIMATEHEAL","{AE_FL_ABILITY_ULTIMATEHEAL"),
+	("{ABILITY_MASTERHEAL","{ABILITY_AE_MAG_HEAL 10"),
+	("{ABILITY_ULTIMATEHEAL","{ABILITY_AE_MAG_HEAL 12"),
 	("{ABILITY_SHADOWAURA","{AE_FL_ABILITY_SHADOWAURA"),
 	("{ABILITY_AURA_OF_LIFE","{AE_FL_ABILITY_AURA_OF_LIFE"),
 	("{WEAPON_SPECIAL_EAGLE_EYE","{AE_FL_WEAPON_SPECIAL_EAGLE_EYE"),
@@ -35,6 +35,13 @@ replacements = [
 	("{SUMMON_REPLICATE2_MENU","{AE_FL_SUMMON_REPLICATE2_MENU"),
 	("__DUMMY__","__DUMMY__")
 ]
+
+for k,v in replacements:
+	if k[0] == "{" and v[0] == "{" and " " not in k+v:
+		if k[-1] == "}" and v[-1] == "}":
+			replacements.append(("#define "+k[1:-1], "#define "+v[1:-1]))
+		else:
+			replacements.append(("#define "+k[1:], "#define "+v[1:]))
 
 unit_type_mapping = get_unit_type_mapping("../units/FL_units")
 for k in unit_type_mapping:
