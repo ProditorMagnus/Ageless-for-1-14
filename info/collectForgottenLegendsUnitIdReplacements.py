@@ -14,6 +14,7 @@ folder_to_faction = {
 
 def get_unit_type_mapping(source="."):
 	unit_type_mapping = {}
+	unit_file_mapping = {}
 	for dname, dirs, files in os.walk(source):
 		if "units" not in dname:
 			continue
@@ -41,12 +42,13 @@ def get_unit_type_mapping(source="."):
 							
 							new_type = "AE_FL_"+faction+"_" + unit_type_name.replace(" ", "_")
 							unit_type_mapping[old_type] = new_type
+							unit_file_mapping[fname] = unit_type_name.replace(" ", "_")+".cfg"
 							break
 						
 							
 					if "[unit_type]" in line:
 						unit_type=True
-	return unit_type_mapping
+	return [unit_type_mapping, unit_file_mapping]
 	
 if __name__ == "__main__":
 	print(get_unit_type_mapping(source="../units/FL_units"))

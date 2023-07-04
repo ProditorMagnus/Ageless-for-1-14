@@ -3,6 +3,14 @@ import os
 from collections import defaultdict
 from collectForgottenLegendsUnitIdReplacements import get_unit_type_mapping
 
+folder_to_faction = {
+	"frakcja1": "pirates",
+	"frakcja2": "natives",
+	"frakcja3": "bloodelf",
+	"frakcja4": "amazon",
+	"frakcja5": "altaris"
+}
+
 replacements = [
 	("{WEAPON_SPECIAL_ATTACKONLY}","{WEAPON_SPECIAL_ATTACK_ONLY}"),
 	("{WEAPON_SPECIAL_NOCOUNTERATTACK}","{WEAPON_SPECIAL_AE_MAG_NOCOUNTERATTACK}"),
@@ -43,7 +51,7 @@ for k,v in replacements:
 		else:
 			replacements.append(("#define "+k[1:], "#define "+v[1:]))
 
-unit_type_mapping = get_unit_type_mapping("../units/FL_units")
+unit_type_mapping, unit_file_mapping = get_unit_type_mapping("../units/FL_units")
 for k in unit_type_mapping:
 	replacements.append((k, unit_type_mapping[k]))
 
@@ -51,16 +59,22 @@ eras = defaultdict(str)
 for dname, dirs, files in os.walk(".."):
 	if "FL_units" not in dname and "FL_data" not in dname and "factions" not in dname:
 		continue
-	print(dname)
+	directory_name = dname.split("\\")[-1]
+	print(dname, directory_name)
 	for fname in files:
 		fpath = os.path.join(dname, fname)
 		afpath = fpath
+		if directory_name in folder_to_faction:
+			afpath = afpath.replace(directory_name, folder_to_faction[directory_name])
 		# print(fpath, afpath)
 		with open(fpath,encoding="utf8") as f:
 			s = f.read()
 		for (find, replace) in replacements:
 			s = s.replace(find, replace)
 		else:
+			if fname in unit_file_mapping:
+				afpath = afpath.replace(fname, unit_file_mapping[fname])
+				os.remove(fpath)
 			os.makedirs(os.path.dirname(afpath), exist_ok=True)
 			with open(afpath, "w", encoding="utf8") as f:
 				f.write(s)

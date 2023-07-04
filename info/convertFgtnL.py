@@ -76,11 +76,11 @@ for dname, dirs, files in os.walk("."):
 with open("Ageless_Era/units/FL_units/units.cfg", "a", encoding="utf8") as f:
 	f.write("""
 
-{GET_AE_UNITS FL_units/frakcja1}
-{GET_AE_UNITS FL_units/frakcja2}
-{GET_AE_UNITS FL_units/frakcja3}
-{GET_AE_UNITS FL_units/frakcja4}
-{GET_AE_UNITS FL_units/frakcja5}
+{GET_AE_UNITS FL_units/altaris}
+{GET_AE_UNITS FL_units/amazon}
+{GET_AE_UNITS FL_units/bloodelf}
+{GET_AE_UNITS FL_units/natives}
+{GET_AE_UNITS FL_units/pirates}
 """)
 
 # factions to file
