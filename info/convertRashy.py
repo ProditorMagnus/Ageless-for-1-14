@@ -69,6 +69,7 @@ for dname, dirs, files in os.walk("."):
 		if "factions" in dname:
 			s = s.replace("{AE_RHY_UNIT_NOTICE}+", "")
 			s = s.replace('name= _"', 'name= "RE - " + _"')
+			s = s.replace('name=_"', 'name= "RE - " + _"')
 			if "default" in fname:
 				eras["default"] += s
 				eras["default"] += "\n"
