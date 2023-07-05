@@ -16,3 +16,6 @@ mv ./Era_of_Magic/Ageless_Era/units/EoMa_units ./Ageless_Era/units/EoMa_units
 mv ./Era_of_Magic/Ageless_Era/factions/default/default-EoMa.cfg ./Ageless_Era/factions/default/default-EoMa.cfg
 mv ./Era_of_Magic/Ageless_Era/factions/heroes/heroes-EoMa.cfg ./Ageless_Era/factions/heroes/heroes-EoMa.cfg
 mv ./Era_of_Magic/Ageless_Era/factions/RPG/RPG-EoMa.cfg ./Ageless_Era/factions/RPG/RPG-EoMa.cfg
+
+rm -r ./Era_of_Magic/Ageless_Era
+rm ./Era_of_Magic/convertEoMa.py
