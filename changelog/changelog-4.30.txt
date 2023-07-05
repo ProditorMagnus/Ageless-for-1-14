@@ -55,8 +55,8 @@ Extra movement will allow this unit to get better positioned before day starts, 
 
 Disabled aspect of the hunter special as it conflicts with some gamemodes.
 - Blood Maiden XP from 42 to 40
-- Vengeance XP from 90 to 85 , added 5% parry on melee
-- Seeker added 5% parry on melee.
+- Vengeance XP from 90 to 85 , added 5% parry on melee , added +Bold special
+- Seeker added 5% parry on melee , added +Bold special
 
 - Lidh ranged damage increase to 5-4 , also getting self heal(2) -doesn't cure poison- as bonus.
 - Phade HP to 40 (+4) , movement to 6 (+1) , ranged damage increase to 8-4 , XP from 90 to 80 , also getting self heal(2) -doesn't cure poison- as bonus. 
