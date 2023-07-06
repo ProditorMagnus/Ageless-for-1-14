@@ -34,7 +34,7 @@ replacements = [
 ]
 
 unit_type_mapping = get_unit_type_mapping()
-for k in unit_type_mapping:
+for k in sorted(unit_type_mapping, key=lambda x: -len(x)):
 	replacements.append((k, unit_type_mapping[k]))
 
 

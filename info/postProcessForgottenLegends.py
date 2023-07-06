@@ -52,7 +52,7 @@ for k,v in replacements:
 			replacements.append(("#define "+k[1:], "#define "+v[1:]))
 
 unit_type_mapping, unit_file_mapping = get_unit_type_mapping("../units/FL_units")
-for k in unit_type_mapping:
+for k in sorted(unit_type_mapping, key=lambda x: -len(x)):
 	replacements.append((k, unit_type_mapping[k]))
 
 eras = defaultdict(str)
