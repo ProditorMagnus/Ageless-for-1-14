@@ -37,7 +37,7 @@ index 6b60d44..d3e9dc0 100644
 +    advances_to=AE_mag_Rhami,AE_mag_Fire_Elemental,AE_mag_Water_Elemental,AE_mag_Air_Elemental,AE_mag_Earth_Elemental
      cost=11
      usage=fighter
-     description={AE_EOMA_UNIT_NOTICE}+ _  "The most inexperienced of summoners are capable of summoning only dimensional gates: unstable bridges of arcane energy between this world and the Abyss. Dimensional gates, though primitive, are capable of surging forth with accurate pinpoint attacks of arcane matter. Although weak and fragile, a single fallen life is all that the gate requires in order to solidify itself into a true door for a being from the Abyss to emerge out of."+{SPECIAL_NOTES}+{SPECIAL_NOTES_MAGICAL}+{SPECIAL_NOTES_SKIRMISHER}+{SPECIAL_NOTES_ARCANE}+{SPECIAL_NOTES_FIRSTSTRIKE}
+     description={AE_EOMA_UNIT_NOTICE}+ _  "The most inexperienced of summoners are capable of summoning only dimensional gates: unstable bridges of arcane energy between this world and the Abyss. Dimensional gates, though primitive, are capable of surging forth with accurate pinpoint attacks of arcane matter. Although weak and fragile, a single fallen life is all that the gate requires in order to solidify itself into a true door for a being from the Abyss to emerge out of."
 diff --git a/units/EoMa_units/Summoners/Dimensional_Gate_2.cfg b/units/EoMa_units/Summoners/Dimensional_Gate_2.cfg
 index fe92046..f590d48 100644
 --- a/units/EoMa_units/Summoners/Dimensional_Gate_2.cfg
@@ -45,7 +45,7 @@ index fe92046..f590d48 100644
 @@ -17,14 +17,14 @@
      image="units/summoners-enchanted-ones/dg2-icon-large.png"
      image_icon="units/summoners-enchanted-ones/dg2-icon.png"
- 	
+
 -    hitpoints=27
 +    hitpoints=22
      movement_type=undeadspirit
@@ -58,7 +58,7 @@ index fe92046..f590d48 100644
 -    cost=21
 +    cost=24
      usage=fighter
-     description={AE_EOMA_UNIT_NOTICE}+ _  "The most inexperienced of summoners are capable of summoning only dimensional gates: unstable bridges of arcane energy between this world and the Abyss. Dimensional gates, though primitive, are capable of surging forth with accurate pinpoint attacks of arcane matter. Although weak and fragile, a single fallen life is all that the gate requires in order to solidify itself into a true door for a being from the Abyss to emerge out of."+{SPECIAL_NOTES}+{SPECIAL_NOTES_MAGICAL}+{SPECIAL_NOTES_SKIRMISHER}+{SPECIAL_NOTES_ARCANE}+{SPECIAL_NOTES_FIRSTSTRIKE}
+     description={AE_EOMA_UNIT_NOTICE}+ _  "The most inexperienced of summoners are capable of summoning only dimensional gates: unstable bridges of arcane energy between this world and the Abyss. Dimensional gates, though primitive, are capable of surging forth with accurate pinpoint attacks of arcane matter. Although weak and fragile, a single fallen life is all that the gate requires in order to solidify itself into a true door for a being from the Abyss to emerge out of."
      [defend]
 diff --git a/units/EoMa_units/Summoners/Jinn.cfg b/units/EoMa_units/Summoners/Jinn.cfg
 index 58547ac..438fe24 100644
@@ -66,7 +66,7 @@ index 58547ac..438fe24 100644
 +++ b/units/EoMa_units/Summoners/Jinn.cfg
 @@ -20,9 +20,6 @@
      usage=archer
-     description={AE_EOMA_UNIT_NOTICE}+ _ "Jinns are special by even summoners’ standards due to their cognitive process to think, comprehend, learn, and even talk: an affinity that no other elemental from the Abyss can ever acquire. Made entirely of magic, jinns are vulnerable to the arcane magicks though more resilient against tangible weapons. These entities, while able to err like humans, are valued allies of the summoners, with their curious thoughts always wandering about."+{SPECIAL_NOTES}+{SPECIAL_NOTES_MAGICAL}+{SPECIAL_NOTES_ARCANE}
+     description={AE_EOMA_UNIT_NOTICE}+ _ "Jinns are special by even summoners’ standards due to their cognitive process to think, comprehend, learn, and even talk: an affinity that no other elemental from the Abyss can ever acquire. Made entirely of magic, jinns are vulnerable to the arcane magicks though more resilient against tangible weapons. These entities, while able to err like humans, are valued allies of the summoners, with their curious thoughts always wandering about."
      die_sound={SOUND_LIST:HUMAN_DIE}
 -    [abilities]
 -        {ABILITY_AE_MAG_REGENERATES4}
@@ -88,8 +88,8 @@ index b6f76a8..ae23cfe 100644
 --- a/units/EoMa_units/Summoners/Jinn_Great.cfg
 +++ b/units/EoMa_units/Summoners/Jinn_Great.cfg
 @@ -21,9 +21,6 @@
- 
- Great jinns frequently hold positions of authority, commanding divisions and even having a place of power in councils. Gifted with quick minds, great jinns still search for answers to life’s questions, despite the position they have."+{SPECIAL_NOTES}+{SPECIAL_NOTES_MAGICAL}+{SPECIAL_NOTES_DRAIN}+{SPECIAL_NOTES_ARCANE}
+
+ Great jinns frequently hold positions of authority, commanding divisions and even having a place of power in councils. Gifted with quick minds, great jinns still search for answers to life’s questions, despite the position they have."
      die_sound={SOUND_LIST:HUMAN_DIE}
 -    [abilities]
 -        {ABILITY_AE_MAG_REGENERATES4}
@@ -146,6 +146,5 @@ index 1c30a21..fd4f591 100644
          number=4
          [specials]
              {WEAPON_SPECIAL_MAGICAL}
--- 
+--
 2.6.3.windows.1
-
