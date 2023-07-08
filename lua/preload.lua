@@ -178,4 +178,33 @@ function wesnoth.wml_actions.AE_mag_remove_array_duplicates(cfg)
 	wml.array_access.set(name, outArray)
 end
 
+function wesnoth.wml_actions.AE_give_fight_xp(cfg)
+	local attacker_variable = cfg.attacker or "unit"
+	local defender_variable = cfg.defender or "second_unit"
+
+	local get_xp_to_give = function(unit_variable)
+		local xp_result = 0
+		if wml.variables[unit_variable..".hitpoints"] <= 0 then
+			xp_result = wml.variables[unit_variable..".level"] * wesnoth.game_config.kill_experience
+			if xp_result == 0 then
+				xp_result = wesnoth.game_config.kill_experience * 0.5
+			end
+		else
+			xp_result = wml.variables[unit_variable..".level"] * wesnoth.game_config.combat_experience
+		end
+		return xp_result
+	end
+
+	local attacker = wesnoth.units.get(wml.variables[attacker_variable..".id"])
+	local defender = wesnoth.units.get(wml.variables[defender_variable..".id"])
+
+	if cfg.attacker_xp ~= false and attacker ~= nil then
+		attacker.experience = attacker.experience + get_xp_to_give(defender_variable)
+	end
+
+	if cfg.defender_xp ~= false and defender ~= nil then
+		defender.experience = defender.experience + get_xp_to_give(attacker_variable)
+	end
+end
+
 -->>
