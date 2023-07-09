@@ -6,7 +6,10 @@ replacements = [
 	('{~add-ons/Era_of_Magic/units/hide_help.cfg}',''),
 	('{~add-ons/Era_of_Magic/','{~ERROR_EOMA_ABSOLUTE_PATH/'),
 	('Jinni','Jinn'),
-	
+
+	('{EOMA_AMLA_DEFAULT_CONDITIONAL', """{AMLA_DEFAULT}
+    {EOMA_AMLA_DEFAULT_CONDITIONAL"""),
+
 	('barbarians_rpg','barbarians'),
 	('darkblood_rpg','darkblood'),
 	('destroyers_rpg','destroyers'),
