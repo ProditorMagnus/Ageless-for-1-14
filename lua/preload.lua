@@ -7,10 +7,6 @@ local function sign(x)
 end
 local abs=math.abs
 
-if wesnoth.current_version() < wesnoth.version("1.15.15") then
-	wesnoth.message("store_time_of_day does not work correctly in 1.15.14 https://github.com/wesnoth/wesnoth/issues/5944")
-end
-
 function wesnoth.wml_conditionals.AE_is_rpg()
 	local id = wesnoth.scenario.era.id or ""
 	id = id:lower()
@@ -44,11 +40,7 @@ function wesnoth.wml_conditionals.AE_not_active()
 end
 
 function wesnoth.wml_conditionals.Ravana()
-	return wesnoth.have_file("~add-ons/DBG_Modification/_main.cfg")
-end
-
-function wesnoth.wml_conditionals.AE_beta()
-	return wesnoth.wml_conditionals.Ravana() or AE_use_beta_features == "use_beta_features"
+	return filesystem.have_file("~add-ons/DBG_Modification/_main.cfg")
 end
 
 function wesnoth.wml_actions.AE_read_file(cfg)
