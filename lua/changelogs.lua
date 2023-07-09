@@ -1,4 +1,4 @@
---<< 
+--<<
 
 local T = wml.tag
 
@@ -59,6 +59,7 @@ local message = {
             T.fire_event { name = "AE_show_changelog_menu" }
         }
     },
+	changelog("4.29"),
 	changelog("4.28"),
 	changelog("4.27"),
     T.option {

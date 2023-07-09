@@ -1,0 +1,2634 @@
+
+Ageless Edit log
+77 factions reviewed so far (EOM , EOMA, RE excluded)
+
+Also reworked ELE - Trascendent special
+Also fixed ME - Triplestrike no longer incluiding EoMa - Triplestrike as well.
+
+ME - Movefoot types spotted and fixed in 25/05/2023 (2 weeks later than other changes)
+Didn't expect MERCS foottypes were THAT STRANGE lmao
+
+Usually factions listed in first will have more accurate and exact rebalance changes.
+Factions in bottom is most likely to have inexactitudes at balancing while not as much as before the changes
+
+First on list, revision of factions with no healers (special focus of this release).
+Then , factions reviewed era per era.
+
+
+DARK LEGION
+
+- Dark Bowman XP from 39 to 36
+- Dark Crossbowman XP from 80 to 70 , crossbow (fire) damage increase to 11-2 , HP to 48 (+3) , price to 24g (-3g)
+- Dark Advamced crossbowman crossbow (fire) damage increase to 16-2 , HP to 64 (+4) , added 10% fire ressistance , price to 50g (+4g)
+- Dark Longbowman XP from 75 to 65 , price to 25g (-3g)
+
+- Assault Drone blade/pierce/cold ressistances to 10% (+10%) , HP to 45 (+3) , price to 28g (-2g)
+- War Drone HP to 60 (+8) , melee readjusted from 8-3 to 7-4 , price to 56g (+4g)
+
+- Drone Sentry fire weakness decrease to -10% (+10%) , HP to 48 (+2) , price to 28g (-2g)
+- Drone Enforcer fire weakness decrease to -10% (+10%) , HP to 65 (+3) , Fangs damage increase to 12-3 , claws damage readjusted from 9-4 to 8-5 , price to 56g (+4g)
+
+- Pillager price to 30g (-4g) 
+
+- Protector drone HP to 46 (+7) , movement to 5 (-1) , AMLA XP increase to 100 (+20) , price to 30g (-2g)
+- Rayblade HP to 44 (+6) and gained +first-strike
+- Stormblade HP to 63 (+14) , Energy Shock damage increase to 9-2 , price to 54g (+4g)
+
+- Dark Warrior Price to 60g (+6g)
+- Champion Price to 54g (+11g)
+- Gunner Price to 24g (-2g)
+- Elite Gunner price to 51g (+5g)
+- Halberdier price to 24g (-2g)
+- Deathmaster price to 53g (+7g)
+
+- Crusher HP to 50 (+2) , impact ressistance increase to 20% (+10%)
+- Guardian XP from 100 to 80 , impact ressistance to 20% (+10%) , price to 29g (-6g)
+- Terror Impact ressistance increase to 20% (+10%)  
+
+
+DEEP ELVES
+
+- Mintours movement to 6 (+1) , new special +low-upkeep , AMLA XP lowered to 100
+Extra movement will allow this unit to get better positioned before day starts, and low upkeep to hoar less golds for an unit you can use only 4/6 of game.
+
+- Tyr'hai rider XP from 45 to 40 , movement to 7 (+1)
+
+Disabled aspect of the hunter special as it conflicts with some gamemodes.
+- Blood Maiden XP from 42 to 40
+- Vengeance XP from 90 to 85 , added 5% parry on melee , added +Bold special
+- Seeker added 5% parry on melee , added +Bold special
+
+- Lidh ranged damage increase to 5-4 , also getting self heal(2) -doesn't cure poison- as bonus.
+- Phade HP to 40 (+4) , movement to 6 (+1) , ranged damage increase to 8-4 , XP from 90 to 80 , also getting self heal(2) -doesn't cure poison- as bonus. 
+- Irr HP to 49 (+3) , movement to 6 (+1) , ranged damage increase to 11-4 , unit will now regen+5 and can cure poison from itself , price to 53g (+9g)
+- Elthare HP to 42 (+4) , ranged damage increase to 6-3 , will now regens+4 and can cure itself from poison.
+
+- Nightmaiden HP to 34 (+2)
+- Nightstalker HP to 45 (+7) , both melee and ranged damage increases from 8 to 9, spurt temporally adjusted to 2 as it's not bugged, price to 28g (-4g)
+- Baroness of the Night HP to 55 (+7) , melee damage increase to 12-3 , temporally setted to lv1 spurt value as it's not bugged, price to 54g (+6g) , added parry 5% on ranged.
+- Vault Lurker HP to 42 (+6) , adjusted ranged fro, 6-2 to 5-3, cold ressist to 20% (+10%) , melee addition of +first-strike , temporally adjusted spurt of lv1 as it's not bugged.
+
+- Priestess of the vault movement to 6 (+1)
+- Seer NEW ATTACK: Energy Ball 9-4 arcane ranged +first-strike , melee damage increase to 7-3 , price to 56g (+8g)
+- Patroness XP from 150 to 120 , price to 55g (+5g)
+- Harbinger ranged attack damage type changed from arcane to impact, price to 85g (+5g)
+
+
+FROZEN
+
+- Frost Gunner HP to 42 (+4) , XP from 86 to 80 , arcane ressist to -10% (-20%) , cold spikes damage increase to 11-2 , price to 30g (-2g)
+- Frost Gunner Master HP to 55 (+3) , arcane ressist to 0% (-20%) , fire ressist to -20% (+10%) , cold spikes damage increase to 16-2 , melee damage increase to 6-4
+- Berserker Golem cold crazy blades damage increase to 7-3 , price to 33g (-3g)
+
+- Frost Shooter HP to 42 (+4) , pierce ressistance to 20% (+10%) , XP from 88 to 80 , price to 28g (-4g)
+- Frost Fury Shooter HP to 52 (+2) , arcane ressitance to -10% (+10%) , cold ressist to 50% (+10%) , price to 54g (+7g)
+- Frost Warrior HP to 45 (+3) , blade ressistance to 30% (+10%) , XP from 80 to 95
+- Frost Heavy Warrior HP to 72 (+15)
+
+- Frost Lanceman price to 25g (-3g)
+- Frost Lancemaster price to 52g (+4g)
+
+- Frost Mage fire ressistance to -10% (+5%) , blade ressistance to 0% (+5%) , arcane ranged damage increase to 9-3 , melee damage decrease to 5-2 , price to 35g (-2g)
+- Frost sorceress melee damage decrease to 8-2 , arcane ranged damage increase to 12-3
+- Frost Witch XP from 100 to 75 , price to 34g (-3g)
+- Frost Queen HP to 45 (+2) , cold ranged damage decrease to 16-2
+
+- Big Ice Golem XP from 100 to 85 , price to 29g (-3g)
+- Ice Golem King XP from 134 to 120, price to 55g (-10g)
+
+
+STEEL HIVE
+
+- Amniote added "low upkeep" special
+- Steel Choriote melee damage increase to 6-2 , price to 22g (-2g)
+- Steel Scout price to 32g (-2g)
+
+- Steel Nymph price to 24g (-4g)
+- Steel Syren price to 45g (-7g)
+- Steel Hivequeen XP from 125 to 100
+- Steel Empress Melee damages increased to 9-4 & 15-2 , ranged damage increase to 10-3 , price increase to 84g (+9g)
+
+- Steel Mirage AMLA XP adjusted from 86 to 90 , price to 14g (-1g)
+
+- Steel Sparkgazer XP from 84 to 80 , price to 29g (-7g)
+- Boltstriker price to 55g (-4g)
+
+- Bladewhilder price to 37g (-3g)
+- Steel Vector XP from 75 to 80 , price to 27g (-7g)
+- Steel Fidelant AMLA XP increase to 125
+
+
+YOKAI
+
+- Kitsune XP from 75 to 84
+- Nine tailed fox melee damage decrease to 6-2 , price to 54g (+9g)
+Only nerfed unit appart of swarms and spriggans, rest are yokai buffs
+
+- Medusa melee damage increase to 4-2 , HP to 52 (+2) cold ressistance to 0% (+20%) , added +feeding
+- Medusa Witch melee damage increase to 5-2 , cold ressistance to 10% (+30%) , added +feeding , petrify damage lowered to 20-1 and added +attack-only
+NEW ATTACK: 30-1 with slows only , price to 48g (+8g)
+With this I fix the AI not using this attack in defense and causing weird petrifying effect.
+
+- All spriggans swamp movement cost from 1 to 2 , swamp defense from 40% to 30%
+(mandragora defense unnaffected because lv1 cap)
+
+- Leshi HP to 38 (+2)
+- Elder Leshi arcane ressistance to -10% (+10%) , HP to 52 (+4)
+
+- Swarm Spawn XP from 16 to 19
+- Slurger Swarm HP to 25 (-1) , XP from 40 to 44
+Swarm(3) was a powerful buff they obtained, now time to take part of that.
+- Moving Fortress HP to 34 (-1)
+
+- All weavers added 10% cold res.
+- Weaver Widow will now have +Feeding
+
+Don't want to change more stuff for now, I want to rebuild this faction a day later.
+
+
+ELE - CENTAUR
+
+- Angelician XP from 43 to 38
+- Priestess HP to 36 (+1) , XP from 43 to 38
+- Arch Priestess HP to 50 (+6)
+
+- Archer XP from 44 to 38
+- Huntress price to 29g (-5g) , XP from 68 to 65
+
+- Fighter XP from 38 to 35
+- Warrior sword damage increase to 9-3 , kick damage damage increase to 12-2, XP from 67 to 72
+- Spearfighter spear damage increase to 13-2 , HP to 55 (+3) ,cold ressist to 10% (+10%)
+- Captain Kick damage increase to 14-2 , HP to 62 (+2) , cold ressist to 10% (+10%) , price to 55g (+3g)
+
+- Chaser XP from 72 to 85
+- Guard price to 54g (+2g)
+- Retriever price to 58g (+6g)
+
+- Pegasus HP to 34 (+2) , ranged damage increase to 5-2
+- Sentinel HP to 48 (+2) , ranged damage increase to 7-2
+- Divine Price to 55g (+4g) , melee arcane damage increase to 12-3
+- Guardian Shield damage increase to 9-4 , 
+
+- Seductress ranged damage increase to 9-2 , XP from 45 to 38
+- Apprentice impact ranged damage increase to 13-2 , pierce ranged damage increase to 6-4 , fire/cold ressist to 10% (+10%)
+- Enchantress impact ranaged damage increase to 16-2 , arcane ressist to 15% (+5%) , fire/cold ressist to 15% (+15%) , price to 51g (+6g)
+
+- Javeleriene HP to 52 (+4) , cold ressist to 10% (+10%)
+- Spearmaiden HP to 65 (+7) , Shield (defense only) damage increase to 13-2 , price to 54g (+8g) , cold reesist to 10% (+10%)
+
+
+ELE - TRUE VIKINGS
+
+- Jegare XP from 43 to 38 , NEW ATTACK: fire arrow 7-2 , price to 18g (+1g)
+- Ster can now heal allies from poison! but cannot heal hitpoints to allies , price to 34g (-3g)
+- Jagerffy now heal allies from poison! but cannot heal hitpoints to allies
+- Snikskytter fire arrow damage increase to 8-3 , price to 32g (-2g)
+- Skarpskytter fire arrow damage increase to 11-3 , price to 53g (+5g) , fire ressistance to +10% , cold ressist to 20% (+10%)
+
+- Lendr price to 17g (-1g) , HP to 42 (+2)
+- Hersir HP to 70 (+6) , price to 57g (+5g)
+- Jarl XP from 134 to 115 , price to 61g (+7g)
+- High King price to 84g (+14g)
+
+- Oks Kriger XP from 40 to 35 , impact ressistance to 10% , shield damage increase to 9-2
+- Stor Oks ranged damage adjusted to 5-2 (from 6-1) , shield damage increase to 11-2 , impact ressistance increase to 20%
+- Okse Skjold ranged damage adujsted to 7-2 (from 8-1) , axe damage increase to 14-3 , shield damage increase to 16-2 , HP to 60 (+3) , impact ressist to 20% , price to 54g (+8g)
+
+- Stor Spyd ranged damage adjusted to 6-2 (from 10-1) , pierce ressist to 10% , HP to 48 (+3)
+- Spyd Skjold ranged damage adjusted to 7-2 (from 10-1) , pierce ressist to 10% , shield damage increase to 14-2 , HP to 62 (+5) , price to 53g (+9g)
+
+- Stor Sverd bow damage increase to 6-3 , shield damage increase to 12-2 , blade ressistance to 10%
+- Sverd Skjold bow damage increase to 8-3 , shield damage increase to 15-2 , blade ressistance to 10% , price to 54g (+8g)
+
+- Thegn XP from 42 to 38
+- Radningar will now heal himself +3 after a sucessful kill.
+- Merkis will now heal himself +4 after a sucessful kill.
+- Valnir will now heal himself +2 after a sucessful kill.
+- Hurlskarl worsened {AE_MRC_ABILITY_FURY} to {ABILITY_AE_MAG_FURY} (unit can attack again, but will not gain 2 movement after each kill.
+Additionally zerking axe damage increase to 9-4 as compensation. Unit also gains very moderate healing +2 after a kill.
+
+- Skuldelev NEW ATTACK: fire arrows 7-2 , price to 20g (+1g)
+- Gokstad XP from 159 to 110
+
+
+ELE - FALLEN
+
+- ALL TAMERS blade resistance from 0% to 10% , impact resistance from -20% to -10%
+- Dragon Rider hard-landing value decreased to 10 (-5)
+- ALL Fallen (infanry) cold ressist to 10% (+20%)
+- ALL Fallen (infantry) forest movemnet cost from 2 to 1
+- Fallen Horses cold ressist to 10% (+20%)
+
+
+- TRASCEDENT AURA REWORK
+It now works more similar to Decay, as previous way was causing way too weird ressults in testing.
+1) Now magic ressistances upgrades are cumulative and could potentially go higher than 0%
+2) Now all physic ressistances do correctly get lowered by -20% correctly, same as if affected by enemy decay.
+3) Now decreases cold ressistance by -10%
+--- Indirectly, Asperser & Inquisitor ingame ressistances from -20% to 0%.
+Idea is that trascendent aura substracts more than what it adds, being situational. Gives 50% in ressists and -70% in weaknesses.
+
+- Fallen Enforcer HP to 32 (+1) , range damage increase to 5-3 , XP from 45 to 40
+- Fallen Infiltrator HP to 44 (+4) , added 50% markman on ranged.
+- Fallen Liquidator added 50% marksman on ranged, HP to 55 (+3) , price to 50g (+2g)
+- Fallen Inquisitor HP to 55 (+3) , price to 55g (+7g)
+
+
+- Fallen Fighter ranged damage increase to 5-2 , XP from 45 to 42 , HP to 36 (+2)
+- Fallen Slayer HP to 52 (+5) , price to 30g (-2g)
+- Fallen Decapitator HP to 60 (+6)
+- Fallen Revenger HP to 48 (+3)
+- Fallen Purgator HP to 63 (+3) , price to 55g (+4g)
+
+- Fallen Shieldbearer HP to 54 (+2) , shield attack now has ressistant+2 , price to 30g (-2g)
+- Fallen Shieldmaster cold ressist from -15% to -10% , HP to 66 (+2) , price to 55g (+7g)
+- Fallen Master XP from 160 to 130 , price to 60g (+2g)
+- Fallen Overlord XP from 240 to 190 , price to 80g (+8g)
+- Fallen Supreme Lord fixed knockback special in melee (previously some special that does not work) , price to 125g (+32g)
+
+
+
+ELE - HORNED SKELETONS
+
+- Corpse price to 9g (+1g)
+- Corpse Archer ranged damage adjusted to 6-3 , movement to 6 (+1)
+- Corpse Bone Shooter movement to 6 (+1)
+- Corpse HeadHunter movement to 6 (+1) , price to 51g (+4g)
+- Corpse Fighter HP to 36 (+2)
+- Corpse Amputator HP to 42 (+2) , XP from 85 to 80
+- Corpse Eliminator HP to 56 (+2) , price to 54g (+9g)
+- Corpse Inferno price to 55g (+5g)
+
+- Lich Underlord melee damage decrease to 6-4 , ranged damage increase to 10-2
+- Lich Tyrant melee damage decrease to 8-4
+
+- Skeletal Viper melee damage increase to 8-3
+
+- Skeletal Horse fihter price to 44g (+6g)
+- Skeletal Horse knight HP to 60 (+5) , price to 60g (+5g)
+
+- Skeletal Frontliner HP to 46 (+4) , price to 35g (-4g)
+- Skeletal Banner Bone HP to 55 (+5) , price to 48g (-3g)
+- Skeletal Guard price to 30g (-5g)
+- Skeletal Fortress price to 54g (+3g)
+
+- Skeletal Sorceress price to 36g (+4g)
+- Skeletal Maistresse price to 60g (+6g)
+
+
+
+EE - MONSTERS
+Underpowered faction that urgently needs buff, no access to magical or high accuracy specials is a big problem.
+
+- All fire wisps are now 40% impact (+10%) , 70% fire (+10%) ressistant and -40% (-10%) cold ressistat. 
+- Fire Guardian HP to 42 (+2) , price to 29g (-3g)
+- Fire Warrior Spirit HP to 54 (+2) , price to 52g (+4g)
+
+- Little Spider arcane ressistance to 10% (+10%) , XP from 42 to 38
+- Spider arcane ressistance to 10% (+10%) , XP from 80 to 70 , price to 30g (-2g)
+- Giant Spider arcane ressistance to 10% (+10%)
+
+- Scorpion price to 18g (-2g) , XP from 50 to 46
+- Overgrown scorpion movement to 5 (+1)
+
+- Wingless dragon XP from 150 to 125
+- Red Dragon XP from 200 to 167 , price to 70g (+11g)
+- Fire Dragon price to 100g (+16g)
+- Undead Dragon XP from 200 to 167 , price to 60g (+5g)
+- Skeletal Dragon price to 90g (+15g)
+
+- All wolves will now be +10% cold and arcane ressistant.
+
+- Scylla pierce ressistance to 20% (+10%) , melee damage increase to 14-3 , added +feeding special.
+
+Just buffed what had to be buffed for viability, rest are fine and are viable enough even with no buffs.
+
+
+ME - EMPEROR GUARDS
+Didn't expect emperor guard were doing THAT BAD with movement costs... buff was much stronger than expected.
+- ninjafoot / samuraifoot / martialfoot --> reef movement cost 2 (-1)
+- samuraifoot cave movement cost to 2 (-1)
+- samuraifoot / samuraimounted --> swamp/water defense to 20% (-10%)
+- samuraifoot / samuraimounted --> sand movement cost to 2 (-1)
+- samuraifoot / samuraimounted --> sand defense to 30% (+10%)
+- samuraiheavy cave movement cost to 2 (-1)
+- samuraimounted WATER defense to 20% (-20%)
+- samuraimounted frozen defense to 30% (+10%)
+
+- Martial Artist XP from 48 to 40
+- Musha XP from 82 to 80 , price to 27g (-3g)
+- Black Belt price to 55g (+2g)
+
+- Mounted Samurai XP from 48 to 44
+- Samurai Captain price to 37g (-3g)
+- Shogun XP from 137 to 115 , price to 60g (+11g)
+- Daimyo price to 85g (+26g)
+
+- Ninja XP from 46 to 40
+- Ninja Assasin XP from 85 to 77 , price to 29g (-2g)
+- Shadow Ninja HP to 55 (+2) , price to 54g (+4g)
+- Ninja Warrior XP from 77 to 74 , price to 26g (-3g)
+- Shinobi Price to 55g (+3g)
+
+- Ozutsu price to 15g (-1g)
+- Kyushu price to 26g (-4g) , fire ressistance to 10%
+- Kyushuryu fire ressistance to 20% , price to 55g (+2g)
+
+- Ryu XP from 52 to 42 , HP from 36 to 38 (as it gains no traits)
+- Tatsu HP to 51 (+2)
+
+- Bushi XP from 91 to 85 , price to 31g (-1g)
+- Demonic Samurai HP to 63 (+3)
+- Imperial Guard HP to 70 (+2) , price to 56g (+4g)
+- Monofu price to 29g (-3g) , XP from 82 to 80
+- Tsuwamono Price to 56g (+4g)
+
+- Shuriken Thrower XP from 47 to 40
+
+- Yumi XP from 40 to 36
+- Kyu fire ressistance increase to 10% , price to 24g (-3g)
+- Elite Kyu fire ressistance increase to 10% , price to 53g (+2g)
+
+
+ME - MERCENARIES
+Minor balance adjustments. Few buffs because of another faction without healers.
+They should be more adaptable to foregein terrains.
+- mercfootsoldier / mercfootsoldier2 / mercfootsoldier3 / mercarcher --> reef movement cost to 2 (-1)
+- mercarcher2 / mercarcher3 / merclight1 / merclight2 / mercmage --> reef movement cost to 2 (-1)
+- merchorse frozen movement cost to 2 (-1)
+
+- Protector price to 52g (+12g)
+
+- Mercenary HP to 36 (+1)
+- Hessian XP from 76 to 73 , price to 25g (-2g)
+- Man at Arms HP to 82 (-3)
+- Soldier of Fortune price to 55g (-5g)
+- Man Killer price to 26g (-2g)
+
+- Hunter XP from 45 to 38
+- Scavenger price to 28g (-6g) , ranged damage readjusted from 6-4 to 5-5 , can now remove poison from allies and himself.
+- Tracer XP from 78 to 70 , price to 24g (-2g)
+- Collector Price to 50g (+10g) 
+- Sniper now has parry +5% in ranged, price to 50g (-6g)
+
+- Seafarer net damage increase to 4-2
+- Mariner price to 54g (+16g) , HP to 60 (+2) , sword damage increase to 9-4
+- Corsair HP to 70 (+7) , price to 53g (+3g)
+- Pirate Captain now has +Leadership aura! , ranged damage adjusted from 10-2 to 6-2 , price to 57g (+27g)
+
+
+ME - CULT
+Lv1 exile XP nerf, slight buffs, and pricement fairness.
+- cultlightfoot sand defense to 40% (+10%)
+- cultlightfoot / cultmedfoot / cultbushfoot / cultfoot --> reef movement cost 2 (-1)
+- cultmutantfoot / exilefoot / exilefoot2 / exilefoot3 --> reef movement cost to 2 (-1)
+
+
+- Covert price to 32g (-4g) , HP to 38 (+2)
+- Spy HP to 48 (+3) , price to 52g (+6g)
+- Overt HP to 42 (+2)
+- Cleaner price to 50g (+6g)
+
+- Beacon price to 52g (+7g)
+
+
+- Exile XP from 42 to 46
+- Lonewolf HP to 46 (+4)
+- Banished HP to 52 (+4)
+- Condemmed price to 52g (+6g)
+
+- Freak HP to 41 (+3)
+- Miscreation HP to 57 (+4)
+- Monstrosity HP to 78 (+9)
+
+- Recruit XP from 42 to 39
+- Rebel price to 24g (-3g)
+- Subverter price to 49g (+5g)
+- Transformation price to 26g (-1g)
+- Mutant price to 54g (+7g) , blade attack readjusted from 23-1 to 17-2
+- Inhuman price to 84g (+14g)
+
+- Primordial price to 90g (+34g)
+
+
+EE - DARK ELVES
+
+- Sorceress can now cure allies from poison! XP from 86 to 80 , price from 36g to 33g
+
+- Warrior XP from 90 to 80
+- Corsair price to 55g (+3g)
+- Captain XP from 100 to 80 , price to 33g (-2g)
+
+- Hunter movement to 5 (-1) High quality lv1 still...
+- Shadow price to 29g (-4g)
+
+- Lizard Rider XP from 35 to 44
+- Lizard Master price to 44g (+9g)
+
+- Lord XP from 100 to 80 , price to 32g (-4g)
+
+- Wizard XP from 50 to 47
+- Sorcerer price to 36g (-3g)
+
+- Forst Wyrm melee damage increase to 11-2
+- Ryme Wyrm melee damage increase to 15-2
+- Mystral Wyrm ranged damage increase to 6-4
+- Boreal Wyrm ranged damage increase to 8-4 , price to 60g (+6g)
+
+
+EE - CHAOS
+
+- Evil Crab HP to 41 (+4)
+- Hell Crab HP to 58 (+6) , price to 30g (-4g) , will now have +Feeding
+
+- Marauder price to 29g (-3g)
+- Soul Hunter price to 48g (+3g)
+
+- Flesh Hound price to 38g (-2g)
+- Warp Hound fire ressistance to 30% (+20%) , additionally gains +Feeding
+
+- Dark Knight XP from 95 to 80
+- Blood Knight price to 54g (+9g)
+- Overlord price to 80g (+13g)
+
+- Doom Guard XP from 90 to 80 , price to 32g (-8g)
+- Hell Guardian price to 55g (-25g)
+
+- Magus cold ressistance to 10% , XP from 90 to 85
+- Demonlogist cold ressistance to 10%
+
+- Lesser Daemon XP from 38 to 35
+- Chaos Daemon HP to 48 (+2) , XP from 90 to 80 , price to 30g (-3g)
+- Winged Daemon HP to 40 (+3) , price to 35g (-5g) 
+
+- Greater Mutation XP from 90 to 75 , impact ressistance to 10% (+10%) , price to 30g (-4g)
+- Abobination impact/cold ressistances to 10% (+10%) , price to 50g (-4g)
+
+
+EE - NAGAS
+- Naga hunter bow damage increase to 8-2 
+- Naga Assasin HP to 45 (+3) , ranged now has 50% marksman.
+This will help nagas to not be un-useful anymore.
+
+EE - ORCS
+- Lv2 and Lv3 shamans can now heal allies from poison (cannot heal HP)
+- Lv2 troll shamans NEW ATTACK: Curse 9-2 cold ranged +Magical
+Later I will review orcs, but orcs are so MEH...
+
+
+FEUDAL - CERESIANS
+Just fixing what once was overnerfed. 
+
+- Order Knight HP to 42 (+4) , XP from 76 to 80 , price to 31g (-3g) , arcane ressistance to 30% (+10%)
+- Knight Raetian HP to 50 (+4) , arcane ressist to 40% (+20%) 
+- Deacon Price to 32g (-2g)
+- Monsignor price to 49g (-5g)
+- Metropolitan arcane ressist to 50% (+10%) , price to 72g (+2g)
+
+- Knight Errant price to 35g (+3g)
+- Knight commander HP to 68 (+4) , price to 62g (+4g)
+- Stradioto pierce ressistance to -10% (+10%) , cold ressist to 10%.
+- Cavaliero pierce ressistance to -10% (+10%) , cold ressist to 10%, now has parry 5% on melee, price to 54g (+4g)
+
+- HP to 44 (+4) , ranged damage increase to 14-2 , price to 26g (-4g)
+- Master Arbalestier HP to 54 (+6) , melee damage increase to 5-4 , ranged damage increase to 14-3 , price to 52g (+2g)
+- Mounted Crossbowman HP to 50 (+6) , cold ressist to 10%
+
+- Monk HP to 38 (+2) , price to 28g (-2g) , arcane ressist to 40% (+10%)
+- Pellegrino HP to 45 (+3) , arcane ressist to 40% (+10%) , movement to 8 (+1) , price to 45g (+15g)
+
+- Espadacino cold ressistance to 10% (+20%) , HP to 48 (+4) , price to 28g (-4g)
+- Rodelero cold ressistance to 10% (+20%) , HP to 58 (+4) , price to 52g (+2g)
+- Man-At-Arms fire ressistance to 0% (+10%) , price to 31g (-4g)
+- Champion HP to 65 , fire ressistance to 0% (+10%) , price to 55g (+5g)
+
+- Pikeman HP to 48 (+4) , price to 24g (-4g)
+- Habeldier HP to 62 (+6) 
+- Mounted Infantryman HP to 50 (+4) , NEW ATTACK: Mace 12-2 impact melee, ranged damage decrease to 6-1
+blade/cold ressist to 10% , impact ressist to 20% , pierce ressist to -10%
+
+
+FEUDA - CLOCKWORK
+
+- Greaser XP from 38 to 34 (hard to level because 1 strike)
+- Armoer Mechanic HP to 58 (-6) , price to 53g (-4g)
+- Blazer HP to 65 (+5)
+
+- General price to 60g (+4g)
+- Miasmist fire/cold ressistance to 10%
+- Gas Baron HP to 62 (+2) , fire/cold ressistance to 10%
+
+- Gunner XP from 90 to 80 , price to 29g (-4g)
+- Artillery price to 55g (-2g)
+
+- Rambler XP from 86 to 80
+- Itinerant price to 57g (+4g)
+
+- Golem Soldier XP from 50 to 46
+
+
+FEIDAL - HIGH ELVES
+
+- ALL high elves cave movement cost from 3 to 2
+- All high elves fungus movement cost from 3 to 2 , defense from 30% to 50%
+- All High elves frozen defense from 30% to 40%
+- All (walking) high elves impassable defense to 0% , unwalkable defense to 10% (from 50% both)
+- Walking high elves reef movement cost from 3 to 2, defense to 30% (+10%)
+- Mounted reef movement cost from 4 to 3
+- Mounted cave defense from 20% to 30%
+- Sylph unwalkable movement cost from 99 to 3 , defense from 10% to 40%
+- Magic High elves will now 40% (+10%) defense on cave
+
+- Archer removed unwanted special in ranged, XP from 42 to 37
+- Chaseur price to 30g (-5g)
+
+- Charger XP from 40 to 48
+- Cavalier price to 32g (-4g) , XP from 65 to 75
+- Escremeur HP to 66 (+4) , price to 57g (+4g)
+- Curaissier XP from 64 to 80 , price to 45 (+5g)
+- Cataphract HP to 70 (+7) , price to 70g (+10g) , sword damage increase to 9-5
+- Lancier XP from 63 to 80 , price to 48g (+8g)
+- Gendarme HP to 63 (+6)
+
+- Faerie Warrior XP from 52 to 48
+- Feyblade XP from 100 to 88 , price to 37g (-5g)
+- Sylvanus HP to 60 (+2), price to 64g (-3g)
+
+- Coutillier HP to 45 (+3) , price to 32g (-3g)
+- Chevauleger HP to 55 (+5) , also parry +5% on melee , price to 53g (+6g)
+- Savari HP to 48 (+2) , price to 32g (-3g)
+- Voltigeur HP to 55 (+1), price to 54g (+7g)
+
+- Enchantress HP to 42 (+4) , price to 39g (-7g) , can now remove poison to allies.
+- Sylph HP to 52 (+2) , can now remove poison to allies.
+
+- Glavier price to 31g (+4g)
+- Captain HP to 68 (+4) , price to 57g (+7g)
+- Schiltron movement to 6 (+1)
+- Fouchardier movement to 6 (+1) , HP to 63 (+3) , price to 54g (+4g)
+- Shieldbearer price to 32g (-4g)
+- Aegis HP to 68 (+3) , price to 55g (+3g) , shield damage increase to 13-2
+
+
+FEUDAL - KNAGATES
+- Orc Knagates standarized mountain movement cost from 3 to 2 (except scout), mountain defense from 50% to 60%.
+
+- Herder price to 21g (+1g)
+- Drover melee damage decrease to 5-3 (to avoid strong ones being 9-3 melee on night)
+- Icewind master melee damage decrease to 7-3
+- Outcast price to 28g (-2g)
+
+- Juggernaut price to 34g (-2g)
+- Khan HP to 67 (+4) , price to 58g (+4g)
+- Bladesman price to 26g (-4g)
+- Massif ranged damage increase to 6-2 , price to 54g (+6g)
+- Spearman pierce ressistance to 10% , price to 25g (-3g)
+- Skewer price to 52g (+4g)
+
+
+IMPERIAL - AREDIAN
+Aredian foot frozen movement cost from 3 to 2
+Aredian foot sand defense to 40% (+10%)
+Aredian horses no longer weak to fire.
+Fixed unwalkable and impassable terrain defenses.
+
+- Archer XP from 48 to 38
+- Feather bow price to 30g (-12g)
+- Arrow wind HP to 52 (+4)
+- Hunter XP from 88 to 80 , HP to 50 (+2)
+- Slayer HP to 62 (+4) , price to 52g (-3g)
+
+- Bow Knight HP to 45 (+3)
+- Bowmaster HP to 55 (+3) , price to 48g (+3g)
+
+- Chief HP to 48 (+2)
+- Mounted Warrior HP to 50 (+2) , XP from 100 to 80 , price to 36g (-4g)
+- Horse Master price to 58g (-2g)
+
+- Wanderer XP from 100 to 85 , sand defense to 50% (+10%)
+- Hero HP to 55 (+4) , price to 55g (+3g) , sand defense to 50% (+10%)
+- Warrior XP from 98 to 70 , price to 28g (-4g)
+- Battlear price to 52g (-2g)
+
+
+ARCHAIC - DESPAIR
+- Cloaks will now be 60% (-10%) cave defense.
+- Cloaks pierce ressistance adjusted to 40% (-10%) , impact ressistance adjusted to 50% (+20%) , cold ressist to 50% (+10%)
+- Despair fighters forest movement cost from 2 to 1
+- Despair fighters mountain ndefense to 60% (+10%)
+- Despair fighters fungus defense to 60% (+10%)
+- Widows forest movement cost from 2 to 1
+- Widows mountain ndefense to 60% (+10%)
+- Widows impact/cold ressistance to 20% (+10%)
+- Despair riders forest movement cost from 3 to 2
+- Despair riders cave movement cost from 3 to 2
+- Despair riders impact/cold ressistance to 20% (+10%) 
+- Wisps unwalkable defense to 40% (+10% , impassable defense to 10% 
+
+- Black Cloak ranged damage increase to 4-3 , added +skirmisher
+- Black Shadow ranged dmaage increase to 5-3
+
+- Rider NEW ATTACK: Rush 4-2 impact melee +charge
+- Black Horseman NEW ATTACK: Rush 6-2 impact melee +charge , XP from 86 to 80 , price to 40g (+7g)
+- Black Slayer NEW ATTACK: Rush 9-2 impact melee +charge , price to 62g (+8g)
+They now can be quite useful againist default skeletons...
+
+- Spearman movement to 6 (+1) , XP from 38 to 35 , HP to 32 (+2) , cold res from 10% to 20%
+- Soldier HP to 48 (+3) , XP from 60 to 70 , cold ressist from 10% to 25%
+- Officer cold ressist to 25% (+15%) , price to 60g (+6g)
+- Lord Knight cold ressist to 30% (+20%) , price to 55g (+5g)
+
+- Stone Warrior price to 52g (+4g)
+
+- Widow melee damage increase to 5-2
+- Widow-in-White HP to 40 (+3) , melee damage increase to 6-2 , arcane ranged damage increase to 12-2
+- Banshee arcane ranged damage increase to 15-2 , price to 60g (+6g)
+- Midnight Beauty HP to 48 (+2)
+
+
+ARCHAIC - PHANTOM
+Overperforming because of too much movement liberty at hills/forest/etc , still expensive in XP.
+Gonna balance both aspects in phamtom.
+
+- All "walking" phantom swamp and forest movement cost from 1 to 2
+
+- Huntress XP from 50 to 42
+- Archer price to 29g (-3g)
+- Stalker HP to 42 (+2)
+
+- Mummy Unbound XP from 57 to 51
+- Mummy Noble XP from 114 to 100 , HP to 44 (+2) , price to 36g (-6g)
+- Mummy King XP from 143 to 140 , price to 62g (+3g)
+- Mummy Pharo price to 115g (+25g)
+
+- Spirit Jay XP from 47 to 44
+
+- Feather dancer XP from 42 to 39
+- Wing Dancer price to 29g (-2g)
+- Winged Warrior Claw damage increase from 6-3 to 9-3 , price to 55g (+3g)
+
+- Tomb Sentinel XP from 65 to 75
+
+
+BEEM - ANAKES
+Previous rebalance process in Anakes was really good... really few things to modify here.
+
+- Slaugterer price to 30g (-5g)
+- Massacrer price to 55g (-2g)
+
+- Heretic XP from 84 to 80 , price to 28g (-4g)
+
+- Hierophant price to 30g (-4g)
+- Dark Prophet price to 51g (-7g)
+- Spellcaster XP from 86 to 72 , price to 30g (-4g)
+Weak lv2 mage that cannot make a good use of melee plague.
+- Price to 56g (-2g)
+
+- Devil XP from 95 to 82
+- Fiend price to 55g (+5g)
+- Stormbringer HP to 47 (+2) , XP from 69 to 65 price to 28g (-6g)
+- Alastor HP to 58 (+2) , now has parry(+5%) on ranged.
+
+- Leech Knight price to 32g (-2g)
+- Leech Draggon blade melee damage increase to 9-4 , price to 56g (+2g)
+
+- Sharp Eye price to 26g (-3g)
+- Terrorbow movement to 6 (+1) , price to 52g (+7g)
+
+
+BEEM - CALYDONIANS
+
+- Dardanian Pillager price to 25g (-2g)
+- Dardanian Ravager price to 52g (+2g)
+
+- Dioian Veteran price to 36g (-4g)
+- Dioian Swordmaster price to 57g (-3g)
+
+- Polemarch XP from 94 to 84 , price to 28g (-8g)
+lower defenses in combination of only 20% pierce ressistance makes this unit more fragible than most steadfast units.
+Not a good thing to be weak to archers and pikemen
+- Diarch price to 52g (-4g)
+- Strategos HP to 55 (+2) , price to 56g (+2g)
+
+- Veteran Peltast HP to 39 (+2) , price to 26g (-4g)
+- Hippikon price to 44g (+4g)
+- Hetaroi price to 62g (+5g)
+
+- Gymnet XP from 82 to 72
+- Rhodian Slinger price to 54g (+2g)
+- Toxotes price to 28g (-2g)
+- Cretan Toxotes price to 54g (+6g)
+
+
+BEEM - WOOD WARRIORS
+- All bigfoots cave movement cost from 3 to 1 , cave defense from 30% to 50%
+- All bigfoots fire ressistance to -10% (+10%)
+- All bigfoots mountain movement cost from 3 to 2 , mountain defense to 60% (+10%)
+- Rat riders cave defense to 50% (+10%)
+- Rat riders mountain defense to 60% (+10%)
+
+
+- Fatal Tangle HP to 48 (+2) and added +feeding special
+
+- Wood Druid XP from 100 to 85
+
+- Golem Wood Defender XP from 93 to 85
+- Golem Destroyer arcane ressist to -20% (+10%)
+
+- Swamp Explorer fire/arcane ressistance to 10% (+20%) , movement to 7 (+1)
+- Swamp Pathfinder movement to 8 (+2) , HP to 45 (+9) , ranged damage increase to 6-3 , price to 26g (+6g)
+blade/pierce weakness to 0% (+10%) , fire/arcane resstance to 10% (+20%) , flat defense 50% (+10%) , forest defense 60% (+10%)
+
+- Young Bigfoot XP from 38 to 35
+- Bigfoot XP from 86 to 80 , arcane ressistance to -10% (+10%)
+- Terrible Bigfoot arcane ressistance to 0% (+20%)
+
+- Predator Rats Knight AMLA XP from 70 to 100 , movement to 9 (+1) , cold/arcane ressist to 20% (+20%)
+- Rats Knight HP to 44 (+3) , XP from 75 to 70
+
+- All Fauns arcane ressistance to 10% (+10%)
+- Faun Overlord additionally blade ressistance to 10% (+10%)
+
+NEW UNIT: Adventurer Puck
+HP: 45
+6-4 fire melee, 5-3 fire ranged
+Movement 7 , skirmisher
+price: 28g , XP : 80
+
+NEW UNIT: Expedition Puck
+HP: 55 
+8-4 fire melee, 6-3 fire ranged
+Movement 8 , skirmisher
+Price: 50g , AMLA XP : 150
+Fire ressist +10%
+
+
+
+EOC - ARAGWAITH
+Underperforming, particularly in higher level XP's.
+
+- Strongbow XP from 85 to 75 , price to 27g (-11g)
+- Greatbow HP to 50 (+4) , price to 52g (+7g)
+- Slayer price to 53g (-9g)
+
+- Eagle rider melee damage increase to 7-3 , price to 22g (-1g)
+- Eagle Master HP to 48 (+3) , price to 38g (+3g)
+- Lance price to 32g (-2g)
+- Silvershield price to 50g (+2g)
+
+- Flagbearer XP from 100 to 85 , price to 29g (-11g)
+- Captain XP from 175 to 115 , price to 52g (-8g)
+- Ancient Banner price to 85g (-5g)
+- Pikeman price to 24g (-4g)
+- Guardian HP to 65 (+3)
+
+- Swordsman price to 13g (-1g)
+- Guard price to 31g (+4g)
+- Shield Guard price to 55g (+10g)
+- Longswordsman flat defense to 50% , price to 29g (+2g)
+- Swordsmaster HP to 54 (+2) , flat defense to 50% , price to 55g (+12g)
+
+- Wizard XP from 100 to 90 , price to 34g (-9g)
+- Sorceress HP to 47 (+3) , price to 62g (-6g)
+
+
+EOC - CHAOS
+
+- Gunner XP from 46 to 44
+- Marksman HP to 55 (+2) , XP from 80 to 75 , price to 27g (-3g)
+- Sharpshooter price to 55g (+12g)
+
+- Doom Guard HP to 55 (+3) , arcane/impact res to 15% , XP from 90 to 80 , price to 31g (-4g)
+- Hell Guardian HP to 66 (+3) arcane/impact res to 15% , price to 55g (-25g)
+Less resistant (arcane & impact) than EE counterparts, but EOC ones have more damages.
+- Knight of Chaos HP to 55 (+4) , XP from 95 to 75
+- Razerman blade ressistance to 10% , price to 52g (+10g)
+
+- Chaos Magus price to 34g (-6g)
+- Lorekeeper price to 60g (-20g)
+
+- Cavalier price to 29g (-5g)
+- Pillager price to 32g (-2g)
+
+- Marauder HP to 42 (+2) , XP from 70 to 65 , price to 26g (-14g)
+- Soulhunter HP to 52 (+6) , price to 46g (-54g)
+
+- Demonic Hound price to 37g (-3g)
+- Hell Hound price to 60g (-14g)
+I would price it even lower, but in WC fighting a swarm of these things could be a problem...
+
+- Blood Imp price to 26g (-2g)
+- Gutwrencher Imp ranged strike decreased by 1 , price to 52g (+2g)
+- Armaggedon Imp blade damage decrease to 13-4 , ranged damage decrease to 7-3
+
+- Demon Grunt HP to 42 (+2) , ranged damage decrease to 6-3 
+- Demon Warrior ranged damage decrease to 7-4
+- Demon Lord ranged damage decrease to 8-4
+- Lumeril Guard HP to 64 (+6) , ranged damage decrease to 9-2 , price to 54g (-8g)
+
+- Sphapeshifter weaknesses increased from -13% to -15% , ranged damage increase to 8-2 , ranged accuracy lowered to +enchanted
+movement lowered to 5 (-1) 
+
+- Zephyr HP to 43 (+3) , price to 26g (+2g)
+- Stormtyde price to 54g (-5g)
+- Slashing Gale price to 58g (-52g) , cold res to 10% (-10%) , arcane res to -10% (+10%)
+- Spelldancer no longer has +skirmisher , melee damage decrease to 7-3 , price to 52g (+4g)
+
+
+EOC - SYLVAN
+
+- Wose Shaman HP to 57 (+2) , price to 29g (-11g)
+
+- Ascetic XP from 94 to 88 , price to 35g (-2g)
+- Mystic arcane damge increase to 11-4
+- Avatar arcane damage increase to 11-5 , gossamer damage readjusted from 9-3 to 8-4 and removed unwanted (strive) special.
+
+- Ancestor XP from 124 to 95
+
+- Dusk Faerie price to 20g (-1g)
+- Night Nymph cold damage increase to 13-2 , price to 36g (-2g)
+- Eventide cold damage increase to 16-2 , price to 58g (+3g)
+
+- Fire Faerie price to 36g (-4g)
+- Forest Spirit cold ressistance to 50% (+10%)
+
+
+MiE - SYLVAN KEEPERS
+Took me a while to view their melee units deficiency reason why most players struggles when using them.
+XP decreases on higher level units as well of some readjustments to some other units.
+
+- Assailant HP to 35 (+1) , cold res to 10% (+10%)
+- Dauntless XP from 80 to 74 , pierce ressistance to 35% (+5%) , cold res to 10% (+10%) , price to 25g (-3g)
+- Vengeance pierce ressistance to 35% (+5%) , cold res to 10% (+10%) , fire res to -25% (-5%)
+They need higher ressists because they usually have worse terrain defenses and in overall bad magic ressists.
+
+- Bark Elder XP from 100 to 80 , price to 29g (-3g)
+- Ghastbark XP from 86 to 77 , fire ressistance from to -30% (+10%) , cold res to 20% (+10%) , price to 29g (-6g)
+- Fearless Dourbark fire ressistance from to -30% (+10%) , cold res to 20% (+10%) , price to 54g (+2g)
+Bad defenses and no ressists gain unlike the ther option seemed quite unfair to me.
+
+- Faerie XP from 90 to 84 , price to 36g (-4g)
+- Underbush Faerie cold res to 10% (+10%) , HP to 28 (+1)
+- Shadow Faerie XP from 96 to 86 , cold res to 10% (+10%) , cold dmg increase to 13-2 , price to 37g (-3g)
+- Nightwood Faerie cold dmg increaes to 16-2 , cold res to 10% (+10%)
+
+- Sylvan Keeper cold res to 10% (+10%)
+- Sylvan Guardian price to 31g (-6g)
+
+- Thorn Witch XP from 40 to 38 , price to 16g (-1g)
+- Thorn Fury XP from 80 to 75 , price to 28g (-2g)
+
+
+MiE - CENTAURS
+Terribly underpowered, this is why nobody likes them. Let's buff intensively.
+
+- ALL centaurs cold ressistance to 20% (+20%)
+- ALL centaurs impact ressistance to 10% (+20%)
+- ALL centaurs (except lancers) pierce ressistance to -10% (+10%)
+They do terrible againist undead and their bad ressists overall doesn't help much.
+- Mountain Defense to 60% (+20%)
+- Swallow Water defense to 30% (+10%)
+- Hills movement cost to 1 (-1)
+- Sand movement cost to 2 (-1)
+- Frozen movement cost to 1 (-1)
+- Frozen defense to 40% (-20%) -I guess it was meant to be 40% originally lol-
+These buff are quite valuable, they need a factional strenght...
+
+- ALL Cornur cold/arcane ressistance to 10% (+10%)
+- ALL Cornur frozen movement cost to 2 (-1)
+
+- Archer XP from 43 to 38
+- Composite now has 50% marksman in ranged, melee damage increase to 7-2 , XP from 85 to 75 , price to 30g (-6g)
+- Sharpshooter melee damage to 9-2 , price to 55g (+3g)
+
+- Fighter NEW ATTACK: Hooves 5-2 impact melee
+- Warrior added parry 5% on melee (sword), XP from 76 to 80 price to 30g (-2g)
+NEW ATTACK: Hooves 8-2 impact melee +5% parry
+- Heroic added parry 5% on melee (sword), price to 57g (+14g)
+NEW ATTACK: Hooves 11-2 impact melee +5% parry
+
+- Lancer impact melee adjusted from 6-2 to 5-3 , fire ressistance to 10%
+- Knight impact melee adjusted from 9-2 to 8-3 , fire ressistance to 10% , impact ressistance to 20% (+30%) , price to 36g (-4g)
+- Paladin impact melee strikes increased by 1, fire ressistance to 10% , impact ressistance to 20% (+30%)
+pierce ressistance to -10% (+10%) , price to 60g (+2g)
+
+- Mystic fire ressistance to 10% , XP from 50 to 46
+- Augur fire ressistance to 20% , XP from 100 to 88 , price to 38g (-2g)
+- Oracle fire ressistance to 20% , price to 62g (+7g)
+
+- Dehorned Croock XP from 35 to 33 , price to 14g (-1g)
+- Dehorned Rascal XP from 66 to 58 , fire ranged damage increase to 11-2 , price to 22g (-7g)
+- Dehorned Scoundrel pierce ranged damage increase to 9-4 , fire ranged damage increase to 16-2 price to 46g (+4g)
+
+- Valiant impact damage increae to 9-2 , XP from 42 to 39
+- Battler impact damage increase to 13-2 , XP from 78 to 68 , price to 24g (-7g)
+- Protector impact damage increase to 19-2 , price to 48g (+5g)
+
+- Shaman XP from 46 to 42 , all magic ressists to 10%
+- Warlock HP to 48 (+4) , all magic ressistances to 20% (+10%) , XP from 80 to 72
+- Horned Elder HP to 57 (+2) , price to 48g (+6g)
+ 
+ 
+MiE - THELIANS
+Some XP adjustments, mostly.
+
+- ALL wolves 10% (+10%) arcane ressistance.
+
+- Hart Seeker price to 32g (-4g)
+
+- Wolf Fanatic price to 33g (-3g)
+
+- Hunter XP from 42 to 38
+- Deerstalker now have 50% marksman in ranged, price to 26g (-3g)
+
+- Shaman XP from 51 to 45
+- Blood Shaman XP from 100 to 83 , price to 31g (-7g)
+- Master of Curses price to 52g (-3g)
+- Druid XP from 100 to 70 , price to 31g (-7g)
+
+- Chieftain XP from 100 to 78 , price to 28g (-4g)
+- Bravewolf HP to 57 (+2), price to 56g (+2g)
+- Spearman price to 24g (-4g)
+- Guardian price to 52g (+3g)
+
+- Ancestor XP from 120 to 95 , price to 37g (-3g)
+
+
+MiE - VAMPIRES
+Minor corrections and recheck after real long.
+
+- Apprentice XP from 50 to 46
+- Savant XP from 100 to 85 , price to 33g (-7g)
+
+- Commander XP from 90 to 80 , price to 30g (-4g)
+- Count XP from 180 to 110 , price to 55g (+7g)
+- Prince price to 82g (+17g)
+- Shadow Fighter XP from 80 to 75 , price to 28g (-4g)
+- Night Warrior price to 52g (+8g)
+
+- Blood Hunter price to 27g (-4g)
+
+- Shadow Archer price to 29g (-2g)
+- Night Angel price to 53g (+6g)
+
+- Savage XP from 50 to 46
+- Lunatic price to 32g (-2g)
+
+- Winged XP from 46 to 42
+- Wind Chaser HP to 43 (+2)
+- Heaven Hunter fangs damage increase to 8-3 , HP to 54 (+3) , price to 54g (+8g)
+
+
+
+EFM - DALEFOKK
+Minor Pricement and XP adjustments at most.
+AMLA XP that are lower than 100 adjusted to 120 so they can gain +strikes upgrades even if inteligent trait.
+(except wilderman)
+
+- Beacon Price to 34g (-6g)
+- Conduit Price to 60g (+10g)
+
+- Botanist arcane/cold ressistance to 20% (+10%) , price to 26g (-4g)
+
+- Mountainer cold ressistance to 10% (+10%)
+
+- Delver cold ressistance increase to 20% (+10%) , price to 26g (-2g)
+- Foreman cold ressistance to 20% (+10%)
+
+- Raven cold ressistance to 20% , now has +feeding
+- Mynah cold ressistance to 20% , now has +feeding , accuracy +5% on their melee
+
+- Rocketer XP from 40 to 38
+- Bombardier XP from 85 to 70 , price to 26g (-3g)
+- Battery price to 50g (+8g)
+
+Not sure how to evaluate Shifter without proper testing, then for later.
+
+
+EFM - DARKLANDERS
+AMLA XP that are lower than 100 adjusted to 120
+(Beastskull intentionally requires 1 AMLA to then gain strikes becuase of powerful berserker)
+(Serpent won't as well because why it has to deal high damages? it gained lv2 massive damage buff to not get murdered by lv1 serkers)
+
+- Beastskull price to 37g (-3g)
+
+- Catamaran price to 22g (-2g)
+
+- Wasp price to 26g (-3g)
+- Stalker XP from 90 to 75 , price to 25g (-4g)
+- Whisper price to 48g (+9g)
+
+- ALL jaguar riders and level up fire ressist to 10% (cheetah 20% instead)
+
+- Wrath price to 37g (-3g)
+- Vengeance price to 57g (+7g)
+- Judgement price to 75g (+15g)
+
+- Guerrila sword damage increase to 7-4 , ranged damage increase to 11-1 , price to 26g (-2g)
+- Militia Impact ressistance to 10% , price to 26g (-2g)
+- Guard price to 53g (+13g)
+
+- Serpent cold ressistance to 10%
+
+
+EFM - FREEMEN
+If you question me, nobody will tell they love this faction lol
+AMLA XP that are lower than 100 adjusted to 120
+(Roc needs one AMLA because 18-3 is already insane base value)
+
+- Aristocrat XP from 50 to 42
+- Amir XP from 100 to 80 , price to 28g (-2g)
+- Caliph price to 55g (+25g)
+- Vizier XP from 100 to 80
+- Sultan price to 57g (+11g)
+
+- Howler XP from 100 to 90 , price to 32g (+2g)
+- Screecher price to 54g (+9g)
+
+- Mufti XP from 90 to 85 , price to 33g (-2g)
+- Mullah price to 57g (+12g)
+
+- Great Roc price to 53g (+3g)
+Freemen recruits lv2 rocs in standard version of eras... too risky to adjust pricement.
+
+- Ensnarer price to 28g (-1g)
+- Guardsman price to 23g (-2g)
+- Goun price to 47g (+9g)
+
+- Wanderer price to 14g (-1g)
+- Dervish XP from 90 to 75
+Being 70% sand defense and better ressists than swift-foot can be problematic, reason I did not reprice lower.
+- Immortal price to 54g (+11g)
+- Nomad melee damage increase to 7-4 , price to 28g (-2g)
+They enjoy of great mobility, but their melee was underperforming.
+- Sheik now has 50% flat defense, price to 52g (+8g)
+Unit was bit underpowered in both levels
+
+
+EFM - HIGHLANDERS
+Minor buffs because they have negative ressists which in certain cases is a problem.
+Solution in here is decreasing a bit XP's to lv3 and some units having +10% res to one physic element.
+AMLA XP that are lower than 100 adjusted to 120 
+(Elephants needs one AMLA because in offensive 15-4 for a lv3 is insane!)
+(Hippos as well, because of insane bulks)
+
+- Warrior XP from 80 to 74 , price to 23g (-1g)
+- Chief Impact ressistance to -10% (+10%) , price to 50g (+10g)
+
+- Oliephant price to 52g (+7g)
+
+- Hippopotamus price to 40g (-4g)
+
+- Hunter XP from 40 to 37
+- Prowler XP from 80 to 74 , price to 23g (-3g)
+- Manhunter pierce ressistance to -10% (+10%) , price to 50g (+8g)
+
+- Lion Adept XP from 100 to 85 , price to 33g (-2g)
+- Lion Master price to 57g (+12g)
+- Lion Renegade XP from 100 to 85 , price to 33g (-2g)
+- Lion Maverick price to 55g (+10g)
+
+- Strider XP from 70 to 65 , price to 25g (-1g)
+- Wind Walker pierce ressistance to -10% (+10%) , price to 48g (+13g)
+
+- Shaman XP from 100 to 85 , price to 31g (-3g)
+- Warlock XP from 100 to 85
+- Spirit Welder price to 57g (+7g)
+
+
+EFM - IMPERIALISTS
+Few XP and pricement adjustments
+
+- MAX LEVEL AMLA XP values from 100 to 120 (115 for lv2 slingers)
+This is sometimes a problem, requirimg AMLA to get strikes which is not of help.
+
+- Ballista XP from 50 to 46
+- Bolter price to 33g (-2g)
+
+- Avalanche price to 62g (+17g) , AMLA XP from 100 to 120
+- Tank price to 57g (+12g) , AMLA XP from 100 to 120
+
+- Hoplite arcane ressistance to 15% (-5%)
+- Phalanx arcane ressistance to 15% (-5%) price to 55g (+13g)
+- Shock Troop all physical ressist to 10% (-10%) , XP from 100 to 90 , price to 37g (+1g)
+Charge is very powerful... it needs to be considered in unit design...
+- Gargantaur blade/pierce ressist to 10% (-10%) , price to 62g (+17g) , AMLA XP from 100 to 120
+- Stalwart price to 30g (-2g)
+- Praetorion price to 55g (+15g)
+
+- Velite XP from 70 to 63 , fire ressist to 10%
+- Equite fire ressist to 15% , price to 43g (+3g)
+
+- Slinger XP from 39 to 36
+- Flinger AMLA XP from 80 to 115 
+- Spiker AMLA XP from 80 to 115
+
+- Centurion XP from 100 to 84 , price to 34g (-6g)
+- Primus XP from 140 to 115 , price to 57g (+7g)
+- Legatus all Physical ressists to 15% (+5%) , price to 80g (+15g)
+
+
+EFM - PYGMIES
+
+- MAX LEVEL AMLA XP values from 100 to 120 (115 for max Lv2)
+This is sometimes a problem, requirimg AMLA to get strikes which is not of help.
+
+- Knat from 28 to 27
+- Fly XP from 44 to 41
+- Mudfoot price to 20g (-9g)
+- Stinger price to 22g (-5g)
+
+- Piper XP from 50 to 45
+- Charmer melee damage increase to 4-3
+
+- Puma XP from 42 to 38
+- Lynx price to 28g (-2g)
+- Saber Cat price to 48g (+8g)
+
+- Spider Rider XP from 50 to 44
+- Great Spider price to 34g (-4g)
+- Web Spitter price to 36g (-4g)
+
+- Grand Cocodrile price to 27g (-2g)
+
+- Wyrd price to 33g (+3g)
+- Lizard Eye price to 55g (+5g)
+- Sorceress price to 57g (+12g)
+
+- Lizard price to 6g (+1g)
+
+
+EFM - SEA STATES
+
+- Lv3 AMLA XP's from 100 to 120
+
+- Concoctionist fire/cold res to 10% , arcane res to 30% , price to 27g (-1g)
+- Doctor regenerates worsened to self-heal(4) , price to 28g (-4g)
+
+- Turtle XP from 78 to 75
+- Snapper price to 44g (+5g)
+
+- Composite Bowman XP from 44 to 42
+- Veteran Bowman price to 29g (-4g)
+- Elite Bowman price to 55g (+13g)
+These lv3 archers are really insane units lol...
+
+- Sagiharii XP from 96 to 85 , price to 32g (-5g)
+- Clibbanarii price to 57g (+12g)
+
+- Liegeman price to 52g (+14g)
+
+- Paddle warship XP from 100 to 85 , price to 32g (-8g)
+- Paddle Frigate price to 54g (-6g)
+
+- Guild Officer XP from 90 to 80 , price to 32g (-3g)
+- Merchant Lord price to 57g (+7g)
+- Retainer price to 27g (-1g)
+- House Guard price to 52g (+12g)
+
+- Raider price to 30g (-2g)
+- Cataphract price to 57g (+14g)
+
+
+EFM - WHITES
+
+- Lv3 AMLA XP's adjusted to 120
+
+- Keeper XP from 40 to 38
+- Huntress XP from 80 to 75 , price to 30g (-3g)
+- Bow Lady price to 53g (+7g)
+- Storm Lady price to 62g (+17g)
+- Storm Queen price to 93g (+33g)
+
+- Raider flat defense increase to 40%
+Unit has lv1 damages at both ranges, needs this buff.
+
+- Heat Guard price to 32g (+2g)
+- Soul Guard price to 52g (+12g)
+
+- Terror Strider price to 36g (+6g)
+
+- Guardian flat defense increase to 40% , village defense to 65% , XP from 74 to 70 , price to 23g (-1g)
+- Sentinal flat defense increase to 40% , village defense to 65% , price to 52g (+17g)
+- Vigilange flat defense increase to 40% , village defense to 65%
+
+- Housecarl XP from 80 to 74 , price to 26g (-2g)
+- Thane price to 50g (+10g)
+- Bard XP from 84 to 78
+- Balladier price to 50g (+10g)
+
+
+EotF - BRUNGARS
+
+- Alliggator (unrecruitable lv1) price to 19g (-4g)
+- Cocodrile (unrecruitable lv2) price to 32g (-14g)
+
+- Cocodrile Rider price to 36g (-4g)
+
+- Amateur Tamer HP to 33 (+3) , ranged damage increase to 3-2
+- Experienced Tamer HP to 45 (+5) , price to 28g (-11g)
+- Expert Tamer HP to 60 (+5) price to 50g (+14g)
+ 
+- Sea Turtle HP to 48 (+3) , movement to 5 (-1) -like ALL other levels- , price to 31g (-9g)
+- Giant Sea Turtle price to 54g (+4g)
+- Leviathan ranged damage decrease to 9-4 , price to 83g (+13g)
+
+- Council Elder HP to 45 (+2) , price to 33g (-2g)
+- High Council Member price to 55g (+5g)
+- High Council Elder price to 77g (+17g)
+
+- Crab XP from 39 to 36
+- Overgrown crab XP from 78 to 75 , price to 28g (-7g)
+- Giant Crab price to 52g (+2g)
+
+- Dwarvish Huntsman HP to 45 (+2) , price to 27g (+1g)
+- Dwarvih Huntsmater HP to 53 (+3)
+
+- Harpoon Specialist HP to 47 (+5g)
+
+- Apothecary XP from 58 to 49
+- Herbalist price to 27g (-3g)
+- Practitioner price to 48g (-4g)
+- Herbicider HP to 43 (+3) , price to 30g (-5g)
+- Toxin Specialist HP to 57 (+2) , price to 53g (-2g)
+
+- Ocean Apprentice XP from 54 to 48
+- Ice Apprentice HP to 40 (+2) , XP from 80 to 70 , frozen movement cost to 1 (-1) , frozen defense to 30% (+10%) , price to 29g (-5g)
+- Crystal Master HP to 53 (+3) , frozen movement cost to 1 (-1) , frozen defense to 40% (+20%) price to 53g (+3g)
+- Wave Master price to 55g (+3g)
+
+
+EotF - NORDHIRIS
+
+- Witch Doctor price to 34g (-3g)
+- Warlock price to 53g (-21g)
+
+- Northern Warrior price to 53g (+8g)
+Lv3 leadership aura and -1 upkeep per turn, actually a good purchase.
+- Northend Warlord price to 72g (+6g)
+- Wildheart HP to 44 (+4) , mountains/frozen defense to 60% (+10%)
+- Feralheart HP to 63 (+3) , mountains/frozen defense to 60% (+10%) , price to 48g (+7g)
+- Wolfheart mountains/frozen defense to 60% (+10%) , price to 67g (+4g)
+
+- Northern Archer XP from 42 to 37
+- Northen Strongbow HP from 42 to 44 , XP from 74 to 72 , price to 29g (-1g)
+- Northern Greatbow price to 52g (+6g)
+
+- Northman HP to 37 (+1) , XP from 36 to 34
+- Northguard HP to 52 (+2) , price to 24g (-2g)
+
+- Slaughterer mountain/village defense to 60% (+10%) , movement to 6 (+1) , HP to 48 (+1)
+
+- Prowler HP to 48 (+3)
+- Artic Prowler HP to 63 (+3) , price to 50g (+13g)
+
+- Dire Reaver HP to 44 (+2)
+
+- Snow Runner bow damage increase to 4-2 , XP from 44 to 42
+- Farseer HP to 39 (+1) , how has +forest-keeping for self heal in forests , price to 27g (-11g)
+- Frostdasher price to 26g (-2g)
+
+
+EotF - WELKING
+Fixing some previous over-nerf and adjusting correctly some stuff
+
+- Talon Warrior melee damage increase to 8-3
+
+- Mentor XP from 94 to 82
+- Grand Flyer HP to 50 (+6) , price to 31g (-2g)
+- Lord price to 59g (+3g)
+
+- Golden Guard movement to 5 (+1) , price to 30g (-8g)
+- Sentinel of Moon ressist bug fix from -17% to 17% , price to 32g (-6g)
+
+- Pyronation HP to 40 (-5) , movement to 5 (+1) , price to 38g (-1g)
+- Solar Empyrean ranged damage decrease to 11-4 , aligment change to NEUTRAL , price to 60g (+9g)
+Ridicously powerful unit, not boosting is own damage from illuminates will make him a much more fair unit.
+- High Pyration HP to 55 (-5) , movement to 5 (+1) , price to 64g (+5g)
+- Hietarch of Aten movement to 5 (+1) , price to 85g (+3g)
+
+- Battle Sage XP from 100 to 75 , price to 26g (-12g)
+- Battle Seer price to 48g (-8g)
+- Elder Sage XP from 100 to 80 , price to 30g (-4g)
+- Doyen price to 53g (-2g)
+- Patriarch price to 72g (-2g)
+
+- Quick Draw pierce damage increase to 8-4 , arcane damage increae to 6-4 , XP from 100 to 80 , price to 32g (-2g)
+- Deadeye HP to 52 (+2) , arcane damage increase to 8-4
+- Astral Ranger HP to 52 (-3) , melee strikes decrease by -1 , price to 54g (-3g)
+- Twilight Slayer HP to 45 (+5) , cold res to 20% (+20%) , arcane res to 30% (+10%) , pierce res to 20% (+10%)
+Massie buff on Twilight Slayer otherwise it's useless unit.
+
+
+EOS - ELTIREANS
+
+- Bishop price to 31g (-7g)
+- Archbishop price to 49g (-5g)
+- Lightbringer price to 32g (-2g)
+
+- Pyromancer price to 37g (-5g)
+- Hydromancer price to 37g (-5g)
+- Whirpool Lord price to 82g (+5g)
+
+- Glory Seeker price to 15g (-1g)
+- Patrol Captain XP from 70 to 80
+- Sky Captain XP from 140 to 120 , price to 57g (+3g)
+- Sky Lord price to 77g (+7g)
+
+- Calmblade XP from 56 to 62
+- Crusher XP from 56 to 64
+
+- Knight Errant arcane and cold ressistnace are now the opposite.
+- Knight of the Sun XP from 70 to 80 , arcane and cold ressistnace are now the opposite.
+- Guardian of the Sun price to 54g (+4g) , arcane and cold ressistnace are now the opposite.
+It makes 0 sense how an human is -10% arcane res but 10% cold res lol
+
+- Lady of War price to 16g (-1g)
+- Fury XP from 76 to 70 , price to 28g (-6g)
+- Mistress price to 53g (+3g)
+- Tempress HP to 39 (+3) 
+- Siren HP to 55 (+5) 
+
+
+EOS - EVENTIDE  
+
+- Auxilary XP from 36 to 34
+- Lineman movement to 6 (+1) , price to 24g (-2g)
+
+- Madcap melee damage increase to 9-2
+
+- Arcane archer movement to 6 (+1) , arcane damage increae to 13-1 , price to 29g (-3g)
+- Diu Keenshot price to 55g (+3g)
+
+- Eventide Alchemist price to 29g (-5g)
+- Eventide Poisoner price to 51g (-3g)
+
+- Dreadlord Sword is now blade attack type (instead of impact)
+
+- Swabie XP from 35 to 33 , price to 13g (-1g)
+- Mariner HP to 47 (+2) , XP from 70 to 60 , price to 22g (-4g)
+- Navigator ranged damage increased to 12-2
+Second time I give +1 to his ranged damage lol
+
+
+EOS - FREE SAURIANS
+
+- Fighter XP from 75 to 57 , price to 23g (-3g)
+- Warchief price to 43g (+3g)
+
+- Duelist XP from 100 to 80 , price to 31g (-4g)
+
+- Elementalist AMLA XP fixed from 50 to 120 , price to 35g (-5g)
+- Saurian Healer price to 28g (-6g)
+- Soulmage XP from 60 to 72
+- Shockfrost price to 55g (+7g)
+- Ice Lord cold damage decrease to 16-4
+
+- Mystic fire damage increase to 13-2
+
+- Saurian Warrior XP from 85 to 77
+- Saurian Hero price to 56g (+4g)
+
+- Lizard Master AMLA XP set to 120 , price to 34g (-6g)
+
+- Skulker HP to 42 (+2) , price to 28g (-6g)
+- Assasin HP to 55 (+2)
+
+- Spider XP from 45 to 40
+- Tarantula impact melee damage increase to 9-1 , HP to 45 (+1)
+
+- Swamp XP from 45 to 42
+- Swamp Fighter HP to 44 (+2) , fire/cold res increase to -10% (+10%) 
+- Swamp Warrior HP to 55 (+3) , fire/cold res increase to 0% (+20%)
+The other option is really badass, hard to compete with it. And cannot nerf it as nobody likes free saurians :D
+
+
+EOS - MINOTAURS
+
+- Boar Knight XP from 110 to 90 , price to 44g (+7g)
+- Boar Cataphract price to 66g (+6g)
+
+- Cutthroat XP from 50 to 45
+- Slayer price to 32g (-3g)
+
+- Gore XP from 45 to 42
+- Gore Rouser price to 31g (-4g)
+- Gore Savage price to 31g (-4g)
+
+- Mystic forest defense to 50% (-10%) , price to 41g (-5g)
+- Warlock price to 40g (-5g)
+- Elder staff damage increase to 11-2 , price to 65g (-5g)
+
+- Gnoll Keeneye HP to 47 (+2) , price to 23g (-4g)
+
+
+EOS - TRITHTHA
+
+- Fighter XP from 34 to 45 (1.18 XP values)
+- Runefighter axe damage increase to 9-3 , hammer damage adjusted from 11-1 to 10-2 , XP from 68 to 88 , price to 35g (+3g)
+- Runewarrior axe damage increase to 13-3 , hatchet damage lowered from 14-1 to 7-1 , HP to 63 (+3) , price to 60g (+6g)
+
+
+- Compounder XP from 95 to 70 , NEW ATTACK: crossbow 11-2 fire ranged , price to 27g (-3g)
+- Repeater NEW ATTACK: crossbow 11-3 fire ranged , price to 54g (+8g)
+Only this option gains fire ranged, so people will not just focus on the marksman option.
+- Arblaster price to 54g (+8g)
+
+- Plainsmaster HP to 48 (+2) , fire ranged ajdjust from 18-1 to 9-2 , impact res to 0% (+10%) , price to 32g (-3g)
+
+- Rusher XP from 47 to 45 , mountain defense to 60% (-10%)
+- Charger flat/forest/sand defense to 40% (+10%) , mountains defense to 60% (-10%) , XP from 85 to 80 , price to 33g (+4g)
+- Linebreaker flat/forest/sand defense to 40% (+10%) , mountains defense to 60% (-10%) , price to 57g (+14g)
+
+- Shieldman impact damage decrease to 12-1 , XP from 47 to 42 
+- Guard impact amage decrease to 17-1 , XP from 85 to 78
+- Defender pierce melee damage increase to 10-3 , impact melee damage decrease to 21-1 , price to 57g (+14g)
+
+
+IMPERIAL - CAVERNEI
+
+- Steelclad price to 35g (+3g)
+- Lord ranged damage decrease to 7-2 , price to 63g (+9g)
+
+- Guardian XP from 40 to 35 , ranged damage increase to 6-1
+- Stalwart ranged damage adjusted from 8-1 to 6-2 , XP from 85 to 78 , price to 30g (-2g)
+- Sentinel melee damage adjusted from 9-3 to 8-4 +first-strike , price to 54g (+13g)
+
+- Thunderer XP from 40 to 35
+- Thunderguard XP from 95 to 70 , price to 25g (-5g)
+- Dragonguard price to 57g (+11g)
+
+
+IMPERIAL - ISSAELFR
+
+- Gelus HP to 40 (+2) , XP from 90 to 75 , melee damage increase to 6-2 , price to 29g (-11g)
+- Borealis HP to 50 (+5) , melee damage increase to 9-2 , price to 52g (-13g)
+- Mountaineer impact melee damage increase to 7-2 , price to 31g (-11g)
+- Alpine Ranger impact increase to 9-2 , price to 59g (-21g)
+
+- Glavier HP to 50 (+2) , pierce res to 20% (+10%) , price to 26g (-14g)
+- Glaive master HP to 67 (+3) , pierce res to 20% (+10%) , price to 54g (-21g)
+- Ice Romaer HP to 45 (+1) , XP from 73 to 70 , price to 27g (-6g)
+- Ice Dancer HP to 57 (+3) , melee gains parry+5% , price to 52g (+2g)
+
+- Mistral Glacialist price to 37g (-7g)
+- Mistral Cryomancer price to 57g (-23g)
+- Mistral Rime Keeper price to 36g (-7g)
+- Mistral Rime Castellan price to 55g (-25g)
+
+- Yak Knight pierce melee damage to 8-3 , impact res to 10% (+10%) , price to 40g (-4g)
+- Yakmount Margrave all damages increase by 1, impact res to 20% (+20%) , price to 60g (-20g)
+
+- Seal damage increase to 6-3 , price to 11g (-2g)
+- Fleet Seal XP from 80 to 52 , price to 21g (-7g)
+- Elder Seal price to 40g (-5g)
+
+
+IMPERIAL - LAVINIAN LEGION
+
+- Light Infantry HP to 31 (+3) , XP from 40 to 34 , arcane res to 20% (+10%) , flat/sand/cave def to 50% , price to 13g (-1g)
+Frozen defense to 40% (+20%) 
+- Rorarius arcane/cold res to 20% (+10%) , flat/sand/cave def to 50% , Frozen defense to 40% (+20%) , price to 25g (-5g)
+- Skirmisher XP from 40 to 34 , arcane res to 20% (+10%) , fire res to 0% (+10%) , price to 15g (-1g)
+- Velite arcane res to 20% (+10%) , pierce/fire res to 0% (+10%) 
+- Slinger arcane res to 20% (+10%) , price to 15g (-1g)
+- Funditor impact res to -15% (+5%) , arcane res to 20% (+10%) , fire res to 10% (+10%) , price to 25g (-3g)
+
+- Ballista HP to 45 (+6) , movement to 4 (+1) , ranged damage lowered to 17-2 , XP from 58 to 67 , price to 29g (+1g) 
+cold res to 10% (+20%) , fire res to -20% (-10%) , pierce res to 30% (+10%) , impact to 0% (-10%) , arcane res to 20% (+10%) 
+- Archuballistarius HP to 55 (+5) , movement to 4 (+1) , ranged damage lowered to 23-2 , AMLA XP to 120 , price to 52g (+6g)
+cold res to 10% (+20%) , fire res to -20% (-10%) ,  pierce res to 30% (+10%) , impact to 0% (-10%) , arcane res to 20% (+10%) 
+
+- Siege Archer HP to 42 (+4) , XP from 60 to 75 , price to 30g (+1g)
+- Saggitarius HP to 52 (+4) , cold res to -10% (+5%) , price to 52g (+10g)
+
+- Decurion cold res to -10% (+10%) , XP from 72 to 85 , price to 35g (+3g)
+- Centurion cold res to -10% (+10%) , price to 60g (+12g)
+
+- Propugnator HP to 48 (+2) , shield damage lowered to 16-1 , XP from 64 to 80 , price to 32g (+4g) , +Steadfast replaced by shield-defense(20)
+- Praetorian Guard cold res to -10% (+10%) , +Steadfast replaced by shield-defense(20) , price to 55g (+15g)
+This is actually considered a BUFF unless playing orocia or RPG lol
+
+- Signifer blade res to 20% (-10%) , cold res to 0% (+20%) 
+- Aquilifer  res to 20% (-10%) , cold res to 0% (+20%) , fire res to 0% (+10%) , arcane res to 10% (+10%) can now heal allies from poison.
+
+- Horseman XP from 38 to 45 , price to 22g (+1g)
+- Claimant HP to 52 (+2) , price to 38g (+3g)
+- Champion HP to 66 (+4) , price to 55g (+5g)
+
+- River Horse price to 35g (-3g)
+
+
+IMPERIAL - MARAUDERS
+- ALL marauders cave defense from 20% to 40%
+- Axemen and level up cave defense from 20% to 30%
+- Valkyie cave defense from 20% to 30% , mountain defense from 50% to 60%
+
+- Hunter bow damage increase to 8-4 , XP from 72 to 75 , price to 25g (-5g)
+- Woodsman melee damage lowered by 2 , ranged damage increased by 2 , price to 52 (+5g)
+They're low in pierce damage, this change might benefit them as faction.
+- Mounted Axeman HP to 53 (+5) , movement to 7 (-1) , melee damage increase to 8-4 , price to 39g (+5g)
+Some extra bulk in marauders faction will help quite lot more as no lv3 unit.
+
+- Sea Wolf HP to 63 (+3) , fire res to -20% (+10%) , price to 47g (+7g)
+
+- Fay arcane res to 10% (+10%)
+- Seress arcane res to 10% (+10%) 
+- Galdra arcane res to 10% (+10%) , price to 54g (+2g)
+- Shieldmaiden arcane res to 20% (+20%)
+- Valkyrie HP to 62 (+2) , arcane res to 40% (+10%) 
+
+- Raider HP to 46 (+3) , price to 29g (-3g)
+
+- Warrior XP from 35 to 38
+- Jarl XP from 78 to 85
+- Lord price to 61g (+4g)
+- Pillager XP from 65 to 82 , price to 29g (-3g)
+- Scorcher torch damage increase to 16-2
+
+IMPERIAL - ORC GLADIATORS
+
+- ALL lizard riders arcane res to 10% (+10%)
+- Orcs frozen movement cost to 2 (-1)
+- minutiwheel frozen movement cost to 3 (-1)
+- minutiwheel frozen defense to 30% (+10%)
+- minutiwheel swallow water movement cost to 5 (-1)
+(heavy armored orcs have no movement cost buff)
+
+- Dimacherius price to 27g (-1g)
+- Dimacherius fortis price to 53g (+1g)
+- Murmillo HP to 52 (-3) , XP from 72 to 85 , price to 34g (+6g)
+- Murmillo Leonis price to 62g (+7g)
+- Provocator XP from 72 to 82 
+- Provocator Leonis HP to 69 (+2) , price to 57g (+5g)
+
+- Bestiarius price to 25g (-7g)
+- Feral Bestiarius pierce melee damage increase to 13-3 price to 52g (-1g)
+- Paegniarius price to 26g (-6g)
+- Brutal Paegniarius impact res to 10% (+10%) , price to 51g (-2g)
+
+- Hoplomachus HP to 50 (+4) , price to 28g (-2g)
+- Hoplomachus Fortis HP to 62 (+4) , pierce damage increase to 11-3 , added parry(5%) in sword.
+- Secutor melee changed from 4-7 to 5-6 , HP to 48 (+3) , price to 30g (+2g)
+- Secutor Leonis HP to 57 (+4) , added parry(+5%) on melee , price to 55g (+4g)
+RANGED REWORK: Attack set to 0-0 , interrupt removed , added +15% parry in ranged attack , added +magic-counter
+
+This balance them really much, meaning ranged attack will in mot cases help the unit take less damage but not massively less damage in some cases...
+
+- Thraex XP from 60 to 84 , price to 26g (-2g)
+- Thraex Paratus now gains +Skirmisher! , price to 55g (+2g)
+
+- Khampsa Audentis AMLA XP from 100 to 120
+
+- Venator Faber price to 32g (-4g)
+- Essedarius XP from 50 to 48
+- Essedarius Vulpis price to 39g (-3g)
+
+- Laquerius XP from 50 to 45
+- Laquerius Faber price to 28g (-2g)
+- Retiarius XP from 50 to 45
+- Fleet Retiarius price to 30g (-2g)
+
+IMPERIAL - SIDHE
+
+- Fury XP from 50 to 46
+- Wildblade HP to 42 (+2) , price to 32g (-3g)
+- Whirlwind HP to 54 (+4) , price to 57g (-10g)
+
+- Snowdancer price to 27g (-13g)
+- Blizzard Lord price to 56g (-4g)
+That unit in night time is scary 9-6 cold ranged on night, which can be real devastating to many units.
+
+- Raindancer XP from 48 to 46
+- Warmage XP from 76 to 84
+- Thunderblade XP from 180 to 135 , price to 58g (+2g)
+- Storm Lord price to 90g (-16g)
+
+- Dark Thunderblade REWORK
+HP to 67 (+2)
+Melee damage increae to 8-6 , removed backstab.
+NEW ATTACK: 7-5 blade melee +magical +backstab (same as origianal but -1 strike)
+Ranged attack reworked from 6-5 to 8-4
+Price: 88g
+
+- Warrior XP from 42 to 37
+- Bladespinner price to 28g (-4g)
+- Wardancer price to 56g (+4g)
+- Herald XP from 100 to 85
+- Warsinger price to 57g (+5g)
+- Veiledblade price to 29g (-3g) -low HP, high risk to use for massive damage if strong-
+- Shadowdancer XP from 180 to 135 , price to 56g (+4g)
+
+- Warrior Spirit XP from 45 to 43
+- Ancestor price to 38g (-4g)
+- Forefather AMLA XP from 100 to 120 , price to 57g (-6g)
+
+- Bear AMLA XP from 100 to 120 (so can farm XP mod strikes)
+
+
+ARCHAIC - KTHONS
+Some rebalance adjustments to make more stuff viable.
+
+- Duck XP from 21 to 16 , ranged damage increase to 6-2 , price to 8g (-2g)
+- Great Duck HP to 34 (+7) , melee damage increase to 8-1
+- Giant Duck HP to 46 (+12) , melee adjusted from 12-1 to 8-2 , arcane ressist to -10% (-10%)
+Ducks require massive XP to lv2, so their HP buff seem right.
+
+- Stympheon melee damage decrease to 5-2 , now has +Feeding , added parry(5%) in ranged , fire ressist to 0% (-10%) , XP from 36 to 44
+- Stymphallian HP to 40 (+2) , now has +Feeding , added parry(5%) and accuracy(5%) in ranged , fire ressit to 0% (-10%) , arcane ressist to -10% (+10%)
+
+- Horse HP to 31 (+3) , pierce res to -10% (-10%)
+- Noble Beast melee damage decreae to 9-2 , ranged damage increase to 7-3 , impact res to 10% (+10%) , cold res to 20% (+10%) XP from 60 to 82
+- Royal Beast melee damage decrease to 11-2 , range strikes increase by 1 , impact res to 20% (+10%) , price to 63g (+3g)
+Kthon needs more ranged units than more melee options.
+
+- Taraxippon HP increase to 40 (+3) , added parry(5%) to melee , XP from 54 to 63
+- Nightmare HP to 51 (+2) , added parry(5%) to blade melee, arcane melee damage increase to 11-2 , price to 53g (+2g)
+- Ipoten HP to 64 (+2) , added parry(5%) to blade melee, arcane melee damage increase to 15-2 , price to 77g (+5g)
+
+
+- Ram price to 17g (+2g)
+- Cryosatyr ranged damage decrease from 8-2 to 5-2
+It trully don't need that much ranged damage, most wanted from it is the slowing special.
+
+- Katoblepon XP from 80 to 90 , price to 39g (+7g)
+- Katoblepon-Magnum XP from 100 to 115 , price to 63g (+7g)
+- Ker-Kato price to 85g (+7g)
+
+- Pyradalon HP to 47 (+3) , impact melee damage to 9-2 , fire melee adjusted from 14-2 to 9-3 and added parry(+5%) , price to 36g (+2g)
+
+- Timber Wolf HP to 34 (+1) , XP from 38 to 36 , forest/cave movement cost to 1 (-1) , price to 14g (-1g)
+Nerfs to Ram is compensated at lv1 wolves buff.
+- Prokyon XP from 80 to 70 , price to 29g (+1g)
+- Orthrus HP to 63 (+1) , XP from 100 to 140 , price to 60g (+2g)
+- Skylliaron added +first-strike on blade melee , price to 85g (+8g)
+Wolves were too weak early game, but too overpowered late game.
+
+- Yak impact/cold res to 20% (+10%) 
+- Ophis-Magnum impact melee adjusted from 26-1 to 15-2 , price to 53g (+28g)
+- Khalkotaurus melee pierce damage increase to 20-2 , impact melee adjusted from 32-1 to 18-2 , price to 80g (+5g)
+Players are forced to lv5 for maximun reward of single strike attack, still they can spam strikes in this version for a while.
+- Bellikakotaurus pierce melee damage increase to 21-3 , blade damage increase to 11-5 , price to 130g (+30g)
+
+- Bone Snapper XP from 34 to 37 , price to 17g (+1g)
+- Rock Snapper price to 35g (+3g)
+
+- Land Tortoise XP from 34 to 36 , price to 17g (+1g)
+- Rock Back XP from 54 to 65 , price to 27g (-1g)
+- Adamantine arcane melee damage increase to 9-4
+
+Need testing to view if more changes are needed, but Kthon changes are among changes I predict the least the outcome.
+
+
+ARCHAIC - MENAGERIE
+Minor corrections only, I want greater things for them in a next release. Big fan of this faction
+
+- Blue Unicorn cold/fire ressistnaces to 10% (-10%) , price to 38g (+4g)
+- Blue Drake XP from 100 to 90 , price to 32g (+2g)
+- Blue Beast price to 62g (+5g)
+
+- Blue machinist XP from 72 to 75 , price to 31g (-3g)
+- Blue Engineer price to 56g (+4g)
+- Blue Mage XP from 100 to 90 , price to 35g (-5g)
+- Azure Mage blade melee damage decrease to 9-3
+
+- Blocker will get nerfed by movement costs and terrain defenses.
+a) unwalkable movement cost to 3 (+2) , unwalkable defense to 30% (-20%)
+b) flat/water/swamp/deep-water/cave/sand/frozen defense to 40% (-10%) 
+c) deep-water/reef/mountains movmement cost to 2 (+1)
+d) village defense to 50% (-10%)
+e) AMLA XP from 200 to 100
+
+- Defender XP from 100 to 95
+- Sentinel HP to 58 (+3) , arcane ressist to -30% (+10%) , fire/cold ressist to 25% (-5%)  
+village/castle defense to 65% (-5%) , cave defense to 55% (-5%) , price to 60g (+2g)
+
+- Lesser Earth Daemon XP from 45 to 41
+- Earth Daemon movement to 5 (+1) , price to 29g (+2g)
+- Greater Earth Daemon price to 54g (+3g)
+
+- Wind Daemon XP from 74 to 75 , price to 32g (-2g)
+
+- Lunar Reaper price to 32g (-2g)
+- Lunar Stinkbug price to 19g (+1g)
+
+- Lunar Explorer pierce damage decreased to 8-2 , XP from 48 to 41
+- Lunar Invader pierce damage increase to 12-2 , XP from 80 to 75 , price to 26g (-1g)
+- Lunar Exterminator NEW ATTACK: Poison fog 10-3 cold ranged +poison , price to 50g (+4g)
+Melee option has 3 damage types, let's help Exterminator to that as well.
+- Lunar Frogman pierce damage increase to 11-3
+
+- Mechanical Seeker price to 18g (-1g)
+- Mechanical Cyclops removed +Strive in ranged (it was impairing the unit)
+
+- Tower Dancer ranged damage from 2-2 to 0-2 (just look at attack's name LOL) , blade melee adjusted from 8-2 to 5-3 parry(+5%)
+- Tower Madam melee (fan) damage adjusted from 10-2 to 6-4 parry/accuracy(+5%) , backstab adjusted from 18-1 to 9-2 & parry(+5%) , ranged damage decreased to 0-3 , price to 30g (+2g)
+- Tower watchman pierce melee damage decreaes to 11-3 , price to 29g (+1g)
+
+- Cyborg price to 16g (+2g)
+
+- Lunar Slime price to 18g (+3g)
+- Lunar Mouth price to 30g (-2g)
+
+
+ARCHAIC - NORTHERN ORCS
+
+- Frost Goblin price to 14g (+1g)
+- Cave Lancer price to 30g (-2g)
+- Cave Dragoon price to 48g (+3g)
+
+- Vagrant ranged damage increae to 6-2 , fixed forest defense bug (40% -> 60%) , price to 28g (-4g)
+- Traveler HP to 70 (+3) , ranged damage increase to 8-2 , fixed forest defense bug (40% -> 60%) , added accuracy(5%) to melee
+Without changes the unit is pretty much underpowered...
+- Wanderer price to 30g (-3g)
+
+- Fireline blade damage increase to 10-3 , XP from 60 to 73 , price to 26g (-1g)
+- Firebreather blade damage increase to 15-3 , price to 53g (+3g)
+- Foreman price to 34g (+2g)
+- Overseer backstab damage decrease to 8-3 , village/castle defense to 65% (-5%) , price to 60g (+9g)
+- Terror impact damage increase to 19-2 , backstab damage decrease to 9-3 , impact res to 10% (+10%) , price to 53g (+5g)
+
+- Orcish Calvary XP from 60 to 80 , price to 35g (+3g)
+- Destrier price to 62g (+8g)
+
+- Hunter XP from 80 to 65 , price to 26g (-2g)
+- Stalker added accuracy(+5%) in ranged , price to 50g (+6g)
+
+
+ARCHAIC - PRIMEVAL
+Some adjustments, just that.
+
+
+- Ironwheel XP from 86 to 90 , arcane ressist to -20% (+5%) , price to 34g (+2g)
+- Aerowheel XP from 120 to 130 , arcane ressist to -15% (+5%) , price to 62g (+5g) 
+- Sun-Wheel HP from 72 to 75 , price to 80g (+5g)
+- Fire Wheel price to 62g (+5g)
+
+- Brightshield price to 30g (+2g) 
+- Sun-shield price to 56g (+4g)
+- Fanatic HP to 54 (+2) , ranged damage decrease to 5-3 , XP from 70 to 80 , price to 23g (-1g)
+- Leader price to 57g (+12g)
+
+- Celebrant arcane ranged damage decrease to 8-3
+- Monk price to 32g (-2g)
+
+- Dogface XP from 80 to 90 , price to 30g (+2g)
+- Warrior HP to 72 (+4) , NEW ATTACK: Axe 14-3 (no specials) , XP from 143 to 130 , price to 60g (+5g)
+- Titan NEW ATTACK: Axe 15-4 +first-strike, HP to 87 (+3) , price to 85g (+15g)
+
+- Driver price to 32g (+2g)
+- Linebreaker price to 62g (+7g)
+
+- Escort XP from 86 to 90 , arcane ressist to -20% (+5%) , price to 33g (+1g)
+- Protector XP from 115 to 130 , price to 63g (+8g)
+- Highguard price to 90g (+10g)
+- Striker arcane XP from 77 to 85 , ressist to -20% (+5%) , price to 30g (+2g)
+- Gire Striker price to 62g (+10g)
+
+- Velite XP from 46 to 35
+- Hastate HP to 42 (+2) , gains parry(+5%) in melee , XP from 86 to 77
+- Peltast HP to 55 (+2) , gains parry(+5%) in melee , accuracy(+5%) in ranged , price to 52g (-2g)
+
+
+ARCHAIC - SOUTH SEAS
+
+- Albatros XP from 38 to 35 , price to 12g (-2g)
+
+- Arsonist price to 19g (+1g)
+- Demontiolist HP to 50 (+4) , price to 27g (-1g)
+- Spitfire HP to 60 (+8)
+
+- Gust XP from 50 to 60
+- Gale price to 31g (+6g)
+
+- Lore Caster XP from 50 to 45
+- Seahag HP to 39 (+2) , price to 34g (+2g)
+- Sea-Scourge HP to 50 (+3) , price to 52g (+6g)
+- Wind Caller XP from 72 to 82
+- Sky Caller price to 54g (+2g)
+
+- Able-Seaman price to 22g (-2g)
+- Deck-Master pierce attack damage decrease to 11-2 , price to 48g (+6g)
+- Whirl Wind price to 32g (+3g)
+
+- Shoreman XP from 42 to 39
+- Salvager price to 26g (-1g)
+- Wrecker price to 51g (+3g)
+- Sea Rover HP to 45 (+2) , XP from 65 to 60 , ranged now has accuracy(+5%)
+- Sea Wolf melee damage increase to 10-4 , ranged now has accuracy(+5%) , price to 48g (+6g)
+
+- Diver HP to 38 (+1) , ranged damage increase to 7-1
+
+
+ARCHAIC - UKIANS
+
+- Harrier HP to 31 (-3) , XP from 46 to 42
+- Attack Dog berserk attack worsened from 5-3 to 6-2
+
+- Herdsman blade ressist to 20% (+10%) , impact res to 30% (+10%) , HP to 42 (-2) , price to 20g (-4g)
+- Rider torch damage decrease to 13-2 , impact res to 30% (+10%) , XP from 60 to 83 
+- Fire Knight torch damage decrease to 16-2 , ranged damage worsened from 7-3 to 8-2 , price to 55g (+7g)
+
+- Ice Seal XP from 46 to 40
+- Iceblade Seal HP to 42 (+3)
+- Pack Seal XP from 46 to 42
+- Lion Seal HP to 44 (+4)
+
+- Hawkeye HP to 44 (+2) , cold ressist to 10% (+10%)
+- Deadeye fire damage increase to 15-2 , cold ressist to 10% (+10%) , price to 52g (+17g)
+- Seress HP to 40 (+1) , cold res to 20% (+10%)
+- Witch price to 53g (+2g)
+
+- Ukian Veteran cold res to 10% (+10%) , price to 30g (+2g)
+- Officer HP to 48 (+2) , ranged damage increase to 5-3 , XP from 65 to 80 , cold res to 10% (+10%) , price to 36g (+4g)
+- Subcommander ranged damage increase to 6-3 , cold res to 10% (+10%) , XP from 100 to 110 , price to 63g (+6g)
+- Commander cold res to 10% (+10%) , price to 83g (+6g)
+- Signalman XP from 72 to 80 , price to 29g (+1g)
+- Flareman blade res to 10% (+10%) , fire res to 20% (-10%) , price to 55g (+4g)
+
+- Ranger price to 34g (+2g)
+- Figter mountains movement cost to 2 (-1)
+- Soldier HP to 56 (+4) , XP from 60 to 80 , mountains movement cost to 2 (-1) , price to 26g (+1g)
+They're slower, reason that helps them to not be more expensive.
+- Warrior HP to 74 (+4) , mountains movement cost to 2 (-1) , price to 54g (+11g)
+
+- Constable price to 56g (+6g)
+
+- Runner XP from 38 to 34 , fire/cold res to 10% (+10%)
+- Courrier HP to 45 (+3) , melee damage decrease to 8-2 , XP from 75 to 70 , fire/cold res to 10% (+10%) , price to 25g (-1g)
+- Commando HP to 56 (+2) , backstab damage decrease to 6-3 , all ranged parry(+5%) , fire/cold res to 10% (+10%) , price to 53g (+14g)
+
+
+ME - AVIANS
+
+- Largewing cave defense to 20% (+10%) , movement cost to 3 (-1)
+- Largewing hills defense to 50% (+10%)
+- Largewing arcane ressistance to 20% (+20%)
+- Medwing hills defense to 50% (+10%) 
+- Medwing village defense to 60% (+10%)
+- Medging arcane ressistance to 10% (+10%)
+- Floatwing deep-water/reef movement cost to 2 (+1) 
+- Smallwing now has 10% (+10% arcane res
+
+These units are medwing.
+- Archer XP from 44 to 38
+- Bombardier XP from 75 to 70 , price to 26g (-3g)
+- Bowflurry cold ressistance to 10% (+10%) , price to 52g (+6g)
+- Hawkeye XP from 75 to 72 , price to 28g (-2g)
+- Eagle Eye cold ressistance to 10% (+10%) , price to 54g (+7g)
+
+- Watchman XP from 42 to 39 
+- Bladewing cold ressistance to 10% (+10%) 
+- Razorwing cold ressistance to 10% (+10%) , price to 55g (+3g)
+- Shell price to 53g (+6g)
+- Savior HP to 46 (+2) , price to 31g (-1g)
+
+- Armorpiercer now has parry(+5%) in melee
+- Daredevil cold ressist to 10% (+10%) , ranged damage decrease from 4-5 to 3-4 but parry(+5%)
+- Rocket cold ressistance to 10% (+10%) 
+
+
+These units are largewing.
+- Broadwing XP from 54 to 49
+- Skylord HP to 46 (+2) , cold ranged damage increase to 8-3
+- Winged Baron price to 60g (+6g)
+- Sky Terror HP to 56 (+4)
+- Dreadnought HP to 74 (+4) , cold ranged damage increase to 17-2
+
+- Egglayer now has parry(+5%) in melee , movement to 6 (+1)
+- Sitter price to 32g (-4g)
+
+These units are smallwing
+- Jackdaw XP from 46 to 42
+- Crow HP to 42 (+2)
+- Raven HP to 55 (+3) , cold res to 10% (+10%) , price to 57g (+3g)
+- Owl HP to 38 (+3) 
+- Nightwing HP to 53 (+6) , price to 58g (+1g)
+
+- Dove price to 34g (+2g)
+- Humming Bird melee damage adjusted from 4-4 to 8-2
+- Sparrow cold res to 10% (+10%) price to 32g (-2g)
+- Falcon cold res to 15% (+15%) , price to 56g (+3g)
+- Passer HP to 51 (+3) , cold res to 10% (+10%) 
+
+
+And groundeds...
+- Grounded XP from 44 to 42 , swamp defense to 30% (+10%)
+- Ironbeak impact melee damage decrease by -1 , swamp defense to 30% (-10%) , price to 28g (-2g)
+- Steelbeak swamp defense to 30% (-10%) 
+- Diamondbeak swamp defense to 30% (+10%) , price to 82g (+7g)
+
+
+
+ME - BLIGHT
+- blightfoot / blobfoot / microbe / zombiefoot / blobswim --> cave movement cost to 1 (-1)
+- blightfoot frozen defense to 30% (+10%)
+Being 30% frozen defense but 3 MP cost in sand is a bad exchange.
+Cold, humid places, makes sense it's good for blight.
+- zombieheavy frozen defense to 20% (+10%)
+- zombiefoot frozen defense to 30% (+10%) and movement cost to 2 (-1)
+30% frozen defense (2 MP cost) is not a good exchange in comparation of 3 MP cost / 20% defense on sand.
+- hostfoot cave movmeent cost to 1 (-1) , cave defense to 40% (+10%)
+- hostfoot frozen defense to 30% (+20%)
+Particularly good in cold/humid terrains (even if in frozen movement it struggles)
+- crawlerfoot frozen defense to 40% (+10%) 
+- ALL unwalkable defense is set to 10% instead of higher.
+
+- Acid
+a) HP to 24 (-2) , ranged has now +drains +absorb , blade/impact lowered by 10% , cold res lowered to -50% (-10%)
+b) melee attack now has UN UPGRADABLE STRIKE 1
+c) NEW ATTACK: 12-1 fire melee +drains +absorb & accuracy/parry -5% 
+d) ranged has now UN UPGRADABLE STRIKE 4 , but gains an extra attack that can gain more strikes but -5% accuracy/parry
+Out of Orocia it's impossible this unit gain extra strikes, but if it did happen it was more melee than ranged unit.
+Now its focus is about being ranged unit. Balance tests need to be tried as unit max level is 1 and they need fire ranged specialist.
+
+- Ooze absorb now gains UN UPGRADABLE STRIKE 2, NEW ATTACK: Absorb 12-2 fire melee +drains +absorb and parry(-5%) , price to 31g (-4g)
+Problem is not about unit being at max HP, problem is also of unit getting higher than max HP with strong attacks.
+
+- Amoeba absorb now gains UN UPGRADABLE STRIKE 1, NEW ATTACK: Absorb 12-1 fire melee +drains +absorb and accuracy(-5%)
+
+- Plagued damage decrease to 9-3 , price to 30g (-2g)
+- Blighted damage decrease to 13-3
+- Zombie price to 26g (-2g)
+- Flesh Eater fire res to -10% (+10%) , price to 52g (+4g)
+
+- Undead hound price to 38g (-2g)
+
+- Dismembered pierce res to 45% (-5%) , price to 32g (+2g)
+- Rancid XP from 68 to 80 , price to 32g (+2g)
+- Putrid pierce res to 45% (-5%) , claws damage decrease to 24-2 , price to 54g (+13g)
+
+- Blacktide XP from 100 to 88
+- Undertow HP to 49 (+3) , damage increase to 8-6 , cold res to 35% (+5%) , price to 55g (+9g)
+Now it's worth getting this unit to lv3, more benefit than XP mod upgrades, specially for 5% more cold ressist.
+
+- Seeded aligment change to NEUTRAL, added +ME-Triple-strike , price to 9g (-1g)
+This is actually a nerf, unit can block tiles in day but could deal +25% damage on night. Some very small AoD in compensation.
+
+- Host HP to 35 (+1)
+- Spore Hive HP to 52 (+2)
+
+- Charred Zombie XP from 40 to 38
+- Mutilated corpse pierce ressistance to 35% (+5%)
+- Dreadbones price to 54g (+8g)
+
+
+ME - ENCHANTERS
+- enchantfoot / cursefoot / sellfoot / reductfoot --> reef movement cost 2 (-1)
+- enchantfoot / cursefoot / sellfoot / reductfoot--> frozen movement cost to 2 (-1)
+- enchantfoot / cursefoot --> water/swamp defense to 20% (-10%)
+- enchantfoot / cursefoot / sellfoot / reductfoot --> fungus movement cost to 2 (-1)
+
+- Stockpiler pierce and blade damages decreased by 1, price to 54g (+1g)
+
+- Sacrificer price to 33g (+2g)
+- Powermad price to 57g (+8g)
+- Apocalyptic price to 83g (+11g)
+- Sellsoul price to 60g (+10g)
+- Cursed hand price to 34g (+1g)
+- Devilhand price to 57g (+7g)
+
+- Forge price to 32g (-4g)
+- Fabricator price to 60g (+6g)
+
+- Magic Sword HP to 29 (+1) , price to 27g (-5g)
+- Enchanted Sword HP to 36 (+2)
+- Shadow Sword price to 52g (+2g)
+- Possesed Sword HP to 28 (+2) , price to 31g (-1g)
+- Shifting HP to 29 (+1) , Sword price to 32g (-2g)
+
+- Blazier XP from 77 to 75 , price to 27g (-3g)
+- Incinerator price to 54g (+2g)
+- Clearbow arcane ranged damage increase to 8-4 , price to 31g (-1g)
+- Crystal Bow pierce ranged increase to 14-3 , arcane ranged damage increase to 9-5 , price to 56g (+6g)
+
+- Reductor XP from 50 to 46
+- Titan price to 34g (-2g)
+
+- Rune apprentice XP from 60 to 52
+- Arcane transcriber XP from 105 to 92 , price to 35g (-9g)
+- Arcane Rune Splicer price to 54g (-3g)
+- Rune Purist HP to 48 (-2)
+irrelevant nerf for a mage.
+- Rune Master price to 80g (+3g)
+- Rune Splicer price to 58g (+3g)
+- Ice Runer Improver secondary cold attack damage adjusted from 5-7 magical to 6-7 enchanted and parry(+5%)
+- Fire Rune specialist price to 38g (-5g)
+
+
+ME - EQUESTRIANS
+- chargefoot / equestrianfoot / nomadfoot / broncofoot --> frozen/sand movement cost to 2 (-1)
+- chargerfoot / equestrianfoot / nomadfoot / broncofoot --> reef movement cost to 3 (-1) , defense to 30% (+10%)
+- chargerfoot / equestrianfoot / broncofoot --> sand defense to 30% (+10%)
+- nomadfoot / broncofoot cave movement cost to 2 (-1) 
+- nomadfoot / broncofoot sand defense to 40% (+20%)
+- nomadfoot / broncofoot frozen defense to 40% (+10%)
+- broncofoot mountains movement cost to 5 (-1)
+- broncofoot / bullfoot --> arcane ressistance to 10% (+10%) 
+- bullfoot frozen defense to 30% (+10%)
+
+- Bull all damages decreased by 1 , price to 32g (-1g)
+
+- Charger XP from 45 to 52
+- Crasher XP from 86 to 92 , price to 43g (+4g)
+- Breaker HP to 75 (+3) , price to 67g (+9g)
+
+- Knight XP from 44 to 41
+- Paladin price to 36g (+1g)
+
+- Mage Rider HP to 31 (+1) , XP from 50 to 47
+- Mage Knight HP to 45 (+1), XP from 110 to 90 , fire res to 10% (+5%)
+- Templar HP to 57 (+1) , fire res to 15% (+15%) , price to 65g (+12g)
+- Troubadour pierce ressistance to 10% (-10%) , price to 37g (-8g)
+
+- Pegasus rider cold res to 10% (+10%)
+- Pegasus Knight price to 32g (-4g) , cold res to 10% (+10%)
+- Silver Pegasus HP to 60 (+4) , cold res to 20% (+20%) , price to 62g (+7g)
+
+- Jockey price to 59g (+8g)
+
+- Searay cold res to 15% (+15%)
+- Manta cold res to 20% (+20%) , price to 31g (-5g)
+
+- Vagabound XP from 42 to 39 , cold res to 10% (+10%)
+- Nomad melee damage increase to 6-3 , XP from 77 to 75 , cold res to 10% (+10%) , price to 32g (-2g)
+- Roamer cold res to 15% (+15%)
+
+
+ME - FANATICS
+Severe buff
+- fanafoot / martyrfoot / fanalightfoot  --> reef moement cost to 2 (-1)
+- fanafoot / sandfoot / camelfoot --> water/swamp defense to 20% (-10%) 
+- fanafoot / sandfoot --> cave/fungus defense to 40% (+10%)
+- sandfoot mountains defense to 60% (+10%)
+- camelfoot reef defense to 30% (-10%)
+
+- Bladesman XP from 46 to 41
+- Zealblade price to 54g (+6g)
+- Terrorist movement to 6 (+1) , price to 32g (+2g)
+- Fearmonger movement to 6 (+1) , price to 56g (+2g)
+
+- Sandbow XP from 44 to 39
+- Ambusher blade damage increase to to 12-1  XP from 70 to 63 , price to 24g (-1g)
+- Sandskulker price to 50g (+3g)
+
+- Streetrat XP from 36 to 31
+- Prowler HP to 44 (+2) , ranged has accuracy(+5%) , fire ressist to 30% (+20%) , price to 30g (-5g)
+- Sandthief HP to 41 (+2) , fire res to 20% (+10%)
+- Sand Bandit HP to 52 (+2) , fire res to 20% (+10%) , price to 48g (+5g)
+
+- Caravan XP from 41 to 39
+- Camel Rider price to 31g (-3g)
+- Camel Knight price to 55g (+9g)
+
+- Follower XP from 40 to 38
+- Fanatic price to 54g (+8g)
+
+- Misinformant price to 32g (-4g)
+- Propagand price to 57g (+3g)
+
+- Genie XP from 50 to 48
+- Master Genie price 36g (-6g)
+
+
+ME - HIGHLANDERS
+- highfoot / plunderfoot / vikingfoot / giantfoot  --> cave movement cost to 1 (-1)
+- highfoot / plunderfoot / vikingfoot / woodfoot --> sand defense to 20% (+10%)
+- vikingfoot reef defense to 40% (-20%)
+- drunkfoot reef defense to 30% (-10%)
+- giantfoot cave defense to 30% (+10%)
+Woodfoot is basically a improved version in forest that receives no buff in cave.
+Basically spotting this at time, prevented highlanders to just only gains more nerfs than buffs
+
+- Contestant HP to 35 (+2)
+- Stonethrower HP to 47 (+3) , XP from 72 to 67 , price to 28g (-4g)
+- Rocklauncher HP to 58 (+2) price to 52g (+6g)
+
+- Sober HP to 55 (+2) , XP from 62 to 80 , cold res to 30% (+10%) , price to 29g (-1g)
+Sober XP had to be nerfed because of Coldturkey option, STRONG leadership unit.
+- Bartab NEW ATTAC: Mug of Mead 9-1 pierce ranged , cold res to 30% (+10%) , price to 48g (+2g)
+Had to get bonus range attack because it was not the nerfing target.
+- Coldturkey HP to 72 (+2) , cold res to 30% (+10%) , price to 62g (+10g)
+- Barfighter XP from 65 to 72 
+- Wildman price to 58g (+4g)
+
+- Amputator HP to 50 (+2) , removed bleeding.
+- Combatmedic price to 36g (-4g)
+
+- Hulk HP to 60 (+2)
+- Thor HP to 72 (+2) , melee damage increase to 19-2 , XP from 114 to 135 , price to 57g (+5g)
+- Odin price to 90g (+40g)
+- Behemoth price to 57g (+5g)
+
+- Pipeman now has +leadership and can boost lv0 damage.
+- Bagplayer XP from 70 to 75 , price to 33g (-2g)
+- Warpipe price to 60g (+9g)
+
+- Pilferer XP from 72 to 80 , price to 30g (-2g)
+- Plunderer HP to 70 (+3) , price to 55g (+9g)
+- Barbarian XP from 72 to 80
+
+- Valkyrie Warrior price to 32g (-2g) 
+Lots of 40% defenses...
+- Valkyrie Princess HP to 71 (+2) , price to 56g (+4g)
+
+- Woodsman price to 28g (-2g)
+- Gamekeeper HP to 66 (+1) , price to 52g (+5g)
+- Hatchet thrower blade ressist to 20% (+5%)
+Too many nerfs in highlanders, need a buff even in something strong.
+- Axethorower price to 54g (+5g)
+
+
+ME - HIVE  
+- hivequeen(foot) arcane ressistance to 20% (+20%)
+- Hivefoot now has 10% arcane res
+- ALL flies
+
+Hivefoot units
+- Fire Ant movement to 6 (+1) , fire ranged damage decrease to 3-4 , price to 30g (+1g)
+- Bull Ant pierce melee damage decrease to 18-2 , price to 54g (+2g)
+
+- Beetle/Stag/Hercules arcane res unchanged.
+- Stag XP from 72 to 82 , Stag price to 31g (+3g)
+It used to be fire weakness, but now is fire ressistant lol, payback nerf.
+- Hercules price to 55g (+9g)
+- Flea price to 32g (-1g) 
+- Tick price to 51g (+5g)
+
+- Tarantula XP from 76 to 82
+- Gargantuan melee damage decrease to 8-3 , price to 59g (+6g)
+- Trapdoor Spider melee impact damage increase to 10-1
+
+- Termite XP from 46 to 42
+- Termite Solider price to 31g (+2g)
+
+
+Nonhive foot units
+- Hopper XP from 49 to 43
+- Glider HP to 52 (-4) , price to 42g (+4g)
+- Mantis cold res to 0% (+5%) , arcane res to 15% (+5%) , price to 30g (+2g)
+- Skiper HP to 54 (+2) , price to 33g (-3g)
+
+- Swarm & advancement have +fearless trait (inmune to AwE auras)
+More stuff that can deal againist punisher (specially if normally pierce weak againist undead) might help.
+NEUTRAL aligment, will not cause balance issues ... unless thralled LOL
+- Infest XP from 70 to 80
+- Drove HP to 40 (+2) , price to 54g (+6g)
+AND MORE AWE COUNTERS COMING IN 4.31
+
+- Gnat and all its advancement will now be 10% arcane ressistant
+
+- Firefly XP from 55 to 45
+- Lantern bug price to 30g (-2g)
+
+- Regal price to 60g (+8g)
+- Hornet price to 57g (+5g)
+- Queen XP from 100 to 80 , arcane res to 20% (+10%) , price to 37g (-3g)
+- Overmind arcane res to 20% (+10%)
+
+
+ME - HOLY ORDER 
+- officerfoot / officermounted --> sand movement cost to 2 (-1)
+- officerfoot cave defense to 40% (+10%)
+- officerfoot / officermounted / interrogatorfoot --> water/swamp defense to 20% (-10%)
+- officermounted frozen movement cost to 2 (-1)
+- officermounted frozen defense to 30% (+10%)
+- interrogatorfoot cave movement cost to 1 (-1)
+Interrogator sacrifices +1 sand movement cost for -1 movement cost, sometimes this can be favorable.
+
+- Crusader arcane melee attack adjusted from 10-2 to 8-3 , price to 24g (-2g)
+- Paladin price to 57g (+5g)
+
+- Bishop XP from 93 to 80 , price to 30g (-6g)
+- Priest price to 26g (-8g)
+- Pope price to 48g (-2g)
+
+- Torturer price to 56g (+4g)
+
+- Judgementor price to 23g (-4g)
+
+- Holy spirit XP from 100 to 95
+- Arcane Spirit price to 63g (+13g)
+
+- Listener price to 30g (-2g)
+- Eye of Fate has accuracy(+5%) in ranged, price to 54g (+3g)
+
+- Law price to 52g (+4g)
+- Order price to 52g (+4g)
+- Peacekeeper price to 54g (+6g)
+
+- Mage XP from 100 to 85 , price to 35g (-5g)
+- Ballast arcane damage increase to 10-4 , fire ranged damage increase to 19-2 , melee damage adjusted from 5-3 to 7-2
+- Scholar price to 37g (-5g)
+- Wisdomkeeper price to 58g (-2g)
+
+- Witchhunter XP from 46 to 41
+- Demonslayer XP from 86 to 78 , arcane ranged damage decrease to 14-2 , price to 30g (-4g)
+- Purifier HP to 56g (+1g)
+
+
+ME - INFERNAI
+- infernaicave unwalkable defense to 50% (-10%)
+- infernaidog reef movement cost to 2 (-1)
+
+- Dominated price to 48g (+8g)
+
+- Hellhound HP to 39 (+1) , price to 31g (-1g)
+- Cerberus price to 53g (+9g)
+
+- Gog XP from 48 to 42
+- Magog XP from 78 to 80 , price to 28g (-4g)
+- Incubus price to 55g (+5g)
+
+- Troglodyte XP from 65 to 70 , price to 29g (+1g)
+- Infernal Troglodyte price to 54g (+4g)
+
+- Ifreet Master HP to 30 (+2) , price to 37g (-3g)
+- Ifreet Sultan price to 54g (+11g)
+
+- Pitlord price to 31g (+1g)
+- Pit Master price to 55g (+8g)
+- Tormentor price to 38g (+3g)
+
+- Familiar price to 30g (+1g)
+Had to distance more pricement of magog and familiar because familiar is significantly better unit.
+
+- Archfiend +ME-Fury Getting replaced by +EOMA-Fury & EOMA +BloodLust(3) 
+Unit can attack multiple targets in same turn, but not move and then attack. In compensation each kill will heal it +3.
+- Sadist , BloodLust value lowered from 8 to 5 , XP from 80 to 75 , damage increase to 16-2 , price to 29g (-1g)
+- Bloodbather HP to 70 (+4) , BloodLust value lowered from 8 to 6 , price to 54g (+6g)
+- Horned One HP to 78 (+3) , movement to 4 (-1) , added EoMa BloodLust(3) , price to 57g (+4g)
+10% pierce weakness in melee fighter is bad, I decided to not fix it and instead give +BloodLust(3)
+
+- Demon XP from 73 to 75 , price to 32g (+3g)
+Pretty bulky lv2 leadership unit
+- Devil price to 62g (+9g)
+- Lucifer price to 90g (+18g)
+
+
+ME - ORACLES
+- disciplefoot / darkfoot / sagefoot / savantfoot / omniscientfoot --> reef movement cost to 2 (-1)
+- disciplefoot / darkfoot water/swamp defense to 20% (-10%)
+- disciplefoot / darkfoot frozen defense to 30% (+10%)
+- omniscientfoot water/swamp/frozen defenses from 60% to 50%
+
+- Evileye added parry(5%) on ranged , price to 33g (-1g)
+
+- Master price to 31g (-1g)
+
+- Arbiter XP from 46 to 42
+- Therugist price to 31g (-1g)
+- Judgementor price to 56g (+4g)
+
+- Clergyman price to 24g (-8g)
+- Bishop price to 44g (-11g)
+
+- Necromantic XP from 114 to 95 , price to 38g (-4g)
+- Quietus price to 65g (+17g)
+
+- Mage price to 23g (-1g)
+- Oracle XP from 50 to 47
+- Prophet XP from 100 to 88 , price to 37g (-1g)
+
+- Wizard XP from 50 to 48
+- Warlock XP from 100 to 90 , price to 38g (-4g)
+- Sorcerer price to 63g (+4g)
+
+- Gravitymancer blade ranged strikes decrease by 1 , XP from 88 to 83 price to 28g (-4g)
+- Telekenetic melee worsened from 5-5 to 4-4 , price to 60g (+6g)
+- Scrapshifter Metalshards (blade) minimun strikes decreased to 2 , Metalshards (pierce) minimun strikes decreased to 1 , metal fist (8-1) cannot be more than 1 strike.
+
+- Sage fire/cold ressist increase to 10% (+10%) 
+- Psychic fire/cold ressist increase to 10% (+10%) , XP from 60 to 75 , price to 34g (-2g)
+- Omnicient HP to 55 (+2) , price to 56g (+4g)
+
+- Occultist price to 33g (-3g)
+- Alchemist price to 58g (+2g)
+
+- Conjurer impact melee damage increase to 12-2 , price to 36g (-5g)
+
+
+ME - REFUGEES
+Pretty interesting faction, I should test them soon.
+Really underpowered in exotic terrains...
+- refugeefoot / refugeehorse water/swamp defense to 20% (-10%)
+- refugeefoot / refugeehorse sand movement cost to 2 (-1) , sand defense to 30% (+10%)
+- refugeefoot / refugeeheavy / refugeewall --> cave movement cost to 2 (-1) , cave defense to 40% (+20%)
+- refugeefot fungus movement cost to 2 (-1)
+- refugeewall frozen movement cost to 2 (-1)
+- refugeeheavy sand defense to 20% (+10%)
+- refugeehorse frozen movement cost to 2 (-1) , sand defense to 30% (+10%)
+- refugeeboat sand/frozen movement cost from IMPASSABLE to 3
+- refugeeboat cave movement cost from IMPASSABLE to 6
+- refugeeboat castle defense to 20% (+10%)
+
+
+- Cleaner XP from 54 to 47
+- Purifier price to 38g (-4g)
+
+- Messenger impact res to 15% (+5%) , cold res to 10% (+10%) , price to 31g (-3g)
+- Envoy impact res to 15% (+5%) , cold res to 10% (+10%) , price to 56g (+8g)
+
+- Gatekeeper price to 34g (+4g)
+- Roadclearer blade ressistance to 55% (-5%) , price to 57g (+2g) 
+low health, reason it doesn't cost even more.
+
+- Stonewall XP from 88 to 82 , added description.
+- Spire all physical ressist lowered by -5% , price to 60g (+3g)
+
+- Longboat XP from 65 to 53
+- Trireme price to 38g (+3g)
+
+- Maceman price to 26g (-1g)
+- Greeter price to 52g (+6g)
+
+- Sarissan XP from 47 to 42
+- Defender impact damage adjusted from 14-1 to 8-2 , ranged damage increase to 9-1
+- Protector impact damage adjusted from 20-1 to 14-2 , ranged damage increase to 13-1 , price to 55g (+4g)
+- Hoplite XP from 75 to 72
+- Linebreaker price to 55g (+5g)
+- Phalanx price to 55g (+8g)
+- Javelineer price to 27g (-3g)
+
+- Sniper XP from 77 to 72 , price to 26g (-2g)
+- Deadeye price to 54g (+2g)
+
+
+ME - SLAVERS
+- freefoot / entrancefoot / holdfoot / conductfoot --> reef movement cost to 2 (-1)
+- subjfoot / punishfoot / muttfoot / eaterfoot --> reef movement cost to 2 (-1)
+- All mutts (except berserk) fire ressistance to -10% (+10%)
+
+- Elder Hawk price to 18g (+8g)
+- Observer price to 19g (+9g)
+
+- Entrancer price to 36g (-2g)
+
+- Maneater gains +Feeding now
+- Pursuer price to 28g (-1g)
+- Chaser parry(5%) on melee , price to 53g (+6g)
+
+- Provoker XP from 69 to 63 , price to 22g (-2g)
+- Abuser price to 46g (+3g)
+
+- Miner HP to 58 (-2) , price to 27g (+3g)
+- Stoneshatterer HP to 72 (-2) , price to 55g (+7g)
+
+- Slavemaster price to 57g (+14g)
+- Subjugator price to 34g (+2g)
+
+- Stalker price to 55g (+12g)
+
+
+ME - TRIBE
+- tribefoot / tribeheavy / tribefoot2 / tribefoot3 / tribewally / triberoo --> reef movement cost to 2 (-1)
+
+- Boomerang Thrower melee damage decrease to 4-2 , NEW ATTACK: Boomerang 6-2 impact melee +spinning +attack only , ranged damage increase to 8-2 , price to 18g (+1g)
+- Ranger NEW ATTACK: Boomerang 11-2 impact melee +spinning +attack-only
+
+- Archer XP from 71 to 68 , price to 28g (-3g)
+- Native price to 53g (+4g)
+
+- Maneater HP to 53 (-5)
+
+- Dartsman XP from 44 to 40
+- Hunter XP from 76 to 72 , price to 31g (-2g)
+- Slayer ranged damage decrease to 13-3 , price to 54g (+7g)
+
+- Rowboat XP from 37 to 34
+- Canoe price to 26g (-3g)
+- Fishing boat HP to 49 (+3) , price to 26g (-3g)
+
+- Decapitator price to 28g (-1g)
+- Executioner price to 55g (+3g)
+
+- Shaman ranged changed from 4-4 +magical to 5-4 +enchanted.
+- Medicineman HP to 42 (+2) , ranged changed from 6-4 +magical to 7-4 +enchanted , price to 35g (-5g)
+- Witchdoctor HP to 45 (+1) , XP from 100 to 87 , ranged changed from 6-4 +magical to 7-5 +enchanted , price to 37g (-3g)
+
+- Voodoo Doctor curse attack reworked: damage 7-5 +magical adjusted to 7-6 +enchanted (more damage if no upgrades)
+NEW ATTACK: Curse 6-5 +magical +slows , voodoo attacks +5% accuracy , price to 58g (+4g)
+
+- Kangaroo HP to 43 (+3) , price to 26g (-1g)
+- Boxer price to 55g (+9g)
+
+- Endemic XP from 80 to 75 , price to 26g (-2g)
+- Indigenous HP to 70 (+2) , pierce ressistance to 20% (+5%) , price to 53g (+5)
+- Chieftain price to 59g (+4g)
+
+
+EOM - CELESTIALS
+Not sure if I can keep the consistency between EOM balance againist itself, but there is tons of underpowered nobody wants to use in EOM.
+Will later recheck a EOM vs EOM balance in another release, not being massively underpowered is way more important!
+
+- Divine Knight HP to 52 (+7) , XP from 95 to 80 , blade/impact ressistances to 10% (+10%) , blade damage increase to 14-2 , price to 31g (-1g)
+- Divine Champion HP to 70 (+8) , blade res to 20% (+10%) , impact res to 10% (+10%) , price to 55g (+5g)
+It was extremely underpowered...
+- Protector HP to 53 (+3) , fire melee increase to 7-4 , blade/impact res to 10% (+10%) , price to 31g (+2g)
+- Holy Sentinel  impact res to 20% (+10%) , blade res to 10% (+10%) , fire melee damage increase to 8-5 , price to 57g (+7g)
+- Quester HP to 54 (+4) , price to 34g (+2g)
+
+- Keeper XP from 85 to 77 , arcane ressistance to 20% (+10%)
+- Sentinel HP to 63 (+3) , arcane res to 20% (+10%) , price to 51g (+9g)
+
+- Light Spirit aligment changed to NEUTRAL, fire res to 10% (+10%) , cold res to -10% (-10%) , ranged damage increase to 5-4
+- Lantern Archon HP to 34 (+2) , aligment changed to NEUTRAL, fire res to 10% (+10%) , cold res to -10% (-10%) , ranged damage increase to 8-4 , price to 31g (+5g)
+- Master of Light HP to 42 (+4) , fire res to 10% (+10%) , cold res to -10% (-10%) , price to 48g (+16g)
+Only lv3 is lawful because of damage bonus upgrades , fire res to be more ressistant to drakes and loy mage, cold weakness for DA and chaotic mages.
+
+- Claymant HP to 45 (+3) , price to 37g (-3g)
+- Herald XP from 180 to 120
+- Seraph price to 95g (+15g)
+
+- Acolyte XP from 58 to 49
+- Great Wizard HP to 42 (+1) , melee damage from 5-2 to 7-2 , arcane res to 20% (+10%) , XP from 115 to 95 , price to 36g (+1g)
+- Sage HP to 50 (+2) , melee damage increase to 9-2 , arcane res to 20% (+10%) , price to 57g (+4g)
+It's crazy he uses an hammer and deals less melee damage than Mystic/Prophet
+
+- Mystic HP to 40 (+2) , arcane res to 30% (+20%) , XP from 105 to 85
+- Prophet HP to 48 (+2) , arcane res to 30% (+20%) , price to 55g (+3g)
+In times having option for arcane damage is important (As of drakes) this buddy will help more than other option.
+
+- Zealot XP from 38 to 36
+- Militant XP from 65 to 60 , blade res to 10% (+10%) , arcane res to 20% (+10%) , price to 23g (-2g)
+- Sicarius blade res to 10% (+10%) , arcane res to 20% (+10%) , price to 48g (+13g)
+
+
+EOM - DEVLING
+
+- Blaphemists XP from 75 to 72 
+Guess will leave this price because of weaker traits.
+- Offenders price to 51g (+7g)
+- Abusers price to 70g (+7g)
+
+- Flyers HP to 42 (+3)
+- Attackers HP to 55 (+2) , price to 53g (+8g)
+
+- Nailers XP from 40 to 36
+- Spikers pierce damage decrease to 28-1 
+Too OP one hitting a melee fighter at full HP, reason of the -2 damage nerf.
+- Staplers pierce damage decrease to 40-1 , impact damage decrease to 32-1 , price to 48g (+8g)
+Not allowing melee fighters to hit more than 1 hit is a problem, high base price gets discounted by low upkeep.
+
+- Soldier HP to 50 (+3), XP from 50 to 60 , price to 26g (-2g)
+- Chief XP from 120 to 100 , price to 49g (+6g)
+- Grand Chief HP to 77 (+5) , price to 75g (+8g)
+- Warrior HP to 52 (+2) XP from 47 to 60 , price to 27g (-1g)
+- Hero XP from 120 to 110 , price to 50g (+7g)
+- Grand Hero price to 80g (+15g)
+
+- Sneak XP from 23 to 20
+- Little Ninja XP from 70 to 65
+- Little Magican cold res to 0% (+10%) , arcane res to -10% (+10%) , price to 48g (+6g)
+
+
+EOM - ELEMENTALS
+- Razor wings now have 60% in a lot of terrains instead of 50%.
+- Razor Wings now have 0% (+10%) ressistance on arcane.
+- Earth elementals and advancement arcane -10% (-10) ressistance.
+- Water elementals (Undine Family) have now arcane (-10%) ressistance.
+ 
+- Thunderbird ranged damage adjusted from 16-2 to 10-3 , price to 36g (+4g)
+This option was terrible compared to wind spirits.
+
+- Wind Spirit XP from 35 to 38 , melee damage decrease to 5-2
+- Zephyr XP from 60 to 66 , price to 35g (-2g)
+- Djinn melee damage decrease to 8-3 , Djinn price to 57g (+3g)
+
+- Rock Golem HP to 51 (+2)
+- Stone Titan price to 55g (+5g)
+
+- Burning Furnace price to 29g (+1g)
+- Lava Beast price to 54g (+9g)
+- Fire Wisp price to 31g (-1g)
+- Fire Ghost melee damage increase to 11-2 , price to 55g (+9g)
+
+Vinebeast is Somewhat overpowered, need testing to confirm that lol
+- Vine Tiger price to 31g (+1g)
+- Vine Monster price to 56g (+8g)
+
+- Undine HP to 40 (+3) , price to 28g (+1g)
+- Tempest Undine HP to 52 (+6) , all damages decreased by 1 , cold res to 40% (+10%) , price to 53g (+8g)
+Added cold res because otherwise in XP modding is a nerf, but, unit needs more HP and less damages.
+
+- Ice Crab pierce ressistance to 30% (+10%) , fire ressistance to -30% (-10%) , XP from 78 to 68 , price to 25g (-2g)
+- Ice Shell melee damage increase to 11-3 , price to 50g (+5g)
+Low HP's , reason of their low pricing.
+
+
+EOM - WARG 
+Many secondary/support units in here are significantly underpowered, let's buff
+
+- Black Fur XP from 42 to 34 , added +nightstalk
+- Black Hunter fire ressistance to 0% (+10%) , increased forest/mountains defense to 65% (+5%) , flat defense to 50% , price to 32g (+2g)
+Unit needs more features to be conisderably useful.
+
+- Flame Spirit price to 56g (+6g)
+This unit was fixed long ago.
+
+- Changeling HP to 49 (+2) , XP from 75 to 60 , price to 25g (-3g)
+- Wolfling HP to 66 (+3) , added +first-strike on melee
+Terrible unit, hope that with buffs is viable.
+
+- Shadow PeltHP to 42 (+2) , XP from 80 to 65 , price to 29g (-1g)
+- Night Eye HP to 52 (+2) , price to 52g (+7)
+Cannot be exposed too many tiles because of low base HP, still decent damages.
+
+- Warrior Warg price to 27g (-3g)
+- Fenrir price to 56g (+2g)
+- Moonblade price to 55g (+3g)
+- Pack Leader price to 60g (+6g)
+- Garou price to 84g (+12g)
+
+- Water Nymph XP from 78 to 70
+
+
+EOM - THERIAN
+
+- Wildcat XP from 100 to 80 , ranged damage increase to 5-3 , price to 31g (-5g)
+Excess of XP kills viability of going on this strong unit.
+
+- Leopard Therian HP to 77 (+2) , price to 54g (+6g)
+- Panther Therian HP to 70 (+3) , added parry(+5%) in ranged , price to 54g (+8g)
+
+- Falcon Therian XP from 35 to 30
+- Falcon XP from 70 to 60 , ranged damage increase to 5-3 , price to 28g (-2g)
+- Gyrfalcon HP to 52 (+1) , pierce res to 0% (+10%) , price to 50g (+10g)
+- Peregrine Falcon HP to 48 (+2) , price to 54g (+14g)
+
+- Hunter XP from 35 to 33
+- Tracker HP to 48 (+2) , melee damage increase to 8-2 , XP from 58 to 55
+- Ranger all damages increase by 1 , price to 49g (+8g)
+
+- Defender HP to 50 (+2) , now has +first-strike in melee, movement to 6 (+1) , price to 25g (-7g)
+
+- Aura Monk XP from 80 to 75 , price to 27g (-8g)
+- Aura Master cold/fire ressist to 10% (+10%) , price to 54g (+4g)
+
+- Cobra price to 26g (-2g)
+- King Cobra price to 50g (+12g)
+- Spitting Cobra HP to 48 (+4) , melee damage increase to 9-3 , price to 48g (+8g)
+
+
+EOM - VAMPIRES
+
+- Apprentice XP from 55 to 48
+- Blood Manipulator XP from 95 to 82 , price to 34g (-6g)
+- Sangel price to 54g (+4g)
+- Flesh Artisan price to 32g (-2g)
+
+- Fledgeling XP from 40 to 38
+- Duelist XP from 86 to 73
+- Swordancer price to 54g (+9g)
+Looks low in damages, but best is getting all strong Fledgeling into this option.
+- Noble XP from 87 to 84
+- Sire XP from 180 to 140 , price to 57g (+4g)
+- Methusalem price to 93g (+16g)
+That lot of HP in Methusalem xD
+
+- Malborn now has parry(+5%) in melee
+- Thin Blood XP from 38 to 35
+- Half Blood price to 24g (-4g)
+- Day Hunter price to 52g (+8g)
+- Twilight Hunter price to 50g (+6g)
+
+
+EOM - WINDSONG
+
+- Emmisary price to 36g (+2g)
+- Reaver price to 32g (-2g)
+- Dreadnought price to 54g (+20g)
+
+- Sky Crystal arcane resistance to -30% (+20%)
+
+- Envoy HP to 46 (+2) , XP from 80 to 74 , price to 34g (-4g)
+- Herald price to 57g (-3g)
+- Prophetess XP from 60 to 80 , Melee damage increase to 7-2 , fire/cold ressistances to 10% (+10%) , price to 34g (-6g)
+- Ascendant HP to 49 (+2) , fire/cold ressistances to 10% (+10%) 
+
+- Pathfinder HP to 41 (+4) , XP from 74 to 72 , price to 32g (-6g)
+- Farstrider HP to 57 (+5) , price to 54g (+6g)
+- Skyrunner price to 33g (-5g)
+
+- Savant price to 37g (-3g)
+- Arbiter XP from 180 to 130
+- Runeforger movement to 6 (+1) , flat defense to 50% , arcane ressistance to 30% (+10%) , HP to 49 (+2) , price to 55g (-5g)
+
+- Heretic HP to 47 (+2) , XP from 80 to 78 , price to 29g (-11g)
+- Harbinger price to 57g (+7g)
+- Lorekeeper price to 31g (-9g)
+- Oathkeeper price to 55g (+5g)
+
+
+EE - Dwarves 
+
+- Flamethrower HP to 45 (+3) , price to 30g (-5g)
+
+- Runesmith XP from 100 to 88 , price to 34g (-9g) 
+- Runemaster XP from 200 to 150 , price to 60g (+10g)
+- Arcanister price to 90g (+40g)
+
+- Steamcopter price to 29g (+2g)
+
+- Thunderwheel price to 27g (+2g)
+- Warwheel price to 48g (+13g)
