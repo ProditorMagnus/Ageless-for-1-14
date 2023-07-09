@@ -33,6 +33,8 @@ def get_unit_type_mapping(source="."):
 					if unit_type:
 						if "id=" in line:
 							old_type = line.split("=")[1].strip()
+							if "^" in old_type:
+								raise Exception("TODO")
 						elif "name=" in line:
 							unit_type_name = line.split("=")[1].replace('"',"").replace("_","").strip()
 						else:
