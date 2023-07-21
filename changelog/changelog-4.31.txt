@@ -451,7 +451,9 @@ FL - ALTARIS
 - Master at Arms AMLA XP to 126 (-34)
 Lv2 capable to also gain XP mod strikes.
 
-- Mithril Golem Level adjusted from 29 to 2 , price to 29g (-2g)
+- All golems race changed from Monster to Mechanical (now they're inmune to poison, plague and drains)
+- Mitril Golem Arcane to 40% (-10%) , Golem Level adjusted from 29 to 2 , price to 29g (-2g)
+- Crystal Golem Arcane res lowered by 5% (to 75%) , fire res lowered by 10% (to 10%) , cold res lowered by 10% (to 50%)
 
 
 FL - AMAZONS
@@ -823,3 +825,100 @@ EFM - ALL FACTIONS (individual cases)
 - Lizard Eye AMLA XP to 150 (+50)
 - Bowlady AMLA XP to 134 (+34)
 - Storm Queen AMLA XP to 175 (+25)
+
+
+SPECIAL CASES, FACTIONS with more features.
+
+- Azure Mage AMLA XP to 166 (+16)
+- Sentinel AMLA XP TO 166 (+16)
+- Wind Daemon AMLA XP to 134 (+34)
+High stats, good ressists, but movement costs are garbage where usually most units moves smooth lol
+
+- Earth Daemon lv3 AMLA XP to 126 (+6)
+- Lunar Exterminator AMLA XP to 134 (+14)
+- Lunar Frogman AMLA XP to 134 (+14)
+
+- Blue Beast Movement to 7 (-1) , blade damage increase to 12-3 , price to 61g (-1g)
+
+NEW UNITS:
+- Little Green Many
+- Litle Green Soldier
+- Green Delta
+- Little Tank
+
+
+AE - DESERT ELVES
+- Created AE_sandland which determinates most of AE_desert elves movetype.
+1) 50% on forests/sand and 1 MP cost at both.
+2) 2 Movement cost in cave instead of 3 , same 30% cave defense.
+3) 3 movement cost in frozen instead of 2, same 30% frozen defense.
+
+
+- Archer XP from 44 to 42
+- Ranger price to 29g (-9g)
+- Avenger HP to 57 (+2) , ranged damage increase to 10-4 , AMLA XP set to 134
+
+- Marksman XP from 90 to 70 , price to 29g (-9g)
+- Sharpshooter HP to 52 (+2) , melee damage increase to 9-2, AMLA XP set to 134 , price to 55g (+2g)
+
+- Captain XP to 85 (-5) , price to 31g (-4g)
+- Marshal HP to 68 (+6) , AMLA XP set to 134 , price to 63g (+6g)
+- Champion HP to 74 (+4) , fire ressistance to 10% (+10%) , price to 60g (+5g)
+Cannot give him 11-5 melee , because on daytime that would be 14-5 on a lv3 ...
+
+- Sentinel XP from 84 to 80 , price to 32g (-3g)
+- Prowler now has 10% fire ressistance.
+
+- Rider HP to 49 (+3), bow damage increase to 10-2 , forest movement cost to 2 , frozen movement cost to 2 , price to 34g (+3g)
+- Outrider HP to 60 (+3) , melee damage increase to 9-4 , ranged damage increase to 10-3 , fire res to 10% (+10%) , movement to 11 (+1) , price to 58g (+12g)
+
+- Druid XP to 50 (-20) , price to 24g (-8g) 
+- Shyde price to 45g (-7g) , XP to 150 (+50)
+- Desert Star HP to 65 (-6) , NO LONGER ILLUMINATES, now heals+12 , melee damage decrease to 6-3 , AMLA XP to 200 (+50) , price to 111g (+17g)
+Second Fastest heal+12 unit to obtain. Takes longer than Mistress-of-Light but shorter than Chosen-of-Forest
+As illuminates is removed, now it's universally useful healer+12
+It has decent ressistances, so HP nerf.
+
+- NEW UNIT: Desert Mystic (it's quenoth Mystic but with slightly different stats)
+HP: 26 HP
+6-1 impact melee
+7-3 fire ranged +Magical
+Movement: 5
+XP: 44
+Price: 21g
+
+- NEW UNIT: Sun Enchantress 
+HP: 36
+3-4 fire melee
+7-4 fire ranged +Magical
+Movement: 5
+XP: 85
+Price: 34g
+
+- NEW UNIT: Sun Priestess
+HP: 48
+4-4 fire melee
+10-4 fire ranged +Magical
+Movement: 5
+AMLA XP: 150
+Specials: +Illuminates
+Price: 58g
+
+- NEW UNIT: Moon Enchantress
+HP: 36
+9-2 blade melee +first-strike
+7-3 cold ranged
+Movement: 6
+XP: 84
+Specials: Protection(Lv2)
+Price: 34g
+
+- NEW UNIT: Moon Enchantress
+HP: 51
+12-2 blade melee +first-strike
+11-2 pierce melee +first-strike 
+11-3 cold ranged
+Movement: 6
+AMLA XP: 150
+Specials: Protection(Lv3)
+Price: 56g
