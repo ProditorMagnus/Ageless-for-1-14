@@ -22,6 +22,14 @@ AE - DARK LEGION
 AE - DEEP ELVES
 - Seeker AMLA XP to 134 (-16)
 
+- Minotaur Pierce Melee damage increase to 10-2
+
+- Nightstalker XP from 100 to 85
+- Baroness ranged damage increase to 12-2
+- Vault Lurker pierce ranged damage increase to 6-3 and now has +Weaken , is now 50% flat defense, price 31g (+3g)
+
+- Black Tyr'Hai Bite is now pierce attack , XP from 100 to 95
+- Shadow Tyr'Hai Bite is now pierce attack , Price to 60g (+12g)
 
 
 AE - FROZEN
@@ -453,7 +461,7 @@ Lv2 capable to also gain XP mod strikes.
 
 - All golems race changed from Monster to Mechanical (now they're inmune to poison, plague and drains)
 - Mitril Golem Arcane to 40% (-10%) , Golem Level adjusted from 29 to 2 , price to 29g (-2g)
-- Crystal Golem Arcane res lowered by 5% (to 75%) , fire res lowered by 10% (to 10%) , cold res lowered by 10% (to 50%)
+- Crystal HP to 54 (-3) , Golem Arcane res lowered by 5% (to 75%) , fire res lowered by 10% (to 10%) , cold res lowered by 10% (to 50%)
 
 
 FL - AMAZONS
@@ -840,11 +848,69 @@ High stats, good ressists, but movement costs are garbage where usually most uni
 
 - Blue Beast Movement to 7 (-1) , blade damage increase to 12-3 , price to 61g (-1g)
 
+- ALL WIND DAEMONS now have forest terrain defense cap of 20% , so they're no longer 50% defense in forest.
+
 NEW UNITS:
-- Little Green Many
+- Little Green Man
 - Litle Green Soldier
 - Green Delta
 - Little Tank
+
+
+- NEW UNIT: Little Green Man
+HP: 26
+Movement: 5
+3-2 impact melee
+9-2 arcane ranged +first-strike +Aimed
+XP: 40
+Price: 16g
+
+- NEW UNIT: Litle Green Soldier
+Little Green Soldier
+HP: 45
+7-2 impact melee
+13-2 arcane ranged +first-strike +skilled
+7-4 fire ranged +first-strike +Aimed
+Movement: 5 
+XP: 80
+Price: 25g 
+
+- NEW UNIT: Green Delta
+Green Delta
+HP: 55
+6-3 impact melee
+13-3 arcane ranged +first-strike +skilled
+9-4 fire ranged +Marksman
+Movement: 6 (and better movement costs)
+AMLA XP: 134
+Price: 55g
+
+Gains 10% more arcane res to -10%
+Improves movement costs because of flying
+
+
+- NEW UNIT: Little Tank
+Little Tank
+HP: 65
+12-2 impact melee
+15-2 arcane ranged +first-strike +skilled
+10-4 fire ranged +first-strike +Aimed
+6 Movement
+AMLA XP: 150
+Cost: 57g
+
+Ressistances:
+- 30% on blade and Pierce
+- 20% on impact
+- 20% on cold (same value than all other roswellians)
+- -20% on arcane (same than all other roswellians, except Delta).
+
+Notes:
+- Unit has 40% flat defense, 50% on hills/forest, which is lower than other roswellian troops.
+- Unit has WORSE movement costs in lots of places (still 1 MP cost in sand)
+- Unit has 2 MP cost in frozen, which is better than Lv1/Lv2 Roswellians
+- Unit becomes mechanical race, which makes them inmune to lots of negative effects and allowed to be repaired.
+- Lv3 unit being mechanical, means purchased Lv3 will have no traits, while ones obtained from leveling up keeps their traits (same as default with liches)
 
 
 AE - DESERT ELVES
@@ -878,6 +944,13 @@ Cannot give him 11-5 melee , because on daytime that would be 14-5 on a lv3 ...
 Second Fastest heal+12 unit to obtain. Takes longer than Mistress-of-Light but shorter than Chosen-of-Forest
 As illuminates is removed, now it's universally useful healer+12
 It has decent ressistances, so HP nerf.
+
+NEW UNITS:
+- Desert Mystic
+- Sun Enchantress 
+- Sun Priestess
+- Moon Enchantress
+- Moon Enchantress
 
 - NEW UNIT: Desert Mystic (it's quenoth Mystic but with slightly different stats)
 HP: 26 HP
@@ -922,3 +995,140 @@ Movement: 6
 AMLA XP: 150
 Specials: Protection(Lv3)
 Price: 56g
+
+
+AE - STEELHIVE 
+
+- Spargazer XP to 82 (+2)
+- Boltstriker HP to 62 (-2) , AMLA XP to 134 (-5) , price to 60g (+5g)
+
+- Recon AMLA XP to 150 (+50)
+
+- Syren XP to 134 (+34) , it can now promote to lv4 unit: Steel Avalanche
+- Queen XP to 125 (+25)
+- Empress Movement to 7 (-1) , Price to 93g (+9g)
+
+- Repairer AMLA XP to 100 (+45)
+- Lightshifter movement to 5 (+1)
+- Slasher Stab damage increase to 9-2
+
+NEW UNITS:
+- Steel Rocketer
+- Steel Bombardier
+- Steel Dreadnough 
+- Steel Sentinel
+- Steel Avalanche 
+
+
+NEW UNIT: Steel Sentinel
+HP: 64
+Colide 12-2 impact melee
+Spark 15-3 fire ranged 
+
+Movement: 6
+AMLA XP: 134
+Price: 55g
+
+Ressists:
+0% on impact (+20%)
+0% on fire (no bonus)
+Unit's ressistance bonus are on impact instead on fire unlike of boltstriker.
+
+Special info:
+- Bit worse movement costs than Boltstriker, can 60% defense in village, castle and mountains.
+- 40% flying, which makes it bit problematic sometimes.
+
+
+NEW UNIT: Steel Rocketer
+HP: 32
+Missile 7-3 impact impact ranged +Skilled
+Movement: 5
+XP: 44
+Cost: 16g 
+
+Ressist alterations:
+-10% on impact (+10% more)
+
+They move like Slashers/Vorpals, I'm using their foottype.
+
+
+
+NEW UNIT: Steel Bombardier
+HP: 46
+4-2 pierce melee
+Missile 9-4 impact ranged +Skilled
+Movement: 5
+XP: 84
+Cost: 30g
+
+Ressists same as lv1.
+Movement the same as lv1.
+
+
+
+NEW UNIT: Steel Dreadnough 
+HP: 60
+Stab 6-3 pierce melee
+Missile 11-4 impact ranged +Skilled
+Movement: 5 (But it now flies)
+Cost: 58g
+
+Ressistance alterations:
+0% on impact (+20% more)
+
+They keep best 60% that rockter/bombardier did, while having 50% and 1 MP cost in more places.
+
+
+NEW UNIT: Steel Sentinel
+HP: 66
+Colide 12-2 impact melee
+Jolt 15-3 fire ranged +Electric
+Movement: 6
+Cost: 55g
+
+Ressistance alterations:
+0% on impact (+20% more)
+(features no bonus fire res, unlike Boltstriker)
+
+Unit features:
+- Can 60% in villages, castle and mountains.
+- Has 40% defense in lots of places
+- Moves slightly worse than Spargazer.
+
+This unit is designed for more defensive purposes. 
+
+
+NEW UNIT: Steel Avalanche 
+HP: 77
+Psionic Blades 10-5 impact melee +Electric
+Jolt 16-2 fire ranged +Electric +Marksman +First-strike
+Movement: 6 (bit better movement costs and defenses than Lv3 syren)
+Cost: 80g
+
+Ressistances:
+Same as Lv3 Syren.
+
+Not a very strong lv4, but is more stable, and also adds +Electric on melee attack too. 
+I hope there are no issues with Psionic weapon name.
+
+
+EE - UNDEAD 
+
+- Dark Sorcerer can now advance to 3 options, incluiding NEW UNIT: Doom Prophet
+
+
+NEW UNIT: Doom Prophet
+HP: 60
+10-2 Arcane melee +Drains
+15-2 cold ranged +magical
+12-2 arcane ranged +magical 
+Movement: 5
+Price: 65g 
+
+Specials: 
+- Deluminates
+- Heal undead +4
+
+Ressistance alterations:
+- Arcane ressistance set to -40% (will keep this values in 1.18)
+- Fire ressistance set to 0%
