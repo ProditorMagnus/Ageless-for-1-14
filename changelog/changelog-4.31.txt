@@ -461,7 +461,7 @@ Lv2 capable to also gain XP mod strikes.
 
 - All golems race changed from Monster to Mechanical (now they're inmune to poison, plague and drains)
 - Mitril Golem Arcane to 40% (-10%) , Golem Level adjusted from 29 to 2 , price to 29g (-2g)
-- Crystal HP to 54 (-3) , Golem Arcane res lowered by 5% (to 75%) , fire res lowered by 10% (to 10%) , cold res lowered by 10% (to 50%)
+- Crystal Golem HP to 54 (-3) , Arcane res lowered by 5% (to 75%) , fire res lowered by 10% (to 10%) , cold res lowered by 10% (to 50%)
 
 
 FL - AMAZONS
