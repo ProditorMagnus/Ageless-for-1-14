@@ -1,6 +1,6 @@
 Version 4.31:
 * Units and Factions
-    * New units for Steelhive, Menagerie
+    * New units for Steelhive, Menagerie, Desert elves
     * Era of Magic update
     * Rashy Era update
     * EoC Demon Shapeshifter unit is now disabled in rpg
