@@ -1,0 +1,79 @@
+
+
+AE - Steel Hive
+
+- Spargazer can now advance to Steel Sentinel
+
+
+Steel Sentient
+- Cold ressistance to -10% (+10%)
+- Movement to 6 (+1)
+
+STEEL SENTIENT AMLA MENU READJUSTMENT
+1) AMLA XP readjusted to 15 (+6) , which is 66% base value increase
+
+2) Melee and Ranged damage upgrade
+- Value increase to +2 (+1)
+- AMLA healing increased to +10 (+2)
+
+3) HP Upgrade
+- Value increase to +15 (+5)
+- AMLA healing increased to +12 (+4)
+
+4) Movement Upgrade
+- AMLA healing icnreased to +12 (+4)
+- AMLA XP increase ratio decreased to 15% (-5%)
+
+5) Changing to burners
+- AMLA healing increased to +12 (+4)
+- AMLA XP increase ratio decreased to 15% (-5%)
+
+
+FL - AMAZONS
+- Factional arcane ressistance decrease to 10% (except tiger riders & Dryads)
+- +Good-Eye skill is replaced by +Aimed which basically is the same but other name.
+
+- Great Murderess now has +Deadly-Strike on Lv3
+- Warden only in Lv3 keeps her base 20% on arcane res (other levels only 10%)
+- Giant Creeper ranged damage increase to 5-2
+
+- Black Harpy HP to 58 (+2)
+
+
+
+FL - PIRATES
+- Factional arcane ressistance decrease to 10% (for water monsters unchanged)
+- Good-Eye got replaced by +Aimed which is the same but other name.
+Few units got random buffs to not impair too much the faction with human arcane res nerf.
+
+- Water Serpent now gains +Lesser-Revenge and +Deadly-Strike in charging attack.
+Weakest retaliation attack now gains bonus hit chance in defense, and very slight chances to instakill lv0 and lv1.
+Additionally, the attack has charing feature, so it makes it more safe to use in offensive.
+
+- Enchanter XP from 80 to 77
+
+- Fishman Figther now has +Deadly-Strike in melee
+6% chances to instakill lv1 and 12% to instakill lv0.
+
+- Beast master net damage increase to 10-2
+
+- Sea Wolf HP to 66 (+2)
+
+
+FL - NATIVES
+- Factional arcane ressistance decrease to 10% (Animals unchanged)
+
+- Great Falcon now gains +Feeding
+- Great Aligator now gains +Feeding
+
+- Skull Hunter XP to 82 (-2)
+
+- Storm Lord acid rain now has +First-strike in Lv3.
+- Ritualist melee damage increase to 9-2
+- Warlock HP to 54 (-2)
+
+
+
+
+
+
