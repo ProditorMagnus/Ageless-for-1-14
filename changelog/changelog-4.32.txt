@@ -73,6 +73,113 @@ FL - NATIVES
 - Warlock HP to 54 (-2)
 
 
+MERC - SLAVERS 
+- Factional arcane ressistance decrease to 10% (Healers and animals unchanged)
+- Prodder and advancements cold ressistance to 10% (+10%) -to not be nerfed, such terrible unit-
+
+Slavers is among STRONGEST of all PLAGUE factions, they will be fine even with this nerf.
+
+
+MERC - MERCENARIES
+- Factional arcane ressistance decrease to 10% (Mages & Horses unchanged)
+- Swiftfoots will adquire 10% cold ressistance in compensation (+10%) to counter the -10% on arcane
+- Sailors & Pirates will instead gain 10% ressistance to fire.
+
+- Merceneary XP to 38 (-2)
+- Hessian HP to 54 (+1) , XP to 70 (-3)
+- Man Killer XP to 74 (-4)
+- Slayer now has 10% ressistance on cold.
+- Soldier of Fortune HP to 80 (+2)
+
+- Hunter HP to 31 (+1) , XP to 37 (-1)
+- Scavenger melee damage increase to 7-3
+- Tracer & Advancements now have 10% ressistance on cold
+
+- Guard XP to 80 (-2)
+- Protector now has 10% ressistance on fire.
+Usually impact attackers gain fire ressistance because they are BAD againist Drakes.
+Pierce attackers usually gain cold ressistance because they are BAD againist Undead.
+
+
+MERC - HIGHLANDERS
+- Factional arcane ressistance decrease to 10% (Certain units are exception)
+- Lv1 and Lv2 Valkyries are now 10% more arcane ressitant (30% & 40% to 40% & 50%)
+
+- Giants & Advancement arcane ressistances unchanged.
+
+- Sober and advancements ignores arcane res nerfs!
+- Sober now has +Cures (can heal allies from poison)
+- Bartab AMLA XP to 134 (+34)
+- Cold Turkey now has 25% on arcane ressistance (+5%)
+
+- Amputator now has +Cripple(5%) on melee and 25% on cold ressistance (+5%)
+
+
+MERC - FANATICS
+- Factional arcane ressistance decrease to 10% (Camels & Swiftfoot unchanged)
+
+- Bladesman XP to 38 (-3)
+- Warrior XP to 80 (-2)
+- Terrorist XP to 85 (-3)
+- Fearmonger HP to 64 (+1)
+- Zeal Blade now has 15% on fire ressistance (+5%)
+
+- Martyr 
+1) now has +Deadly-Strike in its suicide attack (6% to instakill a lv1 and 12% to instakil la lv0 no matter it's health)
+2) NEW ATTACK: Powderkeg 13-1 imact (suicide range) +Precision +Deadly-Strike
+This allows this unit to deal as much damage as a lv0 kamikaze gobbo to fire inmune units instead of ONE damage.
+
+- Devoted XP to 66 (-2)
+- Fanatic HP to 70 (+1)
+
+- Misinformant XP to 83 (-2)
+- Propagand now has 10% on cold ressistance (+10%)
+
+- Sandbow and Ambusher fire ressistance to 15% (+5%)
+- Ambusher XP to 62 (-1)
+- Sandskulker fire ressistance to 20% (+10%)
+
+
+MERC - EMPEROR GUARD
+- Factional arcane ressistance decrease to 10% (Horse & Martialists unchanged)
+- Ryus arcane resssistance increase to -10% (+10%)
+- Ninjas cold resssistance increase to 10% (+10%)
+
+- Bushi arcane ressistance from 20% to 15%
+- Imperial Guard arcane ressistance from 20% to 15% 
+Cannot nerf THAT HARD from 40% to arcane in defense to ONLY 20% , this is why they have 15% on arcane.
+- Tsuwamono HP to 75 (+1) , bow damage increase to 9-2
+
+- Demonic Samurai
+1) Arcane ressistance from 20% to 0% (-20%)
+2) Cold ressistance from -30% to -20% (+10%)
+3) Nodachi 23-2 fire melee now has +Deadly-Strike
+
+- Tatsu fire ressistance to 60% (+10%)
+- Ryong fire ressistance to 70% (+20%) 
+Ryong got extremelly buffed at gaining +10% on arcane and +20% on fire, which helps in handing samurais and archers arcane nerf.
+
+Archers and Ozutsu are fine, they got buffed in fire ressistance in a previous balance update.
+
+
+MERC - CULT
+- Factional arcane ressistance decrease to 10% (Mutants, Swimmers, Survivors unchanged)
+- Archers now have 10% ressistance on cold
+- Lookouts now have 10% ressistance on fire
+- Lv2 and Lv3 Exiles now have 10% ressistance on fire
+- Cultists and Advancement now have 10% ressistance on cold
+- Swimmers fire ressistance to -10% (+10%)
+
+- Sewer Slider XP to 72 (+4)
+
+- Ambuscade
+1) Ranged attack now has +Deadly-Strike
+2) HP to 52 (-3)
+3) Blade/Impact ressistances to -10% (+5%)
+
+- Rebel HP to 54 (+1) , XP to 60 (-2)
+
+
 
 
 
