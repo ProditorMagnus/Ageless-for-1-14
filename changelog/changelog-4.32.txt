@@ -198,6 +198,15 @@ IMPERIAL - MARAUDERS
 - Factional arcane ressistance increase to 10% (+10%)
 Most players struggles playing as Marauders, human arcane res comes handy to them.
 
+- Galdra HP to 54 (+2) , AMLA XP adjusted to 134 (+34)
+- Lord AMLA XP adjusted to 134 (+34)
+- Scorcher AMLA XP adjusted to 134 (+34)
+- Sea Wolf HP to 65 (+2) , AMLA XP adjusted to 134 (+34)
+- Wwoodsman AMLA XP adjusted to 126 (+26)
+
+- Valkyrie HP to 64 (+2) , AMLA XP adjusted to 134 (+34) , now heals from poison to allies.
+
+
 
 ELE - VIKINGS 
 - Factional arcane ressistance decrease to 10% (-10%)
@@ -300,5 +309,7 @@ They already have 10% on cold, so they will be fine.
 Few random XP buffs between some other units to compense human arcane nerfs.
 
 
-
+EOTF - WELKIN
+- Human Factional arcane ressistance decrease to 10% (-10%)
+Units with weaknesses to arcane uncahged.
 
