@@ -1,5 +1,19 @@
 
 
+AE - GLOBAL MESSAGE
+- This update is to adjust arcane ressistance to many human/humanoid factions to 10% , as it will be the new base value for them in 1.18
+- There are minor balance changes in other random stuff.
+
+Few cases are left unchanged, as they will automatically become to 10% arcane value as soon as we get wesnoth 1.18.
+
+PENDING, NOTED CHANGES
+- Certain Free Saurian units adjusting manually to 10%
+- Certain HORSE units adjusting manually to 20% (personal criteria of mine)
+Horse is not very popular or loved by players, they require more skill to work because of 40% defense cap and -20% on pierce.
+- EE Outlaw Witches will become 20% arcane res in 1.18 , maintaining them constant after 1.18 release.
+- Review in 1.18 EFM factions to adjust/modify arcane ressistance if needed.
+
+
 AE - Steel Hive
 
 - Spargazer can now advance to Steel Sentinel
@@ -180,6 +194,110 @@ MERC - CULT
 - Rebel HP to 54 (+1) , XP to 60 (-2)
 
 
+IMPERIAL - MARAUDERS
+- Factional arcane ressistance increase to 10% (+10%)
+Most players struggles playing as Marauders, human arcane res comes handy to them.
+
+
+ELE - VIKINGS 
+- Factional arcane ressistance decrease to 10% (-10%)
+- Factional cold ressistance increase to 20% (+10%)
+Ships ressistances unchanged.
+
+
+EOS - Eventide
+- Factional arcane ressistance increase to 10% (-10%) -Archers & Alchemists unchanged-
+
+- Noct macemen and advancement will now have 10% (+10%) fire ressistance.
+
+- Swabie & Mariner cold ressistance to 10% (+10%)
+- Navigator cold ressistance to 20% (+20%)
+
+
+EE - MONSTERS
+- Living Dragons (Lv2, Lv3, Lv4) now have -50% (-20%) on cold ressistance, also -10% (+20%) on arcane ressistance.
+- Lv4 Fire Dragon fire ressistance increase to 80% (+10%) , cold ressistance to -50% (-30%).
+- Fire Wisps impact ressistance to 40% (+10%) , arcane ressistane to -30% (-10%)
+
+- Fire Guardian HP to 44 (+2)
+- Fire Warrior Spirit HP to 56 (+2)
+Base HP is so bad, but they're 30% physical ressistant, which with one extra traits might be ok.
+
+
+- Giant Rat Trio price to 27g (+3g)
+90 total HP for 27g is really nice... if we consider it then transforms in rat duo and then in rats.
+
+- Spider movement to 6 (+1)
+Not a very strong lv2 unit, needs movement buff.
+
+
+AE - DARK LEGION
+- Human Factional arcane ressistance decrease to 10% (-10%) -HORSE UNCHANGED-
+- Lv1 have no bonus in fire/cold ressist, but they later adquire that buff in most cases.
+
+- Crossbowman fire ressistance to 10% (+10%)
+- Advanced Crossbowman fire ressistance to 20% (+10%)
+- Longobowman cold ressistance to 10% (+10%)
+- Heavy Longbowman cold ressistance to 10% (+10%)
+
+- Dark Champion fire ressistance to 10% (+10%)
+- Dark Fighter fire ressistance to 10% (+10%)
+- Dark Warrior fire ressistance to 10% (+10%)
+- Dark Swordsman fire ressistance to 10% (+10%)
+
+- Crusher HP to 52 (+2)
+- Dark Guardian fire ressistance to 0% (+10%)
+- Terror fire ressistance to 0% (+10%)
+
+- Death Master cold ressistance to 10% (+10%)
+- Dark Halberdier cold ressistane to 10% (+10%)
+Gunners will not get buffed, they can be cheesed out of XP mod or Orocian Strikes, and also +First-strike on melee.
+They only get nerfed to 10% (-10%) on arcane.
+
+
+ME - ENCHANTERS - TITAN arcane ressistance to 90% (-10%)
+
+
+ARCHAIC - UKIANS
+- Ukian Foot will now have 10% ressistance on cold (+10%)
+- Northern Spotter, Northern Fighter & Vassal will now have arcane ressistance decrease to 10% (-10%)
+All nortern are HIGH ressists, they will be fine, while extra cold ressistance will help ukians perform better.
+
+
+ARCHAIC - SOUTHSEAS 
+- Human Factional arcane ressistance decrease to 10% (-10%)
+
+- Demotionlist fire ressistance to 10% (+10%)
+- Spit Fire fire ressistance to 20% (+10%)
+
+- Seahag & Scurge fire ressistance to 0% (+10%)
+- Wind Caller & Sky Caller cold ressistance to -10% (+10%)
+
+- Deck Master pierce damage increase to 12-2
+- Whirl Wind fire ressistance to 10% (+10%)
+
+- Salvager & Wrecker fire ressistance to 10% (+10%)
+- Rover cold ressistance to 10% (+10%)
+- Sea Wolf fire ressistance to 10% (+10%)
+
+
+ARHCAIC - PRIMEVALIST
+
+- Celebrant cold ressistance to 20% (-10%)
+- Follower arcane ressistance to 10% (-10%)
+Monks & Prior unchanged.
+
+- Fighter, Fanatic and Leader arcane ressistance to 10% (-10%)
+They already have 10% on cold, so they will be fine.
+- Brightshield arcane ressistance to 30% (-10%)
+- Sunshield arcane ressistance to 40% (-10%)
+
+- Iron Wheel XP to 88 (-2)
+
+- Dogface XP to 87 (-3)
+
+- Hastate XP to 74 (-3)
+Few random XP buffs between some other units to compense human arcane nerfs.
 
 
 
