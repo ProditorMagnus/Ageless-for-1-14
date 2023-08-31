@@ -289,6 +289,7 @@ ARCHAIC - SOUTHSEAS
 - Rover cold ressistance to 10% (+10%)
 - Sea Wolf fire ressistance to 10% (+10%)
 
+- Marines AMLA XP adjusted to 134 (+34)
 
 ARHCAIC - PRIMEVALIST
 
@@ -310,6 +311,48 @@ Few random XP buffs between some other units to compense human arcane nerfs.
 
 
 EOTF - WELKIN
-- Human Factional arcane ressistance decrease to 10% (-10%)
+- Factional arcane ressistance decrease to 10% (-10%)
 Units with weaknesses to arcane uncahged.
 
+They have high factional traits, 60% in hills, 70% in mountains, even arcane ressistance.
+
+- Sentinel blade/pierce ressistance from -17% to 20% (+37%) , +steadfast replaced by +shield-defense(20%)
+- Bulkark +steadfast replaced by +shield-defense(20%)
+
+- Patriarch will now heal+10 instead of only +8
+This is to compensate the welking arcane res and lv3 bulwark nerf.
+
+
+EOC - CHAOS
+- Human Factional arcane ressistance decrease to 10% (-10%)
+
+- Lumeril AMLA XP adjusted to 150 (+50)
+
+- Marksman cold ressistance to 10% (+10%)
+- Shapshooter cold ressistance to 10% (+10%)
+
+- Invader XP to 42 (-2)
+- Chaos Knight fire ressistance to 20% (+10%)
+- Razerman fire ressistance to 20% (+10%)
+They now differ more from EE variant, EE have 20% arcane ressistance but EOC in lv2 and lv3 20% on fire.
+
+Doomguard and hell guardian unchanged.
+Invokers and advancement unchanged.
+Hounds unchanged (except lv3)
+
+- Headhunter XP to 34 (-1)
+- Marauder HP to 44 (+2) , XP to 63 (-2)
+- Soulhunter blade ressistance to -20% (+10%)
+They have swiftfoot weaknesses without defenses advantage, they're quite terrible unit except for skirmisher.
+
+- Hellhound arcane ressistance to -10% (-20%) , fire ressistance to 20% (+20%)
+
+
+- FEUDAL - KNAGATES - Massif AMLA XP adjusted to 134 (+34)
+- MERC - ENCHANTER - Arcane Rune Splicer XP adjusted to 166 (+66)
+- MERC - FANATICS - Sandskulker AMLA XP adjusted to 134 (+34)
+- MERC - SLAVERS - Chaser AMLA XP adjusted to 126 (+26)
+
+MERC - AVIANS 
+- Falcon AMLA XP adjusted to 150 (+50)
+- Passer AMLA XP adjusted to 150 (+50)
