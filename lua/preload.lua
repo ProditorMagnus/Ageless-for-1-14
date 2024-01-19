@@ -7,6 +7,34 @@ local function sign(x)
 end
 local abs=math.abs
 
+function wesnoth.wml_conditionals.AE_mag_is_unbalanced()
+	local id = wesnoth.scenario.era.id or ""
+	id = id:lower()
+	if id:find("unbalanced") then
+		return true
+	else
+		return false
+	end
+end
+
+function wesnoth.wml_conditionals.AE_mag_not_unbalanced()
+	return not wesnoth.wml_conditionals.AE_mag_is_unbalanced()
+end
+
+function wesnoth.wml_conditionals.AE_mag_is_masters()
+	local id = wesnoth.scenario.era.id or ""
+	id = id:lower()
+	if id:find("masters") then
+		return true
+	else
+		return false
+	end
+end
+
+function wesnoth.wml_conditionals.AE_mag_not_masters()
+	return not wesnoth.wml_conditionals.AE_mag_is_masters()
+end
+
 function wesnoth.wml_conditionals.AE_is_rpg()
 	local id = wesnoth.scenario.era.id or ""
 	id = id:lower()
