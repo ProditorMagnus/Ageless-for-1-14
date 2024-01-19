@@ -5,6 +5,7 @@ cd ..
 cp ./Ageless_Era/info/convertRashy.py ./Rashy_Era/
 cp ./Ageless_Era/info/collectRashyUnitIdReplacements.py ./Rashy_Era/
 cd ./Rashy_Era/
+wmlindent .
 ./convertRashy.py
 cd ..
 wmlindent ./Rashy_Era/Ageless_Era
