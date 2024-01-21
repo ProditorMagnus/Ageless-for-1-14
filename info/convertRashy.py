@@ -6,6 +6,8 @@ from collectRashyUnitIdReplacements import get_unit_type_mapping
 replacements = [
 	('{~add-ons/Rashy_Era/','{~ERROR_RE_ABSOLUTE_PATH/'),
 
+	("VRAq Warrior", "VRAq Warrior_Swordsman"),
+	("VRAqM Warrior", "VRAqM Warrior_Merman"),
 	("VR_", "AE_RHY_"),
 	("vr-", "AE_rhy_"),
 
