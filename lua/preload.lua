@@ -8,7 +8,7 @@ end
 local abs=math.abs
 
 function wesnoth.wml_conditionals.AE_mag_is_unbalanced()
-	local id = wesnoth.scenario.era.id or ""
+	local id = (wesnoth.scenario.era or {id=""}).id
 	id = id:lower()
 	if id:find("unbalanced") then
 		return true
@@ -22,7 +22,7 @@ function wesnoth.wml_conditionals.AE_mag_not_unbalanced()
 end
 
 function wesnoth.wml_conditionals.AE_mag_is_masters()
-	local id = wesnoth.scenario.era.id or ""
+	local id = (wesnoth.scenario.era or {id=""}).id
 	id = id:lower()
 	if id:find("masters") then
 		return true
@@ -36,7 +36,7 @@ function wesnoth.wml_conditionals.AE_mag_not_masters()
 end
 
 function wesnoth.wml_conditionals.AE_is_rpg()
-	local id = wesnoth.scenario.era.id or ""
+	local id = (wesnoth.scenario.era or {id=""}).id
 	id = id:lower()
 	if id:find("rpg") then
 		return true
