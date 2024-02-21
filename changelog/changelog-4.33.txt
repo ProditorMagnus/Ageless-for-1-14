@@ -443,3 +443,8 @@ Southseas do not have a formal tank (Excluding XP mod gust) , so they will get v
 - Deckmaster will now have a 9-3 impact attack in addition
 - Salvager rope damage increase to 7-2
 - Maine AMLA XP to 126 (+26)
+
+
+ME - Oracle
+- Scientist and all advancement will now have ONE attack with the +very-skilled special.
+(This will save some decens of lines of codes)
