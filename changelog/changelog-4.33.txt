@@ -99,7 +99,7 @@ FL - Pirates
 - Shooter movement to 6 (+1) , price to 27g (+1g)
 - Sniper movement to 6 (+1) , price to 55g (+1g)
 
-- Serpent all melee damages increase by +1 , HP to 42 (+4) , price to 17g (+2g)
+- Serpent all melee damages increase by +1 , HP to 42 (+4) , XP to 40 (-2) price to 17g (+2g)
 - Water Serpent HP to 54 (+2) , flat defense to 40% (+10%) , pricce to 32g (+1g)
 - Thunder Serpent pierce melee damage increase to 10-2 (+1)
 
@@ -655,7 +655,7 @@ EOS - Eltireans
 - Lady'o'War XP to 38 (-2)
 - Fury HP to 42 (+2)
 - Raging Mistress melee adjusted to 5-5 (+1 strikes)
-- Tempress cold res to 10% (-5%) , flat defense to 50% , XP to 72 (-3)
+- Tempress cold res to 10% (-5%) , flat defense to 50% , XP to 67 (-8) , ranged attack adjusted to 2-5 (+1 strikes)
 Very low HP duelist, she needs flat def buff.
 - Siren flat defense to 50% , now has parry(+5%) in ranged
 - Sky Captain HP to 60 (+4) , flat defense to 50% , ranged adjusted to 5-5 (+1 strikes) , price to 60g (+4g)
@@ -719,3 +719,33 @@ EOS - Triththa
 - Armorer HP to 51 (+3)
 
 
+(UNRECRUITABLE) EOC - Summoners
+Even if this faction is at this momment un-pickable, I want to open it once again as a playable faction.
+- Initiate XP to 44 (-6) , price to 18g (-1g)
+- Summoner of Earth HP to 45 (+3) , impact ranged damage increase to 16-2 (+2) , impact res to 10% (+10%) , XP to 85 (-15), price to 35g (-5g)
+  - Cave movement cost to 1 (-1) , hills movement cost to 1 (-1)
+- Master of Earth HP to 55 (+5) , impact melee damage to 12-2 (+1) , impact ranged damage to 22-2 (+2) and accuracy upgraded to +Skilled , AMLA XP to 134 (-16)
+  - Cave defense to 50% (+10%) , hills defense to 60% (+10%) , mountains defense to 70% (+10%)
+- Fire Summoner sand movement cost to 1 (-1) , XP to 82 (-18) , price to 34g (-4g)
+- Master of Fire fire ranged damage to 11-4 (+1) and accuracy upgraded to +Very-Skilled , NEW ATTACK: Staff 8-2 fire melee , AMLA XP to 134 (-16)
+- Summoner of Water movement to 6 (+1) , swamp/swallow/frozen movement costs to 2 (-1) , deep water movement cost to 3 (20% defense) 
+  - impact ranged damage to 12-2 (+1) , XP to 82 (-18) , price to 30g (-4g)
+- Master of Water movement to 6 (+1) , swamp/swallow/frozen movement costs to 1 (-2) (all to 40%) , deep water movement cost to 2 (30% defense)
+  - Impact ranged damage increase to 12-3 (+3) and accuracy upgraded to +Skilled, fire res to 10% (+10%) , AMLA XP to 134 (-16) , price to 54g (-1g)
+- Summoner of Air Movement to 6 (+1) , flat defense is now 50% , XP to 85 (-15) , price to 32g (-6g)
+- Master of Air Movement to 7 (+1) , flat defense is now 50% , sand/frozen defense to 50% (from lower) , pierce res to 20% (+20%) , mountains def to 70% (+10%)
+  - swallow/swamp water defenses to 40% (+20%) , cold ranged accuracy upgraded to +Very-Skilled , AMLA XP to 134 (-16)
+  
+  
+AE - Deep Elves
+Bigger plans will include this faction in 4.34 , for now, minor early game performance buffs.
+- Blood Maiden XP to 38 (-2)
+- Nightmaiden XP to 42 (-3)
+- Lidh XP to 39 (-3)
+- Elthare will now have +Aimed in ranged.
+- Priestess XP to 39 (-3)
+- Matriarch HP to 39 (+1) , melee damage to 8-2 (+1)
+- Nightmaiden now has +Nocturnal-Regen(+3)
+- Baroness-of-night now has +Nocturnal-Regenn(+5)
+
+  
