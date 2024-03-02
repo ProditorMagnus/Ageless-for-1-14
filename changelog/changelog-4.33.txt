@@ -749,3 +749,25 @@ Bigger plans will include this faction in 4.34 , for now, minor early game perfo
 - Baroness-of-night now has +Nocturnal-Regenn(+5)
 
   
+ARCHAIC - Northern Orcs
+- Faction can now recruit Storks (once again)
+- Stork Rider race changed to goblin (they will now gain ONE negative trait)
+This is pretty needed to diferenciate more from wolf riders.
+- Rat riders are now AE_arc_race_north_orc instead of wolf
+
+- Stork Riders HP to 36 (+4) , melee damage to 6-3 (+1) , flat defense to 40% (+10%) , mountains movement cost to 4 (-1) , XP to 28 (-2) 
+- Stork Master HP to 53 (+9) , melee damage increase to 9-3 (+1) , flat defense to 40% (+10%) , mountains movement cost to 4 (-1)
+- Vagrant price to 25g (-3g)
+- Traveler is now 50% flat defense
+
+- In Era of Heroes they can no longer recruit default orcs
+- In Era of Heroes they can no longer use default orcs as leaders
+- In Era of Heroes they can now correctly recruit ARCHAIC - Northern Orcs correctly
+
+
+ARCHAIC - Phantom
+- Mummy Unbound XP to 48 (-3)
+- Mummy Noble HP to 47 (+3) , Noble XP to 90 (-10)
+- Mummy King HP to 57 (+2), price to 63g (+1g)
+- Mummy Pharo now has +Delliminates instead of Delliminates(10%) , XP to 150 (+10)
+- Wing Dancer XP to 70 (-10)
