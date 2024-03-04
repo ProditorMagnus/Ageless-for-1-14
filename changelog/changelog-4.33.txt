@@ -1,12 +1,26 @@
 
 
 AE - GLOBAL MESSAGE
-
+- EOC - Quenoth Elves will officially be removed
+AE - Desert Elves rework will fix this issue, we don't need repeated factions.
+Idea is adding post 1.14 Quenoth Elves some time later, not in this release.
 
 PENDING, NOTED CHANGES
 - Certain Free Saurian units adjusting manually to 10%
 - Review in 1.18 EFM factions to adjust/modify arcane ressistance if needed.
 - Adding the wanted AMLA for Altaris Scouts.
+- FEW new units in multiple factions
+  1) AE - Desert Elves - Desert Warrior & its Lv3 (same 9-4 blade melee but 20% on blade/impact & 10% on pierce) , very XP thristy for lv3
+  2) ARCHAIC - Menagerie - Technomancer (Lv3) (Mechanical melee fighter that becomes machine race, more melee, better physical res but big lose in ranged damage and dmg to arcane)
+  It will feature advantages like poison/plague inmunity and can be repaired by machinists.
+  3) ARCHAIC - Kthon - Argamarok (Lv3) (Planned to be a slower, less armored (but more HP) compared to Orthrus)
+  Will keep ranged slows but with -10% accuracy & higher base damage (it can slow in retaliation, but unit should not be used for that in offensive)
+  will probably have 50% marksman on melee.
+  4) AE - Deep Elves - Corrupted (Will feature melee/ranged secret attacks , odd ressistances and no stardust bonuses)
+  Deep Elves are actually blade/impact spam the most, few pierce is not enough, so they might need more attack types.
+  5) Wanting to add something else in SteelHive, but no concept yet.
+  
+
 
 FL - ALTARIS
 They struggle real lot in early game (as expected), but they have some decent early game options. Only issue is that players are forced to pick Lv2 Arcane Warrior as leader choice... because the other option as leaders aren't this very useful in early game...
