@@ -121,15 +121,34 @@ AE - Dark Legion
 
 
 AE - Desert Elves
-- Desert Ranger XP to 72 (-8)
-- Desert Hero XP to 84 (-4)
+- Desert Elf foot will now be more consistent around the faction (50% in both forests/sand for fighters, 60% sand def in others)
+
+- Archer XP to 38 (-4) , sand defense to 60% (+10%)
+- Ranger Melee adjusted from 6-3 backstab to 8-3 (no specials) , increased ranged damage by 1 , XP to 75 (-5)
+- Avenger Melee adjusted from 8-3 backstab to 9-4 (no specials) , increased ranged damage by 1
+- Fighter foottype changed to AE_sandland instead of woodland (short of the interventions)
+- Hero XP to 84 (-4)
+- Hunter XP to 39 (-3)
+
 - Desert Sentinel XP to 77 (-3)
 - Desert Prowler bolas damage adjusted from 12-2 to 8-3
-- Moon Enchantress HP to 40 (+4) , XP to 80 (-4)
+- Moon Enchantress HP to 40 (+4) , now has parry(5%) on melee , XP to 70 (-14)
+- Moon Prietess now has parry (5%) on melee, sand defense to 60% (+10%)
 - Sun Enchantress HP to 38 (+2) , XP to 80 (-5)
-- Desert Rider XP to 72 (-3)
+- Sun Priestess sand defense to 60% (+10%)
+
+- Scout footype changed to AE_sanland instead of woodland (short of the interventions) , keeps 60% in sand , melee damage to 6-3 (+1) , XP to 40 (+3)
+- Rider forest movement cost to 1 (-1) , sand defense to 60% (+10%) , XP to 72 (-3)
+- Outrider forest movement cost to 1 (-1) , AMLA XP to 134 (-16)
+
+- Shaman footype changed to AE_sadland instead of woodlan (short of the interventions) , kept 60% sand defense
 - Desert Shyde XP to 115 (-35)
-- Dust Twist XP to 88 (-12)
+- Dust Faerie impact ranged damage to 9-2 (+1)
+- Dust Twist HP to 39 (+1) , impact ranged damage to 10-3 (+1) , XP to 88 (-12)
+- Dust WhirlWind HP to 50 (+2) , melee damage to 8-3 (+1)
+- Dust Vengeance movement to 8 (+1) , NEW ATTACK: Tornado 9-2 impact + magical (same lv1 value) , sand defense to 60% (+10%)
+  - sand storm strikes increase by 1 (to 4-8) and now has +blur special in addition
+Unit might be more consistent now. Resilient ones might be OP lol , it's why it's so low in stats as an alternative advancement.
 
 
 AE - Frozen
