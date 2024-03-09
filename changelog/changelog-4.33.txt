@@ -54,13 +54,33 @@ Will keep their increased arcane weakness because of giving them more terrain bo
 Heavier golems will maintain 3 MP cost in swamp/waters.
 - Iron & Gold Golems castle defense to 50% (+10%)
 
+- Primeval Warrior XP to 165 (-5)
+- Ancient Warrior HP to 83 (+8) , melee damage to 11-5 (+1) , price to 111g (+11g) , AMLA XP to 225 (-25)
+
 - Arcane warrior ranged damage increase to 8-2
+- TrueHearted ranged damage increase to 8-3 , price to 66g (+1g)
+- First Sword HP to 80 (+6) , price to 93g (+3g) , AMLA XP to 200 (-50)
+Unit lacks of physical resistances which makes it bland, and because of higher XP spent for it.
 - Master at Arms HP to 55 (+2) , AMLA XP to 111 (-15)
 - Lord of Earth HP to 46 (+1) , XP to 85 (-3)
 - Stone Warrior XP to 84 (-4)
+- Cerberus fire/cold res to 10% (+10%) , shield thrust now has parry +5 bonus , price to 57g  (+1g)
+
 
 
 FL - BLOOD ELVES
+I didn' imagine that rebels's buff in default was this insane, so blood elves need to be stronger as they don't have healers.
+They do not have slowers as well...
+- Ballistic Crossbowman HP to 55 (+2) , ranged will now have +Skilled instead of +Marksman , melee damage increase to 6-3 (+1) , price to 55g (+2g), AMLA XP to 134 (-16)
+- Blood Hunter HP to 60 (+4) , melee strikes increase by 1 (to 7-5) , price to 57g (+4g)
+- Blood Warrior HP to 67 (+4), AMLA XP to 134 (-16)
+- Fire Warrior HP to 72 (+6) , price to 59g (+2g)
+- Grand Warrior HP to 72 (+2)
+- Elite Warrior HP to 87 (+5)
+- Pyromaster HP to 67 (+13) , AMLA XP to 225 (+25)
+
+- Minotaur Warlord HP to 84 (+3)
+
 - Firebird NEW ATTACK: 9-2 fire melee +attack-only
 - Phoenix can now treat from poison to ally units.
 This might help a real lot in a faction that has no healers.
@@ -103,9 +123,9 @@ FL - Pirates
 - Human pirates frozen defense to 30% (+10%)
 - Human pirates deep water defense to 20% and movement cost to 3
 
-- Novice Enchanter HP to 32 (+1) , movement to 6 (+1) , price to 19g (+1g)
-- Enchanter HP to 48 (+1) , movement to 6 (+1) , price to 31g (+2g)
-- Master of Enchanting HP to 58 (+2) , movement to 6 (+1) , price to 54g (+2g)
+- Novice Enchanter HP to 32 (+1) , frostball damage to 6-2 (+2) , movement to 6 (+1) , price to 19g (+1g)
+- Enchanter HP to 48 (+1) , frostball damage to 10-2 (+2) movement to 6 (+1) , price to 31g (+2g)
+- Master of Enchanting HP to 58 (+2) , frostball damage to 9-3 (+1) and now has +frostbite special , movement to 6 (+1) , price to 54g (+2g)
 - Tamer HP to 49 (+1) , Movement to 6 (+1) , melee damage increase to 6-3 (+1) , ranged damage change to arcane , NEW ATTACK: Net 9-2 impact ranged +slow +attack-only , XP to 75 (-2) 
 - Beastmaster HP to 64 (+2) , Movement to 6 (+1) , ranged curse damage change to arcane, NET damage increase to 13-2 (+3) , NEW ATTACK: Net 12-2 impact melee +slow +attack-only
 
@@ -139,7 +159,8 @@ AE - Desert Elves
 
 - Archer XP to 38 (-4) , sand defense to 60% (+10%)
 - Ranger Melee adjusted from 6-3 backstab to 8-3 (no specials) , increased ranged damage by 1 , XP to 75 (-5)
-- Avenger Melee adjusted from 8-3 backstab to 9-4 (no specials) , increased ranged damage by 1
+- Avenger HP increased to 59 (+2) , Melee adjusted from 8-3 backstab to 9-4 (no specials) , increased ranged damage by 2
+- Sharpshooter HP to 54 (+2)
 - Fighter foottype changed to AE_sandland instead of woodland (short of the interventions)
 - Hero XP to 84 (-4)
 - Hunter XP to 39 (-3)
@@ -653,8 +674,9 @@ Wose had very low gain of HP for an advancement.
 
 
 EOC - Chaos 
-- Invoker XP to 46 (-2)
-- Magus XP to 82 (-8)
+- Invoker , melee damage to 3-1 (+1) , XP to 45 (-3) , price to 17g (-1g)
+In lv1 it's a bad caster, it only features 20% res on all fire/cold/arcane.
+- Magus melee strikes increase by 1 (to 6-2) , XP to 82 (-8)
 - Lorekeeper cold ranged damage to 17-2 (+3) , arcane damage to 10-4 (+1)
 - Cavalier XP to 80 (-15)
 - Cataphract HP to 72 (+4) 
