@@ -1,0 +1,828 @@
+
+
+AE - GLOBAL MESSAGE
+- EOC - Quenoth Elves will officially be removed
+AE - Desert Elves rework will fix this issue, we don't need repeated factions.
+Idea is adding post 1.14 Quenoth Elves some time later, not in this release.
+
+PENDING, NOTED CHANGES
+- Certain Free Saurian units adjusting manually to 10%
+- Review in 1.18 EFM factions to adjust/modify arcane ressistance if needed.
+- Adding the wanted AMLA for Altaris Scouts.
+- FEW new units in multiple factions
+  1) AE - Desert Elves - Desert Warrior & its Lv3 (same 9-4 blade melee but 20% on blade/impact & 10% on pierce) , very XP thristy for lv3
+  2) ARCHAIC - Menagerie - Technomancer (Lv3) (Mechanical melee fighter that becomes machine race, more melee, better physical res but big lose in ranged damage and dmg to arcane)
+  It will feature advantages like poison/plague inmunity and can be repaired by machinists.
+  3) ARCHAIC - Kthon - Argamarok (Lv3) (Planned to be a slower, less armored (but more HP) compared to Orthrus)
+  Will keep ranged slows but with -10% accuracy & higher base damage (it can slow in retaliation, but unit should not be used for that in offensive)
+  will probably have 50% marksman on melee.
+  4) AE - Deep Elves - Corrupted (Will feature melee/ranged secret attacks , odd ressistances and no stardust bonuses)
+  Deep Elves are actually blade/impact spam the most, few pierce is not enough, so they might need more attack types.
+  5) Wanting to add something else in SteelHive, but no concept yet.
+  
+
+
+FL - ALTARIS
+They struggle real lot in early game (as expected), but they have some decent early game options. Only issue is that players are forced to pick Lv2 Arcane Warrior as leader choice... because the other option as leaders aren't this very useful in early game...
+
+Changes in Altaris Foot
+- Human Altaris frozen defense will be increased to 40% (+20%) , movement cost to 2 (-1)
+- Human Altaris mountain movement cost to 2 (-1)
+Each change must come with cons, they dislike exotic terrains just a bit.
+- Sand defense decrease to 20% (-10%)
+- Mushroom Grove defense decrease to 40% (-10%)
+
+Conjurer and advancement: They seem too fragible and actually a risky unit to go for. They needs buffs.
+(This excludes ilusions)
+- Added a description to units from this line
+- Swallow / Swamp movement cost from 3 to 2
+- Impact ressistance from 0% to 10%
+  - Illusionist HP to 41 (+2) , flat defense to 50% (+10%) , sand defense to 30% (+10%)
+  - Master of Illusion HP to 54 (+2) , now is 50% defense in the following terrains (flat, sand, frozen, fungus ; from worse to better) ; now is 40% defense in water tiles.
+  - Illusion_Master_of_Illusion is now 50% (+10%) flat defense 
+  
+Pegassus opinion: scouts with both -20% on pierce and impact cannot work well, so they need something extra to deal with than just only terrible ressistances.
+- Added a description to Pegasus & Pegasus Master.
+- Pegassus arcane ressistance to 30% (+10%) , pierce resistance to -10% (+10%)
+- Pegasus Master arcane resistance to 40% (+20%) , pierce resistance to -10% (+10%) , NEW ATTACK: 9-2 arcane +airbone +divine
+Their lances can now deal arcane damage if the enemy is undrainable OR a monster.
+
+- Golem swamp & Swallow waters movement cost to 2 (-1)
+- Quicksand golem arcane resistance to -20% (+10%) , 
+- Stone Golem swamp & swallow waters movemetn cost to 2 (-1) , sand/frozen defense to 30% (+10%)
+Will keep their increased arcane weakness because of giving them more terrain bonuses.
+Heavier golems will maintain 3 MP cost in swamp/waters.
+- Iron & Gold Golems castle defense to 50% (+10%)
+
+- Primeval Warrior XP to 165 (-5)
+- Ancient Warrior HP to 83 (+8) , melee damage to 11-5 (+1) , price to 111g (+11g) , AMLA XP to 225 (-25)
+
+- Arcane warrior ranged damage increase to 8-2
+- TrueHearted ranged damage increase to 8-3 , price to 66g (+1g)
+- First Sword HP to 80 (+6) , price to 93g (+3g) , AMLA XP to 200 (-50)
+Unit lacks of physical resistances which makes it bland, and because of higher XP spent for it.
+- Master at Arms HP to 55 (+2) , AMLA XP to 111 (-15)
+- Lord of Earth HP to 46 (+1) , XP to 85 (-3)
+- Stone Warrior XP to 84 (-4)
+- Cerberus fire/cold res to 10% (+10%) , shield thrust now has parry +5 bonus , price to 57g  (+1g)
+
+
+
+FL - BLOOD ELVES
+I didn' imagine that rebels's buff in default was this insane, so blood elves need to be stronger as they don't have healers.
+They do not have slowers as well...
+- Ballistic Crossbowman HP to 55 (+2) , ranged will now have +Skilled instead of +Marksman , melee damage increase to 6-3 (+1) , price to 55g (+2g), AMLA XP to 134 (-16)
+- Blood Hunter HP to 60 (+4) , melee strikes increase by 1 (to 7-5) , price to 57g (+4g)
+- Blood Warrior HP to 67 (+4), AMLA XP to 134 (-16)
+- Fire Warrior HP to 72 (+6) , price to 59g (+2g)
+- Grand Warrior HP to 72 (+2)
+- Elite Warrior HP to 87 (+5)
+- Pyromaster HP to 67 (+13) , AMLA XP to 225 (+25)
+
+- Minotaur Warlord HP to 84 (+3)
+
+- Firebird NEW ATTACK: 9-2 fire melee +attack-only
+- Phoenix can now treat from poison to ally units.
+This might help a real lot in a faction that has no healers.
+- Assasin NEW ATTACK: Knife 6-4 blade melee (no specials)
+this allows them to be more deadly in defense and if strong to be 9-4 on night. Fair enough as default rogues have a ranged attack while this not.
+
+
+FL - Natives
+- Shaman been correctly set to Natfoot instead of smallfoot
+- Barbarian XP to 77 (-7)
+- Skull Hunter XP to 72 (-10)
+- Skull Breaker now has +Feeding
+- Seeker XP to 65 (-7)
+- Great Seeker damage on poison attack increased to 8-4 (+1) , on 8-5 attack renamed the attack special to +Aimed
+- Druid XP to 77 (-8)
+- High Druid XP to 110 (-15) , HP to 52 (+2)
+- Storm Summoner XP to 77 (-8)
+- Storm Lord HP to 58 (+1)
+
+
+FL - Amazons
+- Huntswoman XP to 70 (-5)
+- Murderess XP to 67 (-13)
+- Dryad & Forest Ghost movement to 6 (+1)
+- Sentinel XP to 83 (-5)
+- Warden AMLA XP correction to 150 (-2)
+
+- Amazon XP to 67 (-4) , will now have +Inspires1
+- Spearmistress XP to 115 (-10) , will now have +Inspires1
+
+HARPIES
+- They now have their own harpyfoot instead of fly
+ - Cave movement cost to 2 (-1) and cave defense to 40% (+10%)
+ - Hills/mountain defense to 60% (+10%)
+- Harpy Glidder will now be 65% in hills and 70% on mountains.
+
+
+FL - Pirates
+- Human pirates swamp defense to 40% (+10%)
+- Human pirates frozen defense to 30% (+10%)
+- Human pirates deep water defense to 20% and movement cost to 3
+
+- Novice Enchanter HP to 32 (+1) , frostball damage to 6-2 (+2) , movement to 6 (+1) , price to 19g (+1g)
+- Enchanter HP to 48 (+1) , frostball damage to 10-2 (+2) movement to 6 (+1) , price to 31g (+2g)
+- Master of Enchanting HP to 58 (+2) , frostball damage to 9-3 (+1) and now has +frostbite special , movement to 6 (+1) , price to 54g (+2g)
+- Tamer HP to 49 (+1) , Movement to 6 (+1) , melee damage increase to 6-3 (+1) , ranged damage change to arcane , NEW ATTACK: Net 9-2 impact ranged +slow +attack-only , XP to 75 (-2) 
+- Beastmaster HP to 64 (+2) , Movement to 6 (+1) , ranged curse damage change to arcane, NET damage increase to 13-2 (+3) , NEW ATTACK: Net 12-2 impact melee +slow +attack-only
+
+- Bucanner movement to 6 (+1)
+- Shooter movement to 6 (+1) , price to 27g (+1g)
+- Sniper movement to 6 (+1) , price to 55g (+1g)
+
+- Serpent all melee damages increase by +1 , HP to 42 (+4) , XP to 40 (-2) price to 17g (+2g)
+- Water Serpent HP to 54 (+2) , flat defense to 40% (+10%) , pricce to 32g (+1g)
+- Thunder Serpent pierce melee damage increase to 10-2 (+1)
+
+- Spearthorower now has a description.
+- Javalineer is now 50% in swamp and swallow waters, price to 24g (+1g) , now has a description.
+- Harpooner is now 50% in swamp and swallow waters, price to 51g (+1g) , now has a description.
+
+
+AE - Dark Legion 
+- ALL DRONES arcane resistance to -10% (+10%)
+- Assault Drone ranged will now feature +Aimed , XP to 87 (-3)
+- War Drone HP to 62 (+2)
+- Knight cold resistance to 10% (+10%) , XP to 95 (-5) , price to 48g (+8g)
+- Dark Cavalier cold resistance to 10% (+10%) , lance damage increase to 18-2 (+1) , price to 70g (+12g)
+- Runner Drone XP to 42 (-2)
+- Protector Drone HP to 48 (+2) , melee damage increase to 8-2 (+1) , +precision on ranged is replaced by +Greater-Marksman
+- Rayblade NEW ATTACK: 3-2 impact ranged, XP to 64 (-16)
+- Dark Guardian XP to 72 (-3)
+
+
+AE - Desert Elves
+- Desert Elf foot will now be more consistent around the faction (50% in both forests/sand for fighters, 60% sand def in others)
+
+- Archer XP to 38 (-4) , sand defense to 60% (+10%)
+- Ranger Melee adjusted from 6-3 backstab to 8-3 (no specials) , increased ranged damage by 1 , XP to 75 (-5)
+- Avenger HP increased to 59 (+2) , Melee adjusted from 8-3 backstab to 9-4 (no specials) , increased ranged damage by 2
+- Sharpshooter HP to 54 (+2)
+- Fighter foottype changed to AE_sandland instead of woodland (short of the interventions)
+- Hero XP to 84 (-4)
+- Hunter XP to 39 (-3)
+
+- Desert Sentinel XP to 77 (-3)
+- Desert Prowler bolas damage adjusted from 12-2 to 8-3
+- Moon Enchantress HP to 40 (+4) , now has parry(5%) on melee , XP to 70 (-14)
+- Moon Prietess now has parry (5%) on melee, sand defense to 60% (+10%)
+- Sun Enchantress HP to 38 (+2) , XP to 80 (-5)
+- Sun Priestess sand defense to 60% (+10%)
+
+- Scout footype changed to AE_sanland instead of woodland (short of the interventions) , keeps 60% in sand , melee damage to 6-3 (+1) , XP to 40 (+3)
+- Rider forest movement cost to 1 (-1) , sand defense to 60% (+10%) , XP to 72 (-3)
+- Outrider forest movement cost to 1 (-1) , AMLA XP to 134 (-16)
+
+- Shaman footype changed to AE_sadland instead of woodlan (short of the interventions) , kept 60% sand defense
+- Desert Shyde XP to 115 (-35)
+- Dust Faerie impact ranged damage to 9-2 (+1)
+- Dust Twist HP to 39 (+1) , impact ranged damage to 10-3 (+1) , XP to 88 (-12)
+- Dust WhirlWind HP to 50 (+2) , melee damage to 8-3 (+1)
+- Dust Vengeance movement to 8 (+1) , NEW ATTACK: Tornado 9-2 impact + magical (same lv1 value) , sand defense to 60% (+10%)
+  - sand storm strikes increase by 1 (to 4-8) and now has +blur special in addition
+Unit might be more consistent now. Resilient ones might be OP lol , it's why it's so low in stats as an alternative advancement.
+
+
+AE - Frozen
+- Flying Golem XP to 43 (-3)
+- Frost Gunner XP to 72 (-8)
+- Frost fighter & all advancement arcane resistance to -10% (+10%)
+- Frost Shooter XP to 74 (-6)
+- Frost Warrior XP to 83 (-12)
+- Frost Rider & advancement arcane resistance to -10% (+10%)
+- Frostlanceman XP to 70 (-2)
+- Frost Shieldman secret resistance to 10% (+10%)
+- Frost Mage XP to 88 (-7)
+- Frost Witch XP to 70 (-5)
+- Frost Queen HP to 48 (+3)
+- Ice Golem HP to 42 (+2) , arcane resistance to -20% (+10%) , XP to 43 (-3)
+- Big Ice Golem HP to 62 (+8) , arcane resistance to -20% (+10%)
+- Ice Golem Titan secret resistance to 10% (+10%)
+
+
+AE - SteelHive
+- Global arcane resistance set to 20% (-10%)
+- Global cold resistance set to 0% (+10%)
+- Steel Avalanche melee will now be impact damage type as wanted.
+- Steel Sentinel HP to 67 (+3)
+- Steel Bombardier XP to 81 (-3)
+- Dreadnough damage increase to 12-4
+- Bladewhirl HP to 51 (+2) , blade melee attack adjusted to 3-11 but has -5% parry (This is nerf if vs melee fighters, but buff againist bad melee retaliations)
+- Vector XP to 77 (-3)
+- Steel Repairer HP to 42 (+2) , ranged damage adjusted to 4-2
+
+
+AE - Yokai
+- Kitsune XP to 81 (-3)
+- Tengu HP to 38 (+2)
+- ALL lamias arcane resistance to -10% (+10%)
+- Lamia Naitaka will now have +Very-Skilled in attacks instead of +Magical
+- Medusa XP to 77 (-3)
+- Nymph & All advancement (except kodama) arcane resistance to -10% (+10%)
+- Poltergeist & all advancement (except Banshee) arcane resistance to -10% (+10%)
+- Weaver Maiden & all advanacement arcane resistance to -15% (from -20% to -30% depending level)
+- Weaver Maiden & all advanacement fire resistance to -10% (from -20% to -10% depending level)
+
+
+BEEM - Anakes
+- All grounded Anakes will be 40% (+10%) cave defense and cave movement cost to 1 (-1)
+- All grounded Anakes will be 40% (+10%) sand defense
+- Ground Heterodox now have 4 Movement cost in mountains (instead of impassable) and 30% mountains defense (as much as flat)
+Technically the heavy armor and not being living cuases them to not have oxygen issues, unlike as of Heavy Infantrymen.
+- Leech sand movement cost to 2 (-1) & sand defense to 30% (+10%) , cave movement cost to 2 (-1) & cave defense to 40% (+10%)
+- Any foot/unit containing arcane weakness greater than -20% been decreased to this value.
+- In overall any unit will do as good or better in cave/sand than before.
+
+- Slaughterer to 78 (-6)
+- Heterodox XP to 42 (-4)
+- Heretic XP to 77 (-3)
+- Initiate price to 19g (-1g)
+- Hierophant XP to 77 (-3)
+- Spellcaster XP to 67 (-5)
+This lv2 mage is in overall terrible lv2 mage unit, so it has the lowest to lv3 from all Ageless mages.
+- Devil XP to 77 (-5)
+
+
+BEEM - Calydonians
+- Dionian Veteran XP to 84 (-6)
+- Polemarch XP to 81 (-3)
+- Gymnet XP to 69 (-3)
+
+
+BEEM - Woodwarriors
+- Woods Druid XP to 80 (-5)
+- Adventurer Puck XP to 74 (-6)
+- Rats Knight XP to 63 (-7)
+- Wild Rats knight HP to 57 (+3)
+- Golem Wood Defender HP to 56 (+2) , XP to 80 (-5)
+- Bigfoot XP to 73 (-7)
+- Faun Sharpshooter HP to 42 (+1) , ranged damage increase to 8-4
+
+
+EOM - Vampires
+- Blood Manipulator & Sangel movement to 6 (+1)
+
+EOM - Windsongs
+- Lv1 and higher level lorekeepers will have now 10% on arcane , as well of couriers and higher level ones.
+- Ascendant has now 10% more terrain defense in the followin terrains: flat, sand, frozen, swamp & swallow water.
+- Runeforger has this same terrain improvemets, additionally of one less movement cost in various terrains (mountains, swallow & swamp waters)
+This units physical resistances are so terrible. It's why it got some extras elsewhere. Also losing one slower is a big cons.
+
+
+EE - Chaos
+- Marauder XP to 65 (-5)
+- Dark Knight XP to 75 (-5)
+- Doom Guard XP to 76 (-4)
+- Blood Knight XP to 105 (-5)
+- Magus HP to 37 (+2)
+- Chaos Daemon XP to 75 (-5)
+- Winged Daemon HP to 42 (+2)
+- Abobination HP to 73 (+3)
+
+
+EE - Dark Elves
+- Warrior XP to 77 (-3)
+- Frost Wyrm XP to 84 (-6)
+- Mystral Wyrm XP to 84 (-6)
+- Sorcerer XP to 83 (-7)
+
+
+EE - Outlaws
+- Cuning Woman XP to 37 (-3)
+They can now act as very early heal+8 unit choice
+- Shadow Mage XP to 88 (-12)
+
+
+MiE - Vampires
+- Soul Hunter AMLA XP to 126 (-24)
+
+
+MiE - Centaurs
+Minor AMLA adjustments, seems buffs worked smoothly in this faction.
+- Centaur Heroic AMLA XP to 134 (-16)
+- Horned Elder AMLA XP to 134 (-16)
+- Dehorned Scoundrel AMLA XP to 134 (-16)
+- Protector of Hoofs AMLA XP to 126 (-24)
+
+
+EotF - Welkin
+Some buffs to the faction, as they need to stand better againist stronger EOMA factions.
+
+- Talon Warrior XP to 72 (-8)
+- Whirl Wind XP to 70 (-9)
+- Sentinel of moon XP to 83 (-5)
+- Grand Flyer impact res to -10% (+10%)
+- Solar Empyrean AMLA XP to 166 (+16) 
+- High Pyration HP to 57 (+2) , XP to 127 (-3) , fire resistance to 10% (+10%)
+- Hietarch of Aten HP to 72 (+2) , ranged damage increase to 17-4 , NEW ATTACK: staff 6-3 fire melee , fire resistance to 20% (+20%)
+The lv4 needs more features to can compete with Solar Empyrean, lv3 do also have massive improvement in sand movement costs.
+
+- Battle Sage HP to 48 (+2) , XP to 67 (-8)
+- Battle Seer is now 50% flat defense!
+Elder Sage and his advancement will be 10% cold resistance or higher.
+
+- Quickdraw will now have +Aimed in its pierce attack , XP to 75 (-5)
+- Deadeye in its arcane attack will now have +Very-Skilled (70% or higher) instead of +Magical , cold/impact res increases by +10% (to +10%/-10%)
+- Shadow Raider XP to 88 (-12)
+Very low HP , it can be buffed.
+- Astral Ranger AMLA XP to 166 (+16) , cold/impact res increases by +10% (to +10%/-10%)
+- Twilight Slayer NEW ATTACK: sword 6-4 arcane melee , flat defense to 60% (+10%) , price to 30g (+1g)
+
+
+
+EotF - Brungars
+Some important buffs in resume
+- Amateur tamer XP to 50 (-4)
+- Experienced Tamer & Expert tamer will now have +parry(+5%) in their melee
+- Experienced Tamer XP to 100 (-10)
+- Council Member XP to 44 (-2)
+- Overgrown crab XP to 70 (-5)
+- Dwarvish Huntsman XP to 63 (-7)
+- Dwarvish Huntsmaster HP to 56 (+2)
+- Hapoonier XP to 40 (-4)
+- Harpoon Specialist XP to 69 (-21)
+
+- Aphotecary movement to 5 (+1) , XP to 39 (-10)
+- Herbalist HP to 37 (+2)
+- Practitioner HP to 50 (+4)
+- Toxin Specialist HP to 59 (+2), it will now cure poison to allies and itself!
+- Ocean Apprentice XP to 45 (-3)
+- Ice Apprentice HP to 42 (+2) , XP to 65 (-5)
+- Crystal Master HP to 57 (+4)
+- Wave Raider XP to 75 (-5)
+
+
+
+EotF - Nordhiris
+- All nordhiris mountain movement cost to 2 (-1)
+They still are 50% on mountains, but they move smoother.
+- Tribal Sage XP to 74 (-4)
+- Wiseman HP to 54 (+2)
+- Northern Strongbow XP to 68 (-4)
+- Northern Great Bow HP to 56 (+2)
+- Oathstorm ranged damage increase to 7-4 , AMLA XP to 134 (-16)
+- Slaughterer HP to 52 (+4)
+- Northguard XP to 63 (-7)
+- Frost Dasher XP to 63 (-7)
+- Farseer HP to 41 (+2)
+- Artic Prowler frozen defense to 60% (+10%) , HP to 65 (+2) , AMLA XP to 126 (+26)
+- Dire Reaver HP to 46 (+2) , now has +first-strike in melee , now is 50% in flat defense!
+otherwise the unit has no utility in endgame appart of the slows.
+
+
+ME - Emperor's Guard
+- heavysamurai foot sand/mushroom movement cost to 2 (-1) , cave defense to 40% (+10%)
+- Samurai Mounted foot sand defense to 40% (+10%)
+- Ryu foot forest movement cost to 1 (-1) , cave defense to 30% (+10%)
+- Ninjafoot swallow_water movement cost to 2 (-1)
+
+- Ozutsu and advancements hills defense to 60% (+10%) , forest defense to 40% (-10%) , sand defense to 40% (+10%)
+- Kyushu XP to 72 (-5)
+
+- Yumi and all advancements sand defense to 40% (+10%) , frozen defense to 30% (+10%)
+- Kyu will now have +aimed in its ranged , XP to 72 (-3)
+
+- Shuriken Thrower XP to 38 (-2)
+- Starshower HP to 45 (+3) , NEW ATTACK: pierce melee 4-3 +attack-only +slows , price to 30g (-2g)
+It's their only slower, this unit might have a relevant role in Emperor's guard
+
+- Ninja XP to 37 (-3)
+- Ninja Assasin HP to 44 (+2) , XP to 70 (-7)
+- Shadow Ninja NEW ATTACK: 9-3 blade melee +accuracy(5%) , pierce resistance to -10% (+10%)
+It will retaliate bit better, as well it will be better at performing last hits.
+- Ninja Warrior HP to 48 (+2) , XP to 72 (-2)
+- Shinobi HP to 64 (+2)
+
+- Bushi XP to 80 (-5)
+- Demonic Samurai HP to 65 (+2) , blade attack will now have +5% on accuracy and -5% on parry
+- Imperial Guard HP to 72 (+2)
+- Musha XP to 77 (-3)
+
+
+ME - Bight 
+- Fetid & advancements frozen movement cost to 2 (-1)
+- Cadaver & advancements arcane res to -10% (-10%) , sand movement cost to 2 (-1) , fungus defense to 60% (+10%)
+- Charred Zombies will gain cadaver's movement cost buffs and frozen defense to 40% (+20%)
+- Host & advancements rozen movement cost to 2 (-1) , cold res to 50% (+10%) , fungus defense to 50% (+10%)
+- Blobs & all advancement (except acids) frozen movement cost to 3 (-1)
+- Hounds and lv2 arcane res to -10% (+10%) , frozen movement cost to 2 (-1)
+- Blobswim arcane res to -10% (+10%) , frozen movement cost to 3 (-1)
+
+- Acid cold res to -40% (+10%) , sand movement cost to 2 (-1) , frozen movement cost unchanged.
+- Blob , Slime & Oozes will now regenerates+3
+- Amoeba will now regenerates+4
+- Bacteria arcane res to 25% (+5%)
+- Charred Zombies arcane resistance to -30% (+15%)
+- Mutilated Corpse arcane resistance to -25% (+15%)
+- Dreadbones arcane resistance to -20% (+15%)
+- Fetid HP to 41 (+3), price to 21g (+1g)
+- Rancid HP to 54 (+2) , XP to 75 (-5)
+- Dark current & undertow swarm adjusted to swarm(2)
+- Blacktide  XP to 75 (-13) , swarm adjusted to swarm(2)
+
+- Zombie will now have BloodLust(+3)
+- Flesh Eater will now have BloodLust(+4)
+- Blighted cold resistance to 10% (+10%)
+
+
+ME - Hive
+Versality buff to hive because they don't have mages.
+
+- All ground insects (except hopper & spiders) cave movement cost to 1 (-1)
+- All ground insects (except hopper & spiders) sand defense to 40% (+10%) , frozen defense to 20% (-10%)
+It makes more sense that insects do better in hot climates.
+- All spiders mountains movement cost to 2 (-1)
+- Tarantula XP to 72 (-10)
+- Trapdoor spider cave defense to 50% (+10%) , sand defense to 40% (+10%) , fire res to -10% (+10%)
+
+
+IMPERIAL - Orcei gladiatore
+Minor XP decreases and very minor buffs.
+- Essedarius Vulpis cold resistance to 10% (+10%)
+- Venator Faber fire resistance to 15% (+5%) , pierce resistance to 10% (+10%)
+- Laquerius XP to 42 (-3)
+- Laquerus Faber & Fleet Retarius fire resistance to 10% (+10%)
+- Khampsa Audentis cold resistance to 0% (+10%) , AMLA XP to 134 (+14)
+
+- Dimacherius fire resistance to 10% (+10%)
+- Dimacherius Fortis fire resistance to 10% (+10%) , AMLA XP to 126 (+26)
+- Murmillo XP 80 (-5) , fire resistance to 0% (+10%)
+- Murmillo Fortis AMLA XP to 134 (+34)
+- Provocator XP to 75 (-7)
+- Provocator Leonis AMLA XP to 134 (+34)
+
+- Bestarius fire resistance to 10% (+10%)
+- Feral Bestarius fire resistance to 10% (+10%) , AMLA XP to 134 (+34)
+- Brutal Paegniarius fire resistance to 10% (+10%) , AMLA XP to 134 (+34)
+
+- Hoplomachus Fortis fire resistance to 0% (+10%) , AMLA XP to 126 (+26)
+- Secutor Leonis AMLA XP to 134 (+34) , secret resistance to 10%
+
+- Secutor Leonis HP to 57 (+4)
+- Thraex XP to 72 (-12)
+- Thraex Paratus fire resistance to 10% (+10%) , AMLA XP to 126 (-24)
+
+
+ARCHAIC - Primevalist
+They need more arcane resistance, as the other factions got XP buffs... this make Primevalist be in a worse place in the meta which they used to be.
+
+- All female primevalist arcane resistance (low level) is set to -20% (from worse)
+- All femaleprimevalist lv3 arcane resistance is set to -15% (from worse)
+- All male primevalist arcane resistance to -15% (+5%))
+
+
+- Iron Wheel XP to 84 (-4)
+- Velite movement to 6 (+1)
+- Hastate XP to 68 (-6)
+
+- Primevalist Fanatic XP to 75 (-5)
+- Brightshield secret resistance to 10% , XP to 82 (-8)
+- Sunshield secret resistance to 15%
+
+- Driver XP to 80 (-6)
+- Escort XP to 85 (-5)
+- Striker & Gyrestriker will now have +Magic-counter special in melee
+
+
+ARCHAIC - SouthSeas
+Southseas do not have a formal tank (Excluding XP mod gust) , so they will get versality buffs.
+- Southseas human will now be 30% defense in frozen and 2 MP cost in frozen.
+
+- Sky Caller & Sea-Scourge movement to 6 (+1)
+- Sea Rover & Sea Wolf swallow water defense to 50% (+10%)
+- Sea Wolf deep water defense to 40% (+10%) , deep water movement cost to 2 (-1)
+- Deckmaster will now have a 9-3 impact attack in addition
+- Salvager rope damage increase to 7-2
+- Maine AMLA XP to 126 (+26)
+
+
+ME - Oracle
+- Scientist and all advancement will now have ONE attack with the +very-skilled special.
+- Occultist XP to 85 (-5)
+Occultist has a big cons at not having any melee... reason its level 3 will get buffed.
+- Alchemist cold res to 20% (+5%) , fire res to 30% (+15%)
+(This will save some decens of lines of codes)
+- Summoner XP to 55 (-5)
+- Conjurer HP to 42 (+1) , movement to 6 (+1)
+- Quietus death wave attack damage increase to 36-1 (+1) , now has MERC's +triple-strike special and +Poison
+36-1 cold secondary attack is not even the best single-strike attack in the era, it's same damage type than main attack, so it's a bad attack.
+
+
+Imperial - Sidhe
+As they're coming from a faction with no healers, it's required some buffs here.
+- Raindancer XP to 44 (-2)
+- Fury XP to 44 (-2)
+- Wanderer HP to 27 (+1) , XP to 39 (-1)
+- Stormlord HP to 63 (+3)
+- Warmage HP to 45 (+1)
+- Thunderblade HP to 57 (+1)
+- Dark Thunderblade is now 50% defense in flat
+- Warsinger HP to 60 (+2)
+- Veileblade HP to 44 (+2)
+- Shadowdancer HP to 54 (+2) , XP to 133 (-2) -to be exactly the same than lv2/lv3 compared to WarMage patch)
+- Wind Runner is now 50% flat defense, AMLA XP to 126 (+26)
+- Lv2 Ancestor and Lv3 Forefather will now heal allies from poison! , their arcane res to -30% (+10%)
+
+
+Imperial - Aredians
+Their late game is akward, no factional features, they need significant buffs in purpose. Will also standarize AMLA XP values.
+- Boltrider HP to 40 (+2) , Melee damage adjusted from 7-2 to 5-3 , XP to 65 (+4)
+- Mounted Marksman HP to 51 (+4) , melee damage adjusted from 6-3 to 5-4 , AMLA XP to 126 (+26)
+- Bowknight HP to 48 (+3)
+- Bowmaster HP to 57 (+2) , impact res to 40% (+10%) , AMLA XP to 126 (+26)
+- Featherbow movement to 6 (+1)
+- Arrow Wind movement to 6 (+1) , flat defense to 50% , AMLA XP to 134 (+34)
+
+- Hunter fire ranged damage increase to 11-2 (+1) , cold res from 20% to fire res 10% , forest defense to 60% (+10%) , mountains movement cost to 2 (-1)
+Their description mentions slaying dragons, so it was more correct changing cold res to fire res, appart that Aredians are somewhat bad againist drakes lol
+Lastly, Hunter is an important unit in Aredian Faction. They will become hybrid fighter with some ranger features.
+- Slayer fire ranged damage increase to 16-2 (+1) , fire res to 20% (+10%) , forest defense to 60% (+10%) , mountains movement cost to 2 (-1) , forest movement cost to 1 (-1) AMLA XP to 134 (+34)
+Their HP is very low, reason why that lot of buffs. In flat their tankyness is just akward , even worse than lv2 in its corresponding level.
+
+- Wanderer impact res to -10% (+10%) , cold res to 10% (+10%) , XP to 82 (-3)
+High damage skirmisher that is also glass cannon. One of faction's speciality
+- Hero HP to 57 (+2) , impact res to -10% (+10%) , cold res to 10% (+10%) , AMLA XP to 134 (+34)
+- Shaman XP to 80 (-5)
+- Warlock HP to 52 (+2) , AMLA XP to 134 (+34)
+- Chief HP to 51 (+3) , XP to 84 (-4)
+Rally is much worse than leadership.
+- Warlord HP to 64 (+6) , blade damage increase to 13-3 (+1) , pierce res to -10% (+10%) , AMLA XP to 134 (+34)
+- Mounted Warrior HP to 52 (+2) , Impact res to 40% (+10%)
+The unit was OK, but basically everything that opposes to it will now be stronger considering that lot of Ageless buffs...
+- Horse Master HP to 69 (+3) , Impact res to 50% (+20%) , AMLA XP to 126 (+26) , price to 61g (+4g)
+- Warrior and Battlear are now correctly using maces (animations, hitsounds and icons)
+- Battlear impact res to 20% (+10%) , fire res to 0% (+10%) , AMLA XP to 126 (+26)
+
+
+FEUDAL - Orc Knagates 
+- Bladesman XP to 77 (-3)
+- Vanguard XP to 84 (-16)
+- Khan impact melee damage increase to 16-2 (+1)
+- Spearman XP to 72 (-3)
+- Pariah HP to 63 (+2)
+- Icewind Drover XP to 84 (-4)
+- Striker is now 50% defense in flat.
+- Flanker has parry(5%) in melee now.
+
+
+FEUDAL - High Elves 
+- Enchantress XP to 99 (-6)
+- Faerie Warrior XP to 46 (-2)
+- Feyblade XP to 85 (-3)
+
+FEUDAL - Clock Work dwarves
+- Clockwork dwarf village defense to 60% (+10%) , frozen defense to 40% (+10%) , frozen movement cost to 1 (-1) 
+- Clockwork armored frozen movement cost to 1 (-1) 
+- Clockwork vehicular frozen/sand defense to 30% (+10%) , 
+Their foot is worse in mountains and forests and their magical ressists are worse.
+- Golem Soldier XP to 44 (-2)
+- Iron Golem Soldier XP to 85 (-5)
+- Greaser price to 17g (-1g)
+The least you will want in an healer... is having a single strike attack XDDD
+
+- Wanderer XP to 46 (-2)
+- Rambler cold res to 0% (+10%)
+- Itinerant cold res to 0% (+10%) , fire res to -10% (+5%)
+
+
+FEUDAL - Ceressian League 
+- Pikeman XP to 70 (-6)
+- Habeldier HP to 64 (+2) , pierce attack now has parry(+5%)
+- Order Knight XP to 74 (-3)
+Low HP.
+- Knight Raetian ranged damage increase to 8-3 (+1) , impact res to 40% (+10%)
+- Knight Commander HP to 70 (+2) , impact res to 40% (+10%) , cold res to 10% (+10%)
+- Stradioto XP to 73 (-3)
+- Cavaleiro HP to 66 (+3)
+- Arbalestier XP to 70 (-5)
+- Espadachino XP to 71 (-3)
+- Roderlero HP to 60 (+2)
+- Champion damage increase to 15-3 (+1) , AMLA XP to 134 (-16)
+Low HP.
+- Mounted Infantryman HP to 52 (+2), AMLA XP to 80 (+8)
+
+
+Imperial - Marauders
+While they been buffed a lot recently, they're still not at the standards.
+- Hunter XP to 72 (-3)
+- Woodsman pierce res to 0% (+10%)
+- Mauler impact res to 0% (+10%)
+- Raider flat defense to 50%
+- Lord HP to 61 (+3)
+- Pillager HP to 52 (+1) , XP to 80 (-2)
+- Scorcher fire res to 10% (+10%)
+
+
+Imperial - Lavignian Legion
+- Siege Archer XP to 72 (-3)
+- Saggitarius fire arrow damage increase to 13-3 (+1) , AMLA XP to 126 (+26)
+- Archuballistarius AMLA XP to 126 (+6)
+- Propugnator XP to 84 (+4)
+- Praetorian Guard HP to 60 (+4) , AMLA XP to 134 (+34)
+- Aqualifier HP to 60 (+4) , AMLA XP to 126 (+26)
+- Centirion ranged damage increase to 6-2 (+1) , AMLA XP to 134 (+34)
+
+- Champion sword melee damage to 8-4 (+1) and now has parry(+5%) , AMLA XP to 126 (+26)
+- Hippopotamus melee damage increase to 17-2 (+1) , ranged damage increase to 8-2 (+1) , AMLA XP to 126 (+26)
+
+
+Imperial - Issaelfr
+Seals are just TERRIBLE , they need a massive buff.
+- Rime Castellian AMLA XP to 134 (-16)
+- Glacialist XP to 84 (-6)
+- Cryomancer HP to 60 (+2)
+- Borealist HP to 52 (+2) , AMLA XP to 126 (+26)
+- Alpine Ranger AMLA XP to 126 (+26)
+- Glaive Master AMLA XP to 134 (-16)
+- Ice Dancer AMLA XP to 126 (-24)
+- Yak Knight XP to 77 (-5)
+- Yakmount Margrave impact damage increase to 21-1 (+1) , AMLA XP to 126 (-24)
+
+- ALL SEALS swamp water movement cost to 1 (-1)
+- Seal NEW ATTACK: Tail 5-2 impact melee , movement to 8 (+1)
+- Fleet Seal HP to 36 (+1) , Movement to 8 (+1) , NEW ATTACK: Tail 8-2 impact melee, XP to 54 (-26) , price to 22g (-6g)
+- Elder Seal NEW ATTACK: Tail 12-2 impact melee, now has +low-upkeep special , AMLA XP to 126 (-24) , price to 35g (-10g)
+
+
+EOC - Wild Human
+Bonus units are meh, they need some buff.
+- Crossbowman fire/pierce res to 10% (+10%)
+- Forester can now treat poison to alies , Movement to 6 (+1) , price to 24g (+2g)
+- Ambusher blade res to -20% (+10%) , impact res to -10% (+10%)
+- Dark Rider XP to 95 (-5)
+- Knight NEW ATTACK: Lance 13-2 pierce melee +Dread
+They can now last hit low HP enemies with no risks of x2 damage taken.
+- Dread Rider AMLA XP to 134 (-16)
+- Smasher XP to 67 (-33) , impact res to 20% (+10%)
+- Crusher impact res to 20% (+10%) , AMLA XP to 126 (-8)
+- Shadow Mage XP to 88 (-12) , price to 36g (-3g)
+- Shadow Lord HP to 56 (+3)
+
+
+EOC - Sylvans
+- Acolyte Entangle damage increase to 4-2 (+1)
+- Ascetic XP to 80 (-8)
+- Mystic XP to 120 (-5)
+- Ancestor XP to 92 (-3)
+- Night Nymph XP to 85 (-11)
+- Eventide Dancer fire res to 0% (+10%) , melee damage increase to 9-2 (+1) , cold ranged damage to 18-2 (+2) , arcane ranged damage increase to 12-3 (+1)
+- Wose Shaman HP to 60 (+3) 
+Wose had very low gain of HP for an advancement.
+
+
+EOC - Chaos 
+- Invoker , melee damage to 3-1 (+1) , XP to 45 (-3) , price to 17g (-1g)
+In lv1 it's a bad caster, it only features 20% res on all fire/cold/arcane.
+- Magus melee strikes increase by 1 (to 6-2) , XP to 82 (-8)
+- Lorekeeper cold ranged damage to 17-2 (+3) , arcane damage to 10-4 (+1)
+- Cavalier XP to 80 (-15)
+- Cataphract HP to 72 (+4) 
+It should have more HP than loy version because this one is slower.
+- Soulhunter HP to 54 (+2) , fire/cold/arcane res increases by +10%
+Even with buffs it's kinda terrible unit.
+
+- Demon Zephyr XP to 80 (-5)
+- Stormtide melee damage to 9-2 (+2) , arcane res to -10% (+10%) , AMLA XP to 134 (-16)
+- Demon Grunt XP to 75 (-15)
+- Demon Warrior XP to 135 (-15)
+- Demon Lord AMLA XP to 175 (+10)
+- Lumeril Guard Impact/arcane res increases by 10% , AMLA XP to 126 (+26)
+
+
+EOC - Aragwaith
+- Longswordsman XP to 82 (-6)
+- Swordmaster now has parry(+5%) on melee , AMLA XP to 134 (-16)
+Low HP duelist.
+- Guard XP to 88 (+3)
+if you ask me, this lv2 unit in certain aspects, is more scary than steelclads lol
+- Wizard XP to 85 (-5)
+- Sorceress fire res to 20% (+20%)
+- Guardian HP to 67 (+2) , AMLA XP to 134 (-16)
+- Silvershield HP to 65 (+3) , cold res to 10% (+10%)
+- Slayer ranged damage to 10-4 (+1)
+High damage hybrids with low dmg or no defensive features are NOT meta, also they can become insane if XP mod.
+
+
+EOS - Eltireans 
+- Lady'o'War XP to 38 (-2)
+- Fury HP to 42 (+2)
+- Raging Mistress melee adjusted to 5-5 (+1 strikes)
+- Tempress cold res to 10% (-5%) , flat defense to 50% , XP to 67 (-8) , ranged attack adjusted to 2-5 (+1 strikes)
+Very low HP duelist, she needs flat def buff.
+- Siren flat defense to 50% , now has parry(+5%) in ranged
+- Sky Captain HP to 60 (+4) , flat defense to 50% , ranged adjusted to 5-5 (+1 strikes) , price to 60g (+4g)
+Less armored than loy general, so it's less tankier in all terrains except in flat.
+- Sky Lord HP to 70 (+4) , flat defense to 50% , ranged adjusted to 6-5 (+1 strikes) , price to 84g (+7g)
+- Frostwalker pierce res to 10% (+10%)
+- Destroyer blade res to 10% (+10%) , price to 50g (+2g)
+- Pyromancer XP to 84 (-6)
+- Hydromancer XP to 80 (-5)
+- Hydromonger XP to 120 (-20)
+- Bishop XP to 70 (-10)
+
+
+EOS - Eventide
+- Madcap blade res to -20% (+10%) , impact res to -10% (+10%)
+- Arcane Archer HP to 47 (+2) , pierce ranged damage to 8-4 (+1)
+- Mariner HP to 51 (+4)
+- Navigator swamp & swallow-water defense to 50% (+10%) , deep-water movement cost to 1 (-1) , fire res to 10% (+10%)
+- Alchemist HP to 44 (+2)
+- Lineman HP to 51 (+2)
+
+
+EOS - Free Saurians
+- Warchief AMLA XP to 126 (-8)
+- Gladiator XP to 38 (-2)
+- Duelist blade res to 0% (+10%) , XP to 74 (-6)
+- Champion HP to 53 (+3)
+- Healer Movement to 6 (+1)
+- Holy Movement to 6 (+1)
+- Mystic HP to 45 (+1) , movement to 6 (+1)
+- Knife Thrower XP to 42 (-3)
+- Skulker XP to 60 (-10)
+- Lizard Master flat defense to 40% (+10%)
+This unit is weird , in lv1 is tanky lv1 scout, but in lv2 it gains x2 damage and very few HP's becoming the opposite lol.
+
+
+EOS - Minotaurs 
+- minotaurfoot swamp & swallow water movement cost to 2 (-1) , sand movement cost to 1 (-1)
+- minotaurfoot arcane res to -10% (+10%)
+- minotaurmount frozen defense to 40% (+10%) -as much as in flat- , arcane res to -10% (+10%)
+- Boar Knight XP to 85 (-5)
+- Cuttroat and all Advanacement will now have +First-strike in melee.
+- Cuttroat movement to 5 (+1) , XP to 44 (-1) 
+- Slayer movement to 5 (+1)
+- Executioner movement to 5 (+1) ,  melee will now have +parry(+5)
+- Gore HP to 39 (+2) , price to 16g (-1g
+- Rouser HP to 56 (+4) , price to 28g (-3g)
+- Overlord HP to 72 (+12) , melee damage to 12-4 (+1) , AMLA XP to 134 (-16)
+- Savage HP to 60 (+6) , impact res to 20% (+20%)
+- Mystic HP to 54 (-4)
+- Warlock HP to 55 (+2) , XP to 90 (-10)
+- Elder fire damage increase to 13-3 (+1)
+
+- Keeneye melee damage to 9-2 (+1)
+- Sharpeye melee damage to 9-3 (+1) , AMLA XP to 134 (-16)
+
+
+EOS - Triththa
+- Runefighter HP to 51 (+3)
+- Runewarrior HP to 65 (+2)
+- Armorer HP to 51 (+3)
+
+
+(UNRECRUITABLE) EOC - Summoners
+Even if this faction is at this momment un-pickable, I want to open it once again as a playable faction.
+- Initiate XP to 44 (-6) , price to 18g (-1g)
+- Summoner of Earth HP to 45 (+3) , impact ranged damage increase to 16-2 (+2) , impact res to 10% (+10%) , XP to 85 (-15), price to 35g (-5g)
+  - Cave movement cost to 1 (-1) , hills movement cost to 1 (-1)
+- Master of Earth HP to 55 (+5) , impact melee damage to 12-2 (+1) , impact ranged damage to 22-2 (+2) and accuracy upgraded to +Skilled , AMLA XP to 134 (-16)
+  - Cave defense to 50% (+10%) , hills defense to 60% (+10%) , mountains defense to 70% (+10%)
+- Fire Summoner sand movement cost to 1 (-1) , XP to 82 (-18) , price to 34g (-4g)
+- Master of Fire fire ranged damage to 11-4 (+1) and accuracy upgraded to +Very-Skilled , NEW ATTACK: Staff 8-2 fire melee , AMLA XP to 134 (-16)
+- Summoner of Water movement to 6 (+1) , swamp/swallow/frozen movement costs to 2 (-1) , deep water movement cost to 3 (20% defense) 
+  - impact ranged damage to 12-2 (+1) , XP to 82 (-18) , price to 30g (-4g)
+- Master of Water movement to 6 (+1) , swamp/swallow/frozen movement costs to 1 (-2) (all to 40%) , deep water movement cost to 2 (30% defense)
+  - Impact ranged damage increase to 12-3 (+3) and accuracy upgraded to +Skilled, fire res to 10% (+10%) , AMLA XP to 134 (-16) , price to 54g (-1g)
+- Summoner of Air Movement to 6 (+1) , flat defense is now 50% , XP to 85 (-15) , price to 32g (-6g)
+- Master of Air Movement to 7 (+1) , flat defense is now 50% , sand/frozen defense to 50% (from lower) , pierce res to 20% (+20%) , mountains def to 70% (+10%)
+  - swallow/swamp water defenses to 40% (+20%) , cold ranged accuracy upgraded to +Very-Skilled , AMLA XP to 134 (-16)
+  
+  
+AE - Deep Elves
+Bigger plans will include this faction in 4.34 , for now, minor early game performance buffs.
+- Blood Maiden XP to 38 (-2)
+- Nightmaiden XP to 42 (-3)
+- Lidh XP to 39 (-3)
+- Elthare will now have +Aimed in ranged.
+- Priestess XP to 39 (-3)
+- Matriarch HP to 39 (+1) , melee damage to 8-2 (+1)
+- Nightmaiden now has +Nocturnal-Regen(+3)
+- Baroness-of-night now has +Nocturnal-Regenn(+5)
+
+  
+ARCHAIC - Northern Orcs
+- Faction can now recruit Storks (once again)
+- Stork Rider race changed to goblin (they will now gain ONE negative trait)
+This is pretty needed to diferenciate more from wolf riders.
+- Rat riders are now AE_arc_race_north_orc instead of wolf
+
+- Stork Riders HP to 36 (+4) , melee damage to 6-3 (+1) , flat defense to 40% (+10%) , mountains movement cost to 4 (-1) , XP to 28 (-2) 
+- Stork Master HP to 53 (+9) , melee damage increase to 9-3 (+1) , flat defense to 40% (+10%) , mountains movement cost to 4 (-1)
+- Vagrant price to 25g (-3g)
+- Traveler is now 50% flat defense
+
+- In Era of Heroes they can no longer recruit default orcs
+- In Era of Heroes they can no longer use default orcs as leaders
+- In Era of Heroes they can now correctly recruit ARCHAIC - Northern Orcs correctly
+
+
+ARCHAIC - Phantom
+- Mummy Unbound XP to 48 (-3)
+- Mummy Noble HP to 47 (+3) , Noble XP to 90 (-10)
+- Mummy King HP to 57 (+2), price to 63g (+1g)
+- Mummy Pharo now has +Delliminates instead of Delliminates(10%) , XP to 150 (+10)
+- Wing Dancer XP to 70 (-10)
