@@ -6,8 +6,13 @@ from collectRashyUnitIdReplacements import get_unit_type_mapping
 replacements = [
 	('{~add-ons/Rashy_Era/','{~ERROR_RE_ABSOLUTE_PATH/'),
 
-	("VRAq Warrior", "VRAq Warrior_Swordsman"),
-	("VRAqM Warrior", "VRAqM Warrior_Merman"),
+	("VRAq Warrior_Swordman", "AE_rhy_aq_Warrior_Swordsman"),
+	(",VRAq Warrior,", ",AE_rhy_aq_Warrior_Swordsman,"),
+	("units/undead/ghost", "units/{GHOST_IMAGE_FOLDER}/ghost"),
+	("units/undead/nightgaunt", "units/{GHOST_IMAGE_FOLDER}/nightgaunt"),
+	("units/undead/shadow", "units/{GHOST_IMAGE_FOLDER}/shadow"),
+	("units/undead/spectre", "units/{GHOST_IMAGE_FOLDER}/spectre"),
+	("units/undead/wraith", "units/{GHOST_IMAGE_FOLDER}/wraith"),
 	("VR_", "AE_RHY_"),
 	("vr-", "AE_rhy_"),
 
