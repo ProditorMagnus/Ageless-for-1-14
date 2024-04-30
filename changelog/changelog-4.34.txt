@@ -270,3 +270,127 @@ Not a weak lv4
 - Thane AMLA XP to 126 (+6)
 
 
+EOC - Aragwaithi
+- Slayer Price to 60g (+7g)
+- Greatbow Price to 57g (+5g)
+- Silver Shield price to 60g (+10g)
+- Pikeman HP to 53 (+3) , XP to 67 (-3)
+- Guardian HP to 70 (+3)
+- Captain price to 57g (+5g)
+
+- Swordman XP to 42 (+3)
+- Guard arcane res to 10% (-5%) -to keep 20% on defense- , price to 35g (+4g)
+- Shield Guard arcane res to 15% (-5%) , Price to 66g (+11g)
+- Long Swordsman price to 35g (+5g)
+- Sword Master price to 65g (+10g)
+- Witch XP to 48 (-2)
+
+
+EOC - Chaos
+- Chaos Marksman now has +Aimed in ranged, price to 29g (+2g)
+This is to help chaos have a better physical ranged damage output. 
+- Chaos Sharpshooter HP to 70 (+1) , price to 62g (+8g)
+- Doom Guard price to 36g (+5g)
+- Hell Guard HP to 68 (+2) , price to 63g (+8g)
+- Chaos Knight secondary attack (15-2) damage type changed from pierce to blade , price to 27g (-5g)
+- Chaos Razerman secondary attack (23-2) damage type changed from pierce to blade , price to 51g (-1g)
+- Chaos Marauder price to 25g (-1g)
+
+
+- Demon Grunt HP to 45 (+3) , XP to 82 (+7) , price to 32g (+4g)
+- Demon Warrior HP to 58 (+2) , price to 63g (+7g)
+- Lumeril Guard Price to 62g (+7g)
+- Demon Zephyr price to 32g (+6g)
+- Demon Stormtide HP to 53 (+2) , price to 60g (+6g)
+- Demon Smashing Gale HP to 55 (-1) , movement to 6 (-1) , arcane res to -20% (-10%) , price to 64g (+6g)
+- Demoness Spelldancer price to 57g (+5g)
+
+- Blood Imp price to 30g (+4g)
+- Gutwrencher price to 64g (+12g)
+- Armaggedon Imp price to 133g (+23g)
+
+
+EOC - Sylvans 
+- Acolyte HP to 26 (-2) , XP to 48 (+3) , Forest defense to 60% (-10%) , price to 21g (+4g) 
+- Ascetic Forest defense to 60% (-10%)
+- Mystic Forest defense to 60% (-10%)
+Nerf does not come to lv4 Avatar.
+Considering that default's rebels been buffed, this nerf will maintain Sylvans fair.
+
+
+EOC - Wild Humans
+- Dark Rider XP to 90 (-5) , Price to 42g (+7g)
+- Dread Knight HP to 75 (+3) , lance damage to 14-2 (+2) , price to 66g (+16g)
+- Knight movement to 9 (+1) , price to 47g (+12g)
+- Smasher price to 26g (-8g)
+- Noble price to 31g (-5g)
+
+
+EE - Chaos
+Just some AoH price rebalances.
+- Dark Knight price to 28g (+1g)
+- Blood Knight price to 57g (+3g)
+- Overlord price to 84g (+4g)
+- Doom Guard arcane res to 15% (-5%) , price to 35g (-5g)
+- Hell Guardian HP to 64 (+1) , price to 60g (+5g)
+- Magus price to 38g (-2g)
+- Demologist price to 65g (+2g)
+
+- Demonfoot arcane resistance to -20% (+10%)
+This includes lv1 to lv3 daemons.
+- Demonfly arcane resistnce to -30% (+10%)
+- Chaos Daemon price to 31g (+1g)
+- Greater Daemon price to 64g (+4g)
+- Abobination price to 55g (+5g)
+
+- Flesh Hound price to 42g (+4g)
+- Warp Hound price to 55g (-2g)
+
+
+EE - Dark elves
+- Warrior price to 31g (+3g)
+- Corsair price to 63g (+8g)
+- Captain price to 31g (-2g)
+- Marshall price to 63g (+6g)
+- Sorceress price to 35g (+2g)
+- Cleric price to 62g (+2g)
+- Stalker price to 56g (+3g)
+- Lord Price to 31g (-1g)
+- High Lord price to 60g (+4g)
+
+- Ice Wyrm XP to 45 (+4)
+- Frost Wyrm XP to 92 (+6), arcane res to 10% (+5%) , price to 42g (+5g)
+- Rime Wyrm price to 67g (+10g)
+- Mystral Wyrm XP to 90 (+6) , arcane res to 10% (+5%) , price to 40g (+5g)
+- Boreal Wyrm price to 65g (+5g)
+
+
+EE - Dwarves
+- Runesmith XP to 88 (-12) , price to 40g (-4g)
+- Runemaster XP to 165 (-35) , price to 65g (+15g)
+- Arcanister price to 82g (+32g)
+- Flamethorower price to 31g (-4g)
+
+
+EE - Monsters
+- Bigfoot price to 29g (-3g)
+- Yeti price to 64g (+6g)
+- Giant Yeti price to 105g (+8g)
+- Elder Gryphon price to 63g (+3g)
+- Undead Dragon price to 66g (+6g)
+- Skeletal Dragon AMLA XP to 225 (-25) , price to 100g (+10g)
+- Sea Serpent price to 57g (+7g)
+- Fire Guardian XP to 74 (-6)
+- Fire Warrior Spirit price to 56g (+4g)
+
+EE - Nagas
+- Depthprowler XP to 60 (-21)
+- Naga Warden XP to 63 (-7)
+
+
+EE - Northerners
+- Goblin Lancer XP to 80 (-5) , price to 38g (+3g)
+- Hellwolf rider price to 64g (+4g)
+- Orcish Shaman XP to 36 (+3)
+- Orcish Elder XP to 77 (-14)
+- Council Member rice to 55g (+7g)
