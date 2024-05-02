@@ -394,3 +394,155 @@ EE - Northerners
 - Orcish Shaman XP to 36 (+3)
 - Orcish Elder XP to 77 (-14)
 - Council Member rice to 55g (+7g)
+
+
+ELE - Horned Skeletons 
+- All skeletons (except creeps) fire resistance to -10% (+10%)
+Horned skeletons are naturally weaker to arcane, but less weak to fire.
+- Fixed Riders resistances (now working as expected) , decreased fire weakness by 10% (to -10%), arcane wekaness by 20% (to -30%)
+- Horse Fighter HP to 48 (+3) , XP to 75 (-15)
+- Horse Knight HP to 63 (+3)
+- Guard cold res to 50% (+10%) , arcane res to -35% (+5%)
+- Fortress HP to 70 (+2), cold res to 50% (+20%) , price to 60g (+6g)
+- Frontliner HP to 47 (+1) , XP to 65 (-5), price to 28g (-7g)
+- Banner Bone HP to 57 (+2) , sword attack now has parry 5%.
+- Sorceress XP to 84 (+4) , price to 38g (+2g)
+- Maistresse HP to 58 (+2) , price to 67g (+7g)
+- Lich Underlord XP to 84 (+4) , price to 38g (+2g)
+- Lich Tyrant HP to 54 (+2) , price to 64g (+9g)
+- Lich Lord price to 38g (+2g)
+- Lich King price to 65g (+10g)
+- Lich Overlord price to 93g (+21g)
+
+- Corpse Fighter impact melee damage go 5-2 (+1) , price to 16g (-1g)
+- Corpse Amputator XP to 77 (-3)
+- Corpse Eliminator movement to 6 (+1) , All impact damage increases by 1 , price to 60g (+6g)
+- Corpse Archer price to 16g (+1g)
+- Corpse Bone Shooter price to 28g (-2g)
+- Corpse Head Hunter price to 54g (+3g)
+
+
+ELE - Vikings
+- Snikskytter price to 35g (+3g)
+- Ster XP to 72 (-13)
+- Jgerfly pierce res to 0% (+10%) , price to 60g (+10g)
+- Jarl price to 66g (+5g)
+- High King price to 93g (+9g)
+- Hersir price to 63g (+6g)
+
+
+ELE - Fallen
+- Non mounted fallen arcane res to -20% (+10%)
+- Knight price to 45g (+5g)
+- Lord price to 66g (+8g)
+- Scorch King price to 65g (+7g)
+- Decapitator HP to 63 (+3) , price to 60g (+6g)
+- Purgator price to 60g (+5g)
+- Tamer XP to 75 (-5)
+- Fallen Beast HP to 67 (+3) , price to 63g (+10g)
+- Shieldmaster price to 60g (+5g)
+- Fallen Master price to 66g (+6g)
+- Overlord XP to 175 (-15) , price to 90g (+10g)
+- Supreme Lord price to 137g (+12g)
+- Dragon Rider price to 87g (+12g)
+
+
+EOM - Celestials 
+- Divine Knight price to 30g (-2g)
+- Divine Champion can now cure poison, price to 62g (+7g)
+- Protector price to 32g (+3g)
+- Holy sentinel fire damage increase by +1 , price to 65g (+8g)
+- Mystic HP to 42 (+4)
+- Prophet HP to 50 (+2) , arcane res to 40% (+10%)
+- Great Wizard HP to 44 (+2)
+- Sage HP to 54 (+4)
+- Keeper price to 26g (-2g)
+- Sentinel Arcane res to 20% (+10%)
+- Militant price to 21g (-2g)
+- Sicarius HP to 60 (+2) , price to 42g (-6g)
+
+
+EOM - Devlings
+- Flyers price to 32g (+2g)
+- Attackers price to 55g (+2g)
+- Hero price to 55g (+12g)
+
+
+EOM - Warg
+- Flame Sprite HP to 36 (+1)
+- Flame Spirit HP to 51 (+4) , price to 58g (+2g)
+- Changeling price to 23g (-2g)
+- Wolfling price to 48g (-3g)
+- Warrior Warg HP to 55 (+3)
+- Moon Blade HP to 69 (+4)
+- Pack Leader price to 64g (+4g)
+
+
+EOM - Therians
+- Mage price to 35g (-3g)
+- Master price to 57g (+3g)
+- Shaman price to 31g (-3g)
+- Priest HP to 48 (+5)
+- Tiger price to 63g (+9g)
+- Panther price to 62g (+8g)
+- Tracker price to 21g (-1g)
+- Ranger price to 44g (-5g)
+- Aura Master HP to 57 (+2)
+- Defender HP to 52 (+2) , price to 22g (-3g)
+
+
+FL - Altaris
+- Primeval Warrior fire/cold res to 20% (+5%) , now has +Magic-dodge(offensive) on melee.
+- Ancient Warrior now has +Magic-counter on melee, decreasing cth on enemy melee to 50% in both defense and offense.
+- Illusionist XP to 70 (-5) , price to 28g (-4g)
+- Stone Warrior fire/cold res to 10% (+10%)
+- Cerberus fire/col res to 15% (+5%), price to 63g (+6g)
+With this list of changes, I expect Altaris do particularly better againist magic.
+
+
+FL - Amazons 
+They have so nice cost efficiency and lots of slowers, for some reason they only got nerfs except for creepers...
+- Creeper will now have +Swallow+3 in melee
+- Giant Creeper will now have +Swllow+3 in melee , price to 34g (+2g)
+- Huntswoman price to 30g (+2g)
+- Bow Mistress price to 56g (+3g)
+- Murderess price to 30g (+2g)
+- Great Murderess price to 55g (+3g)
+- Forest Dryad price to 34g (+2g)
+- Dark Harpy price to 32g (+3g)
+- Harpy Glidder price to 36g (+6g)
+- Amazon price to 25g (-1g)
+- Spear Mistress is now 50% on flat.
+- Tiger Rideress XP to 48 (+4) , price to 21g (+1g)
+- Tiger Mistress price to 52g (+13g)
+
+
+FL - Blood Elves
+Theorically they look good, no buff needed?
+- Dark Marksman price to 30g (+4g)
+- Dark Warrior price to 32g (+2g)
+- Grand Warrior price to 64g (+8g)
+- Elite Warrior price to 100g (+15g)
+- Fire Warrior price to 64g (+5g)
+- Blood Warrior price to 63g (+6g)
+
+
+FL - Natives
+- Barbarian price to 31g (+3g)
+- Great Barbarian price to 63g (+6g)
+- Skull Breker price to 58g (+4g)
+- Great Seeker price to 56g (+3g)
+- Druid price to 30g (-2g)
+- High Druid price to 63g (+6g)
+- Warlock price to 60g (+6g)
+
+
+FL - Pirates
+- Novice Enchanter melee damage to 5-2 (-1)
+- Master of Enchanting heal value increase to +6
+- Pirate price to 30g (+2g)
+- Seawolf price to 62g (+7g) , renamed special on ranged to +Aimed (it does the same)
+- Spear Thrower XP to 40 (+4)
+- Fishman Fighter price to 31g (+3g)
+- Fishman defender price to 32g (+2g)
+- Sea Dragon price to 67g (+3g)
