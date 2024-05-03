@@ -546,3 +546,90 @@ FL - Pirates
 - Fishman Fighter price to 31g (+3g)
 - Fishman defender price to 32g (+2g)
 - Sea Dragon price to 67g (+3g)
+
+
+ME - Avians
+- medwing and largewings deep water movement cost to 2 (+1)
+I see nothing wrong or too weak in avians.
+
+
+ME - Emperor's Guard
+- Yumi melee damage adjusted from 5-2 to 4-3
+- Kyu price to 27g (+1g)
+- Elite Kyu price to 60g (+7g)
+- Monofu price to 32g (+2g)
+- Tsuwamono price to 65g (+9g)
+- Demonic Samurai price to 65g (+7g)
+- Bushi price to 34g (+3g)
+- Tatsu price to 36g (+2g)
+- Ryong price to 65g (+8g)
+- Kyushuryu price to 62g (+7g)
+- Musha XP to 74 (-3) , price to 30g (+3g)
+- Black Belt price to 62g (+7g)
+- Shogun price to 68g (+8g)
+
+ME - Enchanters
+- Titan now gains 15% res on secret, damage to 24-1 (+2)
+- Rune elementalist XP to 94 (-6) , price to 38g (+2g)
+- Incinerator price to 60g (+6g)
+- Crystalbow price to 60g (+6g)
+- Featherlite gains +Magic-counter in melee , price to 34g (+4g)
+- Arsenal price to 33g (+3g)
+- Stockpiler price to 65g (+11g)
+
+
+ME - Holy Order
+- Crusader XP to 75 (+5) , price to 26g (+2g)
+- Paladin HP to 72 (+2) , price to 64g (+7g)
+- Mage fire damage to 15-2 (+1)
+- Ballast fire damage to 20-2 (+1)
+- Demonslayer all ranged damage increase by +1 , XP to 80 (+8)
+- Purifier all ranged damage increase by +1 , price to 64g (+8g)
+He's now more expensive in XP but also stronger, so people might consider him as a valuably good archer.
+
+
+ME - Mercenaries
+- Neglet mage XP to 55 (-5)
+- Isolated mage XP to 95 (-5) , price to 39g (-1g)
+- Black mage price to 64g (+4g)
+- Warrior Mage XP to 100 (-8)
+- Battlemage price to 67g (+18g)
+- Bouncer price to 30g (+4g)
+- Guard XP to 85 (+5)
+- Protector price to 65g (+13g)
+- Mankiller price to 29g (+3g)
+- Slayer price to 62g (+12g)
+- Soldier-of-fortune price to 66g (+11g)
+- Man-at-arms price to 65g (+10g)
+- Pirate price to 29g (+1g)
+- Corsair price to 63g (+10g)
+- Pirate captain price to 64g (+7g)
+- Seafare price to 31g (+3g)
+- Mariner HP to 63 (+3) , price to 63g (+9g)
+- Collector price to 53g (+3g)
+- Sniper price to 54g (+4) -because of nighstalk-
+
+
+ME - Oracles
+- Evileye cold damage to 8-3 (-1) , increased accuracy by 5% on both ranged attacks, removed parry on cold attack.
+- Enlightened HP to 67 (+2) , now has +Magic-counter in melee (in order to decrease his mediocrity)
+- Occultist price to 31g (-2g)
+- Alchemist price to 65g (+7g)
+
+
+ME - Slavers
+Buffs in combination of price fairness...
+- Dancer XP to 46 (-4)
+- Harlot price to 19g (+3g)
+- Prodder XP to 38 (-2)
+- Provoker price to 21g (-1g)
+- Miner XP to 77 (-3) , price to 29g (+2g)
+- Stone Shatterer price to 59g (+4g)
+- Serf XP to 37 (-3) , price to 13g (-1g)
+- Farmhand XP to 67 (-5) , price to 22g (-2g)
+- Freedman HP to 65 (+5)
+- Overseer price to 34g (+4g)
+- Slavemaster price to 67g (+10g)
+- Punisher price to 38g (+4g)
+- Subjugator price to 38g (+4g)
+- Stalker price to 66g (+11g)
