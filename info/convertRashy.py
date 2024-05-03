@@ -13,6 +13,11 @@ replacements = [
 	("units/undead/shadow", "units/{GHOST_IMAGE_FOLDER}/shadow"),
 	("units/undead/spectre", "units/{GHOST_IMAGE_FOLDER}/spectre"),
 	("units/undead/wraith", "units/{GHOST_IMAGE_FOLDER}/wraith"),
+	("units/undead-spirit/ghost", "units/{GHOST_IMAGE_FOLDER}/ghost"),
+	("units/undead-spirit/nightgaunt", "units/{GHOST_IMAGE_FOLDER}/nightgaunt"),
+	("units/undead-spirit/shadow", "units/{GHOST_IMAGE_FOLDER}/shadow"),
+	("units/undead-spirit/spectre", "units/{GHOST_IMAGE_FOLDER}/spectre"),
+	("units/undead-spirit/wraith", "units/{GHOST_IMAGE_FOLDER}/wraith"),
 	("VR_", "AE_RHY_"),
 	("vr-", "AE_rhy_"),
 
