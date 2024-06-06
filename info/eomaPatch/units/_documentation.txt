@@ -1,0 +1,19 @@
+Create file with name unit_id.cfg, for example AE_mag_Black_Portal.cfg
+
+Replacements that are supported:
+
+hitpoints=1
+experience=2
+cost=3
+[attack]
+    name=dark ball
+    damage=6
+    number=4
+[/attack]
+[attack]
+    name=aura
+    damage=7
+    number=8
+[/attack]
+
+In [attack], name= has to be first

@@ -75,6 +75,85 @@ replacements = [
 	("__DUMMY__","__DUMMY__")
 ]
 
+def parseChangesRequired(path):
+	changesRequired = []
+	with open(path) as f:
+		attackOpen = False
+		attackName = None
+		for line in f:
+			line = line.strip()
+			if attackOpen:
+				if line.startswith("name="):
+					attackName = line.split("=")[1]
+				if line.startswith("damage="):
+					changesRequired.append(("attackDamage¤" + attackName, line.split("=")[1]))
+				if line.startswith("number="):
+					changesRequired.append(("attackNumber¤" + attackName, line.split("=")[1]))
+				elif line.startswith("[/attack]"):
+					attackOpen = False
+					attackName = None
+			else:
+				if line.startswith("hitpoints="):
+					changesRequired.append(("hitpoints", line.split("=")[1]))
+				elif line.startswith("experience="):
+					changesRequired.append(("experience", line.split("=")[1]))
+				elif line.startswith("cost="):
+					changesRequired.append(("cost", line.split("=")[1]))
+				elif line.startswith("[attack]"):
+					attackOpen = True
+	if changesRequired != []:
+		print("changes", changesRequired)
+	return changesRequired
+
+def patchUnits(s):
+	output = []
+	if "[unit_type]" in s:
+		path = []
+		changesRequired = []
+		attackName = None
+		for origLine in s.split("\n"):
+			output.append(origLine)
+			line: str = origLine.strip()
+			if line.startswith("[/") and "]" in line:
+				path.pop()
+			if line.startswith("[") and "]" in line and "[/" not in line:
+				path.append(line[1:line.find("]")])
+			if path == ["unit_type"]:
+				if line.startswith("id="):
+					id = line.strip("id=")
+					if os.path.exists(os.path.join("..","Ageless_Era","info","eomaPatch", "units",id+".cfg")):
+						changesRequired = parseChangesRequired(os.path.join("..","Ageless_Era","info","eomaPatch", "units",id+".cfg"))
+					else:
+						return s
+				elif line.startswith("hitpoints="):
+					for change in changesRequired:
+						if change[0] == "hitpoints":
+							output[-1] = "    hitpoints=" + change[1]
+				elif line.startswith("experience="):
+					for change in changesRequired:
+						if change[0] == "experience":
+							output[-1] = "    experience=" + change[1]
+				elif line.startswith("cost="):
+					for change in changesRequired:
+						if change[0] == "cost":
+							output[-1] = "    cost=" + change[1]
+			elif path == ["unit_type", "attack"]:
+				if changesRequired == []:
+					return s
+				if line.startswith("name="):
+					attackName = line.split("=")[1]
+				elif line.startswith("damage="):
+					for change in changesRequired:
+						if change[0] == ("attackDamage¤" + attackName):
+							output[-1] = "        damage=" + change[1]
+				elif line.startswith("number="):
+					for change in changesRequired:
+						if change[0] == ("attackNumber¤" + attackName):
+							output[-1] = "        number=" + change[1]
+			else:
+				continue
+	return "\n".join(output)
+
 def getAgelessPath(dname, fname):
 	if "factions" in dname:
 		return os.path.join(".","Ageless_Era","factions","EoMa",fname)
@@ -114,6 +193,7 @@ for dname, dirs, files in os.walk("."):
 				eras["RPG"] += s
 				eras["RPG"] += "\n"
 		else:
+			s = patchUnits(s)
 			os.makedirs(os.path.dirname(afpath), exist_ok=True)
 			with open(afpath, "w", encoding="utf8") as f:
 				f.write(s)
