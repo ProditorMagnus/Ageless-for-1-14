@@ -1,0 +1,192 @@
+
+
+AE - GLOBAL MESSAGE
+LV2 NEW XP STANDARIZATIONS
+Same as of lv3 and lv4 having this tiers (126/134/150/166/175) for lv3 , (175/200/250) for lv2, there will be certain values for lv2.
+- Lv2 values might be (90/100/111) depending out of unit's potential in late/endgame based in their stats and special qualities.
+There will be exceptions.
+
+PENDING, NOTED CHANGES
+- Certain Free Saurian units adjusting manually to 10%
+- Review in 1.18 EFM factions to adjust/modify arcane ressistance if needed.
+- Adding the wanted AMLA for Altaris Scouts.
+- FEW new units in multiple factions
+  1) AE - Desert Elves - Desert Warrior & its Lv3 (same 9-4 blade melee but 20% on blade/impact & 10% on pierce) , very XP thristy for lv3
+  2) ARCHAIC - Menagerie - Technomancer (Lv3) (Mechanical melee fighter that becomes machine race, more melee, better physical res but big lose in ranged damage and dmg to arcane)
+  It will feature advantages like poison/plague inmunity and can be repaired by machinists.
+  3) ARCHAIC - Kthon - Argamarok (Lv3) (Planned to be a slower, less armored (but more HP) compared to Orthrus)
+  Will keep ranged slows but with -10% accuracy & higher base damage (it can slow in retaliation, but unit should not be used for that in offensive)
+  will probably have 50% marksman on melee.
+  4) AE - Deep Elves - Corrupted (Will feature melee/ranged secret attacks , odd ressistances and no stardust bonuses)
+  Deep Elves are actually blade/impact spam the most, few pierce is not enough, so they might need more attack types.
+  5) Wanting to add something else in SteelHive, but no concept yet.
+  
+
+
+ELE - Centaurs
+- Captain price to 62g (+7g)
+- Ranger price to 54g (+7g)
+- Priestess XP to 72 (-3) , price to 32g (-1g)
+- Arch Priestess price to 53g (+5g)
+- Warrior price to 31g (+4g)
+- Elite price to 63g (+8g)
+- Spear Fighter price to 28g (-1g)
+- Chaser price to 35g (+3g)
+- Guard price to 60g (+5g)
+- Retriever price to 66g (+8g)
+- Sentinel arcane melee damage to 14-2 (+1)
+- Divine arcane melee damage to 13-3 (+1) , price to 63g (+8g)
+- Guardian arcane melee damage to 18-2 (+1) , price to 62g (+7g)
+- Apprentice HP to 45 (+3) , price to 31g (-4g)
+- Enchantress HP to 54 (+3) , all ranged damages increases by +1 , price to 56g (+4g)
+- Javeliniere price to 31g (+2g)
+
+
+Feudal - Ceresian League 
+- Metropolitan all damages decrease by 1, now heals+10 , arcane res to 55% (+5%) , price to 83g (+11g)
+- Knight Raetian can now cure poison to allies, price to 53g (+3g)
+- Knight Errant price to 39g (+4g)
+- Knight Commander HP to 74 (+4) , price to 67g (+5g)
+- Squire HP to 35 (+1) , XP to 40 (+4)
+- Man-At-Arms HP to 51 (+3) , XP to 85 (+5) , price to 33g (+2g)
+- Champion HP to 68 (+3) , price to 63g (+8g)
+- Espadachino XP to 70 (-1) , price to 33g (+2g)
+- Rodelero HP to 62 (+2) , price to 63g (+11g)
+- Yeoman HP to 34 (+2)
+- Pikeman XP to 67 (-3)
+- Novice price to 16g (+1g)
+- Monk XP to 67 (-3)
+- Pellegrino HP to 52 (+4) , melee damage to 6-1 (-2) , price to 48g (+3g) 
+- Crossbowman price to 15g (+1g)
+- Arbalestier HP to 46 (+2)
+- Master Arbalestier ranged damage to 15-3 (+1) , price to 57g (+4g)
+Wanted that lv2 be bit more tanky, but lv3 be somewhat more glass cannon.
+- Mounted Crossbowman price to 33g (+3g)
+- Corporal price to 21g (+1g)
+
+
+Feudal - Clockwork dwarves
+- Golem price to 18g (+2g)
+- Automaton HP to 40 (+1) , price to 31g (+4g)
+- Armored Mechanic price to 55g (+2g)
+- Blazer price to 57g (+2g) , usage(AI) changed from healer to archer
+- Miasmist price to 31g (+3g)
+- Gas Baron HP to 66 (+6) , price to 60g (+5g)
+- General price to 64g (+4g)
+- Artillery HP to 63 (+2) , price to 57g (+2g)
+- Rambler XP to 88 (+8) , price to 37g (+5g)
+- Itinerant HP to 78 (+3) , price to 66g (+9g)
+
+
+Feudal - High Elves
+Arcane hits a lot stronger, high level shielders cannot be -20% on arcane because of the arcane rework...
+
+- All archers arcane resistance to 0% (+10%)
+- Gendarme HP to 66 (+3) , NEW ATTACK: 13-3 pierce melee (no charge) 
+It now has the option of attacking with same damage but no charge special, as the unit gains very low stats on advancement.
+- Cataphract impact res to 40% (+10%) , price to 72g (+2g)
+- Feyblade arcane res to 20% (+10%)
+- Sylvanus all magic resistances increases by 5%
+- Chevauleger HP to 58 (+3) , price to 62g (+9g)
+- Voltigeur HP to 57 (+2) , melee damage to 11-2 (+1) , AMLA XP to 134 (-16) , price to 58g (+4g)
+- Sylph melee special changed from enchanted to skilled , price to 73g (+6g)
+Lv4 dmg on a lv3...
+- Glavier HP to 60 (-2) , XP to 88 (+7) , shield has +1 dmg and 5% parry now , arcane res to -10% (+10%) , price to 35g (+4g)
+- Captain HP to 70 (+2) , shield has -2 dmg and 5% parry now , arcane res to -10% (+10%) , price to 65g (+8g)
+What is intende is that players if looking for dmg's maintain lv2 from XP mod, unless they cannot do that and use the unit for its leadership to lower level ones.
+The tankyness buff also helps kinda bit in late game in case there is no unit to apply leadership. 
+- Fouchardier HP to 68 (+3) , it now has +Magic-Counter in melee , price to 60g (+6g)
+- Shield Bearer XP to 73 (+5)
+- Aegis arcane res to -10% (+5%) , impact melee damage to 14-2 (+1) , price to 62g (+7g)
+
+
+Feudal - Orc Khaganate
+- Herder XP to 51 (+2) , rename pierce attack to "frostshards" (same with their level ups)
+- Outcast HP to 54 (+3)
+- Pariah HP to 67 (+4) , price to 50g (+4g)
+I would buff the impact attack ... but it could make it somewhat OP with strikes XP mod upgrade... from an attack it did not have...
+- Shieldbearer XP to 32 (+4)
+- Khan HP to 70 (+3) , price to 62 (+4g)
+- Bladesman price to 30g (+4g)
+- Massif price to 58g (+4g)
+- Spearman XP to 70 (-2) , price to 24g (-1g)
+
+
+MiE - Thelians
+- Blood Shaman HP to 43 (+2) , price to 30g (-1g)
+- Master of Curses HP to 55 (+3) , price to 58g (+6g)
+- Wolf Fanatic price to 31g (-2g)
+- Ninrod price to 55g (+5g)
+- Chieftain HP to 50 (+2) , price to 29g (+1g)
+- Brave Wolf HP to 64 (+2) , price to 60g (+4g)
+
+
+MiE - Vampires
+- Savant price to 32g (-1g)
+- Shadow Fighter price to 31g (+3g)
+- Night Warrior price to 60g (+8g)
+- Shadow Archer fix ranged attack from blade to pierce , price to 31g (+2g)
+- Night Angel price to 57g (+4g)
+- Wind Chaser HP to 45 (+2) , price to 32g (+2g)
+- Heaven Hunter HP to 57 (+3) , now gains +Magic-dodge special in pierce attack , price to 58g (+4g)
+
+- Bounty Hunter XP to 36 (-4)
+
+
+Mie - Sylvan Keepers
+- Dauntless price to 24g (-1g)
+- Vengeance now has +Feeding, price to 57g (+6g)
+- Sentry Bark price to 52g (+2g)
+
+- Faerie price to 34g (-2g)
+- Shadow Faerie HP to 43 (+3) , price to 35g (-2g)
+- Nightwood Faerie cold attack to 18-2 (+2)
+
+- Sylvan Guardian HP to 48 (+2) , price to 32g (+1g)
+- Sylvan God price to 68g (+6g)
+- Sylvan Wrath price to 54g (+2g)
+
+
+MiE - The Hoofs
+- Sharpshooter price to 58g (+3g)
+- Augur XP to 80 (-8) , price to 36g (-2g)
+- Oracle secret attack damage to 7-4 (-1) but accuracy increase by 10% 
+
+- Warlock price to 26g (-4g)
+- Elder price to 46g (-2g)
+- Dehorned Scoundrel HP to 60 (+2) 
+- Battler price to 26g (+2g)
+- Protector price to 52g (+4g)
+
+
+ME - Infernai 
+- Ifreet Sultan gains 10% accuracy in arcane attack
+It's a lot of XP for too low gain of stats... so the unit deserves it.
+
+- Horned one HP to 81 (+3) , BloodLust value to 4 (+1) , both melee now has -5% parry , AMLA XP to 134 (-16) , price to 64g (+7g)
+- Blood bather HP to 72 (+2) , price to 59g (+5g)
+- Devil XP to 127 (+7) , price to 67g (+5g)
+- Lucifer price to 111g (+21g)
+- Infernal Troglodyte HP to 72 (+2) , price to 56g (+2)
+
+- Pitlord price to 35g (+4g)
+- Pit Master impact melee damage to 9-4 (+1) , price to 66g (+11g)
+- Tormentor price to 40g (+2g)
+
+
+ME - Hive 
+- Fire Ant fire melee damage to 12-2 (+1) , ranged accuracy decrease by 10% , price to 35g (+5g)
+It might still poison very often when using ranged, but decreases the exploitable potential of XP mod on this unit as a lv2. 
+Planning to remove this nerf post AMLA and with +Corrode Special with something like "+10% accuracy and +Corrode on 'Acid Spray' attack"
+- Soldier Ant XP to 80 (+6) , price to 32g (+4g)
+- Bull Ant Sting damage to 19-2 (+1) , price to 65g (+11g)
+- Stag price to 33g (+2g)
+- Hercules price to 67g (+12g)
+- Hornet price to 65g (+8g)
+- Lantern Bug price to 33g (+3g)
+- Hopper XP to 51 (+8) , fire res to -15% (+5%)
+- Glider fire res to -20% (+10%) , price to 50g (+8g)
+- Mantis fire res to -15% (+5%) , now has +Ambush , now has parry +5% , price to 37g (+5g)
+- Skipper fire res to -15% (+5%) , price to 35g (+2g)
+- Termite Soldier AMLA XP to 111 (-9) , price to 34g (+3g) 
+Very high stats lv2
