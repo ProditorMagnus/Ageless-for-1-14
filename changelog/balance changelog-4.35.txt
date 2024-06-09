@@ -225,10 +225,62 @@ This attack gives stronger retaliation and better value if no backstab opportuni
 - Recruit XP to 35 (-4) , price to 14g (-1g)
 - Rebel HP to 55 (+1) , price to 23g (-1g)
 - Subverter HP to 72 (+2) , price to 55g (+1g)
-
-
 - Inhuman HP to 93 (+3) , claws damage to 27-2 (+2) ,  swamp defense to 60% (-10%) , price to 90g (+6g)
 - Sentry impact res to 0% (+5%) , fire res to 15% (+5%) , price to 32g (+2g)
 - Sewerslider HP to 50 (+2) , flat defense to 40% (+10%)
 - Slither HP to 62 (+6) , flat defense to 40% (+10%) , price to 54g (+8g)
 - Waylayer ranged now has +5% accuracy , price to 57g (+1g)
+
+
+EOS - Eltireans 
+- Whirpool Lord cold res to 30% (+10%) , impact attack now has 5% accuracy , frozen movement cost to 2 (-1) , AMLA XP to 175 (-25) , price to 91g (+9g)
+- Calmblade price to 26g (-2g)
+- Frostwalker HP to 67 (+3) , now has +Magic-counter in both melee , price to 51g (+3g)
+There been a common pattern that polearms more often gains +magic-counter bonus along all Ageless (EOMA - Temple guard is ALSO polearm unit)
+- Crusher price to 31g (+4g)
+- Patrol Captain price to 33g (+1g)
+- Sky Captain price to 64g (+4g)
+- Sky Lord price to 93g (+9g)
+- Knight-of-the-Sun price to 33g (+2g)
+- Guardian-of-the-Sun price to 63g (+9g)
+- Raging Mistress price to 56g (+3g)
+
+
+EOS - Eventide
+- Diu Bowmistress price to 32g (-2g)
+- Noct Guardian price to 54g (+6g)
+- Navigator frozen movement cost to 2 (-1)
+
+
+EOS - Free Saurians
+- Duelist XP to 69 (-5)
+- Champion now has +Magic-counter
+- Saurian Elementalist price to 38g (+3g)
+- Saurian Healer price to 30g (+2g)
+
+
+EOS - Minotaurs
+- Ancient Behemoth price to 37g (+2g)
+- Gore XP to 39 (-3)
+- Rouser HP to 57 (+1) , price to 30g (+2g)
+- Overlord price to 66g (+6g)
+- Slayer price to 34g (+2g)
+- Executioner HP to 69 (+3) , price to 66g (+8g)
+- Savag price to 33g (+2g)
+- Mystic price to 44g (+3g)
+- Warlock XP to 85 (-5) , price to 38g (-2g)
+- Mage Elder all ranged damages increases by +1
+
+
+EOS - Triththa
+- Rune Fighter fire/cold/arcane res to 20% (+10%) , price to 35g (+3g)
+- Rune Warrior HP to 67 (+2) , fire/cold/arcane res to 20% (+10%) , price to 67g (+7g)
+- HP to 45 (+2) , Ballista damage to 36-1 (-14) , both ranged attacks now have +Dread , fire res to -25% (+15%) 
+- Arbalester price to 63g (+9g)
+- Repeater price to 63g (+9g)
+- Plainsmaster fire res to -10% (+10%) , price to 34g (+2g)
+- Guard HP to 59 (+3) , price to 33g (+2g)
+- Defender fire/cold/arcane res to 10% (-20%) , All melee damages increase by +1 , ranged damage to 11-1 (+2) , price to 63g (+6)
+- Armorer fire res to 20% (+10%) , price to 36g (+2g)
+- Giant Squid price to 34g (+4g)
+- Kraken price to 72g (+12g)
