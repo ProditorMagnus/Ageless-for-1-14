@@ -8,7 +8,7 @@ end
 local abs=math.abs
 
 function wesnoth.wml_conditionals.AE_mag_is_unbalanced()
-	local id = (wesnoth.scenario.era or {id=""}).id
+	local id = tostring((wesnoth.scenario.era or {id=""}).id)
 	id = id:lower()
 	if id:find("unbalanced") then
 		return true
@@ -22,7 +22,7 @@ function wesnoth.wml_conditionals.AE_mag_not_unbalanced()
 end
 
 function wesnoth.wml_conditionals.AE_mag_is_masters()
-	local id = (wesnoth.scenario.era or {id=""}).id
+	local id = tostring((wesnoth.scenario.era or {id=""}).id)
 	id = id:lower()
 	if id:find("masters") then
 		return true
@@ -36,7 +36,7 @@ function wesnoth.wml_conditionals.AE_mag_not_masters()
 end
 
 function wesnoth.wml_conditionals.AE_is_rpg()
-	local id = (wesnoth.scenario.era or {id=""}).id
+	local id = tostring((wesnoth.scenario.era or {id=""}).id)
 	id = id:lower()
 	if id:find("rpg") then
 		return true
@@ -92,7 +92,7 @@ function wesnoth.wml_actions.AE_efm_add_hex(cfg)
 
 	local units = wesnoth.get_units(cfg)
 	for _,u in pairs(units) do
-		local def = wml.get_child(u.__cfg, "defense")
+		local def = wml.get_child(u.__cfg, "defense") or error("need-check-nil")
 
 		u:add_modification("object",{
 			id="AE_efm_hex_object",
@@ -181,7 +181,7 @@ function wesnoth.wml_actions.AE_efm_shift_unit(cfg)
 end
 
 function wesnoth.wml_actions.AE_mag_remove_array_duplicates(cfg)
-	local name = cfg.name
+	local name = tostring(cfg.name)
 	local attribute = cfg.attribute
 
 	local values = {}
@@ -239,6 +239,7 @@ function AE_mag_debug_validation(actual, expected, description)
 	-- extra validation/logging enabled if Era_of_Magic/modificationUnitTest.lua is loaded
 	if rawget(_G, "AE_mag_assert_equal") ~= nil then
 		-- intentially EoMa_ instead of AE_mag_
+		---@diagnostic disable-next-line: undefined-global
 		EoMa_assert_equal(actual, expected, description)
 	end
 end
@@ -260,8 +261,8 @@ function wesnoth.wml_actions.AE_give_fight_xp(cfg)
 		return xp_result
 	end
 
-	local attacker = wesnoth.units.get(wml.variables[attacker_variable..".id"])
-	local defender = wesnoth.units.get(wml.variables[defender_variable..".id"])
+	local attacker = wesnoth.units.get(tostring(wml.variables[attacker_variable..".id"]))
+	local defender = wesnoth.units.get(tostring(wml.variables[defender_variable..".id"]))
 
 	if cfg.attacker_xp ~= false and attacker ~= nil then
 		attacker.experience = attacker.experience + get_xp_to_give(defender_variable)

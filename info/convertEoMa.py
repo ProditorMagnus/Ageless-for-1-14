@@ -110,6 +110,7 @@ def patchUnits(s):
 	if "[unit_type]" in s:
 		path = []
 		changesRequired = []
+		# todo try warn when change is left unused
 		attackName = None
 		for origLine in s.split("\n"):
 			output.append(origLine)
@@ -152,7 +153,8 @@ def patchUnits(s):
 							output[-1] = "        number=" + change[1]
 			else:
 				continue
-	return "\n".join(output)
+		return "\n".join(output)
+	return s
 
 def getAgelessPath(dname, fname):
 	if "factions" in dname:
