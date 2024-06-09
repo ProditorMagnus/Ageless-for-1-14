@@ -43,7 +43,9 @@ ELE - Centaurs
 
 
 Feudal - Ceresian League 
-- Metropolitan all damages decrease by 1, now heals+10 , arcane res to 55% (+5%) , price to 83g (+11g)
+- Monsignor HP to 46 (+2)
+- Metropolitan HP to 63 (+8) , all damages decrease by 1, now heals+10 , arcane res to 55% (+5%) , price to 83g (+11g)
+
 - Knight Raetian can now cure poison to allies, price to 53g (+3g)
 - Knight Errant price to 39g (+4g)
 - Knight Commander HP to 74 (+4) , price to 67g (+5g)
@@ -190,3 +192,43 @@ Planning to remove this nerf post AMLA and with +Corrode Special with something 
 - Skipper fire res to -15% (+5%) , price to 35g (+2g)
 - Termite Soldier AMLA XP to 111 (-9) , price to 34g (+3g) 
 Very high stats lv2
+
+
+ME - Enchanters
+- Excalibur now has +Very-Skilled in melee instead of +Magical
+- Shifting sword price to 36g (+4g)
+- Arsenal XP to 90 (+18) , price to 35g (+2g)
+- Stockpiller HP to 75 (+7) , all melee damages decrease by 1 , AMLA XP to 134 (-16)
+- Fabricator price to 66g (+6g)
+- Sacrificer price to 35g (+2g)
+- Powermad price to 67g (+10g)
+- Apocalyptic price to 93g (+10g)
+- Devilhand price to 63g (+6g)
+- Sellsoul price to 63g (+3g)
+- Rune Purist HP to 51 (+3) , AMLA XP to 166 (+16)
+- Arcane rune Splicer AMLA XP to 150 (-16)
+- Rune mage fire ranged damage to 10-4 (+1) , price to 64g (+2g)
+- Rune Master HP to 70 (+2) , price to 93g (+13g)
+
+
+ME - Cult
+- Overt NEW ATTACK: 5-4 blade melee +5% accuracy
+This attack gives stronger retaliation and better value if no backstab opportunities.
+- Clanner NEW ATTACK: 6-5 blade melee +5% accuracy , ranged damage adjusted to 5-3 (from 6-2) , cold res to 10% (+10%) , price to 47g (-3g)
+- Covert NEW ATTACK: 11-2 blade melee +5% accuracy , pierce res to -20% (+10%) , HP to 42 (+4) , price to 34g (+2g)
+- Executioner NEW ATTACK: 15-2 blade melee +5% accuracy , blade/pierce res to -20% (+10%) , price to 50g (+6g)
+- Spy HP to 52 (+4) , pierce res to -20% (+10%) , 9-2 poison now has +5% accuracy and damage increase by +1 , price to 57g (+7g)
+- Banished price to 26g (-1g)
+- Lonewolf mountains movement cost to 2 (-1) , price to 32g (+2g)
+- Miscreation price to 26g (-2g)
+- Mounstrocity price to 52g (+4g)
+- Recruit XP to 35 (-4) , price to 14g (-1g)
+- Rebel HP to 55 (+1) , price to 23g (-1g)
+- Subverter HP to 72 (+2) , price to 55g (+1g)
+
+
+- Inhuman HP to 93 (+3) , claws damage to 27-2 (+2) ,  swamp defense to 60% (-10%) , price to 90g (+6g)
+- Sentry impact res to 0% (+5%) , fire res to 15% (+5%) , price to 32g (+2g)
+- Sewerslider HP to 50 (+2) , flat defense to 40% (+10%)
+- Slither HP to 62 (+6) , flat defense to 40% (+10%) , price to 54g (+8g)
+- Waylayer ranged now has +5% accuracy , price to 57g (+1g)
