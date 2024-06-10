@@ -284,3 +284,51 @@ EOS - Triththa
 - Armorer fire res to 20% (+10%) , price to 36g (+2g)
 - Giant Squid price to 34g (+4g)
 - Kraken price to 72g (+12g)
+
+
+Imperial Cavernei
+- Eagle rider XP to 48 (+6) , price to 25g (+2g)
+- Eagle Master price to 42g (+5g)
+- Steelclad XP to 85 (+9) , price to 38g (+2g)
+- Lord price to 70g (+7g)
+- Stalwart XP to 73 (-5) , price to 32g (+2g)
+- Sentinel price to 61g (+7g)
+- Thunderguard HP to 49 (+2) , XP to 63 (-7) 
+- Dragon Guard HP to 67 (+4) , price to 60g (+3g)
+- Runemaster HP to 72 (+2) , AMLA XP to 134 (+34) , price to 55g (+5g)
+
+
+Imperial - Issaelf
+- Gerus price to 32g (+3g)
+- Borealis price to 56g (+4g)
+- Mountaineer price to 33g (+2g)
+- Apine Ranger price to 62g (+4g)
+- Glavier price to 30g (+4g)
+- Glavie Master price to 59g (+5g)
+- Ice Roamer price to 31g (+4g)
+- Mistral Glacialist price to 40g (+3g)
+
+
+Imperial - Lavignian Legion
+- Rorarius price to 28g (+3g)
+- Velite price to 27g (+3g)
+- Funditor price to 26g (+2g)
+Will later rework this faction, but very likely drastic changes might come to them on 4.36.
+
+
+Imperial - Marauders
+- Seress price to 32g (+2g)
+- Galdra HP to 56 (+2) , price to 58g (+4g)
+- Shieldmaiden HP to 46 (+2) , arcane ranged damage to 8-3 (+1) , price to 32g (+2g)
+- Valkyrie arcane ranged damage to 10-3 (+1) , price to 63g (+10g)
+- Raider price to 34g (+5g)
+- Jarl price to 38g (+2g)
+- Lord price to 64 (+3) , impact res to 0% (+10%) , price to 67g (+6g)
+- Pillager fire res to 10% (+10%) , price to 33g (+4g)
+- Scorcher HP to 68 (+1) , fire melee damage to 17-2 (+1) , blade res to 20% (+10%) , fire res to 15% (+5%) , price to 63g (+10g)
+- Mauler price to 33g (+1g)
+- Mounted Axeman price to 44g (+5g)
+- Woodsman price to 54g (+2g)
+
+
+
