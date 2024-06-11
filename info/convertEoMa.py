@@ -99,6 +99,8 @@ def parseChangesRequired(path):
 					changesRequired.append(("experience", line.split("=")[1]))
 				elif line.startswith("cost="):
 					changesRequired.append(("cost", line.split("=")[1]))
+				elif line.startswith("movement="):
+					changesRequired.append(("movement", line.split("=")[1]))
 				elif line.startswith("[attack]"):
 					attackOpen = True
 	if changesRequired != []:
@@ -138,6 +140,10 @@ def patchUnits(s):
 					for change in changesRequired:
 						if change[0] == "cost":
 							output[-1] = "    cost=" + change[1]
+				elif line.startswith("movement="):
+					for change in changesRequired:
+						if change[0] == "movement":
+							output[-1] = "    movement=" + change[1]
 			elif path == ["unit_type", "attack"]:
 				if changesRequired == []:
 					return s
@@ -146,7 +152,11 @@ def patchUnits(s):
 				elif line.startswith("damage="):
 					for change in changesRequired:
 						if change[0] == ("attackDamage¤" + attackName):
-							output[-1] = "        damage=" + change[1]
+							if change[1].startswith("-"):
+								previousDamage= int(output[-1].split("=")[1].split("#")[0])
+								output[-1] = "        damage=" + str(int(change[1])+previousDamage)
+							else:
+								output[-1] = "        damage=" + change[1]
 				elif line.startswith("number="):
 					for change in changesRequired:
 						if change[0] == ("attackNumber¤" + attackName):
