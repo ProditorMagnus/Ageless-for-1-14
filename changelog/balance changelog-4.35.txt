@@ -1,15 +1,22 @@
 
 
 AE - GLOBAL MESSAGE
+
+PENDING, NOTED CHANGES
 LV2 NEW XP STANDARIZATIONS
 Same as of lv3 and lv4 having this tiers (126/134/150/166/175) for lv3 , (175/200/250) for lv2, there will be certain values for lv2.
 - Lv2 values might be (90/100/111) depending out of unit's potential in late/endgame based in their stats and special qualities.
 There will be exceptions.
 
-PENDING, NOTED CHANGES
 - Certain Free Saurian units adjusting manually to 10%
-- Review in 1.18 EFM factions to adjust/modify arcane ressistance if needed.
-- Adding the wanted AMLA for Altaris Scouts.
+- Adding the wanted AMLA for Altaris Scouts, ME Infernai, ME Cult.
+Infernai: No acces to physical ranged...
+Cult: No acces to mages
+
+PENDING UNITS FOR STANDARIZATIONS
+- Imperial Laviginians - More armored STATS rework (Very low HP , very weak to magic but insane OP againist phsycal)
+- Imperial Orc Minutu - More detailed review pending.
+
 - FEW new units in multiple factions
   1) AE - Desert Elves - Desert Warrior & its Lv3 (same 9-4 blade melee but 20% on blade/impact & 10% on pierce) , very XP thristy for lv3
   2) ARCHAIC - Menagerie - Technomancer (Lv3) (Mechanical melee fighter that becomes machine race, more melee, better physical res but big lose in ranged damage and dmg to arcane)
@@ -20,6 +27,21 @@ PENDING, NOTED CHANGES
   4) AE - Deep Elves - Corrupted (Will feature melee/ranged secret attacks , odd ressistances and no stardust bonuses)
   Deep Elves are actually blade/impact spam the most, few pierce is not enough, so they might need more attack types.
   5) Wanting to add something else in SteelHive, but no concept yet.
+  6) Free Saurians Spear Thrower in their advancement for a pierce hybrid fighter.
+  
+- NEW FACTIONS THAT WERE MISSING FROM SO LONG  
+  7) Creation of EE - Drakes (Only default faction missing in EE , appart of low quality rebels that got removed)
+  8) EOC - Summoners to reappear as a playable faction
+  
+4.36 Roadmap goals priority
+1.- Add EE - Drakes
+2.- Add EOC - Summoners
+3.- Attempt missing NEW PLANNED UNITS
+4.- Surprise NEW era porting to AE
+5.- Add Hejenvar's Quenoth Elves
+6.- Start working in Ageless Great Wars
+7.- Very likely to add a AE - Classic Era (A purely default-like factions only version of AE, expecting a more default friendly experience)
+This would include Rashy Era factions that are very similar (compatible) with default, and more default-like clones as Dark Legion.
   
 
 
@@ -329,6 +351,42 @@ Imperial - Marauders
 - Mauler price to 33g (+1g)
 - Mounted Axeman price to 44g (+5g)
 - Woodsman price to 54g (+2g)
+
+
+Imperial - Orcei Gladiatores
+Will look only at orcei magni, on next release will look at orc minuti.
+- Dimacherius price to 29g (+2g)
+- Murmillo price to 37g (+3g)
+- Murmillo Leonis price to 67g (+5g)
+- Provocator price to 34g (+4g)
+- Provocator Leonis price to 64g (+7g)
+- Paegniarius price to 24g (-2g)
+- Hoplomachus price to 27g (-1g)
+- Hoplomachus Fortis HP to 64 (+2)
+- Secutor price to 34g (+4g)
+- Thraex price to 30g (+4g)
+- Thraex_Paratus price to 52g (-3g)
+
+
+Imperial - Sidhe Elf
+- Warmage price to 33g (-5g)
+- Thunderblade price to 64g (+6g)
+- Dark Thunderblade price to 95g (+7g)
+- Windlasher price to 34g (-4g)
+- Tempest HP to 52 (+2)
+- Windrunner price to 51g (+5g)
+- Bladespinner price to 29g (+1g)
+- Wardancer price to 64g (+8g)
+- Warsinger price to 62g (+5g)
+- Snowdancer price to 26g (-1g)
+
+
+Archaic - Despair 
+Bandaid fixes for despair.
+- Black Horseman HP to 48 (+3) , XP to 80 (+5) , price to 42g (+2g)
+- Black Slayer HP to 60 (+4)) , price to 65g (+3g)
+- Soldier HP to 50 (+2)
+- Widdow-in-White XP to 80 (-2) , price to 34g (-2g)
 
 
 
