@@ -1,4 +1,4 @@
-max_line_length=140
+max_line_length=200
 -- show the warning/error codes as well
 codes=true
 -- skip showing files with no issues
@@ -11,5 +11,5 @@ globals={"wesnoth","wml","gui","filesystem","unit_test","stringx","mathx","ai"}
 -- allow_defined_top=true
 -- skip showing unused variables
 -- unused=false
--- skip showing warnings about shadowing upvalues
--- ignore={"431"}
+-- (W542) empty if branch
+ignore={"542"}

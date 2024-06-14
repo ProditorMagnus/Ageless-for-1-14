@@ -51,7 +51,7 @@ end
 
 function wesnoth.wml_conditionals.AE_is_observer()
 	local all_sides = wesnoth.get_sides()
-	for index, side in ipairs(all_sides) do
+	for _, side in ipairs(all_sides) do
 		if side.controller == "human" and side.is_local then
 			return false
 		end
@@ -129,7 +129,7 @@ end
 
 function wesnoth.wml_actions.AE_efm_remove_hex(cfg)
 	local units = wesnoth.get_units(cfg)
-	for i,u in ipairs(units) do
+	for _, u in ipairs(units) do
 		u:remove_modifications({id="AE_efm_hex_object"})
 		wesnoth.wml_actions.remove_unit_overlay{id=u.id, image="utils/curse.png"}
 		u.status.AE_efm_curse = false
@@ -167,7 +167,7 @@ function wesnoth.wml_actions.AE_efm_shift_unit(cfg)
 	end
 
 	local units = wesnoth.get_units(cfg)
-	for i,u in ipairs(units) do
+	for _, u in ipairs(units) do
 		u:remove_modifications({id="AE_efm_shift_object"})
 		local variation = get_variation(wesnoth.get_terrain(u.x, u.y))
 		u:add_modification("object",{
@@ -213,9 +213,7 @@ function wesnoth.wml_actions.AE_mag_trigger_pain_absorbation_aura_on_location(cf
 	local damaged_unit = wml.array_access.get("AE_mag_indirectly_damaged_unit")[#wml.array_access.get("AE_mag_indirectly_damaged_unit")]
 
 	if damaged_unit.x ~= cfg.x or damaged_unit.y ~= cfg.y then
-		AE_mag_debug_validation(damaged_unit.x, cfg.x, "AE_mag_trigger_pain_absorbation_aura_on_location should be triggered on most recently damaged unit, AE_mag_indirectly_damaged_unit x")
-		AE_mag_debug_validation(damaged_unit.y, cfg.y, "AE_mag_trigger_pain_absorbation_aura_on_location should be triggered on most recently damaged unit, AE_mag_indirectly_damaged_unit y")
-		return
+		wml.error("AE_mag_trigger_pain_absorbation_aura_on_location should be triggered on most recently damaged unit")
 	end
 
 	if not wml.get_child(damaged_unit, "status").undrainable then
@@ -235,30 +233,20 @@ function wesnoth.wml_actions.AE_mag_trigger_pain_absorbation_aura_on_location(cf
 	end
 end
 
-function AE_mag_debug_validation(actual, expected, description)
-	-- extra validation/logging enabled if Era_of_Magic/modificationUnitTest.lua is loaded
-	if rawget(_G, "AE_mag_assert_equal") ~= nil then
-		-- intentially EoMa_ instead of AE_mag_
-		---@diagnostic disable-next-line: undefined-global
-		EoMa_assert_equal(actual, expected, description)
-	end
-end
-
 function wesnoth.wml_actions.AE_give_fight_xp(cfg)
 	local attacker_variable = cfg.attacker or "unit"
 	local defender_variable = cfg.defender or "second_unit"
 
 	local get_xp_to_give = function(unit_variable)
-		local xp_result = 0
 		if wml.variables[unit_variable..".hitpoints"] <= 0 then
-			xp_result = wml.variables[unit_variable..".level"] * wesnoth.game_config.kill_experience
+			local xp_result = wml.variables[unit_variable..".level"] * wesnoth.game_config.kill_experience
 			if xp_result == 0 then
 				xp_result = wesnoth.game_config.kill_experience * 0.5
 			end
+			return xp_result
 		else
-			xp_result = wml.variables[unit_variable..".level"] * wesnoth.game_config.combat_experience
+			return wml.variables[unit_variable..".level"] * wesnoth.game_config.combat_experience
 		end
-		return xp_result
 	end
 
 	local attacker = wesnoth.units.get(tostring(wml.variables[attacker_variable..".id"]))
