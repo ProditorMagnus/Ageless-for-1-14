@@ -1,0 +1,9 @@
+Version 4.35:
+* Units and Factions
+    * Era of Magic update
+* Balance
+    * Focus on high level units price and balance. Detailed notes can be found from github - ProditorMagnus/Ageless-for-1-14
+    * There are now ageless-specific EoMa balance adjustments that are automatically applied during each EoMa update
+    * MiE vampirism now works on more units
+* Bug Fixes
+    * EoMa Battlemage cost
