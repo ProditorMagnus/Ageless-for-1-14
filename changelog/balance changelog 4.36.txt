@@ -1,0 +1,66 @@
+
+
+AE - GLOBAL MESSAGE
+LV2 NEW XP STANDARIZATIONS
+Same as of lv3 and lv4 having this tiers (126/134/150/166/175) for lv3 , (175/200/250) for lv2, there will be certain values for lv2.
+- Lv2 values might be (90/100/111) depending out of unit's potential in late/endgame based in their stats and special qualities.
+There will be exceptions.
+
+PENDING, NOTED CHANGES
+- Certain Free Saurian units adjusting manually to 10%
+- Review in 1.18 EFM factions to adjust/modify arcane ressistance if needed.
+- Adding the wanted AMLA for Altaris Scouts.
+- FEW new units in multiple factions
+  1) AE - Desert Elves - Desert Warrior & its Lv3 (same 9-4 blade melee but 20% on blade/impact & 10% on pierce) , very XP thristy for lv3
+  2) ARCHAIC - Menagerie - Technomancer (Lv3) (Mechanical melee fighter that becomes machine race, more melee, better physical res but big lose in ranged damage and dmg to arcane)
+  It will feature advantages like poison/plague inmunity and can be repaired by machinists.
+  3) ARCHAIC - Kthon - Argamarok (Lv3) (Planned to be a slower, less armored (but more HP) compared to Orthrus)
+  Will keep ranged slows but with -10% accuracy & higher base damage (it can slow in retaliation, but unit should not be used for that in offensive)
+  will probably have 50% marksman on melee.
+  4) AE - Deep Elves - Corrupted (Will feature melee/ranged secret attacks , odd ressistances and no stardust bonuses)
+  Deep Elves are actually blade/impact spam the most, few pierce is not enough, so they might need more attack types.
+  5) Wanting to add something else in SteelHive, but no concept yet.
+  
+
+
+ME - Infernai
+I promisssed some infernai buffs some releases ago (because not having physcial ranged) , here they are.
+
+- Lv1 to Lv3 Controled fire resistance from 0% to 30% (+30%)
+So they can be more dangerous on units that are meta Like Fire Avatar, Maras or Portals.
+- Horned One fire res to 70% (+10%)
+- Lucifer fire and cold resistances upgraded to 80% and -10% (+10% at both)
+- Cerberus fire res to 65% (+5%)
+
+
+Archaic - Despair 
+- Spear Soldier Impact/Cold res to 30% (+5%) , blade/pierce res to 20% (-5%)
+
+- Spear Officer 
+1) HP to 64 (+7) , pierce damage to 13-3 (+2) , blade melee damage to 12-3 (+3)
+2) Leadership adjusted to Rally
+3) Impact/Cold res to 30% (+5%) , blade/pierce res to 20% (-5%) 
+3) AMLA Melee damage increase now raises XP value to 15% instead of 20%
+
+- Lord Knight 
+1) HP to 60 (+2) , Blade melee adjusted from 9-4 to 7-6 , pierce adjusted from 8-3 to 9-4 , ranged damage to 5-3 (+1)
+2) no longer has skirmisher 
+3) Added 10% secret ressistance
+3) AMLA Melee damage increase now increases HP by 4 (instead of 2)
+4) AMLA ranged strikes increase now raises XP value to 15% instead of 20%
+
+- Widow in White and banshee arcane ranged attack now has +5% accuracy bonus
+- Dullohan fire res to 0% (+10%)
+
+
+Imperial - Lavinian Legion
+- Legionare javelin damage to 5-1 (+1)  but accuracy decreased by -5%  , cold res to -10% (+10%)
+- Propugnator javelin damage to 5-2 (+1) but accuracy decreased by -5% , cold res to -10% (+10%)
+- Praetorian Guard HP to 64 (+4) , javelin damage to 6-2 (+1) but accuracy decreased by -5% , cold res to -10% (+10%) , price to 60g (+20g)
+- Decurion / Centurion ranged accuracy decrease by -5%
+
+- Siege Archer HP to 45 (+3)
+- Saggitarius HP to 54 (+2) , movement to 5 (+1)
+- Archuballistarius damage to 24-2 (+1) , melee adjusted from 6-3 to 5-4
+ 
+
