@@ -64,3 +64,122 @@ Imperial - Lavinian Legion
 - Archuballistarius damage to 24-2 (+1) , melee adjusted from 6-3 to 5-4
  
 
+BEEM - Anakes
+- Fiendical foot cave movement cost to 2 (-1) , fire res to 20% (+10%)
+- Sniper and all advancement fire res to 20% (+10%) , cave defense to 40% (+10%)
+- Cursed and all advancement fire res to 20% (+10%) , cave defense to 40% (+10%)
+- Inittiates and all advancement fire res to 20% (+10%) , cave defense to 40% (+10%)
+- Heterodox and all advancement fire res to 10% (+10%)
+- Imps and all advancement cave moement cost to 2 (-1)
+
+
+ARCHAIC - Meganerie
+- Lunar Slime NEW ATTACK: 5-3 cold melee +poison
+- Little Tank arcane ranged damage to 16-2 (+1) , arcane res to -10% (+10%)
+- Lunar Frogman HP to 63 (+3) , pierce damage damge to 12-3 (+1) , sand defense to 40% (+10%) , price to 48g (+2g)
+- Lunar Exterminator 
+1) Arcane damage to 13-3 (+1) , cold damage to 11-3 (+2)
+2) Cold res to 30% (+10%) 
+3) Frozen defense to 40% (+20%) , it can now move in deep water (20% defense and 3 MP cost) , price to 54g (+4g)
+
+- Azure mage arcane res to 20% (+10%)
+- Blue Engineer HP to 65 (+2) , arcane res to 20% (+10%)
+
+
+ARCHAIC - South Seas
+- Albatros XP to 32 (-3)
+- Greater Albatros AMLA XP to 90 (-10)
+- Demontiolist HP to 55 (+5) , melee now has +2 damage againist mechanicals , price to 25g (-2g)
+- Spitfire HP to 69 (+7) , Melee damage to 16-2 (+1) and melee now has +3 damage againist mechanicals , price to 48g (+2g)
+- Lore Caster XP to 42 (-3)
+- Seahag HP to 45 (+3) , price to 30g (-5g)
+- Sea Scourge HP to 58 (+3) , will now have +Magic-counter in melee , price to 48g (-4g)
+- Wind Caller movement to 6 (+1)
+- Able Seaman HP to 57 (+2) , price to 21g (-1g)
+- Deck Master HP to 73 (+3) , price to 50g (+2g)
+- Salvager HP to 48 (+2) , Pierce melee and ranged damages increase by +1 , price to 28g (+2g)
+- Wrecker HP to 70 (+2) , All damages increases by +1 , price to 54g (+3g)
+- Sea Rover HP to 48 (+3) , blade melee damage to 9-3 (+1)
+- Sea Wolf HP to 66 (+6) , ranged damage to 5-3 (+1)
+- Diver HP to 40 (+2)
+- Marine HP to 51 (+3) , pierce melee and ranged damages increases by +1
+
+
+ARCHAIC - Ukians
+Ukians (Regular, Archer and advancement) will now be mountains movement cost to 2 (-1)
+- Ice Seal NEW ATTACK: Fangs 6-2 cold melee
+- Iceblade seal HP to 48 (+6) , NEW ATTACK: Fangs 8-3 cold melee , price to 24g (-1g)
+- Pack Seal HP to 33 (+2)
+- Lion Seal HP to 51 (+7) , price to 28g (+1g)
+- Seress can now heal poison
+
+- Northern Spotter HP to 26 (+2) , XP to 24 (+2) 
+- Northern Herdsman HP to 46 (+4) , XP to 46 (+6)
+
+Seals being a better naval support and seress treating poison in lv2 will help them significantly.
+
+
+AE - Yokai 
+Yokais impassable/unwalkable been worsened from 50% to 10% if they cannot reach terrain naturally.
+
+
+- Feyborns and advancement
+a) cave/reef movement cost to 2 (-1) 
+b) cave/reef/frozen defense to 40% (+10%)
+c) impassable/unwalkable defense to 10% (-40%) 
+
+- Nixe cave movement cost to 2 (-1)
+- Weavers (all spiders) swamp water/reef movement cost to 2 (-1) & defenses to 30% (+10%) , lowest arcane res is now -20% instead of -30%.
+
+- Lamias lowest cold resistances is now -10% (+10%)
+- Spriggans lowest fire res is now -30% (+10%)
+
+- Lamia Warrior XP to 64 (-6) , price to 26g (+2g)
+- Medusa HP to 39 (+3) , ranged accuracy increase by 5% , no longer has Skirmisher , price to 31g (+7g)
+- Medusa Witch now has +5% accuracy in primary ranged, price to 55g (+7g)
+- Leshi HP to 44 (+2)
+- Elder Leshi now heals +10 , price to 53g (+5g)
+Faction is weak in endgame, they trully need superior healing, otherwise it might be worse than most mage healers.
+- Kodama price to 28g (+2g)
+- Nine Tailed Fox moevment to 6 (+1) , price to 57g (+3g)
+
+- Onryo movement to 6 (+1) , price to 25g (-3g)
+- Phantom price to 21g (-7g)
+- Weaver Matriarch Melee damage to 6-2 (+1)
+
+
+
+BEEM - Wood Warriors
+- Rockfoot arcane res to -20% (+10%) , for lv3 is -10%
+
+- Little Golem XP to 42 (-3)
+- Golem Wood Defender price to 32g (-3g)
+- Golem Destroyer price to 57g (+4g)
+- Bigfoot price to 24g (-4g)
+- Wood's Druid HP to 40 (+3) , price to 33g (-1g)
+- Legendary Sorcerer HP to 54 (+4) , arcane ranged damage to 17-2 (+2) , price to 57g (-4g)
+- Expedition Puck price to 43g (-7g)
+- Predator Rat Knight HP to 50 (+2)
+- Rat's Knight HP to 48 (+4)
+
+
+EE - Monsters
+- Fire Guardian XP to 70 (-4) , price to 25g (-3g)
+- Fire Spirit Warrior HP to 60 (+4)
+- Little Spider XP to 36 (-2)
+- Spider XP to 63 (-7)
+- Scorpion XP to 43 (-3)
+- Water Serpent XP to 82 (-8)
+- Sea Serpent HP to 74 (+4)
+- Scylla HP to 68 (+3)
+- Wolf XP to 28 (-2)
+- Great Wolf HP to 44 (+2) , XP to 55 (-5) , price to 26g (-2g)
+- Dire Wolf HP to 58 (+3) , price to 45g (+2g)
+- Bigfoot impact res to 20% (+10%) , price to 25g (-3g)
+- Yeti price to 60g (-4g)
+- Red Dragon HP to 77 (+7) , price to 73g (+3g)
+- Fire Dragon HP to 111 (+10) , price to 111g (+11g)
+- Undead Dragon HP to 72 (+6) , XP to 144 (-23) , price to 70g (+4g)
+- Skeletal Dragon HP to 94 (+8) , movement to 6 (+1)
+
+As a faction of no healers, they need trully formidable units
