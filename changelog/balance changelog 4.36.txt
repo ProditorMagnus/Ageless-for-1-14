@@ -183,3 +183,99 @@ EE - Monsters
 - Skeletal Dragon HP to 94 (+8) , movement to 6 (+1)
 
 As a faction of no healers, they need trully formidable units
+
+
+EOC - Summoners
+it's planned they become a playable faction once againist (which you can pick in factions list)
+
+- Lava Ettin HP to 70 (+2) , AMLA XP to 126 (-24) , price to 57g (+4g)
+- Ethereal Serpent Arcane res to -20% (+10%) , price to 32g (-2g)
+- Ethereal Dragon AMLA XP to 134 (-16)
+
+- Ice Club XP to 40 (-10)
+- Ice Claw arcane/fire ressistance upgrade by 10% (to 10%/-30%) , price to 25g (-2g)
+- Ice Fang HP to 60 (+2) , arcane/fire ressistance upgrade by 10% (to 10%/-30%) , AMLA XP to 134 (-16) , price to 48g (+3g)
+- Stone Giant price to 27g (-5g)
+- Stone Titan arcane res to -10% (+10%) , AMLA XP to 134 (-16)
+- Fire Ask impact res to 20% (+10%) 
+- Fire Ghost impact/arcane res upgrade by 10% (20%/-10%) , AMLA XP to 134 (-16) , price to 54g (+2g)
+- Thunderbird HP to 46 (+2) , AMLA XP to 126 (-24) , price to 50g (+6g)
+- Nymph arcane res to -10% (+10%) , XP to 60 (-6) , price to 25g (-5g) 
+- Nicor HP to 49 (+3) , arcane res to -10% (+10%) , AMLA XP to 134 (-16)
+- Vine Beast HP to 49 (+4) , arcane res set to 10% (from lower) , price to 26g (-4g)
+- Vine Slayer HP to 60 (+5) , arcane res to 10% (+20%) , AMLA XP to 134 (-16) , price to 54g (+9g)
+
+
+
+
+NEW FACTION: Rovahrian elves
+A more melee focused version of Rebels, which features nobles, zerking lv1 and zerking + skirmisher lv2 and elfic variation of loy swordsman/pikemen.
+
+Druid is weaker in dmg on lv3,  but she can heals+10
+Reemplacement of lv2 red mage is way better because of elfic advantages and chance of dexterous trait... but cannot go lv4.
+
+
+NEW FACTION: Mountain Goblins
+They feature weaklings lv0-lv1 gobbos, lv3 version of goblin leadership, superior wolf rider, healer and superior assasins
+Faction counts as bonus +10% hills/mountain defense (like dwraves) , 40% defense in frozen and 1 MP cost at caves.
+All gobbo factions gains ONE possitive trait instead of a negative one (because they're not oppressed by abusive orcs) and 10% cold res.
+They count of suppoort of animals and trolls (EE vesion of trolls)
+
+
+NEW FACTION: Galianos Imperium
+Another loy variation, but this one is more adamant/resistant fighters and tanks (even archers) , but no mages.
+They also havve the help of healers, pyromancers and ranger roles.
+Very strong in fighting at open fields and plains.
+
+
+NEW FACTION: Farengarians Kingdoms
+Very similar to loy, with some variations... 
+Horsemen heavier and more armored knights, lancers that can go lv3
+Stronger mages in late-end-game, weaker healers
+Equivalent melee/archers to loy but small stats variations
+
+Few LV4 that players cannot obtain, but are added as unit data...
+
+
+NEW FACTION: Mauvis Federation
+Aggresive gameplay with superior mages, more mobible but double-edge melee swordsmen, leaking of scouts and a bit on pierce damage.
+In overall, their units have lower ressists but usually good in HP-Movement ratio. Most lv2 melee/archers move 6.
+Druids in Lv3 can heal+10
+
+
+NEW FACTION: Kingdoms of Rovahr
+Equilibrated loy variation that has knights/spearmen/archer variations, one optional tanky archer
+Superior duelist/mat-at-arms , and two types of heavy armored fighters
+While featuring inferior cold mage and rasonably good priest fighter healers.
+
+
+NEW FACTION: Farengarian Countries
+Knalgan aliance with slight changes, no berserkers or outlaws, but other units instead.
+Features bulky bear fighters, gryphons with extra lance attack, leadership but weaker steeclads and a variation more similar to Steelclad.
+They also have ballistas and a cannon (with artillery range fire too) and unit that can repairs them.
+
+
+NEW FACTION: Morkenost and Darfenlend
+Another knalgan variation without outlaws and zerkers.
+Trappers and Rangers are dwarf instead of human, Gryphon rider with weaker melee but a bow.
+Acess to Healing and Slowers, Dwarven HI hybrid and one leadership unit.
+
+
+NEW FACTION: Norse Jarldoms
+Hybrid between loyalists and Knalgan faction, they feature superior ressists and terrain mobility, but they are 50% defense in villages.
+Crossbowmen are well armored ranged, meanwhile archers are trapper/ranger like.
+Their horses feature aggresion (which is bit worse than charge) on secondary attack , they got plenty of interesting melee options.
+1) Plunderer who has +10% accuracy at the cost of -10% parry
+2) Axemen that are 50% flat defense and somewhat agile , but less armored
+3) Jarl that are very strong swordsmen variation
+4) Guardsmen with steadfast
+
+They are strong because of no owning mages or healers.
+
+
+AoA - Finn's Empire
+Loy variation with more mobile spearman/swordsmen/pikemen variation but less armored.
+They feature 36 HP loy calvary but without bonus cold res (on lv1)
+They also got cannon and mortar with artillery/ranged attacks , healers with magical melee and a ranged attack (at lv2-lv3 slows)
+They also have a lv2/lv3 option of spearman/bowman which is like heavy infantry.
+With superior fencers in their recruit list.
