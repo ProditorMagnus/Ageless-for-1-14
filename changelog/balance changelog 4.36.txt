@@ -204,8 +204,34 @@ it's planned they become a playable faction once againist (which you can pick in
 - Nicor HP to 49 (+3) , arcane res to -10% (+10%) , AMLA XP to 134 (-16)
 - Vine Beast HP to 49 (+4) , arcane res set to 10% (from lower) , price to 26g (-4g)
 - Vine Slayer HP to 60 (+5) , arcane res to 10% (+20%) , AMLA XP to 134 (-16) , price to 54g (+9g)
+- Zephyr XP to 75 (-15) , price to 32g (-13g)
+- Djinn AMLA XP to 126 (-24) , price to 58g (-7g)
 
 
+ME - Highlanders
+- Lumberjack ranged damage adjusted from 9-2 to 4-4 
+So it nerfs him in XP mods
+
+ELE - Fallen
+- Asperser ranged damage to 6-5 (+1)
+
+EFM - Pygmies
+- Toad Breath / Wyrd XP to 93 (-7)
+
+EOS - Eltireans
+- Siren/Tempress pierce res to 10% (+10%)
+
+EE - Dwarves
+- Dwarf Flame Thrower HP to 45 (+3) , price to 28g (-3g)
+- War Wheel AMLA XP to 134 (-16) , price to 45g (+10g)
+
+EE - Undead
+- Doom Prophet HP to 63 (+3) , all ranged damages increases by +1 , arcane res to -30% (+10%) , price to 67g (+2g)
+
+EE - Orcs
+- Orcish shaman now moves like orcs (new) instead of like old orcs (1 mp cost in hills, 2 at mountains, better movement in frozen)
+- Lv1/Lv2 orcish shaman cold/arcane res to 10% (+10%)
+- Lv3 orcish shaman cold res to 20% (+20%) , arcane res to 10% (+10%)
 
 
 NEW FACTION: Rovahrian elves
