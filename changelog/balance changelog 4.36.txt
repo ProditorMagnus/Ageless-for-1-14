@@ -1,26 +1,31 @@
 
 
 AE - GLOBAL MESSAGE
-LV2 NEW XP STANDARIZATIONS
+ENDING, LV2 NEW XP STANDARIZATIONS
 Same as of lv3 and lv4 having this tiers (126/134/150/166/175) for lv3 , (175/200/250) for lv2, there will be certain values for lv2.
 - Lv2 values might be (90/100/111) depending out of unit's potential in late/endgame based in their stats and special qualities.
 There will be exceptions.
+Idea is to be consistent in this thing in a future release (maybe in 4.37?)
 
 PENDING, NOTED CHANGES
 - Certain Free Saurian units adjusting manually to 10%
-- Review in 1.18 EFM factions to adjust/modify arcane ressistance if needed.
 - Adding the wanted AMLA for Altaris Scouts.
+- SIMPLIFY THE UI in certain units (too many specials in certain specific cases... will try to fix that in 4.37)
 - FEW new units in multiple factions
   1) AE - Desert Elves - Desert Warrior & its Lv3 (same 9-4 blade melee but 20% on blade/impact & 10% on pierce) , very XP thristy for lv3
-  2) ARCHAIC - Menagerie - Technomancer (Lv3) (Mechanical melee fighter that becomes machine race, more melee, better physical res but big lose in ranged damage and dmg to arcane)
-  It will feature advantages like poison/plague inmunity and can be repaired by machinists.
-  3) ARCHAIC - Kthon - Argamarok (Lv3) (Planned to be a slower, less armored (but more HP) compared to Orthrus)
-  Will keep ranged slows but with -10% accuracy & higher base damage (it can slow in retaliation, but unit should not be used for that in offensive)
-  will probably have 50% marksman on melee.
-  4) AE - Deep Elves - Corrupted (Will feature melee/ranged secret attacks , odd ressistances and no stardust bonuses)
-  Deep Elves are actually blade/impact spam the most, few pierce is not enough, so they might need more attack types.
-  5) Wanting to add something else in SteelHive, but no concept yet.
+  2) Wanting to add something else in SteelHive, but no concept yet.
   
+FACTIONS PENDING TO BE ADDED LATER:
+  1) Postponed UtbS Quenoth Elves in prior of decreasing the list of pending units that been so long ago.
+  2) 4.37 will add a EE - Rebels faction which was removed because being so mediocre add, but will make it somewhat decent in more recent times.
+
+
+
++Mind-Fog rework
+- It no longer counts its debuff effect in addition of +Magical.
+
+In resume, Mind-Fog will not include +Magical, and both can be used as different specials for different purposes and not including 70% hit chance on mind-fog
+
 
 
 ME - Infernai
@@ -82,8 +87,25 @@ ARCHAIC - Meganerie
 2) Cold res to 30% (+10%) 
 3) Frozen defense to 40% (+20%) , it can now move in deep water (20% defense and 3 MP cost) , price to 54g (+4g)
 
-- Azure mage arcane res to 20% (+10%)
+- Azure mage arcane res to 20% (+10%) , can now advance optionally into NEW UNIT: Azure Technomancer.
 - Blue Engineer HP to 65 (+2) , arcane res to 20% (+10%)
+
+- Blue Rhyno arcane res to -10% (+10%)
+- Blue Drake can now Evolve to Lv4 Azure Dragon instead of AMLA!!!
+
+Blue Dragon features regen+10 regen and poison 12-4 blade melee and also a new tail melee impact attack.
+Azure Technomancer is mechanical hybrid fighter, which can be mech repaired and is inmune to poison/plague , but lost all magical ressists.
+
+
+ARCHAIC - Khtons
+
+- Lv2 Prokyon will now have a new Lv3 option : NEW UNIT: AE_arc_khthon_Argamarok
+
+This deadly lv3 fighter features 10-4 melee attack at having +10% accuracy and -10% parry, which makes it ferous but vulnerable in melee range.
+Features 72 HP (which is a lot more HP than Orthurus) but much worse physical resistances ... and only 5 movement speed which is notably slower.
+It also has a 13-1 ranged attack which is -10% accuracy but decreases archers accuracy to -15% less and magical accuracy to -35% less.
+The unit is very aggressive at melee ranges, but very cautious at ranged range.
+
 
 
 ARCHAIC - South Seas
@@ -147,6 +169,49 @@ Faction is weak in endgame, they trully need superior healing, otherwise it migh
 - Phantom price to 21g (-7g)
 - Weaver Matriarch Melee damage to 6-2 (+1)
 
+
+EA - Deep Elves
+- Minotaur Impact res to 30% (+10%) , cold res to 20% (+10%)
+- Night Maiden and all advancement impact res increased by 10%
+- Blood Maiden and all advancement fire/cold res to 10% (+10%) , now it's rasonably better as "mage assassin" role
+
+- Blood Maiden XP to 36 (-2)
+- Vengeance XP to 77 (+5) , price to 31g (+1g)
+- Blood Seeker now has +5% accuracy in melee , price to 54g (+6g)
+- Tyr'hai rider blade res to 10% (+10%) , impact res to 30% (+10%)
+It deserved more res in lv1 because it's quite expensive and not as great as a drake clasher.
+- Tyr'hai knight cold res to 20% (+10%) , fire res to 10% (+10%) , price to 36g (+2g)
+- Black Tyr'hai XP to 84 (-3)
+- Shadow Tyr'hai HP to 72 (+5) , impact damage to 15-2 (+1) , price to 69g (+9g)
+
+- Wisp and Greater Wisp impact res increase to 40% (+20%) , arcane res to 0% (+10%) , pierce res increase to 20%.
+- Great Wisp can now evolve into NEW UNIT: Wisp Mother , XP to 80 (-20) , price to 23g (+2g)
+
+In resume, Wisp Mother is a lv2 version of this unit with 13-2 melee magical, 11-2 ranged magical, but also +Leadership , Heals+4 and Cure poison.
+This unit cannot go lv3 , but it's really strong lv2 leadership unit.
+
+- Priestess of the vault XP to 36 (-3)
+- Matriarch XP to 83 (+6)
+- Patroness now has 50% marksman in ranged , price to 62g (+7g) , XP to 125 (+5)
+- Seer HP to 55 (+1) , arcane res to 40% (+30%) , arcane ranged damage to 10-4 (+1) , added self-regen+4 and ally cure poison, price to 54g (+6g)
+- Harbinger added same features on Seer to Harbinger, price to 96g (+11g)
+
+- Elthare all magic resistances increase by +10%
+- Phade self regen increase to +3 (+1)
+- Phade can additionaly advance to an optional lv3 NEW UNIT: Corrupted
+
+Corrupted is a low HP and low melee damage that features +Mind-fog at two different melee attcks , but lacking of a ranged attack.
+First Melee attack is only 16-2 cold melee with only +10% accuracy and mind-fog special.
+
+Second Melee features a 14-2 secret melee with both +10% accuracy and Mind-fog Special
+with the addition of a special that debuffes enemy being hit (lowering all common res by -20% less)
+
+The unit also features very odd resistances (10% to blade/pierce/fire, 50% on impact, 60% on cold and -20% on arcane.
+This unit is an extremely strong addition to Deep Elves , faction that was leaking with damage types so the unit comes very convenient. 
+
+
+Additionally, unit being massively resistant to impact is to help her at counter HI type units which usually struggles deep elves so hard.
+(and also makes some sense if thinking in the art concept...)
 
 
 BEEM - Wood Warriors
