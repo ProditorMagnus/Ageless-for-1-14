@@ -188,7 +188,7 @@ for dname, dirs, files in os.walk("."):
 	for fname in files:
 		fpath = os.path.join(dname, fname)
 		afpath = getAgelessPath(dname, fname)
-		if "_rpg.cfg" in afpath and "EoMa_units" in afpath:
+		if "_rpg.cfg" in afpath and ("EoMa_units" in afpath or "EoMa_data" in afpath):
 			continue
 		# print(fpath, afpath)
 		with open(fpath,encoding="utf8") as f:
