@@ -19,6 +19,7 @@ folder_to_faction = {
 replacements = [
 	("__DUMMY__","__DUMMY__")
 ]
+# TODO renaming may overwrite existing files
 
 for k,v in replacements:
 	if k[0] == "{" and v[0] == "{" and " " not in k+v:

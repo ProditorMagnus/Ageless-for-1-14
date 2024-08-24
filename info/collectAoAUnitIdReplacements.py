@@ -61,5 +61,6 @@ def get_unit_type_mapping(source="."):
 						unit_type=True
 	return [unit_type_mapping, unit_file_mapping, unit_name_mapping]
 
+# TODO renaming may overwrite existing files
 if __name__ == "__main__":
 	print(get_unit_type_mapping(source="../units/AoA_units"))
