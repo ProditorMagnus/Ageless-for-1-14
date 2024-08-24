@@ -1,0 +1,12 @@
+Version 4.36:
+* Units and Factions
+    * New era Armies of Amberan
+    * New faction EE - Drakes
+    * Returning faction EoC - Elementals
+    * New units for Deep Elf and Khthon
+    * Era of Magic update
+* Balance
+    * Detailed notes can be found from forum or github or this addon files
+* Bug Fixes
+    * Deep Elf night-only negative healing
+    * AE_mrc_hive_hivelightfly shallow_water movement
