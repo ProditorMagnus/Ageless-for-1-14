@@ -1,0 +1,234 @@
+
+
+AE - GLOBAL MESSAGE
+PENDING, LV2 NEW XP STANDARIZATIONS
+Same as of lv3 and lv4 having this tiers (126/134/150/166/175) for lv3 , (175/200/250) for lv2, there will be certain values for lv2.
+- Lv2 values might be (90/100/111) depending out of unit's potential in late/endgame based in their stats and special qualities.
+There will be exceptions.
+Idea is to be consistent in this thing in a future release (maybe in 4.37?)
+
+PENDING, NOTED CHANGES
+- Certain Free Saurian units adjusting manually to 10%
+- Adding the wanted AMLA for Altaris Scouts.
+- SIMPLIFY THE UI in certain units (too many specials in certain specific cases... will try to fix that in 4.37)
+- FEW new units in multiple factions
+  1) AE - Desert Elves - Desert Warrior & its Lv3 (same 9-4 blade melee but 20% on blade/impact & 10% on pierce) , very XP thristy for lv3
+  2) Wanting to add something else in SteelHive, but no concept yet.
+  
+FACTIONS PENDING TO BE ADDED LATER:
+  1) Postponed UtbS Quenoth Elves in prior of decreasing the list of pending units that been so long ago.
+  2) 4.37 will add a EE - Rebels faction which was removed because being so mediocre add, but will make it somewhat decent in more recent times.
+
+
+
+AoA - Dwarven Kingdoms
+Fixing wrong intended values or fairing. Certain units will end weaker but not the faction.
+- Hunter melee damage to 4-2 (-1)
+- Ranger melee damage to 8-3 (-1) , AMLA XP to 126 (-24)
+Ranger's idea is being worse in stats than musketer, except of the feature of forest/swamp terrain and the extra movement.
+- Hunter on Gryffin melee damage to 10-2 (-2)
+- Mage (lv3) slowing attack damage to 6-4 (+1)
+- Grand Mage slowing attack adjusted from 6-5 to 9-4 , Fire ranged damage to 11-5 (+1)
+
+
+AoA - Farengarian Counties
+- Bombard HP to 43 (+3)
+- All ballistas ranged range attack rename to "Ballista" instead of "bombardment"
+- Great Ballista HP to 46 (+2)
+- Siege Ballista HP to 57 (+3)
+- Heavy Fighter melee adjusted from 11-3 to 9-4 (steelclad, but more dmg, no bonus physical ressists in lv2)
+- Thane HP to 51 (-4) , price to 34g (+2g)
+- Lord HP to 67 (-5) , XP to 144 (+19)
+- Count Ranged damage to 13-1 (-2)
+- Gryphin Rider blade melee damage to 11-2 (-1)
+- Gryphin Knight blade melee damage to 14-2 (-1) -It can still lv3, which is insane!-
+- Tinker now repairs +6 instead of +10 , pric to 15g (-3g)
+- Engeener HP to 47 (+3) , it now repairs +8 (from 10) , fire res to 20% (+10%)
+- Master Engineer HP to 63 (+3) , now repairs +10 (from 12) , anti-mech bonus increased to 3
+- Handgunner repair value to 6 (-2)
+- Arbalester melee damage to 8-3 (-1)
+- Grand Bear Knight HP to 84 (+4) , price to 77g (+3g)
+- Rune Mage HP to 52 (+2) , price to 71g (+1g)
+- Rune Archmage HP to 66 (+6) , Ranged damage to 13-4 (-2) , price to 132g (+12g)
+
+
+AoA - Farengarian Kingoms
+- Battlemage XP to 144 (-76)
+- Arcanist XP to 108 (+8) -it also gains 6th movement in lv3-
+- Great Arcanist HP to 51 (+3) , price to 69g (+4g)
+- Count HP to 54 (+2)
+- Duke HP to 69 (+3)
+- Bowman XP to 35 (-4)
+- Handgunner melee damage to 5-4 (-1)
+- Master Crossbowman melee damage to 9-3 (-1)
+- Questing Chevalier XP to 43 (+3) , price to 21g (+1g)
+- Chevalier on Foots price to 29g (-2g)
+
+
+AoA - Finn's Empire
+- Helgrindian Crossbowman XP to 72 (-8) , now have parry 10% in ranged , price to 24g (-3g)
+- Helgridian Heavvy Crossbowman now have parry 10% in ranged , impact res to 20% (+10%)
+- Helgrindian Heavy Soldier NEW ATTACK: 9-3 blade melee , both melee attacks have parry 5% now.
+- Pikeman XP to 80 (+7) , it's rasonably stronger than loy pikeman at its lv2 , deserves more XP's
+- Halberdier price to 57g (+3g)
+- Cannon HP to 42 (+2)
+- Mortar HP to 45 (+2) , price to 29g (-2g)
+ 
+ 
+ AoA - Galianos Imperium
+- Alchemist XP to 37 (-3)
+- Pyromancer melee adjusted to 6-3 from 8-2
+- Elite Javalinist HP to 72 (+2)
+- Elite Swordsman foot-type readjusted to smallfoot instead of Elusive Foot
+- Sargeant downgraded leadership to lv2 value , price to 58g (-8g)
+- Mercenary XP to 82 (+7)
+It's worse lv2 swordsman with the promise of a 6 movement lv3 swordsman but worse and full lv3 leadership
+- Templar Captain HP to 66 (+2)
+- Squire price to 19g (+1g)
+- Knight of Foots price to 29g (-2g)
+
+
+AoA - Mauve Islands Federation
+- Archmage HP to 59 (+3)
+- Clans Warrior price to 17g (+1g)
+- Chieftain lowered leadership to lv2 value, price to 64g (-3g)
+- Knight XP to 83 (+8)
+- Axe Wielder XP to 80 (-40) , price to 29g (-1g)
+- Gallowglass main attack damage to 16-3 (-1)
+
+AoA - Mountain Goblins
+- Goblin Leader can now advance correctly to Goblin Sentinel as 2nd advancement option.
+
+
+AoA - Norse Jarldoms
+Faction is bad at dealing againist HI type units, so considering their limitations certain units will gain more impact res.
+
+- Pluderer price to 16g (+2g)
+It's meant to be a secondary fighter, not the main one.
+- Maraudeur price to 32g (+3g)
+- Warlord price to 62g (+7g)
+- Devastating HP to 52 (+2) , blade melee to 5-5 (-1)
+- Viking HP to 55 (+3) , mlade melee to 5-5 (-1) , ranged damage adjusted from 8-1 to 6-2 , changed foot type from elusive to AE_AoA_Nordfoot
+- Varangian ranged damage to 9-2 (+1)
+- Crossbowman impact res to 20% (+10%)
+- Master Crossbowman impact res to 30% (+10%) , price to 55g (+1g)
+- Nordic Archer movement to 6 (+1) , price to 26g (+1g)
+- Rider and all melee advancement impact res to 40% (+10%)
+- Mounted Bowman HP to 48 (+2)
+- Mounted Archer HP to 59 (+2)
+
+
+AoA - Kingdoms of Rovahr
+- Sargeant's leadership lowered to Lv2 , price to 58g (-6g)
+- Mercenary XP to 82 (+7)
+- Templar Captain HP to 66 (+2)
+- Squire price to 19g (+1g)
+- Knight of Foots price to 29g (-2g)
+
+
+
+AE - Dark Legion
+While comparing to other Ageless factions, they look kinda boring, so I'm adding them stuf to make them more fun if got by random.
+
+- Assault Drone HP to 48 (+3) , price to 29g (+1g)
+- War Drone HP to 66 (+4) , price to 60g (+2g)
+- Sentry Drone HP to 49 (+1) , cold res to 0% (+10%) , XP to 77 (-3)
+- Enforcer Drone HP to 66 (+1) , cold res to 0% (+10%)
+- Protector Drone impact res to 10% (+10%)
+- Rayblade HP to 47 (+3) , impact res to 10% (+10%) , price to 28g (+1g)
+- Stormblade HP to 66 (+3) , impact res to 10% (+10%) , price to 57g (+3g)
+- Dark Champion price to 57g (+4g)
+- Gunner HP to 51 (+3)
+- Elite Gunner HP to 66 (+6) , fire res to 10% (+10%)
+- Dark Crusher fire res to 10% (+10%)
+- Lv2 Guardian & Lv3 Terror now have a NEW ATTACK: Shield 11-2 / 17-2 impact melee +stun
+- Crusher NEW ATTACK: 19-1 impact melee +attack-only +knock-back , price to 32g (+2g)
+
+
+AE - Frozen
+- Frost Shooter HP to 45 (+3) , cold ranged damage to 13-2 (+1)
+- Frost Fury Shooter HP to 55 (+3) , cold ranged damage to 14-3 (+2)
+- Frost Gunner Master HP to 57 (+2)
+- Frost Lanceman cold melee damage to 7-4 (+1)
+- Frost LanceMaster cold melee damage to 10-4 (+1)
+- Frost Shieldman cold melee damage to 7-3 (+1) , price to 31g (-3g)
+- Frost Mage fire ranged damage to 6-5 (+1)
+- Frost Sorcerer ire ranged damage to 7-6 (+1)
+
+
+EOC - Wild Humans
+- Crossbowman HP to 55 (+5)
+- Forester HP to 52 (+4)
+They can't lv3 , they need to be slightly OP.
+
+
+ELE - Fallen 
+Minor buffs
+
+- Fallen Infiltrator ranged damage to 7-3 (+1)
+- Fallen Liquidator HP to 57 (+2) , ranged damage to 9-3 (+1)
+- Fallen Asperser melee to 6-2 (+1)
+- Fallen Revenger HP to 51 (+3)
+- Fallen Master HP to 66 (+2) , fire res to -10% (+10%)
+- Fallen Overlord fire res to -10% (+10%)
+- Fallen Supreme Overlord HP to 111 (+11) , fire res to -10% (+10%)
+- Fallen Beast HP to 70 (+3)
+- Fallen Dragon HP to 88 (+2)
+- Fallen Lord HP to 65 (+2)
+- Fallen Scorch King HP to 62 (+2)
+
+
+EFM - Pygmies
+They have so low HP in their lv3 units, which makes them to struggle when they have to hold positions.
+- Fly HP to 31 (+1) , XP to 40 (-1)
+- Charmer HP to 43 (+2)
+- Saber Cat HP to 57 (+2)
+- Lizard Eye HP to 62 (+2)
+- Sorceress HP to 56 (+2)
+
+
+EFM - Darklanders
+- Judgement of gods HP to 64 (+4)
+
+EFM - Dalefolk
+- Rocketer XP to 30 (-4) , Artillery attack to 13-1 (+1) , price to 14g (-1g)
+This unit is so TERRIBLE at lv1 and lv2 , while depending in hills or mountains to not be junk.
+- Chaneller XP to 47 (-3)
+- Mediator HP to 42 (+2) , XP to 95 (-5)
+- Beacon HP to 46 (+2)
+
+
+EotF - Welkins
+- Battle Seer now has +Magic-counter in their melee , fire/cold res to 20% (+5%)
+
+FL - Altaris
+- Ancient Warrior damage to 12-5 (+1) , Fire/Cold res to 40% (+10%)
+This type of units is a remminder that players must always have ARCHERS and not only mages.
+- Land Mage HP to 59 (+3)
+- Illusionist XP to 63 (-7)
+
+
+EOMA Patching
+Those changes affects only Ageless, but would recommend using Ageless instead of EOMA if it's PVP or player vs player interactions.
+- Dark Portal aura damage decrease by -1 (both attacks) , XP to 77 (+5)
+- Cyclops Necromancer price to 75g (+10g)
+- Bronze Warrior XP to 88 (+3) , price to 31g (+3g)
+- Platinium Warrior Mace damage decrease to 18-2 (-2) , price to 66g (+7g)
+- Dwarvish Tank machine gun attack to 5-5 (-1) , XP to 122 (+7)
+- Pacificator Movement to 5 (-1) , machine gun attack damage decrease by 1 , price to 74g (+8g)
+- Dwarvish Mobile Turret XP to 120 (+5)
+- Mobile Defensive Platofrm cannon3 damage decrease by 3 (to 20-1) , price to 69g (+5g)
+- Rune Artist price to 64g (+3g)
+- Rune Master rice to 90g (+4g)
+- Master of Elements eye of the storm damage to 37-1 (-8) , price to 95g (+2g)
+- Um price to 75g (+5g)
+- Sky Guardian price to 63g (+6g)
+- Master of Air price to 69g (+3g) - AI will be pretty dumb with him, it's why the price increase is not bigger.
+- Void Mage price to 67g (+4g)
+- Fire God price to 70g (+5g)
+- Great Ereeti movement to 6 (-1)
+- Wonderful Jinn price to 70g (+4g)
+- Mystical Jinn price to 123g (+12g)
+- Dharma Rhami fire cup damage to 7-3 (-1) , price to 69g (+7g)
+- Chaos Wyvern price to 75g (+8g)
+- Chaos Wyvernn Knight price to 75g (+8g)
