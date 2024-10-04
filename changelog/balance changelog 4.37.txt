@@ -170,8 +170,9 @@ Minor buffs
 - Fallen Asperser melee to 6-2 (+1)
 - Fallen Revenger HP to 51 (+3)
 - Fallen Master HP to 66 (+2) , fire res to -10% (+10%)
-- Fallen Overlord fire res to -10% (+10%)
-- Fallen Supreme Overlord HP to 111 (+11) , fire res to -10% (+10%)
+- Fallen Overlord fire res to -10% (+10%) , shield damage to 27-2 (-3)
+- Fallen Supreme Overlord HP to 111 (+11) , fire res to -10% (+10%) , shield damage to 36-2 (-4)
+- Fallen Shield Master Physical ressistances to 45% (+5%) -it can now keep 50% physical value even if next to asperser-
 - Fallen Beast HP to 70 (+3)
 - Fallen Dragon HP to 88 (+2)
 - Fallen Lord HP to 65 (+2)
@@ -208,6 +209,45 @@ This type of units is a remminder that players must always have ARCHERS and not 
 - Illusionist XP to 63 (-7)
 
 
+EOM - Devlings
+Have realized they're so inneficient in XP's and the fact they have bad traits, they need XP bufs to be viable.
+- Attackers HP to 57 (+2)
+- Cursers XP to 37 (-5)
+- Offenders XP to 90 (-5)
+- Nailers XP to 30 (-6)
+- Spikers price to 22g (-2g)
+- Stapler HP to 63 (+3)
+- Overgrown XP to 45 (-3)
+- Soldier HP to 53 (+3)
+- Chief HP to 65 (+3)
+- Grand Chief HP to 86 (+6) , price to 78g (+3g)
+- Warrior HP to 55 (+3)
+- Grand Hero HP to 88 (+4) 
+
+
+EE - Monsters
+Again... another buff, this mostly to wolves and spiders.
+
+- Lv1 wolves frozen defefnse to 40% (+10%) , as well for NEW UNITS.
+- Great Wolf & Dire Wolf frozen 50% (+20%) , flat/sand defense increase by 10%
+- Great Wolf price HP to 48 (+4) to 28g (+2g)
+- Dire Wolf HP to 65 (+7) , melee damage to 7-5 (+1) , price to 52g (+7g)
+
+NEW UNIT: Wolf Howler LV2
+A weaker melee 6-3 (no accuracy bonus) with also 6-3 cold ranged marksman/dread + distract aura, chaotic aligment (40% flat/frozen def)
+NEW UNIT: Wolf Terror LV3
+Lv3 version of wolf howler, but this adds fear to lv1 or weaker units, keeping features (40% flat/frozen def)
+
+NEW UNIT: Dark Wolf Lv2
+Lv2 variant that is weaker but has 5-3 blade backstab with wolf-pack feature, a secondary cold attack with parry bonus, skirmisher and nighstalk
+
+- Spider HP to 39 (+1) , pierce res to 10% (+10%) , price to 29g (-1g)
+- Overgrown Spider HP to 52 (+2) , pierce res to 10% (+10%)
+- Cuttlefish HP to 60 (+5) , price to 34g (+2g)
+- ALL RATS arcane/cold res to 10% (+10%) , Rat Trio gains 10% pierce res additionally.
+- Scylla deep water deffense to 60% (+20%)
+In overall it's worse than the other lv3 water snake.
+
 EOMA Patching
 Those changes affects only Ageless, but would recommend using Ageless instead of EOMA if it's PVP or player vs player interactions.
 - Dark Portal aura damage decrease by -1 (both attacks) , XP to 77 (+5)
@@ -232,3 +272,5 @@ Those changes affects only Ageless, but would recommend using Ageless instead of
 - Dharma Rhami fire cup damage to 7-3 (-1) , price to 69g (+7g)
 - Chaos Wyvern price to 75g (+8g)
 - Chaos Wyvernn Knight price to 75g (+8g)
+
+
