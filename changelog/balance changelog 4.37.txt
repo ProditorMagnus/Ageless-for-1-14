@@ -146,14 +146,21 @@ While comparing to other Ageless factions, they look kinda boring, so I'm adding
 
 
 AE - Frozen
-- Frost Shooter HP to 45 (+3) , cold ranged damage to 13-2 (+1)
-- Frost Fury Shooter HP to 55 (+3) , cold ranged damage to 14-3 (+2)
-- Frost Gunner Master HP to 57 (+2)
-- Frost Lanceman cold melee damage to 7-4 (+1)
-- Frost LanceMaster cold melee damage to 10-4 (+1)
+- Frost Shooter HP to 45 (+3) , cold ranged damage to 13-2 (+1) and is now +Magical-Offensive , melee damage to 6-2 (-1)
+- Frost Fury Shooter HP to 55 (+3) , cold ranged damage to 14-3 (+2) and is now +Magical , pierce attack adjusted to 12-4 and no specials , price to 56g (+2g)
+- Flying Golem cold res to 30% (+10%)
+- Frost Gunner cold res to 40% (+20%)
+They're made of "cold minerals" , why so low cold res?
+- Frost Gunner Master HP to 57 (+2), cold ranged damage to 15-2 (-1) and now has +Marskman special
+- Frost Lanceman cold melee damage to 7-4 (+1) and is now +Magical(offensive) , blade/pierce res lowered by 5%
+- Frost LanceMaster cold melee damage to 10-4 (+1) and is now +Magical(offensive) +First-strike , blade/pierce/cold/impact res lowered by 5% , cold res to 50% (+10%)
 - Frost Shieldman cold melee damage to 7-3 (+1) , price to 31g (-3g)
 - Frost Mage fire ranged damage to 6-5 (+1)
-- Frost Sorcerer ire ranged damage to 7-6 (+1)
+- Frost Sorcerer fire ranged damage to 7-6 (+1)
+- Frost Queen Rnaged damage to 17-2 (+1)
+- Ice titan cold HP to 110 (+5) , melee damage to 17-2 (+2)
+
+Considering almost the entire faction is weak to arcane/fire , enemies that would be weak to them can no longer hide from cold damage.
 
 
 EOC - Wild Humans
@@ -177,6 +184,10 @@ Minor buffs
 - Fallen Dragon HP to 88 (+2)
 - Fallen Lord HP to 65 (+2)
 - Fallen Scorch King HP to 62 (+2)
+
+
+ELE - Horned Skeletons
+- Lv2 and lv3 skeletons javelins are now a ranged attack instead of melee
 
 
 EFM - Pygmies
@@ -225,6 +236,18 @@ Have realized they're so inneficient in XP's and the fact they have bad traits, 
 - Grand Hero HP to 88 (+4) 
 
 
+EOM - Windsongs
+- Runeforger 
+  HP to 51 (+2) , movement to 6 (+1) , blade/arcane res increased by 10% 
+  Memory/Sorrow dmg damage increase by +1 , sorrow now has marksman , Death damage to 45 (+1) , price to 57g (+2g)
+Hoping that the new features and stats increases help her to rival better to mages.
+
+- Heretic HP to 51 (+4)
+- Harbingger Movement to 6 (+1) , Both swords damage increase by +1
+- Herald movement to 6 (+1)
+- Ascendant HP to 54 (+5)
+
+
 EE - Monsters
 Again... another buff, this mostly to wolves and spiders.
 
@@ -247,6 +270,7 @@ Lv2 variant that is weaker but has 5-3 blade backstab with wolf-pack feature, a 
 - ALL RATS arcane/cold res to 10% (+10%) , Rat Trio gains 10% pierce res additionally.
 - Scylla deep water deffense to 60% (+20%)
 In overall it's worse than the other lv3 water snake.
+
 
 EOMA Patching
 Those changes affects only Ageless, but would recommend using Ageless instead of EOMA if it's PVP or player vs player interactions.
@@ -272,5 +296,4 @@ Those changes affects only Ageless, but would recommend using Ageless instead of
 - Dharma Rhami fire cup damage to 7-3 (-1) , price to 69g (+7g)
 - Chaos Wyvern price to 75g (+8g)
 - Chaos Wyvernn Knight price to 75g (+8g)
-
 
