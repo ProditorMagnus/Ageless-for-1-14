@@ -5,7 +5,7 @@ PENDING, LV2 NEW XP STANDARIZATIONS
 Same as of lv3 and lv4 having this tiers (126/134/150/166/175) for lv3 , (175/200/250) for lv2, there will be certain values for lv2.
 - Lv2 values might be (90/100/111) depending out of unit's potential in late/endgame based in their stats and special qualities.
 There will be exceptions.
-Idea is to be consistent in this thing in a future release (maybe in 4.37?)
+Idea is to be consistent in this thing in a future release (maybe in 4.38?)
 
 PENDING, NOTED CHANGES
 - Certain Free Saurian units adjusting manually to 10%
@@ -17,7 +17,7 @@ PENDING, NOTED CHANGES
   
 FACTIONS PENDING TO BE ADDED LATER:
   1) Postponed UtbS Quenoth Elves in prior of decreasing the list of pending units that been so long ago.
-  2) 4.37 will add a EE - Rebels faction which was removed because being so mediocre add, but will make it somewhat decent in more recent times.
+  2) 4.38 will add a EE - Rebels faction which was removed because being so mediocre add, but will make it somewhat decent in more recent times.
 
 
 
