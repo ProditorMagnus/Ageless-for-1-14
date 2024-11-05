@@ -5,7 +5,7 @@ PENDING, LV2 NEW XP STANDARIZATIONS
 Same as of lv3 and lv4 having this tiers (126/134/150/166/175) for lv3 , (175/200/250) for lv2, there will be certain values for lv2.
 - Lv2 values might be (90/100/111) depending out of unit's potential in late/endgame based in their stats and special qualities.
 There will be exceptions.
-Idea is to be consistent in this thing in a future release (maybe in 4.38?)
+Idea is to be consistent in this thing in a future release (maybe in 4.37?)
 
 PENDING, NOTED CHANGES
 - Certain Free Saurian units adjusting manually to 10%
@@ -14,10 +14,12 @@ PENDING, NOTED CHANGES
 - FEW new units in multiple factions
   1) AE - Desert Elves - Desert Warrior & its Lv3 (same 9-4 blade melee but 20% on blade/impact & 10% on pierce) , very XP thristy for lv3
   2) Wanting to add something else in SteelHive, but no concept yet.
+- REVAMPING animals & Monsters from different races (as well of wolves), as wolf is not exactly a monster, but will get idea that wolves get benefits from both animals and monster but wihtout the cons of monsters.
+ 
   
 FACTIONS PENDING TO BE ADDED LATER:
   1) Postponed UtbS Quenoth Elves in prior of decreasing the list of pending units that been so long ago.
-  2) 4.38 will add a EE - Rebels faction which was removed because being so mediocre add, but will make it somewhat decent in more recent times.
+  2) 4.37 will add a EE - Rebels faction which was removed because being so mediocre add, but will make it somewhat decent in more recent times.
 
 
 
@@ -156,8 +158,9 @@ They're made of "cold minerals" , why so low cold res?
 - Frost LanceMaster cold melee damage to 10-4 (+1) and is now +Magical(offensive) +First-strike , blade/pierce/cold/impact res lowered by 5% , cold res to 50% (+10%)
 - Frost Shieldman cold melee damage to 7-3 (+1) , price to 31g (-3g)
 - Frost Mage fire ranged damage to 6-5 (+1)
-- Frost Sorcerer fire ranged damage to 7-6 (+1)
-- Frost Queen Rnaged damage to 17-2 (+1)
+- Frost Sorcerer fire ranged damage to 7-6 (+1) 
+- Frost Queen Piercing Sould damage to 17-2 (+2) , NEW ATTACK: Freezing Beam 15-2 ranged +Magical-offensive +Slows +Attack-only
+This will add more utility at getting a lv3 frost queen and leveling up her.
 - Ice titan cold HP to 110 (+5) , melee damage to 17-2 (+2)
 
 Considering almost the entire faction is weak to arcane/fire , enemies that would be weak to them can no longer hide from cold damage.
@@ -270,6 +273,89 @@ Lv2 variant that is weaker but has 5-3 blade backstab with wolf-pack feature, a 
 - ALL RATS arcane/cold res to 10% (+10%) , Rat Trio gains 10% pierce res additionally.
 - Scylla deep water deffense to 60% (+20%)
 In overall it's worse than the other lv3 water snake.
+
+
+EOS - Eltirians
+- Bishop arcane slow damage to 10-2 (+1)
+- Archbishop arcane slow damage to 15-2 (+2) , arcane ranged damage adjusted from 9-4 to 8-5
+It unlike mage of light in default, has no illuminates aura, so he deserves bit more dmg, other reason is having worse melee.
+- Lightbringer HP to 47 (+3) , ranged damage increase by 1
+- Dawnbringer HP to 62 (+7) , melee damage to 9-4 (+1) , ranged damage increase by 1 , price to 56g (+2g)
+- Calmblade HP to 54 (+2) , price to 26g (-1g)
+- Frostwalker HP to 72 (+5) , cold res to 30% (+10%)
+- Crusher all melee damages increase by 1 , price to 29g (-1g)
+- Destroyer stun damage increase by 1
+
+
+EOS - Free Saurians
+- Fighter HP to 47 (+5) , XP to 55 (-2) , price to 20g (-3g)
+- Warchief HP to 63 (+8)
+- Champion HP to 56 (+3)
+- Sage XP to 42 (-3)
+- Mystic all damages increase by 1
+- Skullker HP to 44 (+2)
+- Lizard Master HP to 49 (+2)
+- Swamp Fighter HP to 47 (+3)
+- Swamp Champion HP to 62 (+7)
+- Swamp Guard HP to 41 (+1) , pierce dmg to 10-2 (+1)
+- Swamp Margrave all damages increase by 1
+- Spider XP to 37 (-3)
+- Tarantula HP to 46 (+1) , fangs damage to 12-2 (+1)
+
+
+ME - Enchanters
+- Enchanter XP to 38 (-10)
+- Forge XP to 80 (+5)
+- Hotshot XP to 40 (-3)
+- Featherlite HP to 42 (+2) , price to 33g (-1g)
+- Arcane rune transcriber price to 33g (-2g)
+- Arcane rune splicer HP to 55 (+2) , AMLA XP to 134 (-16)
+- Ice rune improver HP to 54 (+4)
+- Shifting sword HP regen value decrease to 6 (-2)
+
+
+ME - Equestrians
+They can't hide from pierce dmg, so they will have better cost efficiency in all levels.
+- Vagabound and all levels movement to 9 (+1)
+- Vagabound HP to 35 (+1)
+- Nomad price to 33g (+1g)
+- Rider HP to 36 (+1) , price to 16g (-1g)
+- Pegasus rider movement to 9 (+1) , ranged damage to 5-2 (+1) , XP to 35 (-2)
+- Lv2 & Lv3 Pegasus riders will now have a NEW ATTACK: Arcane spear melee with -1 and Lv2 with +Divine handicap (only on non-living units & monsters)
+- Lv3 Pegasus also now have NEW ATTACK: Arcane spear 7-3 ranged +Marksman +Divine (only on non-living units & monsters)
+Pegasus having only pierce damage adds so very little value, but arcane vs non living might help the unit perform better.
+- Mage rider HP to 32 (+1) , price to 22g (-1g)
+- Searay XP to 36 (-2)
+- Knight XP to 39 (-2)
+- Bronco HP to 33 (+1) , XP to 37 (-4) , pierce res to -10% (+5%)
+- Mustang pierce res to -10% (+5%)
+- Charger XP to 49 (-3)
+
+
+ME - Oracles
+- Cleric HP to 24 (+2)
+- Clergyman HP to 45 (+3)
+- Bishop HP to 57 (+4)
+- Monk XP to 35 (-5)
+- Guru XP to 63 (-2) , price to 21g (-2g)
+- Enlightened HP to 70 (+3) , AMLA XP to 126 (-9) , price to 49g (-2g)
+- Occultist XP to 80 (-5)
+Will plan to add more chemestry based attacks on lv2 and l3 Occultist/alchemist, to make the unit more unique.
+- Conjurer fire/cold/arcane res values increase by 10% , fire ranged damage to 9-4 (+2) , summon ghost damage to 6-4 (+1)
+
+
+ME - Slavers
+- Courtsean now has accuracy 10% bonus on ranged
+- Entrancer now has accuracy 5% bonus on ranged
+- Trailer and Stalker bow damages increases by 1
+- Trailer HP to 44 (+2) , price to 34g (+2g)
+- Stalker HP to 56 (+2)
+- Serf XP to 34 (-3)
+- Farmhand XP to 65 (-2)
+- Freedman AMLA XP to 126 (-8)
+- Abuser HP to 72 (+3)
+- Slave HP to 21 (+1)
+
 
 
 EOMA Patching
