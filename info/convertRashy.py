@@ -50,6 +50,7 @@ replacements = [
 	(' description=_"ram"',' description={STR_RAM}'),
 	(' description=_"saber"',' description={STR_SABER}'),
 	(' description=_"scepter"',' description={STR_SCEPTER}'),
+	(' description=_"scythe"',' description={STR_SCYTHE}'),
 	(' description=_"shadow bolt"',' description={STR_SHADOW_BOLT}'),
 	(' description=_"shadow wave"',' description={STR_SHADOW_WAVE}'),
 	(' description=_"shield bash"',' description={STR_SHIELD_BASH}'),
