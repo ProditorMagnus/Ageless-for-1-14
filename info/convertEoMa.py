@@ -271,7 +271,7 @@ for dname, dirs, files in os.walk("."):
 			elif "aoh" in fname:
 				eras["heroes"] += s
 				eras["heroes"] += "\n"
-			elif "mrpg" in fname and "mrpg2" not in fname:
+			elif "mrpg2" in fname:
 				eras["RPG"] += s
 				eras["RPG"] += "\n"
 		else:
