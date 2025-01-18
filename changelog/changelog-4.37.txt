@@ -11,3 +11,4 @@ Version 4.37:
 * Bug Fixes
     * EoMa RPG factions
     * AoA RPG and heroes factions
+    * EE Drakes standing animation
