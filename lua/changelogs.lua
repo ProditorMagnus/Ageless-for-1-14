@@ -59,6 +59,7 @@ local message = {
             T.fire_event { name = "AE_show_changelog_menu" }
         }
     },
+	changelog("4.36"),
 	changelog("4.35"),
 	changelog("4.34"),
 	changelog("4.33"),

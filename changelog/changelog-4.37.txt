@@ -1,0 +1,13 @@
+Version 4.37:
+* Ageless Great Wars
+    * Era selection now includes Ageless Wars. There are less factions, but each of them has many recruits from similar theme
+* Units and Factions
+    * New faction Harpies
+    * Era of Magic update
+    * New level-up for EE Wolf and EotF Sting Ray
+* Balance
+    * Detailed notes can be found from forum or github or this addon files
+    * Khthon enthrallment does not work on units higher level than khthon
+* Bug Fixes
+    * EoMa RPG factions
+    * AoA RPG and heroes factions
