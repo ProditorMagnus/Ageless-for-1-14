@@ -1,0 +1,215 @@
+
+
+AE - GLOBAL MESSAGE
+PENDING, LV2 NEW XP STANDARIZATIONS
+Same as of lv3 and lv4 having this tiers (126/134/150/166/175) for lv3 , (175/200/250) for lv2, there will be certain values for lv2.
+- Lv2 values might be (90/100/111) depending out of unit's potential in late/endgame based in their stats and special qualities.
+There will be exceptions.
+Idea is to be consistent in this thing in a future release (maybe in 4.37?)
+
+PENDING, NOTED CHANGES
+- Certain Free Saurian units adjusting manually to 10%
+- Adding the wanted AMLA for Altaris Scouts.
+- SIMPLIFY THE UI in certain units (too many specials in certain specific cases... will try to fix that in 4.37)
+- FEW new units in multiple factions
+1) AE - Desert Elves - Desert Warrior & its Lv3 (same 9-4 blade melee but 20% on blade/impact & 10% on pierce) , very XP thristy for lv3
+2) Wanting to add something else in SteelHive, but no concept yet.
+- REVAMPING animals & Monsters from different races (as well of wolves), as wolf is not exactly a monster, but will get idea that wolves get benefits from both animals and monster but wihtout the cons of monsters.
+
+
+FACTIONS PENDING TO BE ADDED LATER:
+1) Postponed UtbS Quenoth Elves in prior of decreasing the list of pending units that been so long ago.
+2) 4.37 will add a EE - Rebels faction which was removed because being so mediocre add, but will make it somewhat decent in more recent times.
+
+
+AE - Harpies
+
+- Harpy Traveler XP to 51 (+9)
+- Harpy Messenge price to 44g (+9g)
+
+- Night harpy XP to 36 (-4)
+- Harpy Phantom HP to 55 (+2) , AMLA XP to 134 (-16)
+
+
+
+AE - Frozen Human
+- Frost Queen secondary attack change from arcane to cold
+- Golem King cold atack damage from 13-2 to 16-2
+- Golem Titan cold atack damage from 17-2 to 20-2
+
+
+
+
+AE - SteelHive
+Steelhive will receive a rework, particularly drastically changing their gameplay.
+Their main units will get nerf (oculus, rocketer) and slasher will get reworked to be more swift and less tanky.
+
+All more secondary units will receive just buffs, rewarding players that uses them well.
+
+
+
+- Rocketer HP to 31 (-1) , XP to 45 (+1) , price to 17g (+1g)
+- Bombardier HP to 45 (-1) , price to 34g (+4g)
+- Dreadnough price to 62g (+7g)
+New unit is performing way too good... minor nerfs
+
+- Oculus HP to 37 (-1) , XP to 41 (+2g)
+- Sparkgazer XP to 85 (+3) , price to 32g (+3g)
+- Boltstrike HP to 61 (-1) , price to 63g (+8g)
+- Sentinel melee damage to 13-2 (+1) , price to 60g (+5g)
+CRAZY HIGH STATS LINE, needed nerf
+
+
+- Drone HP to 31 (+1) , all levels fire res to 0% (+10%)
+- Larva HP to 34 (+2)
+- Welder HP to 31 (+1) , XP to 26 (-1)
+
+- Slasher HP to 33 (-3) ,  movement to 6 (+1) , blade attack from 7-3 to 5-4 , pierce attack from 9-2 to 6-3
+- All Slasher and advancement cold res to 0% (+10%) -only zerker keeps cold weakness-
+Just wanted to rework the lv1 slasher, so it has less inconsistencies with lv2 advancement.
+Not as usual melee fighter that is for tankyness, slasher is swift, deadly but fragible.
+Now is more cost efficient but weaker, but matches better with prices considering it has no traits.
+
+- Vector HP to 51 (-2) , XP to 82 (+5) , price to 30g (+3g)
+- Amniote fire & impact res to 0% (+10%)
+- Avalanche HP to 83 (+6) , price to 75g (+3g)
+
+
+AE - Dark Legion
+- Gunner HP to 54 (+3)
+- Elite Gunner HP to 69 (+3) , ranged damage to 32-1 (+2)
+
+
+EE - Monsters
+- Wolf howler will now have distract (bug in code preventing it having the aura)
+
+
+
+AOA - Dwarven Kingdoms 
+- Warden hatchet damage from 10-1 to 7-2 and is now a ranged attack.
+
+
+AOA - Farengarian Counties
+- Thane axe damage to 10-3 (-1)
+- Lord axe damage to 14-3 (-1) , hammer damage to 18-2 (-1) , hatchet damage to 7-1 (-3)
+- Count HP to 85 (-5) , hatchet damage to 10-1 (-3)
+
+- Heavy Fighter blade res to 30% (+10%)
+
+- Runesmage melee damage to 12-3 (+3) , ranged damage to 8-4 (-2)
+- Runes Archmage all damages decrease by 1
+
+
+
+AOA - Ferengarian Kingodms
+- Mage HP to 45 (+3) , XP to 85 (-3)
+- Initiate XP to 40 (-7)
+
+
+
+AOA - Finn's Empire
+- Pikeman XP to 82 (+9) , XP to 82 (+9)
+- Lanquenet all damages decrease by 1
+
+- Light Cannon HP to 35 (+1) , XP to 37 (-3)
+- Cannon HP to 45 (+3) , XP to 77 (-3)
+- Great Cannon HP to 57 (+3) 
+- Mortar movement to 5 (+1)
+- Master At Arms price to 54g (+5g)
+
+
+AOA - Kingdoms of Rovahr
+- Monk Soldier price to 21g (+2g)
+- Novice HP to 26 (+1) , XP to 42 (-4)
+- Ritterbrüder HP to 77 (+5)
+
+
+
+AOA - Mauve Islands Federation
+
+- Mage-blade fire/cold res to 10% (+10%)
+- Magistrer fire/cold res to 20% (+20%) , arcane res to 20% (+10%) , now has +Magic-counter in melee
+Magistrer is now some kind of hybrid fighter mage with good magical resistance.
+Considering he's swift foot, he's an extraordinary tank againist non magical fire/cold attackers.
+
+- Warrior mage fire/cold res to 10% (-10%) , pierce res to 0% (-20%)
+- Knight Arcanist fire/cold res to 10% (-10%) , pierce res to 0% (-20%)
+Too OP, needed a severe nerf.
+
+- Arcanist XP to 105 (+5)
+
+- Chieftain damage to 14-3 (-1)
+
+
+AOA - Mountain Goblins
+- Bowman NEW ATTACK: fire arrow 6-2 fire ranged
+
+
+AOA - Norse Jarldoms
+- Mounted Bowman HP to 54 (+6) , price to 32g (+3g)
+- Mounted Arhcer HP to 67 (+8) , price to 54g (+6g) , AMLA XP to 126 (-24)
+So this option can be quite much more viable in comparation of the other
+
+- Pluderer XP to 37 (-2)
+
+- Guard XP to 40 (-5)
+- Soldier XP to 77 (-6)
+- Rampart melee damage to 11-3 (+1)
+No damage, can't carry by himself
+
+- Destructive AMLA XP to 126 (-24)
+
+- Nordic bowman HP to 47 (+2)
+- Nordic master archer HP to 63 (+3) , ranged damage to 8-4 (+1) , now can unpoison alies , price to 54g (+2g)
+
+
+
+FL - Altaris
+- Conjurer XP to 36 (-4)
+- Illusionist HP to 42 (+1) , all ranged damage increase by 1
+- Master Illusionist HP to 56 (+1) , now the unit regens 3 passively
+
+- Lord of Earth HP to 48 (+2)
+
+- Arcane warrior HP to 55 (+3)
+- Master at Arms movement to 6 (+1) , price to 31g (+2g)
+
+
+
+FL - Amazons
+- Forest Ghost now regenerates 4 passively
+
+
+FL - Blood Elves
+Blood Elves are being too strong in early game, but also quite weak in lategame. 
+Let's adjust both aspects.
+
+
+- Dark Crossbowman HP to 32 (-1) , price to 16g (+1g)
+- Dark Marksman XP to 75 (+5)
+- Ballistic Crossbowman melee damage to 5-3 (-1)
+- Blood Hunter has no longer marksman in ranged
+It has ressists, decent health, improved movement cost and defenses, high dmgs , doesn't need marksman ranged
+
+- Phoenix hatching regenerates value from 2 to 3
+This needs a severe buff becaue of nerfs in other units in this faction
+
+
+- Dark Swordsman movement XP to 44 (+2) , price to 18g (+1g)
+- Fire Warrior fire res to 60% (+20%) 
+Basically 1/3 less fire damage taken if no modded.
+- Grand Warrior / Blood Warrior fire res to 35% (+5%)
+- Blood Warrior now regenerates 3
+
+- Great Minotaur regenertes value from 4 to 5
+
+- Black Lizard AMLA XP to 120 (-30)
+
+- Assasin Master NEW ATTACK: Burning blade 8-5 fire melee (no specials, no features, JUST FIRE DAMAGE)
+                 Now also regenerates 4
+It's an interesting bonus to make the unit quite more unique. It can now either do 8-5 blade poison (no backstab) or instead do 8-5 fire damage no special on melee.
+Which can be quite useful againist mechanical, undead and some other types of enemies.
+
+
+
+
