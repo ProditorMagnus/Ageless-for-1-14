@@ -212,4 +212,58 @@ Which can be quite useful againist mechanical, undead and some other types of en
 
 
 
+EE - Dwarves
+- Thunderwheel HP to 50 (+5) , price to 27g (+2g)
+- Warwheel HP to 64 (+4)
 
+
+EE - Outlaws 
+- Cunning Woman XP to 35 (-2)
+- Archwitch pierce posion attack adjusted from 7-3 to 6-4
+- Rogue mage XP to 45 (-5)
+
+
+NEW UNIT
+
+Lv1 Trouble Maker
+HP 30 , 4-3 blade melee, 6-2 fire melee, 6 movement, XP 32 , price 12g
+10% more defense at flat / sand / water tiles / bad terrains 
+
+Lv2 Arsonist
+HP 47 , 5-4 blade melee, 8-3 fire melee, 3-3 fire ranged , movement 6 , XP 60 , price 21g
+10% more defense at flat / sand / water tiles / bad terrains / cave 
+
+Lv3 Pyromaniac
+Lv3 HP 65 , 7-5 blade melee , 9-4 fire melee , 4-4 fire ranged , movement 6 , AMLA XP 126 , price: 42g
+10% more defense at flat / sand / water tiles / bad terrains / cave , 10% fire/cold res 
+
+Basically an offtank with bad melee damage with 10% more defense at bad terrains (including flat and cave)
+
+
+- Naga Assassin XP to 70 (-30) , can now advance to Lv3 Naga Striker!
+- Ogre XP to 85 (-15) and now can advance to Lv3 Great Ogre!
+
+
+EE - Undead
+- Death Baron XP to 80 (-20)
+
+
+ELE - Horned Skeleton
+- Skeletal Creep XP to 36 (-3)
+- Skeletal Viper price to 31g (-4g)
+- Corpse Shooter price to 26g (-2g)
+- Corpse Headhunter ranged damage adjusted to 10-4 (from 8-5) , blade damage adjusted to 6-4 (from 7-3)
+- Skeletal Guard price to 28g (-2g)
+
+
+EotF - Nordhiris
+- Apprenice XP to 42 (-2)
+- Frenetic Shaman XP to 47 (-3)
+
+
+Feudal - Ceressian League
+- Novice ranged damage to 4-4 (-1) , XP to 34 (-2) , price to 15g (-1g)
+
+
+Feudal - Orcs Khanagates
+- Icewind Herder pierce ranged damage to 6-3 (-1)
