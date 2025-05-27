@@ -226,15 +226,15 @@ EE - Outlaws
 NEW UNIT
 
 Lv1 Trouble Maker
-HP 30 , 4-3 blade melee, 6-2 fire melee, 6 movement, XP 32 , price 12g
+HP 30 , 4-3 blade melee +first-strike, 5-3 fire melee, 6 movement, XP 32 , price 13g
 10% more defense at flat / sand / water tiles / bad terrains 
 
 Lv2 Arsonist
-HP 47 , 5-4 blade melee, 8-3 fire melee, 3-3 fire ranged , movement 6 , XP 60 , price 21g
+HP 47 , 5-5 blade melee +first-strike, 8-3 fire melee, 3-3 fire ranged , movement 6 , XP 60 , price 21g
 10% more defense at flat / sand / water tiles / bad terrains / cave 
 
 Lv3 Pyromaniac
-Lv3 HP 65 , 7-5 blade melee , 9-4 fire melee , 4-4 fire ranged , movement 6 , AMLA XP 126 , price: 42g
+Lv3 HP 65 , 7-5 blade melee +first-strike, 9-4 fire melee , 4-4 fire ranged , movement 6 , AMLA XP 126 , price: 42g
 10% more defense at flat / sand / water tiles / bad terrains / cave , 10% fire/cold res 
 
 Basically an offtank with bad melee damage with 10% more defense at bad terrains (including flat and cave)
@@ -267,3 +267,25 @@ Feudal - Ceressian League
 
 Feudal - Orcs Khanagates
 - Icewind Herder pierce ranged damage to 6-3 (-1)
+
+
+ME - Divine Order
+- Judgementor ranged damage adjusted from 13-1 to 9-2 , XP to 70 (+2) , fire/cold res to 10% (+10%) , price to 25g (+2g)
+- Supreme Judge ranged damage adjusted from 20-1 to 14-2 , fire/cold res to 10% (+10%) , melee now has +magic-counter
+
+
+
+EotF - Welking
+
+- Star Shooter melee damage to 4-2 (-1)
+It doesn't need an extraordinary melee to be a good unit
+- Twilight Slayer ranged damage to 11-2 (-2)
+Unit already got a new arcane melee attack with same base damage as his original attack.
+
+- Shadow raider melee damage to 4-3 (-1)
+- Astral Ranger melee damage to 5-4 (-1)
+- Dead Eye arcane ranged damage to 9-4 (+1)
+
+- Elder Sage price to 28g (-2g)
+
+- Guardian of Day XP to 45 (-4)
