@@ -117,6 +117,19 @@ AOA - Finn's Empire
 - Mortar movement to 5 (+1)
 - Master At Arms price to 54g (+5g)
 
+- Enchanter HP to 44 (+9) , ranged dmg to 12-1 (+2) , all magic resistances increases by 10% , price to 30g (-2g)
+- Master Enchanter HP to 59 (+8) , ranged damage to 17-1 (+2) , all magic resistances to 20%
+
+- Duelist movement to 6 (-1) , price to 31g (-3g)
+- Sharpshooter melee damage to 7-2 (-1)
+
+- Helgrindian Soldier XP to 67 (-13)
+- Helgradian Elite Soldier name changed (from Helgradian Heavy Soldier)
+(Same goes for crossobow version)
+- Helgrindian Crossbowman XP to 66 (-6)
+- Helgrindian Elite Crossbowman fire res to 0% (+10%) , movement to 5 (+1)
+
+
 
 AOA - Kingdoms of Rovahr
 - Monk Soldier price to 21g (+2g)
@@ -173,6 +186,10 @@ FL - Altaris
 
 - Arcane warrior HP to 55 (+3)
 - Master at Arms movement to 6 (+1) , price to 31g (+2g)
+
+- Stone Warrior shield damage to 15-1 (+1) , now has resistant(1) special (-1 dmg taken if using this atack)
+- Cerberus shield attack now has resistant(1) instead of parry 5
+A buff to lv2 , while a rework in the attack on lv3
 
 
 
@@ -289,3 +306,151 @@ Unit already got a new arcane melee attack with same base damage as his original
 - Elder Sage price to 28g (-2g)
 
 - Guardian of Day XP to 45 (-4)
+
+
+
+EOM - Celestials
+
+- Battle Wizard
+Name changed from "Great Wizard" to Battle Wizard , HP to 48 (+4) , Melee damage from 7-2 to 10-2
+Ranged damage from 6-5 to 11-2 , Impact res to 10% (+10%) , XP to 85 (+5) , Price to 31g (-4g)
+
+Adopted this stats/role changes from original EOM to ageless because it clearly helps more to faction.
+
+- Acolyte price to 21g (+1g)
+5% less ranged damage and 33% more health is worth 1g more gold than loy mage.
+- Sage
+HP to 60 (+6) , Melee damage from 9-2 to 10-3 ,Range damage from 9-5 to 12-3 , Price to 54g (-3g)
+- Mystic Price to 33g (-2g)
+- Prophet Price to 54g (-1g)
+Will remain weak and low cost, for factional balancing reasons.
+
+
+- Crusader
+Arcane melee damage to 4-4 (-1) , XP to 35 (-2)
+- Divine Knight
+XP to 77 (-3) , price to 29g (-1g)
+- Divine Champion
+Blade melee damage to 20-2 (+1) , Arcane resistance to 40% (+10%)
+In a previous buff, the lv3 gained the capacity to heal allies from poison
+- Protector 
+Will no longer have heals+4 , XP to 88 (+8)
+Removing healing capabilties on this path B in order to make the other shine somehow
+- Holy Sentinel
+Will no longer have heals+4 , HP to 69 (-3) , Shield damage to 16-2 (+1)
+- Quester
+Blade damage to 9-3 (+1) , Pierce damage to 11-1 (+1) , Impact res to 40% (+10%) 
+Arcane res to 50% (-10%) , price to 39g (+5g)
+
+
+- Keeper
+NEW ATTACK: 6-1 pierce ranged , price to 25g (-1g)
+- Sentinel
+Pierce res to 30% (+10%) . Fire/Cold res to 10% (+10%)
+
+
+- Light Spirit 
+ranged damage from 5-4 to 6-3 , XP to 39 (-3)
+- Light Archon
+HP to 33 (-1) , ranged damage to 7-4 (-1) , arcane res to 60% (+10%) , XP to 77 (-3) , price to 27g (-4g)
+- Master of Light
+ranged damage from 8-5 to 10-4 , aligment changed from lawful to neutral
+Movement to 9 (+1) , arcane res to 70% (+20%) , price to 36g (-12g)
+
+
+- Militant 
+HP to 48 (+3) , ranged damage to 9-3 (+1) , XP to 64 (+9) , price to 23g (+2g)
+- Sicarius
+HP to 63 (+3) , melee damage from 8-2 to 6-3 , ranged damage to 10-4 (+1) , price to 46g (+4g)
+- Messenger
+Arcane res to 30% (+20%) , XP to 42 (+2) 
+- Claimant
+HP to 44 (-2) , Arcane res to 30% (+20%)
+- Herald 
+Arcane res to 30% (+20%) , XP to 140 (+20) , price to  63g (+3g)
+- Seraph
+HP to 76 (+2) , arcane res to 30% (+20%)
+
+
+EOM - Devlings
+- Standarized arcane weakness on all devling faction be -10%
+- All lesser devlings cold resistance to 0% (+10%) , only overgrowns and advancement keeps the -10% on cold
+- Devling Sneaks and all advancement cave movement cost to 1 (-1)
+- Devling Sneaks and all advancement frozen defense to 40% (+20%)
+
+Overgrowns kept their cold weakness because of high stats, high cost efficiency and becuse being too good vs default undead
+No other further changes wihtout proper testing.
+
+
+EOM - Elementals
+- Thunderbird fire ranged damage from 10-3 to 12-2 , blade attack damage from 9-3 to 7-4 , price to 34g (+2g)
+
+- Zephyr price to 30g (-5g)
+- Djinn price to 51g (-6g)
+
+- Rock Golem XP to 77 (+7)
+
+- Fire Wisp price to 29g (-2g)
+- Lava Beast price to 63g (+9g)
+
+- Silver Unicorn price to 35g (-3g)
+
+- Vine Beast movement to 5 (-1) , arcane res to 10% (-10%) , price to 16g (+1g)
+The cost efficiency of this was quite brutal...
+- Vine Tiger XP to 84 (+7) , arcane res to 10% (-10%) , price to 33g (+2g)
+Raised costs because considering ambush special
+- Vine Monster ranged damage to 8-4 (+1) , arcane res to 10% (-10%) , price to 62g (+6g)
+
+- Ice Shell melee damage to 12-3 (+1) , pierce res to 40% (+10%) , price to 47g (-3g)
+
+
+
+EOM - The Warg
+
+- Black Hunter HP to 48 (+3) , NEW ATTACK: 7-4 blade melee (no specials) , price to 28g (-4g)
+The unit has no lv3 and it's quite mediocre, at least stronger retaliations or one extra strike to kill low HP enemies.
+
+- Warrior Warg
+XP to 72 (+6) , price to 29g (+2g)
+
+- Fenrir price to 63g (+7g)
+
+- Water Dryad XP to 34 (-4)
+- Dyrewolf price to 28g (+2g)
+
+
+
+EOM - Therians
+
+- Mage HP to 42 (+2) , price to 32g (-3g)
+- Master HP to 55 (+3) 
+- Shaman HP to 40 (+4) , NOW HEALS+8 , melee damage to 6-2 (-1) , XP to 72 (-5)
+fire ranged to 10-2 (-2) , cold damage from 4-6 to 5-4 , price to 28g (-6g)
+- Priest HP to 51 (+3) , fire ranged to 15-2 (+1) , cold ranged from 4-7 to 5-6 
+Melee damage to 7-2 (-2) , AMLA XP to 134 (-16) , price to 43g (-9g)
+
+- Wildcat blade melee to 8-4 (+1) , XP to 84 (+7)
+- Leopard price to 66g (+3g)
+
+- Gyrfalcon price to 60g (+10g)
+- Peregrine falcon movement to 10 (-1) , ranged damage to 7-3 (+1) , price to 62g (+8g)
+
+
+
+EOM - Vampires
+- Sire XP to 140 (+30)
+It gains a heck lot of Health on his 4th level...
+
+- Duelist no longer has parry 5% on melee , XP to 75 (+6)
+The idea is to keep vampires more similar to official EOM era, MIE vampires will gain this 5% parry on duelist instead.
+- Sword Dancer changed the 5% parry melee bonus for 50% flat defense, AMLA XP to 134 (-16)
+The gain of stats is quite low in lv3 promotion, so it's why I add 50% flat defense on lv3
+- Noble HP to 52 (+2)
+
+
+
+EOM - Windsongs
+- Skyrunner/Storm Bringer arcane res to 10% (+10%)
+- Storm Bringer price to 55g (+5g)
+
+- Envoy price to 32g (-2g)
