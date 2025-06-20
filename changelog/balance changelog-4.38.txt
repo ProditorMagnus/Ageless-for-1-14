@@ -36,7 +36,8 @@ AE - Frozen Human
 - Frost Queen secondary attack change from arcane to cold
 - Golem King cold atack damage from 13-2 to 16-2
 - Golem Titan cold atack damage from 17-2 to 20-2
-
+- Frost Heavy Warrior cold attack damage from 16-2 to 17-2
+- Frost Gunner now has +Aimed in cold ranged
 
 
 
@@ -77,7 +78,10 @@ Now is more cost efficient but weaker, but matches better with prices considerin
 
 AE - Dark Legion
 - Gunner HP to 54 (+3)
-- Elite Gunner HP to 69 (+3) , ranged damage to 32-1 (+2)
+- Elite Gunner HP to 69 (+3) , Movement to 6 (+1) , ranged damage to 32-1 (+2) , price to 54g (+3g)
+- Longswordsman XP to 72 (+12) , price to 29g (+4g)
+- Dark Halberdier price to 26g (+2g)
+- Crusher price to 29g (-3g)
 
 
 EE - Monsters
@@ -291,6 +295,21 @@ ME - Divine Order
 - Supreme Judge ranged damage adjusted from 20-1 to 14-2 , fire/cold res to 10% (+10%) , melee now has +magic-counter
 
 
+ME - Avians
+- Mother XP to 35 (-7) , price to 19g (+1g)
+- Sitter HP to 39 (+3) , price to 27g (-5g)
+- Egglayer price to 29g (-7g)
+- Broadwing XP to 44 (-5)
+- Skyterror HP to 57 (+3) , price to 32g (-3g)
+- Dreadnought impact ranged damage to 11-4 (+1)
+- Archer XP to 35 (-3)
+- Blowfurry movement to 6 (+1) -it should been 6 movement-
+- Dart XP to 48 (+3) , price to 20g (+1g)
+- Jackdaw XP to 38 (-4)
+- Ironbeak XP to 85 (+5)
+- Steelbeak XO to 140 (+33)
+- Owl price to 37g (-1g) 
+
 
 EotF - Welking
 
@@ -383,7 +402,7 @@ No other further changes wihtout proper testing.
 
 
 EOM - Elementals
-- Thunderbird fire ranged damage from 10-3 to 12-2 , blade attack damage from 9-3 to 7-4 , price to 34g (+2g)
+- Thunderbird fire ranged damage from 10-3 to 12-2 blade attack damage from 9-3 to 7-4 , blade res to 10% (+10%) , price to 34g (+2g)
 
 - Zephyr price to 30g (-5g)
 - Djinn price to 51g (-6g)
