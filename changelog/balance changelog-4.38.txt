@@ -277,6 +277,28 @@ ELE - Horned Skeleton
 - Skeletal Guard price to 28g (-2g)
 
 
+ELE - Centaur
+- Angelic XP to 34 (-4)
+- Priestess HP to 38 (+2) , price to 30g (-2g)
+- Arch Priestess HP to 52 (+2)
+- Archer XP to 36 (-2)
+- Huntress HP to 47 (+2)
+- Ranger HP to 58 (+2)
+- Spearfighter HP to 60 (+5) , All mele damages increase by +1 , XP to 80 (+8)
+- Captain HP to 67 (+7) , Blade damage increase by +1 , impact damage increase by +2
+- Warrior HP to 60 (+8) , XP to 85 (+13) , price to 33g (+2g)
+- Elite HP to 69 (+5) , impact damage increase by +1 
+- Guard trample (no special) damage increase by +5
+- Retriever melee damage damage decrease by -1
+- Javeliniere price to 29g (-2g)
+- Seductress XP to 38 (-7)
+- Apprentice all impact damages increase by +1 , XP to 72 (+7)
+
+- Enchantress HP to 56 (+2) , impact ranaged damage increase to 17-2 (+2) , pierce attack to 7-5 (from 7-4)
+blade ranged damage to 11-3 (+1) , price to 57g (+5g)
+
+
+
 EotF - Nordhiris
 - Apprenice XP to 42 (-2)
 - Frenetic Shaman XP to 47 (-3)
