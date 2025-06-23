@@ -304,6 +304,32 @@ ELE - Vikings
 - Merkis HP to 58 (+4)
 
 
+ELE - Fallen
+Feel motivated enough to consider adding description to the fallen army in 4.39
+
+- AE_ele_fallnorm cave movenet cost to 1 (-1)
+- AE_ele_fallbeast type unit fire res to 30% (+20%)
+- AE_ele_falldrag type unit fire res to 30% (+20%)
+- Tamer HP to 51 (+2)
+- Beast HP to 73 (+3)
+- Dragonrider HP to 90 (+2)
+- Shieldbearer HP to 57 (+3) , 9-3 attack resistant value drop to 1 (-1) , XP to 84 (+15) , price to 27g (-3g)
+- Shieldmaster HP to 69 (+3) , cold res to 0% (+10%) , all impact damages increase by +1 , price to 64g (+4g)
+
+- Enforcer XP to 37 (-3)
+- Infiltrator arcane res to -10% (+10%)
+- Liquidator cold/arcane res increase by (+10%)
+- Asperser/Inquisitor arcane res to -10% (+10%)
+
+- Figter XP to 39 (-3)
+- Slayer price to 28g (-2g)
+- Decapitator blade res to 30% (+10%)
+- Purgator impact res to 30% (+10%)
+
+- Lord blade damage to 18-2 (+2) , fire res to -10% (+10%) , price to 72g (+6g)
+- Scorch King fire res to 20% (+20%) , blade damage to 11-4 (-1) , added 9% consume to fire melee
+
+
 EotF - Nordhiris
 - Apprenice XP to 42 (-2)
 - Frenetic Shaman XP to 47 (-3)
