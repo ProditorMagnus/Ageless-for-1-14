@@ -10,7 +10,7 @@ Idea is to be consistent in this thing in a future release (maybe in 4.37?)
 PENDING, NOTED CHANGES
 - Certain Free Saurian units adjusting manually to 10%
 - Adding the wanted AMLA for Altaris Scouts.
-- SIMPLIFY THE UI in certain units (too many specials in certain specific cases... will try to fix that in 4.37)
+- SIMPLIFY THE UI in certain units (too many specials in certain specific cases...)
 - FEW new units in multiple factions
 1) AE - Desert Elves - Desert Warrior & its Lv3 (same 9-4 blade melee but 20% on blade/impact & 10% on pierce) , very XP thristy for lv3
 2) Wanting to add something else in SteelHive, but no concept yet.
@@ -28,6 +28,7 @@ AE - Harpies
 - Harpy Messenge price to 44g (+9g)
 
 - Night harpy XP to 36 (-4)
+- Stalkerwing XP to 75 (-5)
 - Harpy Phantom HP to 55 (+2) , AMLA XP to 134 (-16)
 
 
@@ -199,6 +200,7 @@ A buff to lv2 , while a rework in the attack on lv3
 
 FL - Amazons
 - Forest Ghost now regenerates 4 passively
+- Dark Harpy XP to 80 (-4)
 
 
 FL - Blood Elves
@@ -298,6 +300,9 @@ ELE - Centaur
 blade ranged damage to 11-3 (+1) , price to 57g (+5g)
 
 
+ELE - Vikings
+- Merkis HP to 58 (+4)
+
 
 EotF - Nordhiris
 - Apprenice XP to 42 (-2)
@@ -331,6 +336,22 @@ ME - Avians
 - Ironbeak XP to 85 (+5)
 - Steelbeak XO to 140 (+33)
 - Owl price to 37g (-1g) 
+
+
+ME - Cult
+- Cultist XP to 34 (-4)
+- Covert blade res to -20% (+10%) , ranged damage to 4-2 (from 5-1) , price to 25g (-9g)
+- Executioner pierce res to -10% (+10%) , movement to 6 (+1)
+- Spy blade res to -20% (+10%) , Needle melee damage to 12-2 (+2) , ranged damage to 6-2 (+1)
+- Overt Health to 44 (+2) , Pierce res to -10% (+10%) , ranged damage to 5-2 (+1) , price to 26g (-4g)
+- Cleaner pierce res to -10% (+10%) , blade ranged damage to 6-3 (+1) , price to 53g (+6g)
+Holy crazy damages, 18-5 on night if strong if backstab...
+- Lonewolf HP to 49 (+3) , price to 27g (-5g)
+- Banished HP to 55 (+3)
+- Condemmed HP to 74 (+4)
+- Miscreation cold res to 0% (+5%) , all damages increases by +1
+- Monstrosity pierce melee damage +1
+
 
 
 EotF - Welking
