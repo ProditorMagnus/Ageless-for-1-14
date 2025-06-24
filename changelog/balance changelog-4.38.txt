@@ -271,6 +271,10 @@ EE - Undead
 - Death Baron XP to 80 (-20)
 
 
+EE - Drakes 
+- Drake ranger movement to 8 (-1) , now has a Lv3 advancement
+
+
 ELE - Horned Skeleton
 - Skeletal Creep XP to 36 (-3)
 - Skeletal Viper price to 31g (-4g)
