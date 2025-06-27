@@ -276,7 +276,7 @@ EE - Drakes
 - Sword drake blade attackk to 8-4 (-1) , pierce res to -10% (-10%)
 - Drake Swordmaster now has parry 10% on impact melee, pierce/blade res lowered by -10% , HP to 82 (-3)
 - Drake shaman and advancements now have +Diversion special
-- Drake Druid Master HP to 62 (+5)
+- Drake Druid Master HP to 64 (+7)
 
 
 ELE - Horned Skeleton
