@@ -142,9 +142,12 @@ function wesnoth.wml_actions.AE_efm_shift_unit(cfg)
 	local beaver_contains = {"W","w","Ss"}
 	local boar_contains = {"D","Gg","Re","Rp","Gs","Re","Rd","Rr","Dd","Hd","Ur"}
 	local wolf_contains = {"A","Ha"}
-	local goat_contains = {"H","M","Dd^Dr"}
+	local goat_contains = {"H","M"}
 	-- else human
 	local function get_variation(terrain)
+		if terrain == "Dd^Dr" then
+			return "shifter_goat"
+		end
 		for _, t in pairs(bear_contains) do
 			if terrain:find(t) then return "shifter_bear" end
 		end
