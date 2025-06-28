@@ -1,0 +1,10 @@
+Version 4.38:
+* Units and Factions
+    * EE Drakes gained new advancements, abilities, animations
+    * EE Outlaws new unit line
+    * Era of Magic update
+    * Several EoM units are deprecated and will be removed eventually
+* Balance
+    * Detailed notes can be found from forum or github or this addon files
+* Bug Fixes
+    * Some missing images
