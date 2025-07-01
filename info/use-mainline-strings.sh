@@ -7,7 +7,7 @@
 locations=$@
 
 function replace {
-	find $locations \( -name \*.cfg -o -name \*.lua \) -print0 | xargs -0 sed -i "s/description=[[:space:]]*_*[[:space:]]*\"$1\"/description=\{$2\}/i"
+	find $locations \( -name \*.cfg -o -name \*.lua \) -print0 | xargs -0 sed -i "s/description=[[:space:]]*_*[[:space:]]*\"*$1\"*$/description=\{$2\}/i"
 }
 
 
