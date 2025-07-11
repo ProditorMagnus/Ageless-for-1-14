@@ -1,0 +1,169 @@
+
+
+AE - GLOBAL MESSAGE
+PENDING, LV2 NEW XP STANDARIZATIONS
+Same as of lv3 and lv4 having this tiers (126/134/150/166/175) for lv3 , (175/200/250) for lv2, there will be certain values for lv2.
+- Lv2 values might be (90/100/111) depending out of unit's potential in late/endgame based in their stats and special qualities.
+There will be exceptions.
+Idea is to be consistent in this thing in a future release (maybe in 4.37?)
+
+PENDING, NOTED CHANGES
+- Certain Free Saurian units adjusting manually to 10%
+- Adding the wanted AMLA for Altaris Scouts.
+- SIMPLIFY THE UI in certain units (too many specials in certain specific cases...)
+- FEW new units in multiple factions
+1) AE - Desert Elves - Desert Warrior & its Lv3 (same 9-4 blade melee but 20% on blade/impact & 10% on pierce) , very XP thristy for lv3
+2) Wanting to add something else in SteelHive, but no concept yet.
+- REVAMPING animals & Monsters from different races (as well of wolves), as wolf is not exactly a monster, but will get idea that wolves get benefits from both animals and monster but wihtout the cons of monsters.
+
+
+FACTIONS PENDING TO BE ADDED LATER:
+1) Postponed UtbS Quenoth Elves in prior of decreasing the list of pending units that been so long ago.
+2) 4.39 will add a EE - Rebels faction which was removed because being so mediocre add, but will make it somewhat decent in more recent times.
+
+
+
+
+AoA - Farengarian Dwarven Counties
+- Ballista XP to 38 (-2)
+- Bombard HP to 45 (+2) , arcane res to 30% (+10%) , impact res to 15% (+5%)
+- Great Ballista HP to 49 (+3)
+- Runes Archamge ranged damage to 11-4 (-1)
+
+
+AoA - Farengarian Kingdoms
+- Questing chavalier and all advancement mountain def to 40% (-20%)
+It's worse armor HI but it can climb mountains...
+- Questing Chevalier HP to 39 (+1) , melee to 8-3 (-1) , impact res to 10% (+10%) , price to 17g (-4g)
+- Paladin impact/cold/fire res to 10% (+10%) , arcane melee attack changed from 20-1 to 11-2 , price to 28g (-2g)
+
+- Master Paladin HP to 67 (+3) impact/cold/fire res to 10% (+10%) , blade/pierce res decrease by -10%
+longsword damage to 11-4 (from 15-3) , arcane melee damage to 13-3 (from 20-2) , price to 59g (-5g)
+My idea for master paladin is making it tankier to magic attacks but worse for physical attacks than the other path.
+
+- Knights on Foots HP to 55 (+3)
+- Champion HP to 72 (+8) , impact res to 20% (+10%) , price to 59g (+7g)
+
+- Chevalier lance damage to 13-2 (-1)
+It's loy knight but -1 movement and 10% more res in blade/impact.
+
+- Footman XP to 77 (+12)
+- Longbowman HP to 49 (-2) , movement to 6 (+1) , melee to 6-2 (-2) , XP to 63 (-9)
+- Archer renamed to "Royal Archer" 
+- Crossbowman XP to 72 (+4)
+- Master Crossbowman ranged damage to 19-2 (+1) , price to 50g (+2g)
+
+- Lord HP to 42 (+2)
+
+
+
+AoA - Finn's Empire
+- Heavy Crossbowman XP to 82 (+5)
+Really good lv3 advancement.
+
+- Helgrindian Crossbowman HP to 53 (+3) , ranged damage to 13-2 (+1)
+I want this option have worse melee than the other path, don't want this to be hybrid fighter.
+- Helgrindian Elite Crossbowman HP to 67 (+4) , movement to 5 (+1) , pierce ranged to 18-2 (+1)
+
+- Helgrindian Soldier HP to 59 (+4)
+- Helgrindian Elite Soldier HP to 74 (+4) , impact res to 15% (+5%) , pierce damage adjusted from 10-3 to 8-4
+Helgrindian units are pretty unique.... very low damages, good health, superior mobility, low XP to max but trash dmgs.
+
+- Halberdier price to 54g (-3g)
+- Swordsman XP to 80 (+10)
+Buffs around other units in this faction can afford this swordsman XP nerf... bad Lv2 but great Lv3
+
+- Enchanter Apprentice XP to 33 (-13)
+- Enchanter XP to 63 (-12) , price to 25g (-3g)
+- Master Enchanter ranged damage to 16-1 (-1) , ranged accuracy is now +precision , price to 46g (-8g)
+This unit is just so bad, so it's cheap to max
+
+- Light cannon and all advancement pierce/arcane res to 30% (+10%)
+- Light cannon blade melee to 4-2 (+1) 
+- Mortar now has parry 10% on fire ranged attack
+
+- Noble pierce res to -10% (+10%)
+
+
+
+AoA - Galianos Imperium
+- Alchemist and all levels cold res to 10% (+10%)
+- Crossbowman with Bulkwark XP to 80 (+8)
+- Astradian crossbowman ranged damage to 20-2 (+2) , price to 53g (+4g)
+- Footman price to 28g (-2g)
+- Heavy Footman HP to 70 (+2) 
+It has only 4 movement... really nice resistances and no defense handicaps
+
+- Ranger frozen and mountains movement cost to 2 (-1)
+- Veteran Ranger HP to 57 (+2) ranger frozen and mountains movement cost to 2 (-1) , hills movement cost to 1 (-1) , price to 55g (+4g)
+- Elite Javalenist pierce res to 10% (+10%)
+
+- Duelist is now smallfoot (instead of swiftfoot) , but resistances unchanged...
+oopsies, this shouldn't been high defenses at all.
+- Swordsman XP to 80 (+16)
+
+- Condotierre HP to 67 (+3)
+- Scout XP to 36 (+4)
+- Mounted Crossbowman HP to 49 (+3) 
+- Escort HP to 62 (+5)
+- Gendarme on foots HP to 52 (+4) , price to 29g (-3g)
+- Condotierre on foots HP to 69 (+5) , XP to 133 (+18) , price to 56g (+2g)
+- General HP to 77 (+2) , impact res to 20% (+10%) , fire/cold res to 10% (+10%) , price to 95g (+5g)
+- Herborist XP to 33 (-6)
+- Apothecary price to 26g (-7g)
+
+
+
+AoA - Kingdoms of Rovahr
+- Priest-Fighter HP to 52 (+7) , price to 31g (-2g)
+Lv1 requires 48 XP to gain this lv2 ... this is why the enormous HP buff
+- Bishop Fighter HP to 63 (+8)
+- Archbishop fighter HP to 77 (+7)
+- Templar price to 33g (-3g)
+- Templar-captain HP to 68 (+2)
+- Heavy Crossbow XP to 80 (+12)
+- Crossbowman with bulwark ranged damage to 20-2 (+2)
+- Knight on Foot blade damage to 13-3 (+1) , XP to 85 (+8)
+- Gothic Knight on Foot HP to 69 (+5) , fire res to 0% (+10%) , blade damage to 17-3 (+1) , price to 59g (+9g)
+- Halbruder arcane res to 20% (+10%)
+- Ritterbruder pierce damage to 17-2 (+2) , HP to 80 (+3) , price to 82g (+2g)
+
+
+AoA - Mauve Islands
+- Gallowglass blade res to 10% (+10%)
+- Ancient Druid AMLA XP to 134 (-16)
+- Knight Arcanist fire ranged to 10-3 (+1) , arcane res to 30% (+10%)
+- Magister arcane res to 30% (+10%)
+- Grand Arcanist HP to 51 (+3) , fire ranged to 12-4 (+1)
+Considering the heck lot of XP you spent to gain him, Elite Sorcerer is specifically better for this purpose.
+
+They seem bit weaker in fighgters and physical archers than all other AOA faction, but Mauve islands have slowers
+and a combo with Rage(2) which basically is free x2 strikes in offensive...
+
+
+AoA - Mountain Goblins
+- Clan Chief XP to 70 (-10) , price to 29g (-3g)
+- Wolf Champion HP to 64 (+3)
+
+
+AOA - Norse Jalrdoms
+- Soldier HP to 59 (+5)
+- Rempart HP to 72 (+4)
+- Double-axe and all -except berserker- advancements frozen def to 50% (+10%)
+- Double axe ranged damage adjusted to 4-2 from 6-1
+- Berserker ranged damage adjusted from 5-1 to 4-2 (same value as lv1)  
+- Devastating now has a 6-1 blade ranged attack
+- Destructive ranged damage adjuted to 6-2 from 8-1
+- Viking ranged damage adjusted to 5-3 from 6-2
+- Varangian ranged damage adjusted to 6-4 from 9-2
+- Hunter melee damage to 4-2 (+1)
+- Nordic Bowman melee damage to 6-2 (-1) , ranged now has +aimed special , XP to 72 (+7) , price to 28g (+2g)
+- Nordic Master Archer melee damage to 6-4 (-1) , ranged damage to 9-4 (+1) and now has +Aimed on ranged , price to 57g (+3g)
+One of the main problems of the faction is not having magical attackers, aimed and slightly stronger ranged on lv3 might help.
+
+
+
+AoA - Rovahrian Elves
+- Blade Dancer XP to 48 (-7)
+- War Dancer price to 42g (-6g)
+- Avenger HP to 57 (+2) , ranged damage to 12-3 (+1)
