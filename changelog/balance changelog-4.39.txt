@@ -22,6 +22,9 @@ FACTIONS PENDING TO BE ADDED LATER:
 2) 4.39 will add a EE - Rebels faction which was removed because being so mediocre add, but will make it somewhat decent in more recent times.
 
 
+Featured Notes
+- Shield attacks containing ONE SINGLE STRIKE that +slows will now have +Resistant(1) so the unit takes one less dmg per strike even if they miss the strike
+Few other exceptions get split in two strikes but no other specials.
 
 
 AoA - Farengarian Dwarven Counties
@@ -167,3 +170,158 @@ AoA - Rovahrian Elves
 - Blade Dancer XP to 48 (-7)
 - War Dancer price to 42g (-6g)
 - Avenger HP to 57 (+2) , ranged damage to 12-3 (+1)
+
+
+
+BEEM - Anakes
+Anakes are quite weak as they can't get traits and massive -20% arcane res, they need some buff.
+- AE_bem_anakes_leecy footype arcane res to -10% (+10%)
+- AE_bem_anakes_snippy footype arcane res to -10% (+10%)
+
+- Archdaemon price to 64g (+8g)
+- Heretic HP to 53 (+2) , melee damage to 10-3 (+1)
+- Apostate HP to 68 (+5) , melee damage to 14-3 (+1) 
+- Massacrer HP to 76 (+3) , cold res to 0% (+10%) , price to 58g (+3g)
+- Initiate XP to 44 (-4)
+- Spellcaster fire ranged damage to 8-4 (+1) , melee damage adjusted to 5-2 (from 8-1) , XP to 77 (+10) , price to 36g (+6g)
+- Wizard HP to 63 (+2) , ranged damage increase to 12-4 (+1) , price to 64g (+8g)
+- Hierophant HP to 40 (+2) , melee damage to 6-2 (+1) , price to 29g (-1g)
+- Dark Prophet HP to 55 (+2)
+- Devil fire res to 40% (+20%) , XP to 82 (+5)
+- Fiend HP to 72 (+5) , fire res to 40% (+20%) , cold res to 0% (+10%) , price to 64g (+9g)
+- Stormbringer  HP to 51 (+4) , fire res to 20% (+5%) , ranged damage to 11-2 (+1) , XP to 75 (+10) , price to 30g (+2g)
+- Alastor HP to 67 (+9) , fire ranged to 12-3 (+2) , price to 58g (+6g)
+- Leech Rider XP to 44 (+4)
+- Leech Knight HP to 60 (+1) , blade damage increase by 1 , pierce damage increease by 2 , XP to 90 (+13) , price to 36g (+4g)
+- Leech Dragoon HP to 82 (+7) , fire damage increase by 1 , blade damage increase by 2 , pierce attack adjusted from 7-4 to 12-3 price to 66g (+10g)
+- Sniper XP to 36 (-5)
+- Sharp Eye movement to 6 (+1) , XP to 75 (+5) , price to 28g (+2g)
+- Terrorbow HP to 60 (+5) , melee damage adjusted to 5-3 (from 6-2) pierce ranged damage increase by 1 , price to 55g (+3g)
+
+
+
+BEEM - Wood Warriors
+- AE_bem_wood_warriors_pianta foottype arcane res to -20% (+10%)
+Low base healths, reason of why the arcane res buff.
+
+- Exiled Alchemist XP to 43 (-3)
+- Wood's Druid price to 29g (-4g)
+- Legendary Sorcerer fire damage to 11-4 (+1) , price to 60g (+3g)
+- Swamp Explorer HP to 31 (+1) , XP to 34 (-2) , price to 13g (-1g)
+- Swamp Pathfinder HP to 50 (+5) , price to 27g (+1g)
+- Amphibians rider arcane res to 0% (+10%)
+- Young Faung XP to 40 (-4)
+- Faun Sharphooter XP to 75 (+6)
+- Faun Sniper pierce poison attack strikes increase to 4 (+1) , price to 57g (+2g)
+- Young Bigfoot arcane res to -10% (+10%)
+- Adventurer Puck XP to 64 (-3)
+- Expedition Puck HP to 58 (+3)
+- Wildrats Knight HP to 62 (+5) , pierce ranged to 11-2 (+1) , price to 55g (+1g)
+
+
+
+BEEM - Calydonians
+- Dioian Swordsman XP to 44 (-3)
+- Dioian Veteran HP to 52 (+4)
+- Dioian Swordmaster HP to 64 (+4) , price to 65g (+8g)
+- Polemarch HP to 59 (+3) , price to 29g (+1g)
+- Diarch HP to 78 (+4) , price to 54g (+2g)
+- Strategos HP to 58 (+3)
+- Peltast XP to 31 (-3)
+- Epihipparch fire res to 0% (+10%) , AMLA XP to 134 (-16) , price to 64g (+6g)
+- Hetaroi HP to 82 (+10) , price to 72g (+10g) , AMLA XP to 134 (-16)
+- Toxotes XP to 72 (+8)
+- Cretan Toxotes HP to 62 (+2) , price to 55g (+1g)
+- Ehodian Slinger HP to 59 (+3) , price to 56g (+2g)
+
+
+EOC - Chaos
+- Demon Zephyr HP to 51 (+8) , XP to 85 (+5) , price to 33g (+1g)
+- Demon Stormtide HP to 63 (+10) , melee to 10-2 (+1) , price to 63g (+3g)
+- Demoness Slashing Gale HP to 58 (+2) , price to 63g (+5g)
+- Demoness Spelldancer HP to 55 (+2)
+
+- Marauder HP to 48 (+4)
+- Soulhunter HP to 59 (+5)
+- Cavalier HP to 55 (+2)
+- Cataphract price to 63g (+9g)
+- Chao Magus HP to 44 (+2) , ranged damage to 8-4 (+1) , XP to 85 (+3) , price to 36g (+2g)
+- Lorekeeper HP to 54 (+3) , arcane damage to 11-4 (+1) , cold damage to 19-2 (+2) , arcane res to -10% (+10%) , price to 66g (+6g)
+- Doom Guard damage adjusted to 7-4 (from 9-3) , shield damage increase by 1 and 1 less dmg taken if used this attack , arcane res to 10% (-5%)
+Shield attacks using only one single blow WILL now contain resistant(1) as bonus to help the unit take less dmg even if they miss.
+Considering the fact this unit lost 5% arcane res which is double if steadfast.... had to buff the shield attack.
+- Hell Guardian shield damage increase by 2 and 1 less dmg taken if used this attack , arcane res to 10% (-5%)
+This unit is now so much better at tanking melee but does a lot worse vs arcane mages.
+
+- Knight of Chaos axe damage to 16-2 (+1)
+- Chaos Razerman HP to 77 (+2) , axe damage to 24-2 (+1) , arcane res decreased by 10%, fire res increased by 10% , price to 60g (+9g)
+- Chaos Gunner XP to 42 (-2) , price to 18g (-1g)
+- Chaos Marksman XP to 84 (+9)
+- Chaos Sharpshooter HP to 73 (+3)
+
+- Imp XP to 38 (-3)
+- Blood Imp XP to 87 (+7)
+- Gutwrencher Imp HP to 72 (+3) , XP to 144 (+24)
+
+
+
+EOC - Elementals
+- AE_chs_firefly cold res to -40% (+10%)
+- AE_chs_windfly cold res to 30% (+20%)
+- AE_chs_water deep water defense to 60% (+10%)
+- AE_chs_vinefoot changed resistances to suit units resistances more correctly without specific unit.cfg modifications.
+
+- Furnace Beast impact res to 10% (+10%) , price to 31g (+1g)
+- Lava Ettin HP to 72 (+2) , price to 65g (+8g)
+- Ethereal Serpent price to 29g (-3g)
+- Ethereal Dragon melee damage to 7-3 (+1) , arcane res to -10% (+10%) , price to 53g (-4g)
+- Ice Cub movement to 5 (-1) , ranged damage to 3-2 (-1) , XP to 38 (-2)
+- Ice Claw XP to 70 (-8) , price to 27g (+2g)
+- Ice Fang HP to 63 (+3) , blade damage to 13-3 (-1) , price to 54g (+6g)
+- Kobold XP to 42 (-2)
+- Stone Giant HP to 53 (+4)
+- Stone Titan HP to 70 (+4) , price to 57g (+2g)
+- Fire Ghost HP to 52 (+2) , melee damage to 12-2 (+1) , impact res to 30% (+10%) , price to 56g (+2g)
+- Shock Bird blade res to 10% (+10%) , movenet to 9 (+1) , price to 17g (+1g)
+- Stormbird ranged damage to 8-3 (+1) , blade res to 10% (+10%) , XP to 64 (+7)
+- Thunderbird HP to 50 (+4) , blade ranged damage to 10-3 (+2) , blade res to 10% (+10%) , price to 54g (+4g)
+- Sylph XP to 42 (-3)
+- Zephyr HP to 45 (+1) , melee damage to 6-3 (+1) , XP to 80 (+5) , price to 30g (-2g)
+- Djinn melee damage to 8-3 (+1) , price to 57g (-1g)
+- Nymph HP to 42 (+5) , price to 26g (+1g)
+- Nicor HP to 54 (+5)
+- Vine leaper arcane res to -10% (+10%) , cold res to 10% (+5%) , price to 17g (+1g)
+- Vine Beast HP to 53 (+4) , pierce ranged to 6-4 (+1) , arcane res to -10% (-20%) , pierce res to 30% (+5%) , XP to 72 (+6) , price to 30g (+4g)
+- Vine Slayer HP to 66 (+6) , pierce ranged to 9-4 (+3) , impact ranged to 7-3 (+2) , arcane res to -10% (-20%) , price to 57g (+3g)
+They have different role in comparation of EOM vines, more ranged but EOC elementals have humans which are arcane resistant.
+
+- Summoner of Earth HP to 48 (+3) , impact ranged damage to 17-2 (+1)
+- Master of Earth HP to 57 (+2) , impact ranged damage to 23-2 (+1) , arcane attack adjusted from 10-3 to 9-4 , price to 62g (+5g)
+- Summoner of Fire HP to 44 (+2) , arcane ranged damage to 8-3 (+1) , unit now has a secondary fire melee attack with same damage, fire res to 30% (+10%) , price to 35g (+1g)
+- Master of Fire HP to 53 (+3) , fire melee damage to 9-2 (+1) , arcane ranged damge to 12-3 (+2)
+- Summoner of water HP to 44 (+2) , XP to 75 (-7) , price to 27g (-3g)
+- Master of Water HP to 53 (+3) , NEW ATTACK: 12-2 impact melee +Slows +Marksman +Attack-only
+- Summoner of wind pierce res to 10% (+10%) , melee damage to 6-2 (-1) , arcane ranged damage adjusted to 6-4 (from 8-3) , XP to 75 (-10) , price to 30g (-2g)
+- Master of Air HP to 52 (+2) , arcane ranged damage adjusted to 9-4 (from 10-3) , melee now has 10% parry , fire res to 10% (+10%)
+
+
+EOC - Sylvan
+- Dusk Faerie XP to 39 (-3)
+- Night Nymph HP to 46 (+1) , cold damage to 14-2 (+1) , XP to 82 (-3) , price to 33g (-3g)
+- Eventide Dancer HP to 58 (+4) , cold ranged damage to 20-2 (+2) , arcane ranged damage to 13-3 (+1)
+- Fire Faerie XP to 80 (+10)
+- Forest Spirit ranged damage to 6-5 (+1)
+- Dryad HP to 51 (+2) , price to 62g (+2g)
+
+- Warrior spirit ranged damage to 3-2 (+1)
+- Ancestor ranged daamge to 4-3 (+1)
+- Forefather ranged damage to 6-3 (+1) , price to 65g (-9g)
+- Wose shaman melee damage to 13-2 (+1)
+- Acolyte impact ranged damage to 5-2 (+1) , XP to 44 (-4)
+- Ascetic melee damage to 5-2 (+1)
+
+
+EOC - Wild Humans
+- Dread Rider HP to 80 (+5) , pierce damage to 14-2 (+2) , ranged damage increase by 1 , price to 72g (+6g)
+- Shadow Lord all ranged damage increase by 1 , price to 63g (+7g)
+- Demon wolf HP to 42 (+2) , ranged damage to 6-3 (+1)
