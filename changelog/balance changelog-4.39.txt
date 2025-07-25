@@ -325,3 +325,134 @@ EOC - Wild Humans
 - Dread Rider HP to 80 (+5) , pierce damage to 14-2 (+2) , ranged damage increase by 1 , price to 72g (+6g)
 - Shadow Lord all ranged damage increase by 1 , price to 63g (+7g)
 - Demon wolf HP to 42 (+2) , ranged damage to 6-3 (+1)
+
+
+
+Archaic - Despair
+- AE_arc_despair_spirit cold res to 40% (+30%) , arcane res to -20% (+10%)
+- AE_arc_despair_rider cold/impact res to 30% (+10%)
+- AE_arc_despair_stone arcane res to -20% (+10%) , all physical res increase by 5% more. 
+
+- Spearman cold ranged to 4-2 (+1)
+- Soldier HP to 52 (+2) , pierce damage to 9-3 (+1) , cold ranged attack to 5-3 (+1 strikes) , XP to 80 (+10)
+- Officer HP to 68 (+4) , cold ranged damage to 7-3 (+1 strikes) , price to 63g (+3g)
+- Knight HP to 62 (+2) , ranged attack to 5-4 (+1 strikes) , price to 60g (+5g)
+- Widow price to 18g (+1g)
+- Widow-in-White HP to 42 (+2) , arcane drain arcane ranged accuracy is now 10% (+5%) , price to 35g (+1g)
+- Banshee arcane drain ranged accuracy is now 10% (+5%) and damge to 17-2 (+1) , fire ranged damage adjusted to 10-4 (from 12-3)
+- Midnight Beauty HP to 50 (+2) , cold ranged now also has +Swallow(+3)
+- Fright HP to 25 (+1) , ranged damage to 5-3 (+1)
+- Black Horseman HP to 51 (+3) , cold/impact res adjusted to 30% (both from lower)
+- Black Slayer HP to 64 (+4) , cold melee damage to 13-2 (+1) , blade damage to 18-2 (+1) , Black Slayer cold res to 40% (+10%) , price to 68g (+3g)
+- Dullohan HP to 45 (+1) , now also has impact version of rush, all melee damage increase by +1, cold res to 40% (+20%) , price to 37g (+2g)
+- Black Shadow ranged damage adjusted to 5-4 (from 6-3) , XP to 75 (+10)
+- Black Mastercloak HP to 46 (+2) , ranged strikes increase by 1
+- Statue HP to 42 (+2) ,  XP to 42 (+4) , price to 19g (+1g)
+- Stone Soldier main impact damage to 11-2 (+1) , XP to 85 (+10)
+- Stone Warrior HP to 82 (+2) , main impact damage adjusted to 11-3 (from 13-2) , price to 57g (+5g)
+
+
+Archaic - Meganerie 
+Added descriptions to blue drakes :)
+
+- Blue Rhyno cold/arcane res increase by 10% , castle/village/mountain defense to 50% (-10%) , pierce melee to 11-2 (-1)
+- Blue Drake impact res to 20% (-10%) 
+- Blue Beast blade res to 20% (-10%)
+- Blue Novice XP to 45 (-5)
+- Blue Engineer ranged strikes increase by 1
+- Blue Mage XP to 85 (-5)
+- Azure Technomancer HP to 66 (+2) , ranged damage to 9-3 (+1) , price to 56g (-4g)
+- Earth Daemon price to 25g (-4g)
+- Greater Earth Daemon price to 52g (-2g)
+
+- Lesser Wind Daemon fire res to 10% (-5%), cold res to 30% (+15%) , arcane res to -30% (+10%) , XP to 38 (-8)
+- Wind Daemon fire res to 10% (-15%) , cold res to 30% (+5%) , pierce/impact res to 50% (+5%) , ´price to 29g (-3g)
+- Greater Wind Daemon movement to 8 (+1) , pierce ranged damage to 6-6 (+1) , cold ranged damage adjusted to 7-5 (from 8-4) , fire res to 20% (-10%)
+- Litle Green Man XP to 35 (-2)
+- Little Green Soldier movement to 6 (+1) , melee damage adjusted to 5-3 (from 7-2)
+- Little Tank renamed to "Portable Tank",  fire res to 10% (+10%) , cold res to 35% (+15%) 
+- Green Delta fire res to 10% (+10%)
+- Lunar Bug XP to 28 (-2)
+- Lunar Mantis drain melee damage to 9-2 (+1) , clwas damage to 7-3 (-1) , cold res to -10% (+10%) , XP to 42 (-2) , price to 20g (+1g)
+- Lunar Ripper drain melee damage to 11-2 (+1) , cold res to -10% (+10%) , price to 35g (+3g)
+- Lunar Explorer XP to 32 (-3)
+- Lunar Invader HP to 47 (+2)
+- Lunar Exterminator HP to 60 (+5) , movement to 5 (-1) , cold damage to 12-3 (+1)
+- Lunar Frogman HP to 65 (+2)
+- Lunar Eye blade res to 40% (-5%) , pierce res to 50% (+10%) , XP to 37 (-13)
+- Lunar Mouth blade res to 40% (-10%) , cold ranged dmage adjusted to 5-4 (from 6-3)
+- Drone XP to 40 (-10)
+- Defender impact/pierce res lowered by 10% , arcane res to -20% (+10%) , XP to 83 (-12) , price to 36g (-2g)
+- Sentinel fire ranged to 12-3 (+1) , res to 20% (-5%) , cold res to 30% (+5%) , arcane to -20% (+10%) , impact res to 20% (-10%)
+- Blocker fire/cold res to 20% (-10%) , arcane res to -20% (+10%) , XP to 85 (-15)
+- Frontliner magical resistances set to lv2 values , both melee attacks now have +magic-counter instead of specialess or weaker +magic-dodge
+- Mechanical Seeker fire res to 0% (-5%) , arcane res to -10% (+5%) , melee impact damage to 5-2 (-1) , price to 20g (+2g)
+- Mechanical Cyclops melee damage adjusted to 5-3 (from 9-2) , cold res to 30% (+10%) , price to 34g (+2g)
+
+
+Archaic - Phantom
+- Feather dancer fire/arcane res to -10% (+5%) , blade res to 10% (-5%)
+- Wing dancer fire/arcane res to -10% (+5%) , XP to 72 (+6) , price to 31g (+2g)
+- Winged Warrior fire/arcane res to -10% (+5%) , unwalkable defense to 40% (from 0%) , village defense to 60% (+10%)
+- Huntress price to 17g (+1g)
+- Archer arcane res to 0% (+5%)
+- High Archer arcane res to 10% (+10%)
+- Stalker cold res to 10% (+10%) , pierce res to 25% (+5%) 
+- Mummy Unbound fire res to -20% (+10%) , XP to 46 (-2)
+- Mummy Noble HP to 49 (+2) , fire/arcane res to -20% (+5%) , XP to 88 (-2) , price to 34g (-2g)
+- Mummy King HP to 60 (+3) , impact res to 30% (+5%) , cold res to 10% (+10%)
+- Mummy Pharo HP to 75 (+3) , cold res to 15% (+15%) 
+- Spirit Jay XP to 40 (-4)
+- Spirit Jay cold res to 0% (+10%) , arcane res to 30% (+10%)
+- Divine Jay HP to 39 (+2) , cold res to 0% (+10%) , arcane res to 40% (+10%) , price to 28g (-7g)
+- Tomb Guard pierce res to 20% (-5%) , impact res to 30% (+5%) , cold res to 10% (+10%) , price to 16g (+1g)
+- Tomb Shield fire res to 0% (+10%) , village defense to 50% (-10%)
+- Tomb Sentinel ranged damage to 5-2 (+1) , price to 30g (+2g) 
+- Tomb Protector ranged damage adjusted to 5-3 (from 7-2) , arcane res to -10% (+5%) , price to 60g (+8g)
+Tomb line now correctly includes in price if they use embalm succesfully 
+They seem me alright, including the embalm stat, so they have massive -15% on arcane.
+
+
+Archaic - Primeval
+I have to admit, my balance changes with the XP's had a sense still in 1.18 default increased swordsmen XP way too much...
+Have now to deal with primeval units being elististic units with high XP to advance, SUPERIOR HP but very expensive to level up.
+Want to adjust their arcane weakness to only -10% on ALL primevals. 
+This is literally a big rework on the faction in how it works.
+
+By design, they will have strong mid game but very slow transition to late and endgame.
+
+- Cutter arcane res to -10% (+10%) , price to 19g (+1g)
+- Ironwheel arcane res to -10% (+10%) , XP to 90 (+6)
+- Aerowheel cold res to 20% (-5%) , arcane res to -10% (+5%) , fire res to 10% (+10%) , ranged now has +magic-dodge special , XP to 150 (+20) , price to 66g (+4g)
+- Sun Wheel 
+a) HP to 80 (+5) , arcane res to -10% (+5%) , cold res to 20% (-10%)
+b) melee adjusted to 11-3 (from 15-2) , melee now has +magic-counter special
+c) ranged now has +magic-dodge special , +marksman replaced with +skilled , damage to 14-4 (+1)
+- Firewheel 
+a) HP to 54 (+4) , movement to 5 (-1) , pierce res to 0% (+10%) , impact melee damage to 7-2 (-1) , price to 65g (+3g)
+b) ranged damage adjusted to 10-5 (from 14-4) , +enchanted replaced with +skiled , NEW secondary Blade ranged 9-5 +skiled  
+- Primevalist Brightshield melee damage to 8-3 (+1) , price to 28g (-2g)
+- Primevalist Sun-Shield melee damage to 9-4 (from 10-3)
+- Leader price to 66 (+3) , blade melee damage to 12-3 (+1) , price to 62g (+5g)
+- Slowfoot arcane res to -10% (+5%)
+- Dogface arcane res to -10% (+5%) , XP to 92 (+9) , price to 33g (+3g)
+- Warrior HP to 75 (+3) , arcane res to -10% (+5%) , XP to 144 (+27) , price to 66g (+6g)
+- Titan marmskman melee damage to 24-2 (+2) , arcane res to -10% (+5%)
+- Driver arcane HP to 57 (+3) , res to -10% (+5%) , XP to 90 (+10) , price to 34g (+2g)
+- Line Breaker HP to 74 (+2) , arcane res to -10% (+5%) , price to 70g (+10g)
+- Escort HP to 52 (-6) , XP to 92 (+7) ,  price to 36g (+3g)
+- Protector HP to 70 (-5) , melee damage to 15-3 (+1) , pierce res to 30% (+5%) , blade/impact res to 20% (-5%) , arcane res to -10% (+10%) , cold res to 10% (+10%) , XP to 150 (+16) , price to 69g (+9g)
+- Highguard HP to 83 (+3) , melee damage to 19-3 (+1) , arcane res to -10% (+5%) , cold res to 20% (+10%)
+- Striker arcane res to -10% (+10%) , price to 34g (+4g)
+- Gyrestriker melee damage to 9-5 (-1) , arcane res to -10% (+10%) , fire res to 10% (+10%) , price to 64g (+2g)
+- Velite arcane res to -10% (+10%) 
+- Hastate HP to 45 (+3) , arcane res to -10% (+5%) , fire res to 10% (+10%)
+- Peltast HP to 63 (+6) ,  arcane res to -10% (+5%) , fire res to 10% (+10%) , melee damage to 9-4 (from 11-3) , accuracy bonus replced with parry in ranged , price to 54g (+2g)
+
+
+Archaic - Southseas
+- Seahag arcane ranged damage to 11-2 (+1) 
+- Sea-Scourge cold ranged damage adjusted to 12-3 (from 16-2) , arcane ranged damage to 15-2 (+1) , price to 50g (+2g)
+- Sea Rover sand movement cost to 1 (-1)
+- Sea Wolf sand movement cost to 1 (-1) , frozen defense to 40% (+10%)
+- Diver HP to 42 (+2) , ranged slowing ranged adjusted to 4-2 (from 7-1)
