@@ -456,3 +456,193 @@ Archaic - Southseas
 - Sea Rover sand movement cost to 1 (-1)
 - Sea Wolf sand movement cost to 1 (-1) , frozen defense to 40% (+10%)
 - Diver HP to 42 (+2) , ranged slowing ranged adjusted to 4-2 (from 7-1)
+
+
+AE - Deep Elves
+This is a complete rework, making them more viable in most situations.
+- AE_dep_deep mountains defense to 50% (+10%)
+
+- Minotaur HP to 60 (+8)
+Let's just say, it's a lv2 unit with lv1 damges, lv2 HP, Lithic idol also being a disadventage. Needs to be tankier.
+
+- Tyr'hai Rider HP to 42 (+5) , XP to 48 (+8) , cave/castle/village defense decrease by 10% , price to 21g (+2g)
+- Tyr'hai Cavalry HP to 60 (+6) , impact damage to 10-2 (+1) , cave/castle/village decrease by 10% , price to 40g (+4g)
+- Black Tyr'hai HP to 57 (+5) , trample damage adjusted to 8-3 (from 11-2) , impact/cold res to 10% (+10%) , castle defens to 50% (-10%) , mountains defense to 50% (+10%) , price to 34g (+2g)
+- Shadow Tyr'hai  
+1) HP to 75 (+5) , trample damage adjusted to 12-3 (from 15-2) , now has a trampe attack but 10-3 cold attack as well
+2) impact res to 10% (+10%) , cold res to 40% (+40%) , castle defense to 50% (-10%) , mountains defense to 50% (+10%)
+2) +Descend-into-darkness no longer works on Lv2 Matriarchs but now does in Lv3 corrupted , price to 72g (+3g)
+
+- Bloodmaiden no longer has +aspect-of-the-hunter , price to 14g (-2g)
+- Vengenace HP to 45 (+3)
+- Blood Seeker HP to 55 (+3) , price to 60g (+6g)
+- Wisp Mother price to 45g (-5g)
+- Vault Lurker melee damage adjusted to 7-3 (from 7-4) , ranged damage adjusted to 7-4 (from 6-3) , +weaken replced by +marksman , price to 33g (+2g)
+Transformed her into a more ranged unit, because faction lacks of pierce ranged, and this is quite more usefu, particularly the most if as an optional advancement.
+- Night Stalker XP to 84 (+12) , price to 31g (+3g)
+- Baroness of the Night HP to 63 (+8) , cold res to 20% (+10%%) , flat defense to 50% (+10%) , price to 61g (+7g)
+- Patroness melee damage to 10-2 (+1)
+- Hrbinger HP to 67 (+1) , melee damage to 12-1 (+1) 
+- Lidh price to 16g (+1g)
+- Phade HP to 42 (+2) , impact res to 10% (+10%) , price to 29g (+1g)
+- Irr HP to 54 (+5) , impact res to 10% (+10%) , price to 55g (+2g)
+- Elthare flat defense to 50% (+10%) , ranged damage adjusted to 5-4 (from 7-3)
+
+
+AE - Dark Legion
+- Crossbowman HP to 50 (+2)
+- Advanced HP to 67 (+3) , crossbowman pierce damage to 13-3 (+1)
+- Terror Stun attack damage to 19-2 (+2)
+- Elite Gunner melee damage to 11-3 (+1) , pierce ranged damage to 33-1 (+1)
+- Runner Drone HP to 30 (+1) , ranged damage to 6-3 (+1) , XP to 39 (-3) , price to 18g (+2g)
+- Protector Drone ranged damage to 9-3 (+1) , price to 31g (+1)
+- Rayblade HP to 51 (+4) , XP to 80 (+16) , price to 31g (+3g) 
+- Stormblade HP to 73 (+7) , ranged damage to 10-2 (+1) , price to 64g (+7g)
+- Raider HP to 37 (+1) , XP to 48 (+8)
+Unit itself was fine, but problem is that knight advancement is quite too strong for just 40 XP, and the other option is not at its level.
+- Pillager HP to 55 (+2) , movement to 10 (+1) , all strikes increase by 1 , price to 43g (+13g)
+- Knight HP to 60 (+2) , arcane res to 10% (-10%) 
+Comes from a unit that just costs 18g and 6 less XP than Loy horseman, so it's fine
+- Cavalier arcane res to 10% (-10%) , price to 85g (+15g)
+- Assault Drone melee adjusted to 9-2 (from 6-3) , XP to 82 (-5)
+Can't make it so much better than Sentry Drone because it comes from same unit... forced to make this unit probably much worse than what I would want...
+- War Drone melee adjusted to 9-3 (from 7-4)
+- Sentry Drone XP to 72 (-5)
+- Enforcer Drone blade melee adjusted to 10-4 (from 8-5) , price to 55g (+3g)
+
+
+EFM - Whites
+Some underpowered that is about to be fixed.
+
+- Terror Rider HP to 37 (+1) , XP to 43 (-5)
+- Terror Strider HP to 62 (+6) 
+Who cares about more health, this unit is just quite underpowered.
+- Warder HP to 37 (+1) , XP to 34 (-3) , price to 12g (-1g)
+- Guardian HP to 55 (+5)
+- Sentinal HP to 68 (+5)
+There was a need to make this unit so terrible? another buff from another review...
+- Scout HP to 31 (+1) , XP to 34 (-2)
+- Raider ranged damage to 8-3 (+1)
+It has no lv3 ...
+- Bowlady price to 56g (+3g)
+- Storm Witch price to 37g (+3g)
+- Storm Lady XP to 150 (+16) , price to 66g (+4g)
+The only nerf... but considering the buffs on the bad units might be a WIN for the faction.
+
+
+EFM - Pygmies
+- AE_efm_pygmies_spiderfoot cold res to 10% (+10%) , fire res to -20% (+10%)
+- AE_efm_pygmies_crocfloat cold res to -10% (+20%)
+Is there a need to make this foottypes be so bad vs magic?
+Cold becoming more common and in higher values, requires this units to get buffed to it.
+
+- Puma XP to 34 (-2) 
+- Lynx HP to 44 (+2) , XP to 72 (+5)
+- Saber Cat HP to 60 (+3)
+- Fly HP to 32 (+1) , XP to 39 (-1)
+- Mudfoot HP to 48 (+2)
+- Spider Rider XP to 42 (-2)
+- Charmer HP to 44 (+1)
+
+
+EFM - Dalefolk
+- Delver HP to 59 (+2)
+- Foreman HP to 59 (+2)
+- Mynah HP to 19 (+1)
+- Rocketeer melee to 4-2 (+1) , inverted artillery and ranged damages, then increase ranged damage by 1
+- Bombardier inverted artillery and ranged damages, then increase ranged damage by 1
+- Battery inverted artillery and ranged damages, then increase ranged damage by 1
+This will make AI quite more useful when using this unit...
+- Shifter human form movement to 6 (+1) , XP to 45 (-5) 
+- Wilderman human form movement to 6 (+1) , all charging animals damage increase by 1, wolf bite parry 5% , price to 33g (+3g)
+Have not tested this unit so I'm not sure if he needs more HP but some animal forms were quite underpowered...
+
+
+EFM - Darklanders
+- Guerrila swamp defense to 50% (+20%) , javelin damage adjuted to 8-2 (From 11-1) , price to 28g (+2g)
+- Militia XP to 75 (-5)
+- Guard HP to 73 (+2) , price to 56g (+3g)
+- Viper XP to 28 (-2)
+- Hurler XP to 36 (-2)
+
+
+
+EFM - Freemen
+- Chanter XP to 43 (-2)
+- Mufti XP to 80 (-5)
+- Vizier HP to 48 (+1) , blade melee damage to 7-4 (+1) , blade res to 10% (+10%)
+- Sultan HP to 64 (+2) , blade melee damage to 9-4 (+1) , blade res to 10% (+10%) , price to 62g (+5g)
+- Goun HP to 82 (+2)
+- Nomad HP to 51 (+1) , blade res to 10% (+10%) , price to 30g (+2g)
+- Sheik HP to 67 (+3) , price to 55g (+3g)
+
+
+EFM - Highlanders
+- Warrior impact res to -10% (+10%) 
+- Elephant XP to 75 (-3)
+- Hippotamus price to 32g (-8g)
+- Prowler pierce res to -10% (+10%)
+- Runner XP to 32 (-2)
+- Strider pierce res to -10% (+10%)
+- Lion Warrior XP to 44 (-2)
+- Witch Doctor XP to 45 (-2)
+
+
+EFM - Imperialists
+Even if the faction feels alright, ignoring them for really long while other factions gets buff can be a problem for imperialists.
+- Hardback XP to 44 (-2)
+- Rock Rider XP to 86 (-2) , price to 33g (-1g)
+- Avalanche HP to 76 (+2)
+- Tank price to 60g (+3g)
+- Pelite XP to 33 (-2)
+- Velite HP to 45 (+1) , price to 25g (+1g)
+- Slinger XP to 33 (-3)
+- Flinger price to 23g (-1g)
+- Spiker HP to 48 (+1) , price to 26g (-2g)
+- Standard XP to 42 (-2)
+
+
+EFM - SeaStates
+- Guild Officer melee damage to 14-2 (+1)
+- Veteran Bowman HP to 49 (+2)
+- Merchant Lord melee damage to 20-2 (+1) , blade res to 20% (+10%) , price to 62g (+5g)
+- Raider XP to 90 (+10)
+- Cataphract AMLA XP to 136 (+16) , price to 72g (+15g)
+It's wild strong unit
+- Vassal XP to 74 (+4)
+- Liegeman HP to 69 (+4)
+- Sagiharii melee damage to 5-3 (-1) , ranged damage to 9-3 (+1)
+- Clibbanarii HP to 68 (+2) , price to 67g (+10g)
+- Concoctionist HP to 44 (+2) , now self-heals(4) , melee adjusted from 6-2 to 4-3 price to 30g (+3g)
+- Doctor melee damage adjusted from 4-3 to 6-2
+I rather Concotionist have better melee in modded gamemodes lol
+
+
+ELE - Fallen
+Realized that most of previous changes to fallen in 4.38 did not correctly implement... regards on this
+The list might become quite long because it's both 4.38 and 4.39 balance changelog intentions.
+
+- Enforcer XP to 37 (-3)
+- Infiltrator ranged damage to 7-3 (+1) , arcane res to -10% (+10%)
+- Liquidator ranged damage to 9-3 (+1) , arcane/cold res increase by 10% 
+- Asperser HP to 48 (+2) , melee damage to 7-2 (+2) , arcane ranged to 6-5 (+1) , arcane res to -10% (+10%) , price to 35g (-2g)
+- Inquisitor HP to 58 (+3) , melee damage to 10-2 (+2) , arcane res to -10% (+10%)
+His aura is more often considered a bother than an help, so he as "bad teammate" by himself now has better stars.
+- Knight blade damage to 15-2 (+1) , price to 46g (+6g)
+- Lord HP to 65 (+2) , sword damage to 19-2 (+3) , fire res to -10% (+10%) , price to 67g (+9g)
+- Scorch King HP to 62 (+2) , fire res to 20% (+20%) , blade damage to 11-4 (-1) , added 9% consume to fire melee , price to 72g (+14g)
+
+- Tamer HP to 51 (+3)
+- Fallen Beast HP to 73 (+9) , price to 67g (+13g)
+- Shieldbearer HP to 57 (+3) , 9-3 attack resistant value drop to 1 (-1) , XP to 84 (+15) , price to 27g (-3g)
+- Shieldmaster HP to 69 (+3) , cold res to 0% (+10%) , all impact damages increase by +1 , price to 64g (+4g)
+- Master fire res to -10% (+10%) , price to 66g (+6g)
+- Overlord main attack damage to 27-2 (-3) , fire res to -10% (+10%) , XP to 175 (-15) , price to 90g (+10g)
+- Supreme Lord HP to 105 (+5) , impact damage to 36-2 (-2) , fire res to -10% (+10%) , price to 140g (+15g)
+
+
+- Fighter XP to 39 (-3)
+- Slayer price to 28g (-2g)
+- Decapittor HP to 63 (+3) , blade res to 30% (+10%) , price to 59g (+5g)
+- Revenger HP to 50 (+2)
+- Purgator HP to 65 (+2) , impact res to 30% (+10%) , price to 63g (+8g)
