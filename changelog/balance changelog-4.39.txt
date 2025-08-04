@@ -327,6 +327,20 @@ EOC - Wild Humans
 - Demon wolf HP to 42 (+2) , ranged damage to 6-3 (+1)
 
 
+EOC - Aragwaithi
+- Eagle Rider XP to 44 (+8)
+In prior of a stronger lv2 Eagle Master
+- Eagle Master HP to 52 (+4) , blade melee damage to 11-3 (+1) , impact melee damage to 17-2 (+1) , cold res to 10% (+10%) , price to 43g (+5g)
+- Lancer XP to 90 (+10)
+- Silver Shield HP to 72 (+7) , price to 66g (+6g)
+- Flagbearer flat defense to 50% (+10%)
+- Captain flat defense to 50% (+10%) , XP to 130 (+15) , price to 63g (+6g)
+- Ancient Banner flat defense to 50% (+10%) , price to 97g (+12g)
+- Pikeman HP to 55 (+2) , XP to 74 (+7)
+- Guardian HP to 72 (+2) , price to 57g (+6g)
+- Witch XP to 44 (-4)
+
+
 
 Archaic - Despair
 - AE_arc_despair_spirit cold res to 40% (+30%) , arcane res to -20% (+10%)
@@ -646,3 +660,191 @@ His aura is more often considered a bother than an help, so he as "bad teammate"
 - Decapittor HP to 63 (+3) , blade res to 30% (+10%) , price to 59g (+5g)
 - Revenger HP to 50 (+2)
 - Purgator HP to 65 (+2) , impact res to 30% (+10%) , price to 63g (+8g)
+
+
+
+
+ELE - Horned Skeletons
+This faction is facting severe issues at having massive -40% on arcane and -10% arcane, still of having good units, they are poor in HPs.
+
+- Horse Fighter HP to 51 (+3) , XP to 84 (+9)
+- Horse Knight HP to 69 (+6) , blade attack now has +Dread special , pierce damage to 16-2 (+1) , price to 67g (+4g)
+- Mage Rider HP to 48 (+3) , fire/cold res increased by 10%
+- Skeletal Mage Knight HP to 57 (+3) , fire/cold res increased by 10% , ranged damage to 9-3 (+1) , price to 66g (+9g)
+It's fine at being weaker than Knight because of being plague unit.
+- Frontliner HP to 51 (+4)
+- Banner Bone HP to 63 (+6)
+- Guard HP to 55 (+3) , arcane res to -30% (+5%) , price to 29g (+1g)
+- Fortrss HP to 72 (+2) , blade damage to 19-2 (+2) , price to 64g (+4g)
+- Sorceress HP to 50 (+2)
+- Maistrese HP to 63 (+5) , cold ranged damage to 19-2 (+2) , arcane damage to 14-2 (+2) , price to 72g (+5g)
+- Lich Underlord ranged damage to 11-2 (+1)
+- Lich Tyrant HP to 55 (+1) , ranged damage to 14-2 (+2) , price to 70g (+6g)
+- Lich Lord cold ranged damage to 9-3 (+1)
+- Lich King HP to 56 (+2) , ranged damage to 11-3 (+1) , XP to 140 (+23) , price to 72g (+7g) 
+- Lich Overlord HP to 72 (+4) , cold ranged damage to 14-3 (+1) , price to 103g (+10g)
+Would buff it more.... but it has TWO different leadership skills, which is quite dangerous if combined.
+
+- Corpse Burner HP to 42 (+2) , all damages increase by 1 , XP to 80 (+8)
+- Corpse Inferno HP to 54 (+4) , melee damage to 11-2 (+1) , ranged damage to 13-3 (+2) , price to 58g (+3g)
+Will not buff its lv1 because it's easily obtainable from plague
+- Corpse Amputator HP to 44 (+2) , impact melee damage to 8-2 (+1) , price to 32g (+2g)
+- Corpse Eliminator HP to 58 (+2) , all melee damages increase by 2, price to 64g (+4g)
+- Bone Shooter HP to 44 (+2)
+- Bone Headhunter HP to 56 (+4)
+- Viper NEW MELEE ATTACK: 6-3 pierce , ranged damage to 5-2 (+1)
+
+
+ELE - Vikings
+- Stor Oks HP to 49 (+4) , price to 32g (+2g)
+- Stor Sverd HP to 48 (+3) , price to 31g (+2g)
+- Stor Spyd HP to 51 (+3) , pierce melee damage to 15-2 (+1) , price to 32g (+3g)
+- Okse Skojold HP to 64 (+4) , blade res to 10% (+10%) , ranged damage adjusted to 6-3 (from 7-2) , price to 58g (+4g)
+- Spyd Skjold HP to 64 (+2) , all melee damage increase by 1 , blade res to 10% (+10%) , price to 56g (+3g)
+- Sverd Skjold HP to 60 (+3) , movement to 6 (+1) , impact damage increase by 1 , ranged damage increase by 1 , price to 60g (+6g)
+Been wrong that this unit been 5 movement unlike the other advancements, less tankier than the other Skjolds but stronger ranged.
+All of them semi low HP and support aura purpose.
+
+
+
+EOS - Eltireans
+- Disciple price to 17g (-1g)
+In paper it looks much better than when using, slows way less often than what would you expect.
+- Lightbringer arcane melee to 6-4 (+1) , price to 31g (-1g)
+That default skeletons are hell underwpowered is not reason to ruin this unit stats that muuuch.
+- Bishop arcane slowing to 11-2 (+1)
+- Archbiship arcane slowing to 16-2 (+1)
+- Elementalist XP to 45 (+5)
+Still GOOD cost efficiency
+- Hydromancer price to 34g (-3g)
+- Hydromonger price to 59g (-5g)
+- Whirlpool Lord HP to 63 (+3)
+- Calmblade pierce/blade res to 10% (+10%) , XP to 67 (+5)
+- Frostwalker blade res to 10% (+10%) , price to 55g (+4g)
+- Crusher blade res to 10% (+10%) , XP to 75 (+9)
+- Fury HP to 44 (+2)
+- Raging Mistress HP to 56 (+2)
+- Tempress HP to 41 (+2)
+- Siren HP to 57 (+2) 
+
+
+EOS - Eventide
+- AE_stf_eventide_piratefoot frozen movement cost to 2 (-1) , frozen defense 30% (+10%)
+
+- Auxilary XP to 32 (-2)
+- Diu Bowmistress price to 30g (-2g)
+- Eventide Alchemist fire melee to 12-2 (+1)
+- Eventide Poisoner fire melee to 16-2 (+1) 
+- Swabie HP to 36 (+1) , NEW RANGED ATTACK: 6-1 pierce ranged
+Worse terrain defenses in hills/forest, etc, while also being in disadventge vs other aquatic units.
+- Mariner HP to 53 (+2) , swallow/swamp water defense to 50% (+10%)
+- Navigator HP to 69 (+4)
+
+The lv2 cap units will get quite better when AMLA lv2 system gets added.
+
+
+EOS - Free Saurians
+- Swamp Saurian XP to 37 (-5)
+- Swamp Guard HP to 44 (+3)
+- Swamp Fighter HP to 48 (+1) , axe damage to 13-2 (+1)
+- Swamp Warrior HP to 63 (+1) , axe damage to 18-2 (+2)
+- Knife Thrower XP to 39 (-3)
+- Gladiator XP to 35 (-3)
+- Healer price to 26g (-4g)
+- Holy HP to 48 (+2) , arcane ranged damage to 6-4 (+1) , price to 42g (-2g)
+- Shockfrost pierce damage to 7-5 (+1)
+- Assasin HP to 58 (+3)
+- Spider XP to 35 (-2)
+- Tarantula impact melee damage to 12-1 (+1) , now has a parry 5% bonus
+
+
+
+EOS - Minotaurs 
+- Savage impact melee to 12-3 (+1)
+- Elder melee damage to 12-2 (+1)
+- Executioner HP to 72 (+3)
+
+
+EOS - Triththa
+- Charger HP to 47 (+5)
+- Linebreaker HP to 61 (+7)
+
+- Squid XP to 45 (-3)
+- Giant Squid XP to 86 (+6)
+- Kraken damage adjusted to 5-11 (From 5-10) , movement to 7 (+1)
+
+
+EOTF - Brungars
+A lot of inconsistencies in damage types, as well healths issues
+- AE_fut_brungar_Sea_Dwarf_Foot cold res to 20% (+10%)
+
+- Experienced tamer HP to 49 (+4)
+- Expert tamer HP to 67 (+7) , price to 55g (+5g)
+- Alligator rider XP to 45 (-3)
+- Cocodrile rider HP to 44 (+4) , melee impact damage to 11-2 (-2)
+- Baby Sea turtle melee damage to 7-2 (-1) and pierce change to blade, ranged damage adjusted to 4-3 (from 5-2)
+- Sea turtle melee damage from pierce to blade
+- Giant Sea Turtle HP to 62 (+2)
+- Leviathan HP to 77 (+2)
+- Council Member XP to 42 (-2)
+- High Council Member HP to 62 (+2) , ranged damage to 13-2 (-1) , price to 62g (+7g)
+- High Coulcil Elder melee to 9-5 (+1) , ranged to 13-3 (-1) , price to 90g (+13g)
+- Giant Crab HP to 67 (+7)
+- Dwarvish Hunter XP to 37 (-3)
+- Dwarvish Huntsman HP to 47 (+2) , XP to 74 (+9) , price to 29g (+2g)
+- Dwarvish Huntsmaster HP to 62 (+6) , melee damage to 16-2 (-1) , ranged damage adjusted to 6-3 (from 8-2) , price to 52g (+2g)
+- Harpoonier XP to 37 (-3)
+- Harpoon Specialist price to 25g (-3g) 
+- Harpoon Guard HP to 61 (+4) , price to 54g (+9g)
+- Apothecary melee damage to 4-3 (-1) and now is a blade attack (from impact) , XP to 33 (-6)
+- Herbalist HP to 40 (+3) , price to 26g (-2g)
+- Practioner HP to 54 (+4) , AMLA XP to 134 (-16) 
+- Herbecier HP to 47 (+2)
+- Toxin Specialist HP to 62 (+3) , ranged damage to 8-4 (+1)
+- Ice Apprentice HP to 44 (+2)
+- Crystal Master HP to 60 (+3)
+- Wave Rider HP to 42 (+2)
+- Wave Master HP to 55 (+2)
+
+
+EOTF - Nordhiris
+- Witch Doctor price to 32g (-2g)
+(I rather not touching Braveheart line without proper testing, I pass)
+- Frenetic Shaman XP to 44 (-3)
+- Tribal Sage HP to 44 (+4) , melee damage to 5-3 (+1) , ranged damage adjusted to 7-4 (from 5-5)
+- Wiseman HP to 57 (+3)
+- Northguard HP to 57 (+5)
+Terrible damages, needs better HP
+- Oathsworm HP to 73 (+3)
+- Reaver XP to 39 (-3)
+- Snowrunner XP to 38 (-4)
+- Farseer HP to 44 (+3) , price to 28g (+1g)
+- Frostdasher HP to 44 (+4) , XP to 72 (+5) , price to 28g (+2g)
+- Icebounder HP to 60 (+4)
+- Artic Prowler movement to 6 (+1) , price to 55g (+5g)
+
+
+EOTF - Welkin
+- Whirlwind price to 32g (-2g)
+- Tornado price to 49g (-3g)
+- Talon Hero melee damage to 9-4 (+1)
+- Flyer XP to 38 (-2)
+- Grand Flyer HP to 53 (+3) , price to 33g (+2g)
+- Golden Guard HP to 56 (+3) , arcane res to 0% (+10%) , fire res to 10% (+10%) , price to 31g (+2g)
+- Thoth's Bulwark HP to 66 (+3) , price to 57g (+3g)
+- Midnight Stalker HP to 42 (+2) , impact res to -10% (+10%) , cold res to 20% (+20%) , backstab damage adjusted to 5-3 (from 12-1)
+- High Pyronation XP to 150 (+23) , price to 67g (+4g)
+- Hierarch of Aten fire ranged damage to 18-4 (+1) , price to 117g (+32g)
+- Battle Sage HP to 52 (+4) , ranged damage to 8-2 (+2) , XP to 74 (+7) price to 28g (+2g)
+- Battle Seer HP to 70 (+3) , ranged damage to 10-3 (+3) , price to 53g (+5g)
+Second buff because the cost of lossing a great healer was still not worth it
+- Star Shooter XP to 49 (+3)
+Sadly... this time he got a nerf in prior of pairing all lv2 to similar gold cost values to increase fariness between all advancements
+- Shadow Raider HP to 36 (+2) , melee damage to 5-3 (+1)
+- Astral Ranger arcane ranged damage to 9-5 (+1) , price to 64g (+10g)
+- Quickdraw HP to 44 (+2) , arcane ranged damage to 7-4 (+1) , cold res to 20% (+20%) , price to 36g (+4g)
+- Deadeye HP to 55 (+3) , cold res to 30% (+30%) , arcane ranged damage to 10-4 (+1) , price to 62g (+7g)
+- Twilight Slayer HP to 48 (+3) , movement to 7 (+1) , price to 35g (+5g)
+If you ask me, it's a great unit... after TWO consecutive releases with ranged damage nerf it got some readjustments.
+
+
