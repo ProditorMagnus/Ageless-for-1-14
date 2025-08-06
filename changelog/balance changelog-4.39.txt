@@ -472,6 +472,22 @@ Archaic - Southseas
 - Diver HP to 42 (+2) , ranged slowing ranged adjusted to 4-2 (from 7-1)
 
 
+Archaic - Northern Orcs
+Hopefully this changes will make northern orcs more interesting in late/end game.
+- Knave XP to 43 (+4)
+- Raider HP to 54 (+4) , cold res to 20% (+10%) , XP to 80 (+17) , price to 26g (+1g)
+- Terror HP to 79 (+7) , impact melee damage to 20-2 (+1) , price to 57g (+4g)
+- Fireline HP to 61 (+3) , fire res to 10% (+10%) , XP to 84 (+11)
+- Firebreather HP to 82 (+8) , blade melee damage to 16-3 (+1) , fire melee damage to 20-2 (+1) , fire res to 20% (+10%) , price to 62g (+9g)
+No physical resistances, more cost but stronger, suits better for a no armor orc.
+- Orcish Hunter XP to 70 (+5)
+- Stalker HP to 65 (+3)
+- Wanderer HP to 44 (+2)
+- Vagrant HP to 50 (+2)
+- Traveler HP to 74 (+4)
+Lv2 damages... why not more health? unlike some orcs it's 4 hp for no XP increases.
+
+
 AE - Deep Elves
 This is a complete rework, making them more viable in most situations.
 - AE_dep_deep mountains defense to 50% (+10%)
@@ -846,5 +862,248 @@ Sadly... this time he got a nerf in prior of pairing all lv2 to similar gold cos
 - Deadeye HP to 55 (+3) , cold res to 30% (+30%) , arcane ranged damage to 10-4 (+1) , price to 62g (+7g)
 - Twilight Slayer HP to 48 (+3) , movement to 7 (+1) , price to 35g (+5g)
 If you ask me, it's a great unit... after TWO consecutive releases with ranged damage nerf it got some readjustments.
+
+
+FL - Altaris 
+I got plans to make a lv3 Altaris Primeval Warrior sprite with the body of lv2 but the weapon of Lv4
+- Chosen movement to 5 (-1)
+
+- Conjurer price to 15g (-1g)
+He shouldn't have overprice when hired
+- Illusionist all ranged damages to 13-2 (+1)
+- Master of Illusion all ranged damages to 17-2 (+2)
+- Crystal Golem blade res to 30% (+10%) , fire res to 20% (+10%)
+- Golden Golem impact res to 10% (+10%)
+- Iron Golem HP to 57 (+1) , melee damage to 18-2 (+2) 
+- Mitrhil Golem HP to 57 (+2) , melee damage to 14-2 (+1) , cold res to 60% (+10%) , secret resistance to 15% (+5%)
+- Quicksand Golem impact res to 40% (+10%)
+- Stone Golem ranged damage adjusted to 5-3 (from 7-2) -and icon changed- , pierce res to 40% (+10%)
+- Sword Brother melee damage to 4-4 (-1) , XP to 36 (-2) , price to 13g (-2g)
+- Truehearted ranged damage to 9-3 (+1)
+- First Sword all ranged damage increase by 2 , price to 111g (+11g)
+
+With sword brother being cheaper, it might be easier to players to use Conjurer's replicate, while avoiding crazy lv1 melee damages.
+
+
+FL - Amazon
+- Bowwoman price to 16g (+1g)
+- Huntswoman price to 28g (-2g)
+- Giant Creeper melee damage to 10-2 (+1) , price to 32g (-2g)
+- Cutthroat price to 14g (-1g)
+- Murderess price to 29g (-1g)
+- Great Murderess HP to 60 (+2)
+- Forest Ghost AMLA XP to 134 (-16)
+- Guardswoman price to 16g (-1g)
+- Sentinel HP to 55 (+2)
+- Warden HP to 67 (+3) , all melee damages increase by 1 , price to 58g (+3g)
+- Spear Mistress HP to 70 (+7) , price to 57g (-5g)
+Her base damage is so bad, she needs to be tankier then
+- Commanderess HP to 80 (+5)
+- Tiger Rideress price to 23g (+2g)
+- Tiger Mistress pierce melee damage to 7-4 (+1) , NEW ATTACK: blade 9-3 melee -no charge-
+- Harpy Glider HP to 45 (+2)
+- Black Harpy AMLA XP to 134 (-16)
+
+
+FL - Blood Elves
+Added descriptions to all their units :)
+
+- Dark Warrior price to 33g (+1g)
+- Elite Warrior price to 110g (+10g)
+- Pyromaster price to 105g (+20g)
+- Great Minotaur blade melee damage to 19-2 (+1) , price to 36g (-2g)
+- Minotaur Warlord blade melee damage to 27-2 (-1) , price to 69g (+7g)
+- Assassin price to 27g (-2g)
+- Slayer price to 54g (-2g)
+
+
+
+FL - Natives
+- Elder Falcon XP to 42 (-3)
+- Great Falcon HP to 40 (+2)
+- Acrobat XP to 36 (-4)
+- Druid melee damage to 8-2 (+1)
+- High Druid all damages increase by 1
+- Thaumaturgus all damages increase by 1
+- Ritualist HP to 55 (+2) , all ranged damage increase by 1
+- Warlock all melee dmage increase by 1
+- Storm Summoner HP to 48 (+3) , impact ranged damage to 13-2 (+1)
+- Stormlord HP to 60 (+2) , impact ranged damage to 19-2 (+1) , pierce ranged damge to 4-7 (from 4-6) , price to 62g (+6g)
+
+
+FL - Pirates
+Balancing in here is hell innacurate because they don't have a decent ground fighter, so balancing them requires testing.
+- Javalineer ranged damage to 13-2 (+1)
+- Harpooner ranged damage to 19-2 (+3)
+It's balanced considering as if this unit will hit once.
+- Sea Dragon HP to 77 (+3) , ranged damage to 5-3 (+1)
+
+
+Feudal - Ceressian League
+- Knight Raetian HP to 57 (+3) , ranged damage to 9-3 (+1) , price to 55g (+2g)
+- Cavalryman XP to 42 (+6)
+Sadly this is quite required to buff Stradioto to be more in pairs with Knight Errant.
+- Stradioto HP to 53 (+3) , fire res to 10% (+10%) , cold res to 20% (+10%) , price to 34g (+2g)
+- Cavaliero HP to 69 (+3) , fire res to 10% (+10%) , cold res to 20% (+10%) 
+- Rodelero HP to 64 (+2) , melee now has +magic counter, fire res to 10% (+10%)
+- Champion HP to 70 (+2)
+
+
+Feudal - Clockwork Dwarves
+- Iron Golem Soldier HP to 64 (+4)
+No traits, bad damages, let's make it really tanky to make it worth it.
+- Goliath HP to 86 (+6) , price to 67g (+3g)
+- Automaton HP to 42 (+2) , melee now has +magic-counter
+
+- Oiler all damages increase by 1
+Have seen heal+8 units with better damage, but this unit is only heals+4 ...
+- Blazer ranged damage to 12-3 (+1) , fire res to 30% (+10%) , price to 60g (+3g)
+- Armoed Mechanic melee damage to 13-2 (+1) , fire res to 10% (+10%)
+- Miasmist HP to 52 (+4) , XP to 85 (+7) , price to 33g (+2g)
+No health handicaps in this path, but higher XP for training.
+- Gas Baron HP to 70 (+4) , ranged damage to 9-4 (+1) , price to 64g (+4g)
+- Wander XP to 43 (-3)
+- Rambler HP to 62 (+2)
+- Itinerant HP to 81 (+3) , price to 67g (+1g)
+
+
+Feudal - High Elves
+- Archer XP to 42 (+5)
+- Chasseur HP to 46 (+5) , XP to 72 (+4)
+- Tireur d'Elite HP to 57 (+5) , price to 55g (+3g)
+- Cavalier HP to 57 (+2) , cold res to 10% (+10%) , XP to 80 (+5) , price to 35g (+3g) 
+- Escrimeur HP to 72 (+6) , cold res to 10% (+10%) , ranged damage to 18-1 (+1) , price to 63g (+6g)
+- Cuirassier XP to 85 (+5)
+- Lancier XP to 90 (+10) , price to 46g (-2g)
+- Gendarme HP to 72 (+6) , price to 73g (+6g)
+- Feyblade HP to 47 (+2)
+- Sylvanus HP to 63 (+3)
+- Horse Archer XP to 42 (+6)
+The focus is making the high elf calvary in overall of a better quality and avoiding mediocre mounted units.
+- Coutillier HP to 50 (+5) , cold res to 10% (+10%) , XP to 82 (+15) , price to 34g (+2g)
+- Chevauleger HP to 67 (+9) , cold res to 10% (+10%) , ranged damage to 16-2 (+1) , price to 66g (+4g)
+- Savari HP to 52 (+4) , XP to 80 (+12) , price to 34g (+2g)
+- Voltigeur HP to 64 (+7) , ranged damage to 11-4 (+1) , price to 65g (+6g)
+- Enchantress HP to 45 (+3) , XP to 93 (-6)
+- Sylph HP to 55 (+3)
+- Spearman arcane res to 0% (+20%) , XP to 44 (+3)
+High elves will no longer feature arcane weakness. But actions will be taken to compense this.
+- Glavier HP to 57 (-3) , arcane res to 0% (+10%) , blade damage to 14-2 (+1) , XP to 93 (+5) , price to 33g (-2g)
+- Captain pierce melee to 14-3 (+2) , blade damage to 18-2 (+3) , impact melee damage to 21-1 (+3) , arcane res to 0% (+10%) , price to 69g (+3g)
+- Schiltron fire/res to 10% (+10%) , XP to 72 (+4)
+- Fouchardier HP to 72 (+4) , fire/cold res to 10% (+10%) , price to 62g (+2g)
+- Shieldbearer arcane res to 0% (+15%) , XP to 83 (+10)
+- Aegis HP to 70 (+2) , arcane res to 0% (+10%) , price to 65g (+3g)
+
+
+Feudal - Orcish Khaganates
+- Ice Wind Drover HP to 54 (+3) , XP to 80 (-4)
+- Icewind Master HP to 67 (+2)
+- Outcast HP to 58 (+4) , impact damage to 14-1 (+2) , price to 26g (-2g)
+- Pariah HP to 72 (+5) , impact damage to 19-1 (+4)
+- Rigid XP to 55 (-9) , price to 23g (-7g)
+- Stoic all damages increase by 1
+- Juggernaut price to 33g (-1g)
+- Vanguard HP to 55 (+5) , price to 33g (-2g)
+- Khan HP to 74 (+4) , impact damage to 17-2 (+1) , price to 64g (+2g)
+- Bladesman XP to 84 (+7) , price to 29g (-1g)
+- Massif HP to 78 (+2) , range damage to 6-3 (from 6-2) , price to 64g (+6g)
+- Skewer HP to 77 (+3)
+
+
+Imperial - Arendians
+I particularly not hate playing with this factoin... but a VERY DIFFERENT topic is when it's turn of balancing them... -_- ...
+
+- Feather Bow HP to 43 (+2)
+- Arrow Wind HP to 53 (+1)
+- Slayer HP to 64 (+2)
+- Bowrider XP to 44 (+3)
+- Boltrider HP to 44 (+4) , XP to 80 (+14) , price to 37g (+1g)
+- Mounted Marksman HP to 62 (+11) , price to 64g (+10g)
+- Bowknight HP to 51 (+3)
+- Bowmaster HP to 67 (+10) , melee damage to 8-4 (+1) , price to 60g (+12g)
+- Shaman XP to 72 (-8)
+- Horseman XP to 42 (+4)
+- Chief HP to 53 (+2) 
+- Warlord HP to 72 (+8) , melee damage to 14-3 (+1) , price to 67g (+7g)
+- Battlear HP to 66 (+3)
+
+
+
+Imperial - Issaelfr 
+- AE_imp_fe_rider impact res to 20% (+20%) , fire res to -10% (+10%)
+
+
+- Gelus HP to 42 (+2)
+- Borealis HP to 54 (+2)
+- Mountaineer HP to 45 (+1)
+- Bladesman XP to 36 (+6)
+- Ice Roamer HP to 47 (+2)
+- Ice Dancer HP to 60 (+3)
+- Glaiver HP to 51 (+1) , ranged damage to 7-2 (+1)
+- Glaive Master HP to 69 (+2) , ranged damage to 11-2 (+1) , price to 60g (+1g)
+- Mistral Cryomancer HP to 62 (+2) , ranged damage to 10-4 (+1) , price to 60g (+3g)
+- Mistral Rime Keeper HP to 47 (+2) , XP to 68 (-8) , price to 34g (-1g)
+- Yak Knight impact damage to 18-1 (+2) , pierce melee damage to 9-3 (+1) , ranged damage to 15-1 (+1)
+- Yakmount Margrave HP to 67 (+3) , impact damage to 22-1 (+1) , pierce melee to 10-4 (+1) , pierce ranged to 19-1 (+2) , price to 64g (+4g)
+
+
+Imperial - Lavinian Legion
+- AE_imp_lavinianfoot arcane res to 10% (+10%)
+In these times, combining no arcane resistance and low base healths is doom.
+
+- Rorarius HP to 51 (+1) , pierce res to 0% (+10%) , price to 27g (+2g)
+- Velite HP to 49 (+1) , pierce res to 10% (+10%) , price to 25g (+1g)
+- Funditor impact res to -10% (+5%)
+- Bowman cold res to -10% (+10%)
+- Siege Archer cold res to -10% (+5%)
+- Saggitarius HP to 56 (+2) , fire ranged to 14-3 (+1) , price to 55g (+3g)
+- Field Ballista HP to 47 (+2) , arcane res to 30% (+10%) , XP to 72 (+5) , price to 30g (+1g)
+- Archuballistarius HP to 58 (+3) , arcane res to 30% (+10%) 
+- Aquilifer HP to 65 (+5) , blade damage to 12-3 (+1) , price to 52g (+2g)
+
+- Champion HP to 69 (+3)
+
+
+Imperial - Marauders
+- Fay XP to 44 (-2)
+- Seress HP to 43 (+3)
+- Shieldmaiden HP to 47 (+1)
+- Valkyrie ranged damage to 11-3 (+1)
+- Lord HP to 66 (+2)
+
+
+Imperial - Orcei Gladiatores
+- Gallus HP to 39 (+3) , XP to 44 (+4) , price to 16g (+1g)
+- Dimacherius HP to 58 (+6) , blade res to 10% (+10%) , XP to 85 (+19) , price to 34g (+5g)
+So the worth price differs much less from the other advancements.
+- Dimacherius Fortis HP to 80 (+5) , blade res to 10% (+10%) , price to 63g (+10g)
+Trying to make orcs more different in stats than human.
+- Murmillo HP to 55 (+3) , XP to 85 (+5) , price to 39g (+2g)
+- Murmillo Leonis HP to 70 (+5) , price to 70g (+3g)
+- Provocator HP to 57 (+2) , XP to 84 (+9)
+- Provocator Leonis HP to 74 (+5) , price to 66g (+2g)
+- Sammis XP to 34 (+4)
+- Hopomachus HP to 54 (+4) , XP to 70 (+10)
+- Hopomachus Fortis HP to 74 (+10)
+- Secutor HP to 51 (+3) , XP to 72 (+6)
+- Secutor Leonis HP to 64 (+7)
+- Thraex HP to 53 (+3)
+
+- Essedarius XP to 46 (-2)
+- Essedarius Vulpis HP to 57 (+4)
+
+
+Imperial - Sidhe
+- Fury XP to 42 (-2)
+- Wildblade HP to 44 (+1) , XP to 80 (-3)
+- Whirlwind HP to 56 (+2)
+- Blizzardlord HP to 64 (+4)
+- Raindancer XP to 42 (-2)
+- Tempest HP to 54 (+2) , blade damage to 7-3 (+1)
+- Stormlord HP to 66 (+3) , melee damage to 9-3 (+1)
+- Thunderblade ranged damage to 9-3 (+1)
+- Dark Thunderblade ranged damage to 9-4 (+1)
+- Herald XP to 80 (-5)
 
 
