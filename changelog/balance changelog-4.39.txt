@@ -25,6 +25,7 @@ FACTIONS PENDING TO BE ADDED LATER:
 Featured Notes
 - Shield attacks containing ONE SINGLE STRIKE that +slows will now have +Resistant(1) so the unit takes one less dmg per strike even if they miss the strike
 Few other exceptions get split in two strikes but no other specials.
+- Balance ME - Equestrians in 4.39 ...
 
 
 AoA - Farengarian Dwarven Counties
@@ -486,6 +487,9 @@ No physical resistances, more cost but stronger, suits better for a no armor orc
 - Vagrant HP to 50 (+2)
 - Traveler HP to 74 (+4)
 Lv2 damages... why not more health? unlike some orcs it's 4 hp for no XP increases.
+
+
+Mounts are quite fair, they're agile/lighter, while still armored and not so high HP, they can 50% defense... which I liked their current status and didn't alter.
 
 
 AE - Deep Elves
@@ -1107,3 +1111,235 @@ Imperial - Sidhe
 - Herald XP to 80 (-5)
 
 
+ME - Avians
+This is a mini rework, they will become more costy to level up but in return they will gain more health.
+
+It's just the addition of a lot of small changes... making bigger avians even bigger... :)
+While armored ones, remain unchanged because it's all logic that an armors aren't healthy at all for avian peoples if they pretend to fly with them...
+
+
+- Watchman HP to 36 (+2) , XP to 44 (+5)
+- Bladewing HP to 56 (+3) , claws damage to 16-2 (+1) , Sonic Boom damage to 14-1 (+1) , XP to 90 (+8)
+- Razorwing HP to 76 (+6) , claws damage to 20-2 (+2) , Sonic Boom damage to 18-1 (+1) , price to 66g (+11g)
+- Shell HP to 68 (+3) , price to 54g (+1g)
+- Savior HP to 49 (+3)
+- Pigeon XP to 42 (+7)
+- Dove HP to 44 (+6)
+- Hummingbird HP to 43 (+3)
+- Sparrow HP to 45 (+3)
+- Falcon price to 58g (+2)
+- Passer HP to 54 (+3)
+- Egglayer HP to 48 (+3)
+Inspires 1 is not as great as leadership.
+- Jackdaw XP to 44 (+6)
+Sorry if I have to nerf this, but when I tested avians, it was quite nerves melting trying to use the low lv2 HPs version of this...
+- Crow HP to 46 (+4)
+- Raven HP to 57 (+2)
+Health for free
+- Owl HP to 42 (+4) , price to 39g (+3g) 
+Nighstalk is quite scary...
+- Nightwing HP to 55 (+2)
+- Steelbeak HP to 68 (+2)
+- Archer XP to 40 (+5)
+- Bombardier HP to 54 (+4) , XP to 75 (+5) , price to 27g (+1g)
+- Blowflurry HP to 68 (+5) , price to 54g (+2g)
+- Hawkeye HP to 49 (+4) , XP to 80 (+8)
+- Eagleeye HP to 63 (+6) , price to 60g (+6g)
+- Broadwing cold ranged damage to 9-2 (+1)
+- Skylord melee damage to 9-2 (+1) , XP to 90 (+4)
+- Winged Baron HP to 63 (+3) , all damages increase by 1 , price to 70g (+10g)
+- Skyterror cold ranged damage to 15-2 (+2) , XP to 93 (+7)
+- Dreadnough HP to 81 (+7) , cold ranged damage to 22-2 (+5) , price to 65g (+11g)
+- Rocket HP to 62 (+2)
+
+
+ME - Blight
+Some of the blight army will now feature more often healing mechanisms while defeating living foes.
+
+
+- Acid HP to 25 (+1) , nerfed version of melee damage increased by 1, nerfed version of ranged increase by 1
+- Ooze nerfed version of melee damage increased by 1 , dissolve damage to 18-1 (+1)
+- Undertow HP to 52 (+3)
+(I refuse buffing fetid line, because if you don't own fire/arcane they literally toast your side)
+- Sporehive melee damage adjusted to 2-4 (from 1-5)
+- Zombie now has +Feeding in lv2
+That's an increase of 4-6 HP when getting to lv3, fair enough.
+- Plagued / Blighted now have +Feeding
+- Undead Hound now have +Scavenger(+3) , price to 40g (+2g)
+
+
+ME - Cult
+Allowing Cult have monstrous stats in very specific units, proving their sucess in genetic experimentation (and me in balancing experimentation :D)
+Sincerly this faction has SO MUCH potential, but requires new sprites and more human experimentating to make it really a majetic design.
+
+- Lookout HP to 33 (+1)
+- Sentry HP to 47 (+2) , fire ranged damage to 9-2 (+1)
+- Beacon HP to 63 (+3)
+Pretty strong in offensive for a scout
+- Transformation XP to 80 (+12)
+Transformation path should be more focused in late/endgame, meanwhile Rebel mostly for mid game.
+- Mutant HP to 78 (+2) , claws damage to 14-3 (+1) , bite damage to 20-2 (+2) , XP to 144 (+44) , price to 64g (+10g)
+- Inhuman HP to 104 (+9) , pierce melee damage to 11-6 (+1) , claws damage to 16-4 (+2) , bite attack now has +Swallow(+6) , price to 117g (+27g)
+- Slither HP to 64 (+2) , price to 55g (+1g)
+- Freak HP to 43 (+2) , XP to 45 (+3)
+- Miscreation HP to 61 (+4) , XP to 80 (+10) 
+- Monstrosity HP to 87 (+9) , price to 57g (+5g)
+- Waiter XP to 42 (+6) 
+Faction lacks of good ranged units, might probably raise XP for better lv2s.
+- Ambuscade melee damage to 6-3 (+1 strike) , cold res to 10% (+10%)
+- Lurker HP to 49 (+3) , XP to 80 (+16)
+- Waylayer HP to 64 (+6) , price to 64g (+7g)
+
+(Already edited cultist line and made a great job in the previous release, but I'm not sastified in just chaing their stats once again, so I pass...)
+I would be willing reworking this line in 4.39 making one of the path remain their human nature , while the other opened for genetic mutations and even greater stats differs.
+This time I preffer waiting for something bigger and more majestic.
+
+
+ME - Emperor Guard
+This is another mini rework for the emperor's guard, my idea is about making them more expensive and more elite troops particularly in highest levels.
+LONG LIFE TO THE EMPIRE, some of units description been added.
+
+- Tatsu fire ranged to 8-4 (+1)
+- Ryong HP to 69 (+3)
+- Samurai Captain melee damage to 11-2 (+1)
+- Shogun HP to 74 (+4)
+- Daimyo HP to 93 (+5) , price to 103g (+18g)
+- Shadow Ninja HP to 57 (+2)
+- Samurai XP to 47 (+5)
+- Bushi HP to 59 (+7) , XP to 90 (+10) , price to 35g (+1g)
+- Demonic Samurai HP to 73 (+8) , fire melee damage to 24-2 (+1) , price to 74g (+9g)
+- Imperial Guard HP to 78 (+6) , blade melee damage to 12-4 (+1) , price to 70g (+14g)
+- Monofu HP to 60 (+4) , XP to 90 (+10)
+- Tsuwamono HP to 78 (+3) , impact res to 10% (+10%) , ranged damage to 10-2 (+1) , price to 72g (+7g)
+- Kyu XP to 42 (+6)
+At the cost of really proficient lv2 and lv3 archers some XP increases.
+- Kyu HP to 56 (+4) , XP to 88 (+16) , price to 28g (+1g)
+- Elite Kyu HP to 72 (+4) , movement to 6 (+1) , blade res to 10% (+10%) , melee damage adjusted to 7-4 (from 9-3) , price to 67g (+7g)
+My idea is making some archers be LITERALLY in the scope of meta, and help to shutdown these highly magical resistant melee warriors in other factions.
+
+
+Considering they do not have mages, berserker or healers, they NEED to be really strong.
+
+
+ME - Enchanters
+Enchanters require wild high XP on their mages, let's just not change XP values but raise HP values.
+
+- Reductor XP to 44 (-2)
+- Featherlite HP to 45 (+3)
+- Titan HP to 57 (+2)
+- Arcane Rune Splicer HP to 57 (+2)
+- Rune Mage HP to 63 (+3)
+- Rune Master HP to 75 (+5)
+- Rune Purist HP to 56 (+5) , damage adjusted to 3-9 (from 3-10) , price to 62g (+7g)
+Had to nerf him ... he had wild 39 (3x6 = 18) + (1+2+3+4+5+6 = 21)  average dmg (stats worth 55 ranged damage... which is lv4 ranged damage attack)
+
+With nerfed damage he's now (3x5.4 = 16.2) + (1+2+3+4+5+(0.6) = 15.6) which is 32.8 average damage
+or equivalent to stats worth 46 damage, which is ALMOST as good as 12-4 on a lv3, excluding players can cheese with XP mod from this, while inconsistent it will most likely deal some dmg.
+
+- Ice Rune Improver HP to 58 (+4) , price to 60g (+3g)
+- Rune Splicer HP to 59 (+3) , fire/cold ranged damage increase by 1 , impact ranged damage increase by 2 , price to 62g (+4g)
+
+
+ME - Fanatics
+- Terrorist melee damage to 12-2 (+1)
+- Fearmonger ranged damage to 11-3 (+1)
+- Genie XP to 42 (-6)
+- Misinformant HP to 44 (+4) , price to 31g (-1g)
+- Propagand HP to 60 (+4)
+- Sand Bandit HP to 54 (+2)
+
+
+ME - Hive
+- Soldier Ant blade res to 20% (-5%) , pierce res to 30% (+10%)
+- Flea HP to 48 (+3)
+- Tick HP to 62 (+4)
+- Queen HP to 47 (+3)
+- Overmind HP to 61 (+3)
+- Firefly impact res to -20% (+10%) 
+- Lanternbug impact res to -20% (+5%) , melee damage to 5-4 (-1) , ranged damage to 12-2 (+2)
+- Trapdoor spider impact melee damage to 12-1 (+2) and now have parry 5% , impact ranged damage to 5-3 (+1)
+
+
+ME - Holy Order
+- Crusader arcane melee damage to 9-3 (+1)
+- Bishop HP to 48 (+2) , XP to 75 (-5) , price to 28g (-2g)
+- Archbishop HP to 62 (+2) , all arcane damage increase by 1
+- Priest HP to 45 (+3)
+- Pope now have parry 5% in melee
+- Inquisition HP to 51 (+3) , XP to 84 (+10)
+- Torturer HP to 70 (+8) , price to 60g (+4g)
+- Judgementor XP to 65 (-5)
+- Lightwisp XP to 37 (-13)
+- Holy Spirit XP to 82 (-13)
+- Justice XP to 65 (+5) , price to 23g (-3g)
+- Law price to 49g (-3g)
+- Order price to 49g (-3g)
+- Peacekeeper slowing attack now has 5% parry
+- Student XP to 45 (-5)
+- Mage HP to 45 (+2) , price to 34g (-1g)
+- Ballast HP to 57 (+2)
+- Demon Slayer arcane ranged damage to 16-2 (+1) , cold res to 10% (+10%) , XP to 84 (+7) , price to 33g (-1g)
+- Purifier HP to 74 (+6)
+
+
+
+ME - Infernai
+- Magog melee damage to 9-2 (+1)
+- Incubus HP to 72 (+4) , price to 57g (+2g)
+- Ifreet XP to 45 (-4)
+- Master Ifreet XP to 80 (-10)
+- Ifret Sultan HP to 40 (+2)
+- Demon price to 29g (-3g)
+
+
+ME - Mercenaries
+- AE_mrc_mercenaries_mercfootsoldier sand/frozen defense increase by 10%
+- AE_mrc_mercenaries_mercfootsoldier2 sand/frozen defense increase by 10%
+- AE_mrc_mercenaries_mercfootsoldier3 sand/frozen defense increase by 10%
+This might help lv1 overpriced mercenary to be slightly better , even on higher levels.
+
+- Mercenary HP to 37 (+1)
+- Hessian HP to 57 (+3) , XP to 84 (+14) , price to 28g (+1g)
+- Soldier-of-fortune HP to 82 (+2) , pierce damage to 15-3 (+1) , impact damage to 22-2 (+2)
+- Man-at-arms pierce melee damage to 12-3 (+1) , impact damage to 17-2 (+2)
+- Mankiller HP to 51 (+3) , XP to 82 (+8)
+- Slayer HP to 69 (+2) , flat defense to 50% (+10%) , pierce melee damage to 12-4 (+1) , price to 65g (+3g)
+- Mneuverer HP to 44 (+2) , XP to 82 (+14)
+- Guerrilla Cavalry HP to 60 (+7) , price to 62g (+5g)
+- Seeker XP to 84 (+6)
+- Questfinder HP to 70 (+5) , pierce melee damage to 19-2 (+1) , price to 64g (+9g)
+For map controling, he' quite great for taking down some other horse scouts.
+- Isolated mage HP to 53 (+3)
+- Black Mage HP to 66 (+5) , price to 67g (+3g)
+- Warrior Mage XP to 95 (-5)
+- Battlemage fire ranged damage to 12-3 (+1)
+- Tracer XP to 80 (+10)
+- Collector ranged damage to 9-5 (+1) , price to 57g (+5g)
+- Sniper HP to 61 (+2) , flat defense to 50% (+10%) , price to 57g (+3g)
+- Scavenger HP to 48 (+2) , movement to 6 (-1) , flat defense to 50% (+10%)
+- Slasher backstab melee damage to 8-3 (-1) , NEW ATTACK: 8-4 blade melee (no special) , price to 32g (-4g)
+They're already good tankyness, not need him having lv3 backstab values.
+- Mariner HP to 65 (+2)
+
+
+ME - Oracles
+- Beholder XP to 48 (+7)
+- Evileye HP to 47 (+2) , all ranged damage increase by 1 and now have +Magic-counter , cold res to 30% (+10%) , price to 38g (+3g)
+First and only unit , to have magic-counter in ranged range.
+- Guru HP to 57 (+3)
+- Emlightened HP to 73 (+3)
+- Gravitymancer HP to 42 (+2)
+- Occultist NEW ATTACK: 9-3 pierce ranged +Very-Skilled , price to 33g (+2g)
+- Alchemist NEW ATTACK: 13-3 pierce ranged +Very-Skilled , price to 67g (+2g)
+Now with the pierce attack he's no longer a mediocre unit if there is no XP mod.
+
+
+ME - Refugees
+Will consider testing before editing this faction, but archer buff.
+- Sniper HP to 49 (+3) , marksman ranged damage to 14-2 (+1)
+- Deadeye HP to 57 (+3)
+
+
+ME - Slavers
+- Farmhand HP to 51 (+3)
+- Freedman HP to 68 (+3)
