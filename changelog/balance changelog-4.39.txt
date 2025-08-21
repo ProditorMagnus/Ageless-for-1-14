@@ -25,7 +25,7 @@ FACTIONS PENDING TO BE ADDED LATER:
 Featured Notes
 - Shield attacks containing ONE SINGLE STRIKE that +slows will now have +Resistant(1) so the unit takes one less dmg per strike even if they miss the strike
 Few other exceptions get split in two strikes but no other specials.
-- Balance ME - Equestrians in 4.39 ...
+- Balance ME - Equestrians in 4.40 ...
 
 
 AoA - Farengarian Dwarven Counties
@@ -36,6 +36,8 @@ AoA - Farengarian Dwarven Counties
 
 
 AoA - Farengarian Kingdoms
+- Arcanist no longer can be used as starting leader (TELEPORT TOO OP)
+
 - Questing chavalier and all advancement mountain def to 40% (-20%)
 It's worse armor HI but it can climb mountains...
 - Questing Chevalier HP to 39 (+1) , melee to 8-3 (-1) , impact res to 10% (+10%) , price to 17g (-4g)
@@ -134,6 +136,8 @@ Lv1 requires 48 XP to gain this lv2 ... this is why the enormous HP buff
 
 
 AoA - Mauve Islands
+- Arcanist no longer can be used as starting leader (TELEPORT TOO OP)
+
 - Gallowglass blade res to 10% (+10%)
 - Ancient Druid AMLA XP to 134 (-16)
 - Knight Arcanist fire ranged to 10-3 (+1) , arcane res to 30% (+10%)
@@ -146,8 +150,17 @@ and a combo with Rage(2) which basically is free x2 strikes in offensive...
 
 
 AoA - Mountain Goblins
+Main problem of this faction is missing more endgame options, which will be fixed with new advancements and XP reductions.
+This will clearly help them scale significantly better in endgame.
+
 - Clan Chief XP to 70 (-10) , price to 29g (-3g)
-- Wolf Champion HP to 64 (+3)
+- Wolf Champion HP to 64 (+3) , Champion AMLA XP to 134 (-16)
+
+- Bowman XP to 34 (-16) , and will now get a new advancement !! : Plain Ranger
+It features 50% marksman, 50% flat defense and some small profits on advancement.
+- Assassin XP to 65 (-35) , and will now get a new advancement !! : Slayer
+- Footman XP to 38 (-12) , and will now get a new advancement !! : Invader
+- Shaman XP to 55 (-45) , and will now get a new advancement !! : Goblin Wiseman
 
 
 AOA - Norse Jalrdoms
@@ -545,6 +558,75 @@ Can't make it so much better than Sentry Drone because it comes from same unit..
 - Enforcer Drone blade melee adjusted to 10-4 (from 8-5) , price to 55g (+3g)
 
 
+AE - Desert Elves
+- Moon Enchantress HP to 42 (+2) , cold ranged damage to 8-3 (+1)
+- Moon Priestress HP to 53 (+2) , all damages increase by 1
+- Dust Vengeance tornado damage to 11-2 (+2)
+
+
+AE - Frozen
+- Frost Rider XP to 53 (-3)
+- Frost Knight HP to 57 (+2)
+- Frost Student XP to 44 (-2)
+- Frost Sorceress HP to 56 (+4)
+- Frost Warrior HP to 47 (+2) , cold damage to 13-2 (+2)
+- Frost Heavy Warrior cold damage to 20-2 (+3) , price to 66g (+9g)
+- Big Ice Golem cold damage to 12-2 (+2)
+- Ice Golem King HP to 84 (+4)
+- Ice Golem Titan cold damage to 22-2 (+2)
+
+
+AE - SteelHive
+- Sentinel HP to 69 (+2)
+
+
+AE - Yokai
+- AE_agl_yokai_pixie fungus defense to 60% (-10%)
+
+- Greater Spriggan melee damage to 4-4 (-1) , XP to 72 (-28) , and will now have a lv3 advancement: Majestic Spriggan
+NEW UNIT Majestic Spriggan : HP 74 , 6-4 impact melee (no longer has defend only) , 9-4 impact ranged, same other stats, price 48g
+
+- Mandragora rework! it will now be more assassin role
+1) Aligment changed to chaotic (suits more with the folklore)
+2) All physical resistances decrease by 10% , cold res to 40% (+20%) , fire res to -10% (+20%) , arcane res to -30% (-20%)
+3) Melee damage to 4-2 (-2) , now has +poison and no +defend-only , the 2 strikes ranged no longer exists , ranged damage type change to pierce.
+4) XP to 42 (-18) , will now have a lv2 advancement
+5) Cave movement cost to 1 (-2) , defense to 40% (+10%) , forest defense to 50% (-10%) , Reefs/swallow water movement cost to 3 (+1)
+They will in their advancement have more affinity to terrains with low vegetation.
+It gets worse forest defense the higher level is, but in exchange it gains cave defense or movement costs.
+6) Will now advance to lv2 and lv3 !
+
+- Weaver Widow XP to 42 (-8) , and now will have a lv2 advancement !! : Black Widow
+Just stats increases and also drain melee bonus.
+- Weaver Matriarch XP to 60 (-40) , and will now have a lv3 advancement !! : Weaver Empress
+Very cheap XP promotion, but very low stats increase. Just helping Yokai to slightly have more hit-points in endgame.
+- Rebel Swarm will now have a lv2 advancement !! : Killer Swarm
+Which will feature lv2 feeding in order to handle both issues of no plague and XP mod handicaps.
+Small thing to mention , lv2 will just feature HP/DMG increases, 1 extra movement and no cold weaknesses.
+
+- Faerie XP to 47 (-16) , mushroom defense to 60% (+10%) and can now advance to lv2 ! : Enchanted Faerie
+Minor things to say about ther, much stronger ranged, moderate melee damage increase but with magical bonus and slightly better magic res.
+
+- Nixie XP to 38 (-25) ,  ranged adjusted to 5-3 (from 4-4) , will now have a new advancement: Nix
+Lv2 features very low HP , but has some bonues on magic resistance, 1 extra movement and magic-counter on melee, 5% accuracy bonus in the melee attack and regens(4).
+Indeed inferior in comparation of Enchanted Faerie, but it's also cheaper to train, and more hit points if on water terrain.
+
+- Tengu XP to 80 (-20) , price to 32g (+2g) , will now have a lv3 advancement! : Daitengu
+Not much to say, greater stats, 10% more all magical resists.
+- Kodama XP to 80 (-20) , and can now advance to lv3 !! : Elder Kodama
+It gains so few stats because I'm so cautious about big stats increases because of the unlucky aura...
+
+- Poltergeist all damages increase by 1 , XP to 36 (-2) , price to 12g (-1g)
+Its damages are so terrible for a lv1 unit...
+- Banshee XP to 80 (-20) , and will now advance to lv3 !! : Midnight Banshee
+Notable features is lv3 terror aura (which is a lot stronger...) , very small stats increases but a 9-4 fireballs ranged with no specials!
+- Phantom ranged damage to 5-3 (+1) , XP to 65 (-35) , and now will have a lv3 advancement! : Phantom Keeper
+Not much to feature appart of poor gain of stats for its XP, but it gains +Snoothing on ranged which helps it at taking less damage from mages.
+
+Lv2 Onryo and Feyborn Witchs don't get advancement because they got a very good special.
+
+
+
 EFM - Whites
 Some underpowered that is about to be fixed.
 
@@ -870,6 +952,9 @@ If you ask me, it's a great unit... after TWO consecutive releases with ranged d
 
 FL - Altaris 
 I got plans to make a lv3 Altaris Primeval Warrior sprite with the body of lv2 but the weapon of Lv4
+Altaris Focus is at being strong at both early and endgame, but striggling in mid and late game.
+So very likely they will be reviewed again in 4.40 because they're quite highly experimental factional design.
+
 - Chosen movement to 5 (-1)
 
 - Conjurer price to 15g (-1g)
@@ -885,9 +970,15 @@ He shouldn't have overprice when hired
 - Sword Brother melee damage to 4-4 (-1) , XP to 36 (-2) , price to 13g (-2g)
 - Truehearted ranged damage to 9-3 (+1)
 - First Sword all ranged damage increase by 2 , price to 111g (+11g)
-
 With sword brother being cheaper, it might be easier to players to use Conjurer's replicate, while avoiding crazy lv1 melee damages.
-
+- Primeval Warrior XP to 70 (-95) , now has a lv3 : Primeval Master
+- NEW UNIT ADDED: Primeval Master , 60 HP (+15) , 9-4 (+2) secret +Precision +Magic-Counter , +10% arcane res , 54g cost & 125 XP to advance, promotes to Lv4 Ancient Warior
+Lv4 remains unchanged, but total lv2 to lv4 XP cost increase from 165 to 190 but players get this early reward.
+Lv3 is intended to not be a great archievement, still is tankier enough and has full magic parry at both retaliatio and offensive.
+- Light Scout melee to 3-2 (from 4-1) , ranged to 5-3 (from 8-2) , no longer has first-strike in ranged, XP to 36 (-14) , can now advance to two lv2's (Interceptor & Infiltrator)
+Interceptor is an hybrid fighter swift-foot skirmisher unit, with bonus terrain defenses at bad places and 10% impact resistance.
+Incursionist is a fast moving swift-foot scout, featuring first-strike on ranged , 10% cold resistance and also more hit points than interceptor and -10% less AMLA XP.
+ 
 
 FL - Amazon
 - Bowwoman price to 16g (+1g)
@@ -1343,3 +1434,93 @@ Will consider testing before editing this faction, but archer buff.
 ME - Slavers
 - Farmhand HP to 51 (+3)
 - Freedman HP to 68 (+3)
+
+
+MiE - Sylvan Keepers
+Treefolk needs buffs because in consideration of no bonus trait when hired.
+
+- Bark Guise HP to 43 (+2)
+- Bark Elder HP to 64 (+2) , ranged damage to 11-1 (+1) , XP to 72 (-2)
+- Sentry Bark HP to 82 (+2) , ranged damage to 14-1 (+2)
+- Ghastbark HP to 59 (+4)
+- Fearless Dourbark HP to 76 (+4)
+- Aassilant HP to 38 (+3)
+- Dauntless HP to 58 (+4)
+- Vengeance HP to 74 (+4)
+- Sylvan Wyvern XP to 46 (-4)
+- Nightwood HP to 54 (+2)
+
+- Sprite XP to 46 (-2) -not gonna lower it more because GOOD cost efficiency-
+- Nightwood Faerie HP to 55 (+2)
+
+- Keeper XP to 38 (-2)
+- Guardian XP to 87 (-6)
+No traits, it's tough to level with no inteligent individuals.
+
+
+MiE - The Hoofs
+- Cornur Shaman XP to 36 (-6)
+- Warlock HP to 50 (+2) , impact ranged damage to 10-2 (+1) , price to 27g (+1g)
+- Elder HP to 60 (+3) , impact ranged damage to 12-3 (+1)
+
+- Mystic XP to 43 (-3)
+- Knight impact melee damage to 9-3 (+1)
+- Paladin impact melee damage to 10-4 (+1)
+- Fighter impact melee damage to 6-2 (+1)
+- Warrior impact melee damage 10-2 (+2) , price to 31g (+1g)
+- Heroic impact melee damage to 16-2 (+5) , price to 63g (+6g)
+- Composite impact melee dmage to 8-2 (+1)
+- Sharpshooter impact melee damage to 11-2 (+2) , price to 60g (+2g)
+
+
+MiE - Thelians
+- Hunter XP to 36 (-2)
+- Shaman XP to 40 (-5)
+- Blood Shman HP to 44 (+2)
+- Master of curses HP to 57 (+2)
+
+- Spirit XP to 48 (-4)
+- Ancestor XP to 88 (-7)
+
+
+MiE - Vampires
+- Apprentice XP to 42 (-4)
+- Grandmaster arcane ranged damage to 16-2 (+1)
+- Count XP to 140 (+30) , price to 62g (+7g) 
+- Prince HP to 82 (+8) , blade melee damage to 16-3 (+1) , price to 103g (+21g)
+- Blood Hunter HP to 43 (+2)
+- Soul Hunter HP to 54 (+2)
+- Lunatic HP to 57 (+2) , all melee damages increase by 1 , price to 34g (+2g)
+Savage needs massive 46 XP to be obtained, and 20g cost lv1 unit.
+
+
+EE - Chaos 
+- Headhunter XP to 38 (-2)
+- Marauder HP to 38 (+2)
+- Soulhunter HP to 54 (+2)
+- Rabid Hound HP to 38 (+2)
+- Warp Hound HP to 47 (+3)
+- Overlord HP to 96 (+6)
+- Doom Guard shield damage to 13-1 (+2) and now has 5% parry
+- Hell Guardian shield damage to 18-1 (+2) and now has 5% parry
+- Invoker XP to 45 (-3)
+- Demonologist HP to 52 (+2) , cold ranged damage to 11-4 (+1) , price to 67g (+2g)
+- Greater Mutation HP to 60 (+4)
+- Abobination HP to 78 (+5) , impact melee damage to 21-2 (+1)
+
+
+EE - Dark Elves
+- Captain ranged damage to 11-1 (+2) , XP to 90 (+10)
+- Marshal HP to 67 (+2) , ranged damage to 16-1 (+3) , price to 66g (+3g)
+- Lizard Master blade melee damage to 9-3 (+1)
+- Noble XP to 38 (-2)
+- Lord shield attack now has 5% parry
+- High Lord shield attack now has 5% parry
+- Wizard XP to 44 (-3)
+
+
+EE - Monsters
+- Spider HP to 41 (+2)
+- Overgrown spider HP to 55 (+4)
+- Water Snake XP to 44 (-4)
+- Water Serpent HP to 52 (+2) , melee damage to 16-2 (+1)
