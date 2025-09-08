@@ -1258,6 +1258,22 @@ That's an increase of 4-6 HP when getting to lv3, fair enough.
 - Plagued / Blighted now have +Feeding
 - Undead Hound now have +Scavenger(+3) , price to 40g (+2g)
 
+- Acid rework
+1) Nerfed version of melee attack removed, main melee attack damage to 8-2 (from 15-1) and no longer has unupgradable(1)
+2) Removed the nerfed version of ranged attack, removed un-upgradalbe(4) in main ranged.
+As a max lv1 unit, it it still hard to use well with such limitation of level limit.
+
+- Amoeba rework
+1) Nerfed version of melee attack removed, main melee dmage to 7-2 (from 14-1) and no longer has unupgradable(2)
+
+- Ooze rework
+1) Impact melee attack to 9-3 (from 14-2) and no longer has un-upgradable(2)
+XP to 90 (+19) , price to 29g (-2g)
+
+Ideas is to remove the unnecesary attacks, as well making the main attacks slightly worse on all this blobs.
+
+
+
 
 ME - Cult
 Allowing Cult have monstrous stats in very specific units, proving their sucess in genetic experimentation (and me in balancing experimentation :D)
@@ -1281,9 +1297,15 @@ Faction lacks of good ranged units, might probably raise XP for better lv2s.
 - Lurker HP to 49 (+3) , XP to 80 (+16)
 - Waylayer HP to 64 (+6) , price to 64g (+7g)
 
-(Already edited cultist line and made a great job in the previous release, but I'm not sastified in just chaing their stats once again, so I pass...)
-I would be willing reworking this line in 4.39 making one of the path remain their human nature , while the other opened for genetic mutations and even greater stats differs.
-This time I preffer waiting for something bigger and more majestic.
+- Covert/Executioner/Spy are no longer considered human, by lore and codes.
+a) race change from AE_mrc_cult_race to AE_mrc_mutant_race
+b) arcane res to 0% (-10%) , cold res to 20% (+10%)
+c) descritipions slightly changed to point they're now mutant and no longer human.
+
+- Overt arcane res to 10% (-10%)
+- Cleaner HP to 57 (+1) , arcane res to 10% (-10%) , cold res to 0% (-10%) , pierce res to 0% (+10%) , and now has +Bold special
+Also adapted their descriptions as well.
+
 
 
 ME - Emperor Guard
@@ -1436,6 +1458,30 @@ ME - Slavers
 - Freedman HP to 68 (+3)
 
 
+ME - Equestrians
+- Charger price to 22g (+1g)
+- Crasher blade res to 15% (-5%) , impact res to 20% (-5%) , pierce res to -10% (+5%) , price to 46g (+3g)
+- Breaker HP to 80 (+5) , blade res to 20% (-5%) , impact res to 35% (+5%) , price to 75g (+8g)
+Weaker retaliations but slightly better resistances than knight
+- Knight XP to 48 (+9)
+GOOD COST EFFICIENCY, but faction needs that.
+- Black Knight HP to 60 (+2) , fire res to 10% (+10%) , price to 42g (+5g)
+- Champion HP to 63 (-2) , cold res to 10% (+10%) , price to 38g (+4g)
+- Paladin HP to 58 (+3) , arcane melee to 9-3 (+1) , price to 38g (+2g)
+- Troubadour HP to 45 (+3) , arcane res to 30% (-10%) , pierce res to 0% (-10%) , price to 38g (+1g)
+- Mage Knight pierce res to -10% (+5%) , price to 39g (-1g)
+- Pegasus Knight XP to 75 (+9)
+- Silver Pegasus HP to 64 (+4) , movement to 9 (-1)
+- Rider XP to 39 (+5)
+- Equestrian XP to 85 (+13) , price to 35g (+1g)
+- Jockey HP to 73 (+3) , price to 70g (+11g)
+- Nomad HP to 52 (+2) , XP to 85 (+10)
+- Roamer price to 67g (+10g)
+
+This faction will also be tested to view more meassures for 4.40's 
+ 
+ 
+
 MiE - Sylvan Keepers
 Treefolk needs buffs because in consideration of no bonus trait when hired.
 
@@ -1524,3 +1570,9 @@ EE - Monsters
 - Overgrown spider HP to 55 (+4)
 - Water Snake XP to 44 (-4)
 - Water Serpent HP to 52 (+2) , melee damage to 16-2 (+1)
+
+
+EOM - Warg
+- Shadow Pelt HP to 46 (+4) , XP to 70 (+5)
+- Night Eye HP to 63 (+9) , pierce melee to 12-3 (+1) , impact damage to 17-2 (+2) , price to 50g (+5g)
+- Wolf XP to 38 (+6) , price to 19g (+2g)
