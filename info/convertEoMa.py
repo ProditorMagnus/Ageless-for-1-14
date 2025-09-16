@@ -7,6 +7,15 @@ replacements = [
 	('{~add-ons/Era_of_Magic/','{~ERROR_EOMA_ABSOLUTE_PATH/'),
 	('Jinni','Jinn'),
 
+	('factions/EoMa-faction-barbarians.png','misc/EoMa-faction-barbarians.webp'),
+	('factions/EoMa-faction-darkblood.png','misc/EoMa-faction-darkblood.webp'),
+	('factions/EoMa-faction-destroyers.png','misc/EoMa-faction-destroyers.webp'),
+	('factions/EoMa-faction-kharos.png','misc/EoMa-faction-kharos.webp'),
+	('factions/EoMa-faction-runemasters.png','misc/EoMa-faction-runemasters.webp'),
+	('factions/EoMa-faction-skykingdom.png','misc/EoMa-faction-skykingdom.webp'),
+	('factions/EoMa-faction-summoners.png','misc/EoMa-faction-summoners.webp'),
+	('factions/EoMa-faction-tharis.png','misc/EoMa-faction-tharis.webp'),
+
 	(' description=_"axe"',' description={STR_AXE}'),
 	(' description=_"ballista"',' description={STR_BALLISTA}'),
 	(' description=_"battle axe"',' description={STR_BATTLE_AXE}'),
