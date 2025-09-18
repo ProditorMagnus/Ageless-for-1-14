@@ -207,7 +207,7 @@ Anakes are quite weak as they can't get traits and massive -20% arcane res, they
 - Alastor HP to 67 (+9) , fire ranged to 12-3 (+2) , price to 58g (+6g)
 - Leech Rider XP to 44 (+4)
 - Leech Knight HP to 60 (+1) , blade damage increase by 1 , pierce damage increease by 2 , XP to 90 (+13) , price to 36g (+4g)
-- Leech Dragoon HP to 82 (+7) , fire damage increase by 1 , blade damage increase by 2 , pierce attack adjusted from 7-4 to 12-3 price to 66g (+10g)
+- Leech Dragoon HP to 82 (+7) , fire damage increase by 1 , blade damage increase by 2 , pierce attack adjusted from 7-4 to 12-3 price to 69g (+13g)
 - Sniper XP to 36 (-5)
 - Sharp Eye movement to 6 (+1) , XP to 75 (+5) , price to 28g (+2g)
 - Terrorbow HP to 60 (+5) , melee damage adjusted to 5-3 (from 6-2) pierce ranged damage increase by 1 , price to 55g (+3g)
@@ -259,7 +259,8 @@ EOC - Chaos
 - Soulhunter HP to 59 (+5)
 - Cavalier HP to 55 (+2)
 - Cataphract price to 63g (+9g)
-- Chao Magus HP to 44 (+2) , ranged damage to 8-4 (+1) , XP to 85 (+3) , price to 36g (+2g)
+- Invoker price to 20g (+3g)
+- Chao Magus HP to 44 (+2) , ranged damage to 8-4 (+1) , XP to 85 (+3) , price to 39g (+5g)
 - Lorekeeper HP to 54 (+3) , arcane damage to 11-4 (+1) , cold damage to 19-2 (+2) , arcane res to -10% (+10%) , price to 66g (+6g)
 - Doom Guard damage adjusted to 7-4 (from 9-3) , shield damage increase by 1 and 1 less dmg taken if used this attack , arcane res to 10% (-5%)
 Shield attacks using only one single blow WILL now contain resistant(1) as bonus to help the unit take less dmg even if they miss.
@@ -267,8 +268,8 @@ Considering the fact this unit lost 5% arcane res which is double if steadfast..
 - Hell Guardian shield damage increase by 2 and 1 less dmg taken if used this attack , arcane res to 10% (-5%)
 This unit is now so much better at tanking melee but does a lot worse vs arcane mages.
 
-- Knight of Chaos axe damage to 16-2 (+1)
-- Chaos Razerman HP to 77 (+2) , axe damage to 24-2 (+1) , arcane res decreased by 10%, fire res increased by 10% , price to 60g (+9g)
+- Knight of Chaos HP to 57 (+2) , axe damage to 16-2 (+1)
+- Chaos Razerman HP to 77 (+2) , axe damage to 25-2 (+2) , arcane res decreased by 10%, fire res increased by 15% , price to 60g (+9g)
 - Chaos Gunner XP to 42 (-2) , price to 18g (-1g)
 - Chaos Marksman XP to 84 (+9)
 - Chaos Sharpshooter HP to 73 (+3)
