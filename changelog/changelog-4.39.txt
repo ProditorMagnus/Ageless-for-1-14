@@ -1,0 +1,8 @@
+Version 4.39:
+* Units and Factions
+    * Image updates from Harpies. Unit updates will come with next release
+    * Several new units for Yokai and few for other factions. Image ideas are welcome
+* Balance
+    * Detailed notes can be found from forum or github or this addon files
+* Bug Fixes
+    * Reworded random faction names to achieve desired sorting order
