@@ -1,0 +1,8 @@
+Version 4.40:
+* Units and Factions
+    * 
+    * 
+* Balance
+    * Detailed notes can be found from forum or github or this addon files
+* Other
+    * Ageless Heroes has checkbox to enable recruiting high level units
