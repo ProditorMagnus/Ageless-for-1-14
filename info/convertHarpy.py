@@ -99,6 +99,10 @@ replacements.append(('name= _ "AE_agl_harpies_Harpy_', 'name= _ "Harpy '))
 replacements.append(('name= _ "AE_agl_harpies_Night_', 'name= _ "Night '))
 replacements.append(('name= _ "AE_agl_harpies_Resplendent_', 'name= _ "Resplendent '))
 replacements.append(('name= _ "AE_agl_harpies_', 'name= _ "'))
+replacements.append(('name= _ "male^AE_agl_harpies_Harpy_', 'name= _ "Harpy '))
+replacements.append(('name= _ "male^AE_agl_harpies_Night_', 'name= _ "Night '))
+replacements.append(('name= _ "male^AE_agl_harpies_Resplendent_', 'name= _ "Resplendent '))
+replacements.append(('name= _ "male^AE_agl_harpies_', 'name= _ "'))
 
 
 def getAgelessPath(dname, fname):
