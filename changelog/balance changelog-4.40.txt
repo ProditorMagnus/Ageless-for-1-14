@@ -1,0 +1,818 @@
+
+
+AE - GLOBAL MESSAGE
+Same as of lv3 and lv4 having this tiers (126/134/150/166/175) for lv3 , (175/187/200/214/225/250) for lv2, there will be certain values for lv2.
+- Lv2 values might be (85/90/100/111/125) depending out of unit's potential in late/endgame based in their stats and special qualities.
+There will be exceptions.
+
+
+PENDING, NOTED CHANGES
+- FEW new units in multiple factions
+1) AE - Desert Elves - Desert Warrior & its Lv3 (same 9-4 blade melee but 20% on blade/impact & 10% on pierce) , very XP thristy for lv3
+2) Wanting to add something else in SteelHive, but no concept yet.
+- REVAMPING animals & Monsters from different races (as well of wolves), as wolf is not exactly a monster, but will get idea that wolves get benefits from both animals and monster but wihtout the cons of monsters.
+3) 
+
+FACTIONS PENDING TO BE ADDED LATER:
+1) Postponed UtbS Quenoth Elves in prior of decreasing the list of pending units that been so long ago.
+2) 4.40 will add a EE - Rebels faction which was removed because being so mediocre add, but will make it somewhat decent in more recent times.
+3) Will attempt to add some factions in 4.40's on this release.
+
+
+4.40 ON GOING PLANS
+- AMLA XP standarizations for lv2 and lv4 based in TIERing
+(Consistency, Expected performance, Maximun Potential, Base Potential) , the better in overall more AMLA XP values.
+In short, base health/toughtness, how well does the unit scale with external mod upgrades... etc
+
+Lv2 will be tiering from AMLA XP of 80 (lowest tier animals...) to 125 (Mother Mudcrawler...)
+Lv4 wil lbeb tiering at specific values: 175, 188 , 200, 214, 225, 233, 250
+
+
+AE - Dark Legion
+- Champion price to 63g (+6g)
+- Advanced Crossbowman price to 48g (-2g)
+- Deathmaster price to 57g (+4g)
+- Guardian Shield damage to 13-2 (+2) 
+- Terror shield damage to 20-2 (+1)
+- Crusher HP to 54 (+2)
+We now standarize that this unit losses 5 dmg per stunning strike.
+
+
+AE - Deep Elves
+- Blood Seeker blade melee damage to 8-6 (-1) , flat defense to 45% (+5%)
+Odd change, but unit has issues with health and too high damages...
+- Tyr'hai Rider impact melee damage to 8-2 (+1)
+- Tyr'hai Cavalry impact melee damage to 11-2 (+1) , AMLA XP to 90 (-10)
+- Matriarch HP to 40 (+1)
+- Vault Lurker will no longer have marksman on melee
+It also might fix the issues of the unit being underpriced in golds
+- Shadow Tyr'hai will now no longer telerport at lv1 priesstess , but instead on lv3 corrupted
+
+AE - Desert Elves
+- Desert Star AMLA XP to 188 (-12)
+Unit can gain inteligent trait and be quite problematic if so... reason it's not in 175 tier.
+
+
+AE - Frozen
+- Frost Rider price to 21g (+3g)
+It's quite slow, but impact charge is quite valuable attack. It also has an alright blade melee
+Will instead make Ice Golem a more cost efficient tank unit
+- Frost Knight price to 42g (+6g)
+- Frost Fighter cold melee damage to 8-2 (+1) , XP to 44 (+4)
+- Berserker Golem HP to 39 (+3) , Cold attack damage to 8-3 (+1) and now has +Berserk special , Cold res to 50% (+10%) , arcane res to -10% (+10%)
+Considering attack's name it's weird it doesn't has berserk. Cool to give it more uniqueness with cold berserk.
+It doesn't fit well the unit being "safe berserker" type
+- Frost Gunner HP to 46 (+4) , price to 31g (+1g)
+No trait bonus, low stats overall
+- Frost Gunner Master cold res to 50% (+10%)
+- Ice Golem HP to 45 (+4) , cold melee damage to 8-2 (+1) , XP to 45 (+2) , arcane res to -30% (-10%) , price to 19g (-2g)
+Arcane weakness is just to make it fairer vs default undead.
+- Big Ice Golem HP to 64 (+2)
+- Ice Golem King impact melee damge to 21-2 (+1) , price to 60g (+5g)
+Ice golems are low dmg overall...
+- Frost Spearman cold damage to 6-3 (+1) , XP to 39 (+3)
+- Frost Lanceman impact res to 0% (+10%)
+- Frost Laance Master HP to 72 (+2) , impct res to 0% (+10%) , price to 54g (+2g)
+- Frost Student price to 17g (+1g)
+It's among best healers for its costs, high dmg and heals+4 and moves 6
+- Frost Sorceress arcane damage to 13-3 (+1)
+
+
+AE - Harpies
+- Harpy Siren AMLA XP to 188 (-12)
+- Resplendent Harpy AMLA XP to 134 (-16)
+- Harpy Aastail AMLA XP to 126 (+6)
+- Harpy Featherlord AMLA XP to 134 (-16)
+- Harpy Flockmaster AMLA XP to 126 (-24)
+Swarm is quite problematic, when unit is on duty
+- Harpy Emisary AMLA XP to 134 (-16)
+
+
+AE - Steel Hive
+- Steel Welder HP to 32 (+1) , fire res to 10% (+10%)
+- Repairer AMLA XP to 90 (-10)
+- Cybercore fire ranged to 11-1 (+1)
+- Steel Syren XP to 126 (-8)
+- Steel Avalanche HP to 90 (+7) , price to 83g (+8g)
+- Steel Recon AMLA XP to 134 (-16)
+- Steel Drone damage adjusted to 4-4 (from 5-3)
+- Steel Rocketeer HP to 30 (-1) , XP to 47 (+2)
+- Steel Oculus HP to 36 (-1) , XP to 44 (+3)
+- Steel Sparkgazer HP to 50 (-1) , XP to 85 (+3)
+- Steel Boltstriker HP to 60 (-1)
+- Steel Lightshifter movement to 6 (+1) , price to 10g (+1g)
+Want to see this unit being deployed more often :)
+- Steel Hive Queen HP to 67 (-3) , movement to 5 (-1)
+Its level 2 only needs 55 XP to lv3 ... and leadership aura is quite valuable.
+- Steel Hive Empress HP to 80 (-2) , blade damage to 16-2 (+1) , ranged damage to 11-3 (+1) , price to 100g (+7g)
+
+
+
+
+AE - Yokai 
+- Onyro AMLA XP to 111 (+11)
+- Weaver Emress AMLA XP to 134 (+34)
+- Medusa Witch AMLA XP to 134 (-16)
+- Kitsune XP to 87 (+6)
+Lv3 has so much health for a mage
+
+- Elder Kodama will correctly set to lv3
+- Nix will correctly set to lv2
+- Midnight Banshee will correctsly set to lv3
+- Phantom Keeper will correctly set to lv3
+- Faerie XP to 44 (-3)
+- Sproutling melee damage to 3-2 (-1)
+- Mandragora melee damage to 3-2 (-1) , blade res to -10% (-10%) , fire to -30% (-10%)
+- Malefic Mandragora melee damage to 4-3 (-1) , blade res to -10% (-10%) , XP to 77 (+5)
+- Pernicious Mandragora melee damage to 7-3 (-1) , blade res to -10% (-10%) , price to 55g (+2g)
+If opposing side has no counter, this unit is nearly inmortal, XP increases because of 2 traits.
+- Greater Spriggan XP to 77 (+5)
+
+
+Archaic - Despair
+- Spearman impact res to 30% (+10%)
+So the faction suffers less from WC II enemy woses
+
+
+Archaic - Kthons
+- Katoplebon ranged damage to 5-2 (-2) 
+- Katoplebon Magnum ranged damage to 8-2 (-2) 
+- Ket-Kato ranged damage to 11-2 (-1)
+It's already a pain getting this with just lv1 archers and lv1 mages.
+- Horse XP to 42 (+10)
+- Taraxippon HP to 43 (+3) , XP to 72 (+7)
+- Nightmare HP to 54 (+3) , XP to 111 (+11)
+- Ipoten HP to 67 (+3)
+- Brown Duck HP to 14 (-1) , price to 7g (-1g)
+- Stympheon XP to 36 (-8)
+- Great Duck XP to 42 (-4)
+- Giant Duck HP to 49 (+3)
+- Toad price to 9g (+1g)
+- Khalkotaurus regen value to +10, price to 84g (+4g)
+Lv3 damages
+- Belliakakotaurus regen value to +10 , blade attack will now have +magic-counter
+
+
+POST PONED TO 4.41 
+As for new unit with new advancement and also becoming recruitable requires so much work.
+Hopefully this will get released in February of 2026
+- Artic Wolf REWORK !!
+1) 4-3 cold melee , 4-3 cold ranged
+2) Will now become recruitable!
+3) Will advance to a Lv2 with same sprite but the blue ball in sprite
+4) Might move 8 points, price will depend in its health, but will be signifncalty more costy than Timber Wolf
+5) XP will depend in HP and cost
+6) 1 Movement cost at frozen and forests, which will make it quite costy
+7) 50% frozen defense and 30% cold res (will be required to tank DA if vs undead)
+
+- NEW UNIT: Tundras Wolf
+HP: 45
+6-3 cold melee , 8-3 cold ranged +marksman
+Movement: 9
+No lv3
+Frozen 60% defense , cold res 40%
+
+
+Archaic - Menagerie
+Mini rework, too cost efficient will get nerf. Other options will have slightly better cost efficiency.
+
+- Blue Lizard melee damage to 6-3 (-1)
+It also moves 6... too good...
+- Azure Dragon AMLA XP to 214 (+14)
+- Manbot melee damage to 4-2 (-1) , ranged to 6-1 (+2) , price to 10g (+2g)
+Lunar Goo is very powerful unit from plague
+- Cyborg will no longer have +backstab on melee , fire ranged damage to 12-1 (+1) , price to 19g (+3g)
+It's easy to get for free from blue machinist kills. 
+- Tower Madam ranged will now have +Harmless (attack deals always 0 dmg)
+- Tower Captain HP to 56 (-2) , ranged damage to 8-2 (-1) , price to 29g (+1g)
+Poison melee is quite an annoying feature to own, it also has fire ranged...
+- Lesser Earth Daemon HP to 44 (+2)
+To help faction with blue lizards nerf...
+- Earth Daemon HP to 57 (+2)
+- Greater Earth Daemon HP to 78 (+2)
+- Lunar Exterminator melee damage to 6-3 (from 6-4)
+
+New units coming soon.... will let u know soon later :)
+
+
+Archaic - Northern Orcs
+- Vagrant will now have +Magic-Dodge bonus
+- Traveler melee will now have +Magic-Counter bonus
+Makes certain sense if we consider lv1 has magic ranged, so this melee unit is more aware of magic knowledge
+
+
+Archaic - Phantom
+- Stalker AMLA XP to 90 (-10)
+
+
+Archaic - Primeval
+- Sun Wheel AMLA XP to 188 (+13)
+- Sun-Shield AMLA XP to 150 (+16)
+- Celebrant AMLA XP to 100 (+20)
+- Driver Main melee attack will no longer have rage(2) , 5-4 impact melee rage(3)+first-strike , price to 31g (-3g)
+- Line Breaker melee attack will no longer have rage(2) and damage to 15-3 (+1) , New attacK: 8-4 impact melee rage(3) +first-strike , price to 65g (-5g)
+Main attack is too powerful particularly at lv2 to have rage(2) bonus and regen at same time.
+Previously the unit had Aggresion which was also used in offensive, but back then Primeval had no consistent impact melee fighter, been my bad that this unit been THIS OP.
+
+
+Archaic - South Seas
+- Greater Albatros AMLA XP to 85 (-5)
+- Gale HP to 35 (+1) , AMLA XP to 125 (+14)
+This unit is just so evil...
+
+
+Archaic - Ukians
+- Ukian Officer XP to 90 (+10)
+- Ukian Subcommander XP to 134 (+11)
+- Herdsman fire ranged to 4-1 (-1)
+- Herdsman fire ranged damage to 5-1 (-2)
+- Northern Rider ranged damage to 5-2 (-2)
+- Ukian Commander AMLA XP to 188 (+13)
+- Ukian Veteran AMLA XP to 100 (+20)
+- War Hound AMLA XP to 100 (+14)
+
+
+BEEM - Wood Warriors
+- Predator Rats Knight AMLA XP to 90 (-10)
+- Swamp Pathfinder AMLA XP to 90 (-10)
+
+
+BEEM - Anakes
+- Heterodox HP to 38 (+1) , cold ranged damage ro 4-2 (+1)
+- Initiate HP to 29 (+1)
+- Hierophant HP to 42 (+2)
+- Spellcaster HP to 44 (+1)
+- Imp HP to 33 (+1)
+
+
+EE - Chaos
+- Hell Crab AMLA XP to 90 (-10)
+- Winged Daemon AMLA XP to 90 (-10)
+- Warp Hound AMLA XP to 134 (-16)
+
+
+EE - Drakes
+- Drake Apprentice HP to 37 (+1) , price to 22g (+1g)
+
+
+EE - Dwarves
+- Steamcopter AMLA XP to 90 (-10)
+
+
+EE - Monsters
+- Mother Mudcrawler AMLA XP to 134 (-16)
+It's really a good unit, but not a lv3
+
+
+EE - Northerners
+- Orcish Council Member melee will now have +Magic-Counter
+
+
+EE - Outlaws
+- Outlaw Queen AMLA XP to 134 (-16)
+- Princess melee damge to 6-3 (from 7-2)
+Wanted to do the cunning woman advancement to Outlaw Princess... but I better skip one release because of description issues.
+- Raider ranged damage to 11-2 (-2) , price to 30g (+1g)
+It no longer needs to be that strong as outlaws are now siginificantly stronger faction than before.
+- Outlaws no longer recruiting default ogres because these can't lv3.
+We don't need dupped ogres in outlaws
+
+
+EFM - Dalefolk
+- Beacon AMLA XP to 110 (-10)
+- Mountaineer AMLA XP to 100 (-20)
+- Foreman AMLA XP to 90 (-10)
+
+
+EFM - Darklanders
+- Catamaran AMLA XP to 90 (-30)
+- Wasp AMLA XP to 90 (+20)
+
+
+EFM - Freemen
+- Ensnarer AMLA XP to 90 (-30)
+
+EFM - Imperalist
+- Bolter AMLA XP to 90 (-10)
+
+EFM - Pygmies
+- Grand Cocodrile AMLA XP to 100 (-20)
+
+EFM - Sea States
+- Concoctionist AMLA XP to 90 (-10)
+
+EFM - Whites
+- Terror Strider AMLA XP to 90 (+10)
+- Vigilante NEW ATTACK: 3-2 blade ranged , AMLA XP to 85 (+11)
+So he can grow it up if gaining upgrades.
+- Storm Queen AMLA XP to 187 (-13)
+
+
+
+ELE - Fallen
+- Fallen Dragonrider AMLA XP to 175 (+25)
+
+
+ELE - Vikings
+- Huskarl AMLA XP to 134 (-16)
+- Viking Rosklide AMLA XP to 175 (+25)
+
+
+EOM - The Warg
+- Black Hunter AMLA XP to 90 (-10)
+- Shadow Pelt HP to 48 (+2)
+- Shapesshifter HP to 34 (+2) , blade melee to 5-3 (-2) , impact ranged damage to 5-3 (from 4-2) , movement to 6 (+1)
+- Changeling HP to 51 (+2) , blade melee to 7-3 (-2) , impact ranged damage to 6-4 (from 6-2)
+- Wolfling HP to 68 (+2) , blade melee to 10-3 (-2) and no longer first-strike , impact ranged damage to 9-4 (from 10-4)
+It's bad unit, but no longer useless. Remminder that he's very cheap in XP to lv3
+
+
+EOM Devlings
+- Abusers AMLA XP to 187 (-13)
+- Little Magician AMLA XP to 134 (-16)
+
+
+EOM - Elementals
+- Djinn AMLA XP to 134 (-16)
+- Tempest Spirit AMLA XP to 134 (-16)
+
+
+EOM - Vampires
+- Sangel AMLA XP to 134 (-16)
+
+
+EOC - Chaos
+- Doom Guard impact melee damage to 13-1 (-3)
+- Hell Guardian impact melee damage to 18-1 (-4)
+- Hellhound AMLA XP to 126 (-24)
+- Demon Shapeshifter AMLA XP to 115 (+35)
+Physical endurance...
+
+
+EOC - Wild Humans
+- Ambusher AMLA XP to 90 (-10)
+- Crossbowman AMLA XP to 90 (-10)
+- Forester AMLA XP to 90 (-10)
+
+
+EOS - Eventide
+- Lineman AMLA XP to 90 (-10) , price to 22g (-2g)
+
+EOS - Free Saurians
+- Elementalsit AMLA XP to 100 (-20)
+- Lizard Master AMLA XP to 90 (-30)
+- Tarantula AMLA XP to 90 (-10)
+
+
+EOS - Minotaurs
+- Mystic melee damage to 6-3 (-1)
+
+
+EOS - Thriththa 
+- Dwarvish Ballista AMLA XP to 90 (-10)
+- Dwarvish Plainsmaster AMLA XP to 90 (-10)
+
+
+
+EOTF - Brungars
+- AE_fut_brungar_oceanriders cold/fire res to 0% (-10%)
+70% water defense with a net, it shouln't be mage killer...
+- Giant Crab AMLA XP to 126 (-24)
+- Harpoon Guard AMLA XP to 126 (-24)
+- Council Elder XP to 84 (+6)
+- High Council Member XP to 125 (+8)
+
+
+EOTF - Norhiris 
+- Northern Warrior XP to 110 (+20)
+- Feral Heart XP to 110 (+20)
+- Slaughterer AMLA XP to 90 (-10)
+- Farseer AMLA XP to 90 (-10)
+- Northern Warlord AMLA XP to 166 (+16)
+Same as of very high tier lv3.
+
+
+EOTF - Welkin
+- Midnight Stalker AMLA XP to 90 (-10)
+- Battle Seer ranged damge to 9-3 (-1)
+
+
+Feudal - Clockwork Dwarves
+- Marshal XP to 95 (+18)
+- General HP to 71 (+3) 
+Solid stats, resistances and marksman melee
+- Steel Eagle AMLA XP to 90 (-10)
+
+
+Feudal - Orcish Knagates
+- Flanker AMLA XP to 90 (-10)
+- Striker AMLA XP to 90 (-10)
+
+
+FL - Altaris
+- Lv1 - Lv3 illusions arcane resistance to -200% (from -50%)
+Idea is that holograms become a double edge weapon, not worthy for XP mod or HP training.
+- Arcane Warrior XP to 100 (+10)
+- Truehearted XP to 159 (+14)
+They have really high HP and above average ranged, worth it.
+- Ancient Warrior magic-counter will get replaced by a better version "special-counter"
+The same, but it works over +precision melee at lowering its hit chance to 60% and magical/enchanted to 40%
+- Master of Illusion pierce/blade res to 0% (+10%) , Regen to 4 (+1) , AMLA XP to 126 (-8)
+- Pegasus Mster AMLA XP to 100 (-26)
+- Master at Arms AMLA XP to 90 (-21)
+- Cerberus blade res to 30% (+10%)
+- Light Scout the bugged other advancement might get fixed ID.
+
+
+- Land Mage 
+1) HP to 63 (+4) , regen value to +5 (+1)
+2) blade/pierce/impact res increase by +10% , fire res to 20% (+5%) 
+3) 18-1 ranged to 19-1 , price to 63g (+6g)
+4) Mountain movement cost to 1 (-1) , sand defense to 30% (+10%) , cave defense to 50% (+10%)
+While testing him, he was surprisingly underwhelming.
+I don't want him to be as tanky as EOMA Master of Earth because Land Mage has more ranged damage.
+
+
+- Crystal Golem will now have +Magic-counter at both melee
+It will be a valuable counter for magic-melee abusers (fire elemental, etc)
+
+
+FL - Amazons
+- Harpy Glider AMLA XP to 90 (-10)
+- Dark Harpy XP to 70 (-10)
+- Amazon XP to 75 (+8)
+- Spear Mistress melee to 13-3 (from 17-2)
+- Sentinel XP to 75 (-8)
+- Tiger Rideress XP to 52 (+4) , price to 24g (+1g)
+- Tiger Mistress price to 48g (-2g)
+Very low damage gain.
+
+
+FL - Blood Elves
+- Black Lizard AMLA XP to 90 (-30)
+- Pyromancer XP to 80 (-60) , and will now get a Lv3 Advancement
+
+
+POT PONED TO 4.41
+- NEW UNIT: Pyroscorcher
+HP: 55 , Movement: 5 
+6-3 blade melee 
+15-3 fire ranged +magical
+18-2 impact ranged +magical
+Res: Same as lv2, but 65% (+5%) on fire
+XP: 120
+Price: 60g
+
+This level up is quite "bad" , but provides impact ranged, which is sometimes pretty useful vs units with high fire res.
+"While promoting, Pyromancer finds capable to cast larger fireballs and can now cast meteor to their foes which while not as efficient as fireballs come very handy in certain situations."
+
+- Pyromaster fireball damage to 22-3 (+2) , meteor damage to 28-2 (+2) , price to 110g (+5g)
+POT PONED TO 4.41
+
+- Phoenix Hatching fire res to 80% (-20%)
+- Firebird fire res to 85% (-15%)
+- Phoenix fire res to 90% (-10%)
+
+
+FL - Natives
+- Great Falcon AMLA XP to 90 (-10)
+- Sky Dancer AMLA XP to 90 (-10)
+- Great Barbarian AMLA XP to 134 (-16)
+- Skull Breaker AMLA XP to 126 (-8)
+
+
+FL - Pirates
+- Thunder Serpent AMLA XP to 100 (-20)
+- Water Serpent AMLA XP to 100 (-20)
+- Sea Wolf AMLA XP to 134 (-16)
+- Fishman Defender AMLA XP to 110 (-10)
+- Fishman Fighter AMLA XP to 100 (-20)
+- Beastmaster whip attack will now have +magic-counter
+
+
+Imperial - Arendian
+- Falcon Lord AMLA XP to 45 (-5)
+- Druid melee to 4-3 (-1) , XP to 40 (+6)
+Even with nerf still rasonably good cost effiiency
+- Shaman fire res to 10% (+10%)
+Just to help a bit with lv1 nerf
+
+Imperial - Lavinian Legion
+- Rorarius will now gain +magic-dodge bonus on melee , AMLA XP to 90 (-10)
+
+
+Imperial - Marauders
+- Axeman XP to 45 (+15)
+It's sadly the only way to not make Mounted Axeman path too OP.
+- Hunter HP to 53 (+5) , XP to 70 (-3) , price to 26g (+1g)
+- Woodsman HP to 64 (+2) 
+
+
+Imperial - Sidhe
+- Thunderblade fire ranged to 8-3 (-1)
+- Warsinger AMLA XP to 126 (+26)
+- Dark Thunderblade AMLA XP to 188 (+38)
+- Stormlord AMLA XP to 175 (+25)
+- Ancestor XP to 80 (-5)
+- Forefather AMLA XP to 175 (+55)
+
+
+Imperial - Orcei Gladiatores
+- Dimacherius XP to 82 (+18)
+- Secutor Leonis HP to 67 (+3)
+
+
+AoA - Ferengarian Counties
+- Faction name will be changed to Farengarian Dwarves
+- Bombard Artillery attack damage to 20-2 (+1) , AMLA XP to 90 (-10)
+- Ballista, Great Ballista an Siege Ballista 
+1) mountains movement cost to 4 (from imposible) , mountain defense to 40% (+40%) ,
+2) hills defense to 50% (+10%) , castle defense to 60% (+10%)
+
+- Tinker XP to 35 (-5)
+- Engeneer XP to 60 (-10)
+- Master Engeener HP to 63 (+3)
+- Artificer AMLA XP to 134 (-16)
+- Bear rider fire res to 10% (+10%)
+- Bear Knight HP to 63 (+3) , fire res to 10% (+10%)
+- Grand Bear Knight fire/pierce res to 10% (+10%)
+Worse terrain defenses than average dwarf with sligtly above resistances so it's taking more dmg than usual with exceptions like forest...
+
+
+AoA - Farengarian Kingdoms (humans)
+- Footman XP to 88 (+11)
+- Sargeant will now be named "Field Sargeant" , movement to 5 (-1) , Will now have leadership , price to 66g (+9g) , AMLA XP to 134 (-16)
+- Grand Mage HP to 67 (+2)
+- Longbowman HP to 49 (-10) 
+It was NOT MEANT to have this much health LOL
+- Duke AMLA XP to 175 (-25)
+- Paladin AMLA XP to 134 (-16)
+- Conscript XP to 42 (+3)
+- Halberdier XP to 77 (+7)
+
+AoA - Finn's Empire
+- Mortar AMLA XP to 90 (-10)
+- Lansquenet HP to 72 (-2)
+It remains 6 movement points
+- General AMLA XP to 188 (-12)
+
+
+AoA - Galiano Imperium
+- Aphotecary AMLA XP to 90 (-10)
+- Heavy Pikeman AMLA XP to 134 (-16)
+- General AMLA XP to 175 (-25)
+- Pikeman XP to 75 (+3)
+
+
+AoA - Kingdoms of Rovahr
+- Arch Bishop Fighter AMLA XP to 188 (+13)
+- Mage price to 32g (-1g)
+- Grand Mage AMLA XP to 134 (-16)
+- Royal Archer AMLA XP to 134 (-16)
+- Gothic Knight on Foots AMLA XP to 134 (-16)
+- Feudal Levy XP to 42 (+5)
+Really good advancements overall
+- Man at Arms XP to 77 (+5)
+
+
+AoA - Mauve Islands Federation
+- Clans Warrior price to 19g (+2g)
+- Highlander XP to 93 (+8)
+- Druid XP to 75 (-5)
+- Student fire ranged to 8-2 (+1) , fire/cold res to 10% (+10%) , price to 20g (-1g)
+- Sorcerer pierce melee to 7-2 (-1)
+- Elite Sorcerer pierce adjusted to 10-2 (from 8-3) , price to 67g (-2g)
+
+
+AoA - Rovahrian Elves
+- Bowman HP to 28 (-1) , price to 18g (+1g)
+At least costs a little more because of ambush
+- Blademaster movement to 5 (-1) , AMLA XP to 134 (-16)
+- Royal Guard AMLA XP to 134 (-16)
+- Herald AMLA XP to 134 (-16)
+- Archdruid AMLA XP to 134 (-16)
+- Master Archer AMLA XP to 134 (-16)
+- Avenger AMLA XP to 134 (-16)
+
+
+AoA - Dwarven Kingodms (morkenost darlefend)
+- Footdwarf XP to 45 (+6)
+- Grand Mage HP to 66 (+1) , AMLA XP to 225 (+25)
+Did not know they were 30% on all physical ressists...
+- Wise arcane res to 20% (+10%)
+- Cuirassier blade res to 50% (+10%) , impact res to 30% (+10%) , XP to 93 (+5)
+- Hammerer blade res to 50% (+10%) , price to 70g (+1g)
+
+
+AoA - Norse Jarldoms
+When village brawler special gets added to default, this faction will feature some units with this special
+For now they will miss this buff
+
+- Warrior blade res to 10% (+10%)
+50% village defense is a big problem
+- Thane will now have Lv2 leadership aura (25% more dmg to lv1)
+It helps players who don't know the faction to realize this unit can get leadership on level up
+- Jarl HP to 86 (+3)
+- Guard NEW ATTCK: 6-2 impact melee
+- Soldier NEW ATTACK: 8-2 impact melee
+- Rempart NEW ATTACK: 13-2 impact melee
+- Guard and all his advancement water/swamp defense to 30% (+10%) & village defense to 60% (+10%)
+- Doble-Axe and all his advancemnet (except zerker) mountains defense to 70% (+10%) , water/swamp defense to 30% (+10%)
+- Berserker ranged damage to 6-2 (+2) 
+- Hunter and all advancement swamp defense to 40% (+20%) and village defense to 60% (+10%)
+- Nordic Bowman will now gain +cures (poison heal)
+- Pluderer & advabcenebts water/swamp defense to 30% (+10%) , mountains defense to 70% (+10%)
+- Crossbowman HP to 35 (+1) , NEW ATTACK: 7-2 fire ranged , XP to 40 (+2) , price to 17g (+1g)
+- Heavy Crossbowman NEW ATTACK: 11-2 fire ranged , XP to 80 (+8) , price to 27g (+1g)
+- Master Crossbowman NEW ATTACK: 16-2 fire ranged , blade melee to 8-3 (-1) , price to 57g (+2g)
+Faction has issues with damage types, I had no other choice than adding fire arrows to crossbowmen
+- Mounted Bowman impact res to 40% (+10%)
+
+- Rider XP to 48 (+4)
+The only nerf to this faction
+
+
+ME - Avians
+- Falcon AMLA XP to 134 (-16)
+- Sitter HP to 40 (+1) , arcane res to 30% (+10%)
+
+
+ME - Blight
+- Flesh Pool AMLA XP to 90 (-10)
+- Undertow AMLA XP to 134 (-16)
+- Blighted AMLA XP to 134 (-16)
+
+
+ME - Cult
+- Sentry fire res to 20% (+5%)
+- Rebel price to 22g (-1g)
+- Freak cold res to 0% (+5%)
+- Freak and all advancement sand defense to 30% (+10%) -same as flat terrain-
+- Sewer Swimmer and all advancement sand defense to 30% (+10%) , mountains defense to 30% (-10%)
+- Survivor XP to 45 (-5)
+- Lurker XP to 72 (+8) , price to 33g (+3g)
+
+
+ME - Emperor's Guard
+- Imperial Guard price to 70g (+14g)
+Change in price was not correctly implemented from 4.39
+- Musha XP to 84 (+10)
+
+Ninja Mini rework, because they're slightly weaker than their lawful peers.
+- Star Shower HP to 48 (+3) , price to 31g (+1g)
+- Ninja XP to 42 (+5)
+- Ninja Assasin HP to 47 (+3) , XP to 80 (+10)
+- Shadow Ninja HP to 62 (+5) , accuracy melee attack will now also have +magic-counter , price to 60g (+6g)
+Nighstalk was not being considered in his pricing...
+- Ninja Warrior HP to 52 (+4) , blade melee to 9-3 (-1) & gains +magic-dodge , XP to 85 (+13) , price to 29g (+3g)
+- Shinobi HP to 69 (+5) , blade melee to 15-3 & gains +magic-counter , price to 63g (+8g)
+
+
+ME - Enchanters
+- Blazier XP to 75 (+7)
+- Incinerator HP to 63 (+3) , fire ranged to 14-3 (from 22-2)
+- Rune Splicer HP to 60 (+1) , fire/cold res to 20% (+10%) , firebals damage adjusted to 8-5 (from 10-4) , price to 63g (+1g)
+The fire ranged is just to differ from lv3 Rune Mage, increasing his utility if owning both units.
+- Rune Master cold ranged damage to 8-5 (-1)
+
+
+ME - Equestrians
+- Manta HP to 49 (-4) , pierce melee to 11-2 (-1) , poison melee damage to 5-2 (-2)
+It's trully quite annoying dealing against this unit
+
+
+ME - Fanatics
+- Enchanted Carpet melee will now have +magic-counter , AMLA XP to 90 (-10)
+- Mindless movement to 5 (+1) , NEW ATTACK: 8-2 impact melee +Berserk
+- Ambusher XP to 72 (+10)
+
+
+ME - Highlanders
+- Hachet Thrower XP to 85 (+3)
+- Gamekeeper HP to 69 (+3) , price to 56g (+1g)
+- Warpipe AMLA XP to 134 (-16)
+- Highlander price to 66g (+12g)
+- Plunderer price to 66g (+11g)
+- Axe Thrower price to 57g (+3g)
+- Wildman price to 63g (+5g)
+- Cold Turkey price to 67g (+5g)
+- Combatmedic price to 34g (-2g)
+- Pipeman HP to 32 (+2) , price to 17g (-1g)
+- Bagplayer HP to 47 (+5)
+- Stonethrower price to 26g (-2g)
+- Rocklauncher price to 59g (+7g)
+- Valkyrie Warrior XP to 77 (+9)
+- Valkyrie Princess blade res to 10% (+10%) , price to 62g (+6g)
+
+
+ME - Hive
+- Queen Melee adjusted from 13-1 to 7-2
+- Overmind melee damage adjusted from 19-1 to 10-2 , AMLA XP to 134 (-16)
+- Wasp XP to 85 (+10)
+- Prince price to 34g (-2g)
+- Regal price to 65g (+2g)
+- Fire Ant price to 34g (+2g)
+- Glider movemnet to 8 (-1) , price to 48g (-2g)
+- Skipper movement to 9 (+1) , price to 38g (+3g)
+- Tarantula price to 35g (+2g) 
+- Grgantuan price to 64g (+5g)
+ 
+
+ME - Holy Order
+- Pope HP to 57 (+2)
+- Mage XP to 82 (-3)
+- Ballast XP to 134 (-16)
+- Witch Hunter melee damage to 3-2 (-2)
+Poison melee is very strong at level 1
+- Demon Slayer melee damage to 4-3 (-1)
+- Purifier poison melee dmage to 6-3 (from 7-4) 
+This attack is way too powerful for an unit with such high HP and ranged power.
+This unit did also get a super buff in past 4.38 , it's now turn to get a necessary nerf.
+- Eyes of fate melee damage to 13-3 (-1)
+
+
+ME - Infernai
+- Demon XP to 82 (+7)
+- Devil XP to 144 (+29)
+- Sadist HP to 60 (+5) , XP to 85 (+10)
+- Bloodbather HP to 77 (+5) , price to 63g (+4g)
+
+
+ME - Mercenaries
+- Mercenary XP to 36 (-2)
+- Hessian impact damage to 14-2 (+1) , XP to 88 (+18)
+- Mankiller HP to 53 (+2) , pierce damage adjusted to 8-4 (from 10-3)
+- Scavenger AMLA XP to 90 (-10)
+- Collector melee damage to 7-3 (-1)
+
+
+ME - Oracles
+- Theurgist XP to 84 (+7) 
+- Judgementor HP to 74 (+1) , price to 64g (+8g)
+
+
+ME - Refugees 
+- Courier price to 19g (+1g)
+- Messenger blade melee to 6-3 (-1) , XP to 80 (+10)
+- Envoy HP to 65 (+5) , blade melee damage to 8-3 (-1) , price to 62g (+6g)
+- Defender impact melee damage to 9-2 (+1)
+- Sniper blade melee adjusted to 5-2 (from 10-1) , XP to 75 (+3)
+- Purifier HP to 44 (-4) , staff damage to 5-3 (-1) , arcane res to 30% (-20%) , XP to 111 (+11)
+Wild high stats and can be starting leader... also fixes his him being underpriced
+
+
+ME - Slavers
+Slavers have no mages or something similar, but they will become toughter against magic in late game.
+
+- Prodder XP to 36 (-2)
+- Provoker NEW ATTACK: 6-3 blade melee , fire res to 10% (+10%)
+It's such a terrible unit, why not just a small buff on him
+- Abuser NEW ATTACK: 8-4 blade melee +parry 5% , fire res to 20% (+20%)
+- Serf XP to 32 (-2)
+- Farmhand XP to 60 (-5)
+- Worker XP to 42 (+2)
+- Mutt and all advancement cold res to 10% (+10%)
+- Chaser will now have +feeding special , cold res to 20% (+20%)
+- Shouldermount AMLA XP to 90 (-10)
+- Punisher fire res to 10% (+10%)
+- Slavemaster fire res to 10% (+10%)
+- Stalker fire/cold res to 10% (+10%)
+low base health
+- Observer & Shouldermount cold res to 10% (+10%)
+- Courtesan fire/cold res to 10% (+10%)
+
+
+ME - Tribalist
+- Canoe AMLA XP to 90 (-10)
+- Fishing Boat AMLA XP to 90 (-10)
+- Ranger AMLA XP to 90 (-10)
+- Archer price to 30g (+2g)
+ambush not being considered in pricing...
+- Native AMLA XP to 126 (-8)
+- Medicineman AMLA XP to 90 (-10)
+- Voodoo Doctor AMLA XP to 166 (-9)
+- Executioner price to 63g (+8g)
+
+
+MiE - Sylvan Keepers
+- Sylvan Wrath AMLA XP to 126 (-8)
+- Shadow Faerie XP to 75 (-4)
+Low gain of base HP
+
+
+MiE - The Hoofs
+- Horned Elder HP to 62 (+2) , melee will now have +Magic-Counter bonus
+it's 9-1 blade melee which is a terrible attack on a lv3, let's bring him a more interesting bonus for melee.
+- Protector of Hoofs cold res to 20% (+10%)
+
+
+MiE - Thelians
+- Ghost Warrior blade melee will now have +Magic-Counter special
+- Hart Seeker AMLA XP to 90 (-10)
+- Spiritual AMLA XP to 134 (-26)
+- Forefather AMLA XP to 166 (+16)
+- Bravewolf AMLA XP to 134 (-46)
+
+
+
+
