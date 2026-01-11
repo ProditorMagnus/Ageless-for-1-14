@@ -1,7 +1,7 @@
 Version 4.40:
 * Units and Factions
-    * 
-    * 
+    * Harpies update
+    * Fixed Yokai units that had incorrect level
 * Balance
     * Detailed notes can be found from forum or github or this addon files
 * Other
