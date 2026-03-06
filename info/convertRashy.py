@@ -134,7 +134,7 @@ for dname, dirs, files in os.walk("."):
 	if "Ageless_Era" in dname or "images" in dname:
 		continue
 	print(dname)
-	for fname in files:
+	for fname in sorted(files, key=lambda x: x.upper()):
 		fpath = os.path.join(dname, fname)
 		afpath = getAgelessPath(dname, fname)
 		# print(fpath, afpath)
@@ -164,6 +164,25 @@ for dname, dirs, files in os.walk("."):
 			os.makedirs(os.path.dirname(afpath), exist_ok=True)
 			with open(afpath, "w", encoding="utf8") as f:
 				f.write(s)
+
+level1_recruits={}
+current_id = None
+for line in eras["default"].split("\n"):
+    if "id=" in line:
+        current_id = line.split("id=")[-1].strip()
+    if "recruit=" in line:
+        level1_recruits[current_id] = line.split("recruit=")[-1].strip()
+
+heroes_fixed_lines = []
+current_id = None
+for line in eras["heroes"].split("\n"):
+    if "id=" in line:
+        current_id = line.split("id=")[-1].strip()
+    if "recruit=" in line and current_id in level1_recruits:
+        line += "," + level1_recruits[current_id]
+    heroes_fixed_lines.append(line)
+eras["heroes"] = "\n".join(heroes_fixed_lines)
+
 
 if eras["RPG"] == "":
 	rpg_era = ""
