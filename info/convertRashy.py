@@ -84,6 +84,7 @@ replacements = [
 	("units/undead-spirit/wraith", "units/{GHOST_IMAGE_FOLDER}/wraith"),
 	("VR_", "AE_RHY_"),
 	("vr-", "AE_rhy_"),
+	("special=", "special_id="),
 
 	("""
     description= _ ""","""
