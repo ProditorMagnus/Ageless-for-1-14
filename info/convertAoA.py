@@ -97,16 +97,16 @@ for dname, dirs, files in os.walk("."):
 with open("Ageless_Era/units/AoA_units/units.cfg", "a", encoding="utf8") as f:
 	f.write("""
 
-{GET_AE_UNITS AoA_units/farengar}
-{GET_AE_UNITS AoA_units/empire}
-{GET_AE_UNITS AoA_units/federation}
-{GET_AE_UNITS AoA_units/nord}
-{GET_AE_UNITS AoA_units/rovahr}
-{GET_AE_UNITS AoA_units/galianos}
-{GET_AE_UNITS AoA_units/far_nains}
-{GET_AE_UNITS AoA_units/mork-darf}
-{GET_AE_UNITS AoA_units/gobmon}
-{GET_AE_UNITS AoA_units/rov_elf}
+{~add-ons/Ageless_Era/units/AoA_units/farengar}
+{~add-ons/Ageless_Era/units/AoA_units/empire}
+{~add-ons/Ageless_Era/units/AoA_units/federation}
+{~add-ons/Ageless_Era/units/AoA_units/nord}
+{~add-ons/Ageless_Era/units/AoA_units/rovahr}
+{~add-ons/Ageless_Era/units/AoA_units/galianos}
+{~add-ons/Ageless_Era/units/AoA_units/far_nains}
+{~add-ons/Ageless_Era/units/AoA_units/mork-darf}
+{~add-ons/Ageless_Era/units/AoA_units/gobmon}
+{~add-ons/Ageless_Era/units/AoA_units/rov_elf}
 """)
 
 # factions to file

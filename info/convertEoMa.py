@@ -292,14 +292,14 @@ for dname, dirs, files in os.walk("."):
 with open("Ageless_Era/units/EoMa_units/units.cfg", "a", encoding="utf8") as f:
 	f.write("""
 
-{GET_AE_UNITS EoMa_units/Barbarians}
-{GET_AE_UNITS EoMa_units/Dark_Blood_Alliance}
-{GET_AE_UNITS EoMa_units/Destroyers}
-{GET_AE_UNITS EoMa_units/Kharos}
-{GET_AE_UNITS EoMa_units/Runemasters}
-{GET_AE_UNITS EoMa_units/Sky_Kingdom}
-{GET_AE_UNITS EoMa_units/Summoners}
-{GET_AE_UNITS EoMa_units/Tharis}
+{~add-ons/Ageless_Era/units/EoMa_units/Barbarians}
+{~add-ons/Ageless_Era/units/EoMa_units/Dark_Blood_Alliance}
+{~add-ons/Ageless_Era/units/EoMa_units/Destroyers}
+{~add-ons/Ageless_Era/units/EoMa_units/Kharos}
+{~add-ons/Ageless_Era/units/EoMa_units/Runemasters}
+{~add-ons/Ageless_Era/units/EoMa_units/Sky_Kingdom}
+{~add-ons/Ageless_Era/units/EoMa_units/Summoners}
+{~add-ons/Ageless_Era/units/EoMa_units/Tharis}
 """)
 
 # factions to file

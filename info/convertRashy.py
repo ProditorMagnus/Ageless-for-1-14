@@ -198,22 +198,22 @@ if eras["RPG"] == "":
 with open("Ageless_Era/units/RE_units/units.cfg", "a", encoding="utf8") as f:
 	f.write("""
 
-{GET_AE_UNITS RE_units/aquana}
-{GET_AE_UNITS RE_units/dwarves}
-{GET_AE_UNITS RE_units/elves-dark}
-{GET_AE_UNITS RE_units/elyser}
-{GET_AE_UNITS RE_units/gnomes}
-{GET_AE_UNITS RE_units/human-chevalier}
-{GET_AE_UNITS RE_units/human-dardo}
-{GET_AE_UNITS RE_units/human-forest}
-{GET_AE_UNITS RE_units/human-luz}
-{GET_AE_UNITS RE_units/human-mountain}
-{GET_AE_UNITS RE_units/human-regis}
-{GET_AE_UNITS RE_units/marashy}
-{GET_AE_UNITS RE_units/ships}
-{GET_AE_UNITS RE_units/trarashy}
-{GET_AE_UNITS RE_units/undead}
-{GET_AE_UNITS RE_units/vixens}
+{~add-ons/Ageless_Era/units/RE_units/aquana}
+{~add-ons/Ageless_Era/units/RE_units/dwarves}
+{~add-ons/Ageless_Era/units/RE_units/elves-dark}
+{~add-ons/Ageless_Era/units/RE_units/elyser}
+{~add-ons/Ageless_Era/units/RE_units/gnomes}
+{~add-ons/Ageless_Era/units/RE_units/human-chevalier}
+{~add-ons/Ageless_Era/units/RE_units/human-dardo}
+{~add-ons/Ageless_Era/units/RE_units/human-forest}
+{~add-ons/Ageless_Era/units/RE_units/human-luz}
+{~add-ons/Ageless_Era/units/RE_units/human-mountain}
+{~add-ons/Ageless_Era/units/RE_units/human-regis}
+{~add-ons/Ageless_Era/units/RE_units/marashy}
+{~add-ons/Ageless_Era/units/RE_units/ships}
+{~add-ons/Ageless_Era/units/RE_units/trarashy}
+{~add-ons/Ageless_Era/units/RE_units/undead}
+{~add-ons/Ageless_Era/units/RE_units/vixens}
 """)
 
 # factions to file
