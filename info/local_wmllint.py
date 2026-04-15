@@ -3599,8 +3599,12 @@ directory.""")
         original = line
         # Perform line changes
         if "wmllint: noconvert" not in original:
-            for (old, new) in linechanges + mapchanges:
+            for (old, new) in linechanges:
                 line = line.replace(old, new)
+            # terrain code is not translatable, so presence of translation mark is reason to not apply conversion
+            if '_"' not in line and '_ "' not in line:
+                for (old, new) in mapchanges:
+                    line = line.replace(old, new)
             # Perform any base terrain string conversions needed in
             # [terrain_type] aliasof=, mvt_alias=, and def_alias= attributes.
             if under("terrain_type"):
