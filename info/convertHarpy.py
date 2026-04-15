@@ -152,8 +152,8 @@ for dname, dirs, files in os.walk("."):
 				print("updated",afpath)
 
 if "RPG" not in eras:
-	eras["RPG"] = """
-#textdomain wesnoth-Harpies
+	eras["RPG"] = """#textdomain wesnoth-Harpies
+
 [multiplayer_side]
     id=AE_side_agl_Harpies
     name= "AE - " + _ "Harpies"
