@@ -82,6 +82,7 @@ replacements = [
 	("units/undead-spirit/shadow", "units/{GHOST_IMAGE_FOLDER}/shadow"),
 	("units/undead-spirit/spectre", "units/{GHOST_IMAGE_FOLDER}/spectre"),
 	("units/undead-spirit/wraith", "units/{GHOST_IMAGE_FOLDER}/wraith"),
+	("{MISSILE_FRAME_FIREBALL}", "{MISSILE_FRAME_FIREBALL_XY 0 0}"),
 	("VR_", "AE_RHY_"),
 	("vr-", "AE_rhy_"),
 	("special=", "special_id="),
