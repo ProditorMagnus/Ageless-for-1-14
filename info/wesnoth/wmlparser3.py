@@ -567,6 +567,8 @@ class Parser:
         if assign >= 0:
             remainder = line[assign + 1:]
             line = line[:assign]
+        else:
+            raise WMLError(self, "Expected equals sign (=) after attribute.")
 
         self.commas = 0
         self.temp_key_nodes = []
