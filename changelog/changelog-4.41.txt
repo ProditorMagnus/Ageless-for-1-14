@@ -3,6 +3,6 @@ Version 4.41:
     * Enabled advancement to several level 4 AoA units
     * Added few existing units to recruit list
 * Balance
-    * Detailed notes can be found from forum or github or this addon files. Nothing important this time, mostly changes from EoMa.
+    * Detailed notes can be found from forum or github or this addon files. Mostly EoMa, AoA, EE.
 * Other
     * Fixed error preventing playing with 1.19.24
