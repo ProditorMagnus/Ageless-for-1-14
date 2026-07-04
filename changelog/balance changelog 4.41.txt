@@ -1,0 +1,342 @@
+Archaic - Despair
+Some minor buffs because it sucks having less HP and fire and arcane weaknesses.
+- Lord Knight melee attacks now have +Dread
+- Officer melee attacks now have +Bleed , increased price
+- Dark Slayer blade melee now has +Bleed
+- Dullohan ranged now has +Dread , price increase by 1
+- Widow in White melee adjusted to 5-3 (from 6-2)
+- Banshee melee damage adjusted to 6-3 +10% Accuracy from 9-2
+- Midnight Beauty replaced +Swallow(3) with +10% parry
+- Lv2 and Lv3 Statues now have +Dauntless special
+Ironic that their steadfast got removed and then much later them getting dauntless (offensive steadfast) instead
+- Master Cloack ranged accuracy +5% , price increase by 2
+
+
+Arhaic - Phantom
+I alr said having arcane weakness sucks and really much, let's buff
+- Spirit Jay XP to 60 (+20)
+- Divine Jay heals+10 , but no longer cures poison , Both melee are now +Magic-Counter, price increased.
+Theorically it's a buff, also there is no living units in that faction, and it makes the healer quite more unique
+- Stalker backstab melee now also has +Bleed, price increased
+Good idea because it's only two strikes, and backstab with such bonus is lessers the impact of bleeds and it's mostly for retaliations.
+- High Archer melee adjusted to 6-3 from 7-2 , price increased by 1
+- Tomb Sentinel XP to 80 (+5)
+- Tomb Guard NEW ATTACK: 7-5 cold melee , both cold and blade are now +Special-Counter, price increase by 3g
+- Winged Warrior both melees are now +Magic-Counter
+- Mummy Unbound XP to 44 (-2)
+- Mummy Noble XP to 84 (-4)
+- Mummy King ranged now has +Magic-Dodge
+- Mummy Pharo ranged now has +Magic-Dodge, melee is now +Magic-Counter
+Mummy has below average arcane damage on ranged and two of its magical resistances are bad, it needs magic dodge at ranged.
+
+
+AoA - Farengarian Counties
+- Ballista pierce res to 35% (+15%) , arcane res to 30% (+10%)
+- Great Ballsta pierce res to 35% (+5%) , arcane res to 30% (+10%)
+- Siege Ballista pierce res to 35% (+5%) , arcane res to 30% (+10%)
+So it will be pretty resistant to arcane mages and to pierce chargers
+
+
+AoA - Finn's Empire
+- Helgrindian Crossbowman movement to 5 (+1)
+- Enchanter Apprentice and all advancement melee will now also have +Magic-counter
+In overall, without mods the unit is quite bad and somewhat overpriced, but might be meta for afterlife and Orocia
+- Noble and Lord now have Protection aura, their price been also increased.
+It was pointless that horse, now it brings some utility at early and mid game preventing losses.
+- Mortar Health to 48 (+3) , cold res to 20% (+10%)
+Mortar can be way toughter with the help of Lv3 Lord aura as it cannot level up
+- Cannon HP to 49 (+4) , XP to 88 (+11) , price to 30g (+1g)
+- Great Cannon HP to 62 (+5) , both cannon attacks damage increase by 1 , price to 64g (+4g)
+
+
+AoA - Mauve Islands Federation
+- Warrior Mage HP to 51 (+1) , fire res to 20% (+10%)
+- Mage Blade movement to 5 (-1) , fire res to 20% (+10%)
+
+
+AoA - Norse Jarldoms
+Another no mage faction, might buff even further again.
+They're also a faction which most of their units are 50% at villages because in prior of better movement costs.
+
+- ALL NEUTRAL JARLDOM units now are 3 traits with FEARLEST MUST HAVE
+This barely does something, but makes them inmune to AWE debuffs!
+- ALL CHAOTIC JALRDOM units now are 60% VILLAGE DEFENSE (except the lv2 berserker)
+Now not just archers but also all chaotic units with no exception
+
+Guards on the other hand are neutral and 60% defense in villages as a weird exception
+
+- Crossbowman XP to 38 (-2)
+- Master Crossbowan HP to 63 (+4)
+- Maraudeur melee now has +Magic-Dodge special
+- Warlord melees now have +Magic-Counter
+Now warlord is an attempt of a hard-counter of magic melee.
+- Viking now has +Magic-Dodge in melee, cold res to 20% (+10%)
+- Vargrarian now has +Magic-Counter in melee
+- Berserker and Destructive blade melees now have +Magic-Dodge
+- Nordic Archer now has +Magic-Dodge in ranged, cold res to 20% (+10%)
+- Nordic Master Bowman now has +Magic-Dodge in ranged, cold res to 20% (+10%)
+- Huskarl cold res to 20% (+10%)
+- Thane and Jarl fire res to 10% (+10%)
+- Jarl cold res to 30% (+10%)
+- All lv2/lv3 riders are now 20% cold res
+- Mounted Bowman XP to 85 (+10) , ranged now has +Magic-Dodge
+- Mounted Archer HP to 69 (+4) , NEW ATTACK: 16-2 fire ranged , both ranged attacks now have +Magic-Dodge , price to 57g (+3g)
+The idea is to decrease the powercreep of this lv3 and the other mounted Lv3
+- Mounted Knight both melee now have +Magic-Dodge
+
+
+AoA - Mountain Goblins
+Seriously no endgame potential faction. It getting a serious buff
+
+- Goblin Slayer ranged accuracy upgraded to +Marksman
+- Warlord Melee now has +Magic-Counter
+- Invader Melee now has +Magic-Counter
+- Plains Ranger now has +Magic-Counter at ranged.
+Having this special in RANGED attack is a very powerful buff. Unit is so low dmg and no lv3.
+- Wolf Champion ranged attack now has +Dread
+- Goblin Wiseman now has Regen 4 , cold ranged now has +Weaken debuff too
+
+
+AoA - Galianos
+- Duelist blade res to 10% (+10%) , price to 15g (-1g)
+- Javalenist pierce res to 10% (+10%) , ranged now has +Bleed, price to 25g (+1g)
+- Elite javalenist pierce res to 20% (+10%) , ranged now has +Bleed, price to 51g (+4g)
+They don't have mages or line breaker specials, so something that prevents healing might come handy from somewhere.
+- Swordsman and Elite Swordsman cold res to 10% (+10%)
+- Gendarme on Foot and all advancement NEW ATTACK: blade damage +Bleed/+Attack-only specials
+- Gendarme on Foot -10% parry on new secondary attack
+- General main attack now has 10% parry, seoncary attack has no parry but +Bleed/+Attack-only specials
+- Ranger HP to 47 (+2) , XP to 88 (+11)
+- Veteran Ranger HP to 57 (+2) , ranged now has +Aimed , price to 60g (+5g)
+- Apothecary melee now has +Stun special , price to 28g (+2g)
+- Crossbowman with Bulwark HP to 53 (+2g)
+- Pyromancer ranged damage decrease by 1 , now has +Corrode special in ranged, XP to 75 (+10) , price to 28g (+2g)
+- Master Pyromancer now has +Corrode special in ranged, price to 50g (+4g)
+- Pikeman and Heavy Pikeman cold res to 10% (+10%)
+- Heavy Pikeman will now have a +Bleed attack only attack special
+if I added the special without the attack only it would be scary OP trust me lol
+- Heavy Footman NEW ATTACK: 14-3 impact melee +Cripple 5% +Attack-only, price to 62g (+3g)
+- Scout cold res to 10% (+10%)
+- Mounted Crossbowman impact and cold res increase by 10% , XP to 85 (+10)
+- Escort HP to 70 (+8) , impact and cold res increase by 10% , ranged attack now has +First-Strike , price to 59g (+4g)
+I refuse that a mounted crossbowman to have less HP than a foot archer, he has to have more bulk, even his both damage are low.
+- Gendarme NEW ATTACK: Trample 9-2 impact melee , XP to 90 (+15)
+- Condotierra HP to 76 (+9), NEW ATTACK: Trample 16-2 impact melee +Dread , price to 68g (+6g)
+This buff should make the unit worth it
+
+
+AoA - Kingdoms of Rohvar
+- Gothic Knight on Foots NEW ATTACK: 17-3 blade melee +5% accuracy -10% parry +Magic-Counter, price to 54g (+4g)
+Weird secondary attack which increases damage significantly (accuracy) at cost of his defense but he's heavily armored
+Also if the target has magic melee he instead decreases opponent hit chance, which makes this thing alive in the meta
+- Sargeant leadership 2 aura got replaced by Protection aura instead, price increased
+Two different auras is quite more useful in one faction.
+- Mercenary and Mercenary Captain both now have +Magic-Counter
+BOTH FIGHETERS are horrible in terms of resistances, but lv3 at least has leadership.
+But in physical strength they're really bad
+- Royal Archer now have +Magic-Dodge at ranged
+- Ritterbrüder now has +Magic-Counter at his melee
+The amount of XP required to get this unit 111 XP at his lv2 is insane high, probably it's well deserved.
+- Gothic Knight fire/cold res to 10% (+10%)
+
+
+EOC - Chaos
+- Daemon Shapeshifter can no longer be leader options
+Too strong for afterlife and some other game modes becuause on how strong he can become later.
+High HP, good ranged and too danerous to be leader option.
+- Knight of Chaos blade res to 10% (+10%) , price to 29g (+2g)
+- Knight of Chaos and advanceent axes now have +Dread special
+
+EOC - Wild Humans
+- Smasher HP to 53 (+2)
+
+
+BEEM - Anakes
+- Alastor ranged accuracy +5%
+
+
+BEEN - Wood Warriors
+- Carnivore Plant XP to 39 (+4)
+
+AE - Dark Legion
+Gonna standarize that lv2 human dark legion units have 10% better fire res
+- Lv2 human have now 10% fire res
+- Lv3 human have now 20% fire res
+Few exception have more, while Dark Legion arsenal and attacs are quite limited.
+The idea of the fire res buff is to also apply the limitation to the opponent when facing them.
+
+- Soldier XP to 42 (+4) , price to 16g (+1g)
+- Berserker HP to 51 (+3) , fire res to 10% (+10%)
+- Longswordsman HP to 53 (-2), blade res to 30% (+10%) , pierce res to 10% (+10%) , XP to 95 (+23)
+- Champion blade res to 30% (+10%)
+- Habeldier and Deathmaster fire res to 10% (+10%) , cold res to 0% (-10%)
+- Halberdier blade damage to 14-2 (+1) , XP to 84 (+19) , price to 27g (+1g)
+- Deathmaster blade damage to 23-2 (+2) and now have +Dread , Pierce melee is now +Magic-Counter price to 60g (+3g)
+- Gunner ranged damage to 24-1 (+2) , XP to 77 (+7) , price to 25g (+1g)
+- Elite Gunner ranged damage to 35-1 (+2) and melee is now +Magic-dodge
+
+
+AE - Harpies
+- Standarize hill defense on 60% (buff)
+- Standarize arcane resistance on 20% (buff)
+- Standarize mountains defene on 70% -except harpy fighter- (buff)
+They have no frontline of high health, and they would struggle so badly at small maps or WC II situations
+that enemies outnumbers you
+
+
+EE - Monsters
+- Mudcrawler XP to 47 (-3)
+- Mother Mudcrawler ranged damage t 6-3 (from 6-4)
+Very high stats and regen. Great Off-tank even with nerfs.
+
+- Lv2 and Lv3 Spiders will now have +Feeding
+- Overgrown spider impact ranged damage adjusted to 8-4 (from 9-3) , Melee now has +Dread
+
+- Water Snake XP to 42 (-2)
+- Water Serpent HP to 54 (+2) price to 30g (-2g)
+- All Wolves cold res to 20% or fire res to 10% (+10% to only one element)
+- Direwolf HP to 64 (+4)
+- All wolves cave movement cost to 1 (-1)
+- Young Cuttle Fish HP to 42 (+2)
+
+
+EE - Northeners
+- Troll Shaman melee damage to 8-2 (+1) , fire/cold res to 10% (+10%) , arcane res to 0% (+10%) , pierce res to 20% (+10%)
+It still has only 10% on pierce
+
+
+EE - Outlaws
+Wanted to do the cunning woman advancement to Outlaw Princess... but I better skip one release because of description issues.
+- Raider ranged damage to 11-2 (-2) , price to 30g (+1g)
+It no longer needs to be that strong as outlaws are now significantly stronger faction than before.
+- Outlaws no longer recruiting default ogres because these can't lv3.
+- Shadow Lord all ranged damage increase by 1 , melee attack will now also +magic-counter , cold res to 20% (+20%)
+It's being the only melee with both magical and magic-counter
+We don't need dupped ogres in outlaws
+
+
+EE - Chaos
+- Dark Knight HP to 54 (+3) , sword will now have +dread, XP to 85 (+10) , price to 31g (+3g)
+- Blood Knight sword will now have +dread , XP to 120 (+15) , price to 63g (+6g)
+- Overlord sword will now have +dread
+- Hound HP to 22 (+1)
+- Rabid Hound HP to 40 (+2) , fire/cold res to 10% (+10%) , arcane res to 0% (-10%) , price to 32g (-2g)
+- Warp Hound HP to 49 (+2) . fire res to 20% (+10%) , cold res to 10% (+10%) , arcane res to -10% (-20%)
+Resistances are more handy for berserk type because arcane melee is rarer than other two types
+- Flesh Hound movement to 5 (-1) , arcane res to -10% (-20%)
+It's stupidly much stronger than the other path
+- Evil Crab XP to 40 (-2)
+- Hell Crab ranged will now have +Dread
+Bad unit overall, hard to use, I don't care if that makes it op or not in highly modded games
+- Lesser Mutation XP to 38 (-2)
+- Greater Mutation HP to 62 (+2)
+- Abomination HP to 83 (+5)
+- Lesser Daemon blade res to -20% (-5%) , impact res to -10% (+5%) , pierce res to -10% (+5%)
+- Chaos Daemon blade res to -20% (-5%) , impact res to -10% (+5%) , pierce res to -10% (+5%)
+- Greater Daemon blade res to -20% (-5%) , impact res to -10% (+5%) , pierce res to -10% (+5%)
+- Winged Daemon HP to 44 (+2) , ranged damage to 15-2 (+1)
+- Invoker XP to 43 (-2)
+- Magus XP to 82 (-3)
+
+
+EE - Dark Elves
+- Noble shield damage to 11-1 (+1)
+- Noble and advancement will now have +Protection instead of +Leadership
+This is a big buff having two auras instead of one
+- Ice Wyrm HP to 53 (+12) , price to 22g (+1g)
+- Hunter melee to 4-2 (-2) but now will have +Backstab
+It's a nerf because offensively while melee is viable, it deals so much less from retaliation
+- Warrior HP to 52 (+2) , melee will now have +magic-counter , price to 32g (+1g)
+- Corsair melee will now have +Magic-counter , fire res to 0% (+10%)
+This barely does something, but in the right context can be very helpful
+But in times it does something, he is no longer hard-countered
+- Enchantress XP to 43 (-2) , price to 18g (-1g)
+- Sorcerer cold res to 30% (+20%)
+- Warlock cold damage to 15-3 (+1) , Cold res to 30% (+10%)
+
+
+EE - Dwarves
+- Dwarvish Flamethrower HP fire res to 20% (+10%)
+- Steamwheel XP to 37 (-3)
+
+
+EE - Undead
+- Chocobone fire res to -10% (+10%)
+- Fix lv1 skeleton having lich-like resistances
+
+EFM - Dalefolk
+- Rocketeer HP to 31 (+1) , fire res to -10% , artillery attack will have +first-strike, price to 12g (-2g)
+- Bombardier fire res to -10% , artillery attack will have +first-strike, price to 21g (-5g)
+- Battery artillery attack will have +first-strike , price to 54g (+3g)
+- Mountaineer now will have +Magic-Counter on melee
+
+
+EFM - Darklanders
+All units cave movement cost to 2 (-1) -except for riders-
+- Tribesman XP to 38 (-2)
+- Guerrilla HP to 50 (+1) , swamp water defense to 50% (+20%)
+- Serpent NEW ATTACK: 4-3 impact +first-strike +poison +slows
+
+
+
+EFM - Highlanders
+- Runner price to 13g (-1g)
+
+
+EFM - Whites
+- Terror Rider price to 19g (-1g)
+- Warder flat defense to 40% (+10%)
+
+
+ELE - Vikings
+- Thegn XP to 40 (+2)
+- Valnir zerking attack will now have -5% parry
+- Huskarl berzerk attack will now have -5% parry
+Really good damages, non zerking on defense, can lv3 , can heal after kills.
+- Radningar XP to 80 (+9)
+- Sniskytter XP to 82 (+2)
+- Ster XP to 75 (+3)
+- Viking Skuldelev XP to 39 (-3)
+Almost no gain of health
+
+
+ELE - Horned Skeletons
+- Corse burner & Corse Inferno will now have +Very-Skilled instead of +Magical
+They will be hitting more often to enemies at 20% defense or even lower
+- Lich Tyrant ranged damage to 13-2 (-1)
+
+
+EotF - Nordhiris
+- Northern Archer price to 16g (-1g)
+
+
+FL - Altaris
+- Primeval Master HP to 63 (+3)
+- Incursionist now has +Magic-Dodge at ranged
+- Stone Warrior and Cerberus arcane res to 40% (+10%)
+- Man at arms melees now have +Magic-Dodge
+
+
+Feudal - Clockwork Dwarves
+- Golem Soldier XP to 39 (-5)
+- Triggerman XP to 38 (-2)
+- Gunner XP to75 (-2)
+
+
+Feudal - High Elves
+- Sorceress XP to 52 (+2)
+- Enchantress HP to 43 (-2) , impact ranged damage to 4-4 (-1)
+- Sylph HP to 53 (-2) impact ranged damage to 6-4 (-1
+
+Feudal - Ceresian League
+- Corporal XP to 42 (+4)
+- Lieutenant XP to 90 (+10)
+This unit's stats are really good... but its lv3 was quite bad
+- Condottiiero HP to 60 (+2) , blade/pierce res to 10% (+10%)
+- Monk HP to 42 (+2)
+- Pellegrino HP to 54 (+2)
+
+
+
+
+
