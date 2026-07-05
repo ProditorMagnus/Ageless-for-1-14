@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-07-05 21:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [unit_type], id=AE_arc_menagerie_Green_Delta, race=AE_roswellian, gender=male # though really neither
+#: .\units\archaic_units\menagerie\Little_Green_Delta.cfg:4
+msgid "Green Delta"
+msgstr ""
+
+#. [unit_type], id=AE_arc_menagerie_Green_Delta, race=AE_roswellian, gender=male # though really neither
+#: .\units\archaic_units\menagerie\Little_Green_Delta.cfg:33
+msgid ""
+"Elite Green Men equips some type of portable jetpack, and are capable of "
+"doing maneuvers even in closed spaces because of its acute senses, "
+"omnidirectional jets and small size."
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\archaic_units\menagerie\Little_Green_Delta.cfg:67
+msgid "kick"
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\archaic_units\menagerie\Little_Green_Delta.cfg:76
+#: .\units\archaic_units\menagerie\Little_Green_Man.cfg:34
+#: .\units\archaic_units\menagerie\Little_Green_Soldier.cfg:34
+#: .\units\archaic_units\menagerie\Little_Green_Tank.cfg:76
+msgid "psionic blast"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\archaic_units\menagerie\Little_Green_Delta.cfg:90
+#: .\units\archaic_units\menagerie\Little_Green_Soldier.cfg:47
+msgid "plasma rifle"
+msgstr ""
+
+#. [unit_type], id=AE_arc_menagerie_Green_Man, race=AE_roswellian, gender=male # though really neither
+#: .\units\archaic_units\menagerie\Little_Green_Man.cfg:4
+msgid "Little Green Man"
+msgstr ""
+
+#. [unit_type], id=AE_arc_menagerie_Green_Man, race=AE_roswellian, gender=male # though really neither
+#. [unit_type], id=AE_arc_menagerie_Green_Soldier, race=AE_roswellian, gender=male # though really neither
+#: .\units\archaic_units\menagerie\Little_Green_Man.cfg:19
+#: .\units\archaic_units\menagerie\Little_Green_Soldier.cfg:19
+msgid ""
+"The Magnellian civilization reached many worlds before encountering the one "
+"that would be its undoing. Roswellians are short, stocky, apparently "
+"genderless humanoids with big black eyes set in a big bald head. Despite an "
+"almost child-like appearance, these odd beings are not vulnerable, for they "
+"can lash out with some sort of supernatural ability."
+msgstr ""
+
+#. [unit_type], id=AE_arc_menagerie_Green_Soldier, race=AE_roswellian, gender=male # though really neither
+#: .\units\archaic_units\menagerie\Little_Green_Soldier.cfg:4
+msgid "Little Green Soldier"
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\archaic_units\menagerie\Little_Green_Soldier.cfg:25
+msgid "rifle stock"
+msgstr ""
+
+#. [unit_type], id=AE_arc_menagerie_Green_Tank, race=AE_arc_tri_mech, gender=male # though really neither
+#: .\units\archaic_units\menagerie\Little_Green_Tank.cfg:4
+msgid "Portable Tank"
+msgstr ""
+
+#. [unit_type], id=AE_arc_menagerie_Green_Tank, race=AE_arc_tri_mech, gender=male # though really neither
+#: .\units\archaic_units\menagerie\Little_Green_Tank.cfg:27
+msgid ""
+"The little pilot uses some type of force shield to protect itself from "
+"incoming attacks, while looking exposed, the pilot is still covered with this"
+" force field preventing it to be poisoned."
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\archaic_units\menagerie\Little_Green_Tank.cfg:89
+msgid "plasma cannon"
+msgstr ""

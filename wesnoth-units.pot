@@ -1,0 +1,2362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-07-05 21:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\text\mainline-strings.cfg:50
+msgid "greatsword"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:52
+msgid "saber"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:54
+msgid "longsword"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:56
+msgid "short sword"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:58
+msgid "sword"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:60
+msgid "dagger"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:62
+msgid "knife"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:64
+msgid "throwing knives"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:66
+msgid "axe"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:68
+#: .\text\mainline-strings.cfg:70
+msgid "battle axe"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:72
+msgid "hammer"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:74
+msgid "club"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:76
+msgid "mace"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:78
+msgid "morning star"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:80
+msgid "flail"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:82
+msgid "lance"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:84
+msgid "pike"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:86
+msgid "halberd"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:88
+msgid "torch"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:90
+msgid "trident"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:92
+msgid "shield bash"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:94
+msgid "berserker frenzy"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:96
+msgid "fist"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:98
+msgid "sling"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:100
+msgid "staff"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:102
+msgid "plague staff"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:104
+msgid "entangle"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:106
+msgid "ensnare"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:108
+msgid "thorns"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:110
+msgid "faerie fire"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:112
+msgid "fire breath"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:114
+msgid "fireball"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:116
+msgid "flame blast"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:118
+msgid "water spray"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:120
+msgid "lightning"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:122
+msgid "lightbeam"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:124
+msgid "wail"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:127
+msgid "hatchet"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:129
+msgid "bow"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:131
+msgid "longbow"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:133
+msgid "composite bow"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:135
+msgid "ballista"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:137
+msgid "crossbow"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:139
+msgid "javelin"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:141
+msgid "spear"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:143
+msgid "pitchfork"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:145
+msgid "crush"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:147
+msgid "touch"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:149
+msgid "faerie touch"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:151
+msgid "claws"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:153
+msgid "fire claws"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:155
+msgid "battle claws"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:157
+msgid "war blade"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:159
+msgid "war talon"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:161
+msgid "beak"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:163
+msgid "fangs"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:165
+msgid "bite"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:167
+msgid "tail"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:169
+msgid "tentacle"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:171
+msgid "gossamer"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:173
+msgid "web"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:175
+msgid "net"
+msgstr ""
+
+#. [chance_to_hit], id=AE_ext_ink
+#: .\text\mainline-strings.cfg:177
+#: .\units\EE_units\monsters\Cuttlefish.cfg:51
+#: .\units\EE_units\monsters\Young_Cuttlefish.cfg:47
+msgid "ink"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:179
+msgid "sting"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:181
+msgid "pincers"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:183
+msgid "jaw"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:185
+msgid "chill wave"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:187
+msgid "chill tempest"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:189
+msgid "shadow wave"
+msgstr ""
+
+#. [attack], type=arcane, range=melee
+#: .\text\mainline-strings.cfg:191
+#: .\units\RE_units\dwarves\Spirit.cfg:27
+#: .\units\RE_units\dwarves\Spirit_Ancestor.cfg:27
+#: .\units\RE_units\dwarves\Spirit_Forefather.cfg:29
+#: .\units\RE_units\undead\Spirit_Spectre.cfg:33
+#: .\units\RE_units\undead\Spirit_Wraith.cfg:22
+msgid "baneblade"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:193
+msgid "curse"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:196
+msgid "missile"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:198
+msgid "thunderstick"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:202
+msgid "ram"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:204
+msgid "slam"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:206
+msgid "mud glob"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:208
+msgid "cleaver"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Wolf, race=wolf
+#: .\text\mainline-strings.cfg:211
+#: .\units\EE_units\monsters\Wolf.cfg:4
+msgid "Wolf"
+msgstr ""
+
+#. [race], id=AE_ext_monsters_monster
+#. [race], id=AE_ext_monsters_elemental
+#. [race], id=AE_ext_monsters_seacreatures
+#: .\units\EE_units\monsters.cfg:5
+#: .\units\EE_units\monsters.cfg:14
+#: .\units\EE_units\monsters.cfg:28
+msgid "race^Monster"
+msgstr ""
+
+#. [race], id=AE_ext_monsters_monster
+#. [race], id=AE_ext_monsters_elemental
+#. [race], id=AE_ext_monsters_seacreatures
+#: .\units\EE_units\monsters.cfg:6
+#: .\units\EE_units\monsters.cfg:15
+#: .\units\EE_units\monsters.cfg:29
+msgid "race+female^Monster"
+msgstr ""
+
+#. [race], id=AE_ext_monsters_monster
+#. [race], id=AE_ext_monsters_elemental
+#. [race], id=AE_ext_monsters_seacreatures
+#: .\units\EE_units\monsters.cfg:7
+#: .\units\EE_units\monsters.cfg:16
+#: .\units\EE_units\monsters.cfg:30
+msgid "race^Monsters"
+msgstr ""
+
+#. [race], id=AE_ext_monsters_monster
+#. [race], id=AE_ext_monsters_elemental
+#. [race], id=AE_ext_monsters_seacreatures
+#: .\units\EE_units\monsters.cfg:8
+#: .\units\EE_units\monsters.cfg:17
+#: .\units\EE_units\monsters.cfg:31
+msgid ""
+"The term “monster” incorporates many hideous beasts that haunt the caves, "
+"wilderness, ocean depths, and other climes of the world. They figure largely "
+"in the tales and nightmares of its denizens, as well."
+msgstr ""
+
+#. [unit_type], id=Dwarvish Fighter
+#: .\units\EE_units\dwarves\a1-Fighter.cfg:9
+msgid ""
+"This unit is from Extended Era. Its coding and art were done by the Various "
+"people who created Extended Era."
+msgstr ""
+
+#. [unit_type], id=Dwarvish Fighter
+#. [unit_type], id=AE_stf_triththa_Dwarvish_Fighter
+#. [unit_type], id=AE_rhy_dw_Fighter, race=AE_RHY_dwarf
+#: .\units\EE_units\dwarves\a1-Fighter.cfg:9
+#: .\units\EOS_units\dwarves\Fighter.cfg:11
+#: .\units\RE_units\dwarves\Fighter.cfg:17
+msgid ""
+"Dwarvish Fighters wield mighty battle axes and hammers, which make them "
+"feared opponents in close-range combat. They are excellent in mountainous "
+"terrain or underground. Their power and endurance more than compensate for "
+"their relatively poor mobility."
+msgstr ""
+
+#. [unit_type], id=AE_ext_dwarves_Dwarvish_Runesmith, race=dwarf
+#: .\units\EE_units\dwarves\a2-Runesmith.cfg:5
+msgid "Dwarvish Runesmith"
+msgstr ""
+
+#. [unit_type], id=AE_ext_dwarves_Dwarvish_Runesmith, race=dwarf
+#: .\units\EE_units\dwarves\a2-Runesmith.cfg:24
+msgid ""
+"Dwarvish runesmiths, now practiced at their craft, carve arcane runes into "
+"their weapons and armor. These runes infuse the runesmith's blows with power "
+"and accuracy, and disrupt the blows of their enemies, causing them to strike "
+"softly, weakly and on the armor of the defender."
+msgstr ""
+
+#. [unit_type], id=AE_ext_dwarves_Dwarvish_Runemaster, race=dwarf
+#: .\units\EE_units\dwarves\a3-Runemaster.cfg:5
+msgid "Dwarvish Runemaster"
+msgstr ""
+
+#. [unit_type], id=AE_ext_dwarves_Dwarvish_Runemaster, race=dwarf
+#: .\units\EE_units\dwarves\a3-Runemaster.cfg:24
+msgid ""
+"Except for those with almost supernatural skill, the highest rank a "
+"runecrafter can rise to is that of the Dwarvish Runemaster. Striking blows "
+"nearly as powerful as those of the best warriors, they would be fearsome "
+"without their craft, but with it they are also nigh on invincible, since "
+"their runes cause the physical blows of their enemies to deal less damage "
+"than would be expected."
+msgstr ""
+
+#. [unit_type], id=AE_ext_dwarves_Dwarvish_Arcanister, race=dwarf
+#: .\units\EE_units\dwarves\a4-Arcanister.cfg:5
+msgid "Dwarvish Arcanister"
+msgstr ""
+
+#. [unit_type], id=AE_ext_dwarves_Dwarvish_Arcanister, race=dwarf
+#: .\units\EE_units\dwarves\a4-Arcanister.cfg:25
+msgid ""
+"The most powerful of all the runecrafters, the Dwarvish Arcanister destroys "
+"wounded enemies almost instantly, and rarely fails to cause a wound when that"
+" is his intent. His skill in runecrafting is unrivaled, and the glyphs he "
+"carves into his weapons and armor deflect the blows of his enemies."
+msgstr ""
+
+#. [unit_type], id=Dwarvish Thunderer
+#: .\units\EE_units\dwarves\b1-Thunderer.cfg:9
+msgid ""
+"When the men of Wesnoth first encountered the dwarves, they were mystified by"
+" the power of the Dwarvish Thunderers, who were able to hurl death from afar "
+"through the apparatus of these strange wands they carried into battle. The "
+"deafening noise of these ‘thundersticks’ is terrifying to behold, and is made"
+" more so by the secrecy which dwarves wrap about their workings."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Baby_Bigfoot, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Baby_Bigfoot.cfg:4
+msgid "Young Bigfoot"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Baby_Bigfoot, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Baby_Bigfoot.cfg:18
+msgid "This is custom unit. Its coding was done by Ravana and art by Mechanical."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Baby_Mudcrawler, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Baby_Mudcrawler.cfg:4
+msgid "Baby Mudcrawler"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Baby_Mudcrawler, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Baby_Mudcrawler.cfg:21
+msgid ""
+"Mudcrawlers are magical constructs of soil and water. They attack by belching"
+" lumps of mud at their foes."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Bigfoot, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Bigfoot.cfg:4
+msgid "Bigfoot"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Bigfoot, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Bigfoot.cfg:18
+msgid "This is custom unit. Its coding and art were done by Ravana."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Cuttle_Fish, race=AE_ext_monsters_seacreatures
+#: .\units\EE_units\monsters\Cuttlefish.cfg:4
+msgid "Cuttle Fish"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Cuttle_Fish, race=AE_ext_monsters_seacreatures
+#. [unit_type], id=AE_ext_monsters_Young_Cuttle_Fish, race=AE_ext_monsters_seacreatures
+#. [unit_type], id=AE_stf_triththa_Giant_Squid, race=AE_stf_triththa_cuttlefish
+#: .\units\EE_units\monsters\Cuttlefish.cfg:19
+#: .\units\EE_units\monsters\Young_Cuttlefish.cfg:18
+#: .\units\EOS_units\cuttlefish\Giant_Squid.cfg:18
+msgid ""
+"Cuttle Fish are gigantic creatures of the seas. They can grab their opponents"
+" with strong tentacles, or spit a poisonous black ink from a distance. The "
+"best way to survive an encounter with these monsters is to remain ashore."
+msgstr ""
+
+#. [chance_to_hit], id=AE_ext_ink
+#: .\units\EE_units\monsters\Cuttlefish.cfg:52
+#: .\units\EE_units\monsters\Young_Cuttlefish.cfg:48
+msgid "Ink reduces opponents chance to hit by 15%"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Fire_Dragon, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Fire_Dragon.cfg:4
+msgid "Fire Dragon"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Fire_Dragon, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Fire_Dragon.cfg:27
+msgid ""
+"A dragon is a legendary creature, normally seen only in fantastic tales. They"
+" are very rare, and were it not for the historical events, the singlehanded "
+"destruction of cities and towns that these creatures have wrought, they might"
+" be dismissed as mere myth. Legends are very specific about the ravages of "
+"dragons; noting their great strength, speed, their preternatural cunning, and"
+" above all else, the great fire that burns inside of them.\n"
+"\n"
+"Battling a dragon is said to be the pinnacle of danger itself, fit only for "
+"fools, or the bravest of knights."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Fire_Guardian, race=AE_ext_monsters_elemental
+#: .\units\EE_units\monsters\Fire_Guardian.cfg:4
+msgid "Fire Guardian"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Fire_Guardian, race=AE_ext_monsters_elemental
+#. [unit_type], id=AE_ext_monsters_Fire_Warrior_Spirit, race=AE_ext_monsters_elemental
+#: .\units\EE_units\monsters\Fire_Guardian.cfg:19
+#: .\units\EE_units\monsters\Fire_Warrior_Spirit.cfg:22
+msgid ""
+"Fire Guardians are spirits of smoke and flame. No one is exactly sure where "
+"they come from, but they are occasionally summoned by powerful mages to do "
+"their bidding. When not being controlled they like to frolic in pools of lava"
+" and take great delight in burning anything they can reach."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Fire_Warrior_Spirit, race=AE_ext_monsters_elemental
+#: .\units\EE_units\monsters\Fire_Warrior_Spirit.cfg:4
+msgid "Fire Warrior Spirit"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Giant_Rat, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Giant_Rat.cfg:4
+msgid "Giant Rat"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Giant_Rat, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Giant_Rat.cfg:23
+msgid ""
+"Given an adequate supply of food, some rats can grow to truly impressive "
+"sizes. They can also grow quite aggressive."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Giant_Yeti, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Giant_Yeti.cfg:4
+msgid "Giant Yeti"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Giant_Yeti, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Giant_Yeti.cfg:19
+msgid ""
+"Little is known about Yetis, ape-like creatures said to live in remote and "
+"snow-covered mountains. Few profess to have seen one, and their existence is "
+"doubted by many."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Gryphon, race=gryphon
+#: .\units\EE_units\monsters\Gryphon.cfg:4
+msgid "Gryphon"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Gryphon, race=gryphon
+#. [unit_type], id=AE_ext_monsters_Elder_Gryphon, race=gryphon
+#: .\units\EE_units\monsters\Gryphon.cfg:18
+#: .\units\EE_units\monsters\Gryphon_Elder.cfg:18
+msgid ""
+"These majestic and powerful creatures are masters of the sky. Gryphons are "
+"both dangerous and wary of other intelligent creatures, and thus should not "
+"be disturbed without a good reason."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Elder_Gryphon, race=gryphon
+#: .\units\EE_units\monsters\Gryphon_Elder.cfg:4
+msgid "Elder Gryphon"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Mudcrawler, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Mudcrawler.cfg:4
+msgid "Mudcrawler"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Mudcrawler, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Mudcrawler.cfg:19
+msgid ""
+"Giant Mudcrawlers are a larger kind of Mudcrawler, and are magical constructs"
+" of soil and water. They attack by belching lumps of mud at their foes, or by"
+" striking them with their fists."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Overgrown_Scorpion, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Overgrown_Scorpion.cfg:4
+msgid "Overgrown Scorpion"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Overgrown_Scorpion, race=AE_ext_monsters_monster
+#. [unit_type], id=AE_ext_monsters_Scorpion, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Overgrown_Scorpion.cfg:33
+#: .\units\EE_units\monsters\Scorpion.cfg:18
+msgid ""
+"A normal scorpion is dangerous enough — the deadliness of one the size of a "
+"man needs little explanation."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Overgrown_Spider, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Overgrown_Spider.cfg:4
+msgid "Overgrown Spider"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Overgrown_Spider, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Overgrown_Spider.cfg:32
+msgid ""
+"Giant Spiders are said to roam the depths of Knalga, devouring many victims. "
+"They have a vicious bite and can also fling webs through the air to trap "
+"their prey."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Red_Dragon, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Red_Dragon.cfg:4
+msgid "Red Dragon"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Scorpion, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Scorpion.cfg:4
+msgid "Scorpion"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Sea_Serpent, race=AE_ext_monsters_seacreatures
+#: .\units\EE_units\monsters\Sea_Serpent.cfg:4
+msgid "Sea Serpent"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Sea_Serpent, race=AE_ext_monsters_seacreatures
+#: .\units\EE_units\monsters\Sea_Serpent.cfg:22
+msgid "Sea Serpents are gigantic monsters, capable of capsizing boats by themselves."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Skeletal_Dragon, race=undead
+#: .\units\EE_units\monsters\Skeletal_Dragon.cfg:4
+msgid "Skeletal Dragon"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Skeletal_Dragon, race=undead
+#: .\units\EE_units\monsters\Skeletal_Dragon.cfg:32
+msgid ""
+"Long ago one of the mightiest living creatures, the feared Dragon has become "
+"only bones and dark sinew. Long after its death, it was raised through the "
+"dark powers of necromancy, which it now serves. The Skeletal Dragon may look "
+"like nothing more than a pile of bones, but few people who thought that way "
+"lived long enough to change their minds."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Water_Serpent, race=AE_ext_monsters_seacreatures
+#: .\units\EE_units\monsters\Water_Serpent.cfg:5
+msgid "Water Serpent"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Water_Serpent, race=AE_ext_monsters_seacreatures
+#. [unit_type], id=AE_ext_monsters_Water_Snake, race=AE_ext_monsters_seacreatures
+#: .\units\EE_units\monsters\Water_Serpent.cfg:32
+#: .\units\EE_units\monsters\Water_Snake.cfg:19
+msgid ""
+"Scholars differ as to the ancestry of the Water Serpent. Some hold that they "
+"are the immature young, or mature cousins, of Sea Serpents. Others hold them "
+"up as a primitive offshoot of the Nagas. What is certain is that it is wise "
+"to avoid waters where they are known to congregate."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Water_Snake, race=AE_ext_monsters_seacreatures
+#: .\units\EE_units\monsters\Water_Snake.cfg:5
+msgid "Water Snake"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Wingless_Dragon, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Wingless_Dragon.cfg:4
+msgid "Wingless Dragon"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Wolf, race=wolf
+#. [unit_type], id=AE_ext_monsters_Direwolf, race=wolf
+#. [unit_type], id=AE_ext_monsters_Great_Wolf, race=wolf
+#: .\units\EE_units\monsters\Wolf.cfg:32
+#: .\units\EE_units\monsters\Wolf_Dire.cfg:18
+#: .\units\EE_units\monsters\Wolf_Great.cfg:17
+msgid ""
+"Wolves are aggressive animals that hunt in packs. Although weak individually,"
+" a wolf pack can kill even the strongest man in minutes."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Direwolf, race=wolf
+#: .\units\EE_units\monsters\Wolf_Dire.cfg:4
+msgid "Direwolf"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Great_Wolf, race=wolf
+#: .\units\EE_units\monsters\Wolf_Great.cfg:4
+msgid "Great Wolf"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Yeti, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Yeti.cfg:4
+msgid "Yeti"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Yeti, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Yeti.cfg:18
+msgid "Baby yetis, though smaller than their parents, still pack an awesome punch."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Young_Cuttle_Fish, race=AE_ext_monsters_seacreatures
+#: .\units\EE_units\monsters\Young_Cuttlefish.cfg:4
+msgid "Young Cuttle Fish"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Young_Gryphon, race=gryphon
+#: .\units\EE_units\monsters\Young_Gryphon.cfg:4
+msgid "Young Gryphon"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Young_Gryphon, race=gryphon
+#: .\units\EE_units\monsters\Young_Gryphon.cfg:19
+msgid ""
+"Gryphons, when young, are covered with white and gray feathers. As soon as "
+"they can fly, they become able to defend their nests and to attack intruders."
+" Though not yet powerful as adult Gryphons, underestimate them is a dangerous"
+" thing to do, a foolish move that led many poachers to death, either by "
+"facing their claws or falling down from a mountain while trying to escape a "
+"Gryphon's rage."
+msgstr ""
+
+#. [unit_type], id=Naga Fighter
+#: .\units\EE_units\nagas\c1-Fighter.cfg:9
+msgid ""
+"The serpentine naga are one of the few races capable of any meaningful "
+"mobility in water, giving them mastery of a whole world effectively forbidden"
+" to land dwellers. Still, they are not true creatures of the sea, and their "
+"inability to breathe water leaves them in trepidation of the abyss. They are "
+"small, and somewhat frail in form, but often much more nimble than their "
+"opponents."
+msgstr ""
+
+#. [unit_type], id=Orcish Leader
+#: .\units\EE_units\orcs\b1-Leader.cfg:15
+msgid ""
+"Unusually cunning orcs tend to find themselves as the leaders of warrior "
+"bands. They carry a crossbow out of necessity, but are much more skilled with"
+" the sword. These orcs are powerful fighters, but they also have a certain "
+"rapport with their kin, especially goblins, and can inspire them to fight "
+"with uncharacteristic boldness."
+msgstr ""
+
+#. [unit_type], id=Orcish Ruler
+#: .\units\EE_units\orcs\b2-Ruler.cfg:16
+msgid ""
+"Any orc who can keep a large tribe from feuding and in-fighting is often "
+"unusually intelligent and commanding, and is inevitably very strong as well. "
+"They are skilled with both sword and crossbow, but their real talent lies in "
+"their rare ability to rally other orcs to battle, to give orders that are "
+"followed not out of fear, but loyalty."
+msgstr ""
+
+#. [unit_type], id=Orcish Sovereign
+#: .\units\EE_units\orcs\b3-Sovereign.cfg:14
+msgid ""
+"From time to time, an orc will arise who has a natural charisma and command "
+"over his ilk. If he is also strong and cunning enough to survive early "
+"leadership struggles, he will inevitably find himself leading a great horde "
+"of warriors, and he will also inevitably cause a great deal of trouble for "
+"the civilized races of the world. The surest way to disperse such a host is "
+"to slay this rare orc who can hold it together."
+msgstr ""
+
+#. [unit_type], id=AE_ext_outlaws_Archwitch, race=human, gender=female
+#: .\units\EE_units\outlaws\Archwitch.cfg:4
+msgid "Archwitch"
+msgstr ""
+
+#. [unit_type], id=AE_ext_outlaws_Archwitch, race=human, gender=female
+#. [unit_type], id=AE_ext_outlaws_Cunning_Woman, race=human, gender=female
+#. [unit_type], id=AE_ext_outlaws_Witch, race=human, gender=female
+#: .\units\EE_units\outlaws\Archwitch.cfg:33
+#: .\units\EE_units\outlaws\Cunning_Woman.cfg:30
+#: .\units\EE_units\outlaws\Witch.cfg:32
+msgid ""
+"This unit is from the Golden Age. Its coding and art where done by "
+"ForestDragon.\n"
+"\n"
+""
+msgstr ""
+
+#. [unit_type], id=AE_ext_outlaws_Archwitch, race=human, gender=female
+#: .\units\EE_units\outlaws\Archwitch.cfg:35
+msgid ""
+"Archwitches have a wide knowledge of the nature which she can use against her"
+" enemies. She can now cast poisoned thorns which are hard to direct mostly in"
+" retaliations. Archwitches are respected by any magician considering that all"
+" her training and knowledge was acquired autodidactly and no-one taught her. "
+"Usually witches and Archwitches are few, and rarely they interact with others"
+" in their lives before being recruited by the same outlaw army in where they "
+"usually meet each other."
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\EE_units\outlaws\Archwitch.cfg:68
+#: .\units\EE_units\outlaws\Cunning_Woman.cfg:62
+#: .\units\EE_units\outlaws\Witch.cfg:63
+msgid "dispell"
+msgstr ""
+
+#. [unit_type], id=AE_ext_outlaws_Cunning_Woman, race=human, gender=female
+#: .\units\EE_units\outlaws\Cunning_Woman.cfg:4
+msgid "Cunning Woman"
+msgstr ""
+
+#. [unit_type], id=AE_ext_outlaws_Cunning_Woman, race=human, gender=female
+#. [unit_type], id=AE_ext_outlaws_Witch, race=human, gender=female
+#: .\units\EE_units\outlaws\Cunning_Woman.cfg:32
+#: .\units\EE_units\outlaws\Witch.cfg:34
+msgid ""
+"Sometimes even in marginality places there are people with talents in magic. "
+"Usually men living in corrupt ambients have no time to even notice if they "
+"had potential to magics, so some of those outlaw men could have talents for "
+"magic, but sadly they will never have time to wonder if they had or not "
+"talent for magics. Unlike in the case of men, women doesn't have that "
+"physical strength so many of them while childhood experimented a lot of "
+"different things... also for the surprise of some of these women they have "
+"talent for magic arts. Usually outlaws steal a lot of things, some of those "
+"magical books that almost nobody uses at all, also few cunning women "
+"autodidacts themselves in order to learn how to heal their wounded outlaw "
+"companions. Once they gain enough experience their foes' names them Outlaw "
+"Witches and when they start being feared by the enemies who face them they "
+"are named as Archwithches."
+msgstr ""
+
+#. [unit_type], id=AE_ext_Great_Ogre, race=ogre
+#: .\units\EE_units\outlaws\d3-Great_Ogre.cfg:4
+msgid "Great Ogre"
+msgstr ""
+
+#. [unit_type], id=AE_ext_Great_Ogre, race=ogre
+#: .\units\EE_units\outlaws\d3-Great_Ogre.cfg:24
+msgid ""
+"Great Ogres are giant creatures that usually live alone in the wilderness, "
+"remarkably similar to humans in form, though large and misshapen. While they "
+"can be easily outrun or outsmarted, their strength is not to be "
+"underestimated."
+msgstr ""
+
+#. [unit_type], id=AE_ext_outlaws_Witch, race=human, gender=female
+#: .\units\EE_units\outlaws\Witch.cfg:4
+msgid "Outlaw Witch"
+msgstr ""
+
+#. [unit_type], id=Troll Whelp
+#: .\units\EE_units\trolls\a1-Whelp.cfg:9
+msgid ""
+"Describing a troll as a whelp is something of an oxymoron, given that their "
+"bodies are already much hardier than that of a grown man. They are clumsy and"
+" not yet capable of walking properly, forced instead to shamble about on all "
+"fours, but any difficulty this causes them is more than made up for by the "
+"raw strength of their race."
+msgstr ""
+
+#. [unit_type], id=AE_ext_northerns_Troll_Shaman, race=troll
+#: .\units\EE_units\trolls\a2-Shaman.cfg:4
+msgid "Troll Shaman"
+msgstr ""
+
+#. [unit_type], id=AE_ext_northerns_Troll_Shaman, race=troll
+#: .\units\EE_units\trolls\a2-Shaman.cfg:25
+msgid ""
+"Troll shamans are the mystical leaders of the trolls. Though not as strong or"
+" tough as other trolls, their true power lies in their fire magic, which they"
+" use to blast enemies with gouts of fire or punish enemies with curses."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Flame_Dragon, race=AE_ext_monsters_monster
+#: .\units\EE_units\unused\Flame_Dragon.cfg:4
+msgid "Flame Dragon"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Ogre, race=ogre
+#: .\units\EE_units\unused\Ogre.cfg:4
+msgid "Ogre"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Ogre, race=ogre
+#: .\units\EE_units\unused\Ogre.cfg:20
+msgid ""
+"Ogres are giant creatures that usually live alone in the wilderness, "
+"remarkably similar to humans in form, though large and misshapen. While they "
+"can be easily outrun or outsmarted, their strength is not to be "
+"underestimated."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Young_Ogre, race=ogre
+#: .\units\EE_units\unused\Young_Ogre.cfg:4
+msgid "Young Ogre"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Young_Ogre, race=ogre
+#: .\units\EE_units\unused\Young_Ogre.cfg:20
+msgid ""
+"When still young, Ogres are sometimes captured and taken into armies to be "
+"trained. They cannot manage weapons skillfully, but they compensate for that "
+"lack with great strength."
+msgstr ""
+
+#. [unit_type], id=AE_chs_elementals_Ice_Claw, race=AE_chs_elemental
+#: .\units\EoC_units\elementals\Ice_Claw.cfg:5
+msgid "Ice Claw"
+msgstr ""
+
+#. [attack], type=pierce, range=melee
+#: .\units\EoC_units\elementals\Ice_Claw.cfg:43
+#: .\units\EoC_units\elementals\Ice_Cub.cfg:43
+#: .\units\EoC_units\elementals\Ice_Fang.cfg:54
+msgid "icicle"
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#: .\units\EoC_units\elementals\Ice_Claw.cfg:51
+#: .\units\EoC_units\elementals\Ice_Cub.cfg:52
+#: .\units\EoC_units\elementals\Ice_Fang.cfg:62
+msgid "gelid aura"
+msgstr ""
+
+#. [unit_type], id=AE_chs_elementals_Ice_Cub, race=AE_chs_elemental
+#: .\units\EoC_units\elementals\Ice_Cub.cfg:5
+msgid "Ice Cub"
+msgstr ""
+
+#. [unit_type], id=AE_chs_elementals_Ice_Fang, race=AE_chs_elemental
+#: .\units\EoC_units\elementals\Ice_Fang.cfg:5
+msgid "Ice Fang"
+msgstr ""
+
+#. [unit_type], id=AE_chs_elementals_Stormbird, race=AE_chs_elemental
+#: .\units\EoC_units\elementals\Stormbird.cfg:5
+msgid "Stormbird"
+msgstr ""
+
+#. [attack], type=blade, range=ranged
+#: .\units\EoC_units\elementals\Stormbird.cfg:43
+#: .\units\EoC_units\elementals\Thunderbird.cfg:45
+msgid "blade shower"
+msgstr ""
+
+#. [unit_type], id=AE_chs_elementals_Thunderbird, race=AE_chs_elemental
+#: .\units\EoC_units\elementals\Thunderbird.cfg:5
+msgid "Thunderbird"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\EoC_units\elementals\Thunderbird.cfg:57
+msgid "thunderbolt"
+msgstr ""
+
+#. [unit_type], id=AE_chs_aragwaith_Peasant, race=AE_chs_aragwaith
+#: .\units\EoC_units\human-aragwaithi\Aragwaith_Peasant.cfg:5
+msgid "Peasant"
+msgstr ""
+
+#. [unit_type], id=AE_chs_wild_humans_Rogue_Mage, race=human, gender=male
+#: .\units\EoC_units\human-outlaws\Rogue_Mage.cfg:5
+msgid "Rogue Mage"
+msgstr ""
+
+#. [unit_type], id=AE_chs_wild_humans_Rogue_Mage, race=human, gender=male
+#: .\units\EoC_units\human-outlaws\Rogue_Mage.cfg:18
+msgid ""
+"Some mages are thrown out of the mage’s guild for attempting to practice "
+"forbidden arts. Now completely outside the law, these rogue mages do whatever"
+" necessary to support their study of black magic. Although not as skilled as "
+"mages with more formal training, their magic can be quite lethal, while their"
+" banditry has resulted in moderate skill with the short sword."
+msgstr ""
+
+#. [unit_type], id=AE_chs_wild_humans_Shadow_Lord, race=human, gender=male
+#: .\units\EoC_units\human-outlaws\Shadow_Lord.cfg:5
+msgid "Shadow Lord"
+msgstr ""
+
+#. [unit_type], id=AE_chs_wild_humans_Shadow_Lord, race=human, gender=male
+#: .\units\EoC_units\human-outlaws\Shadow_Lord.cfg:22
+msgid ""
+"Few humans fathom the secrets of light and dark magic and retain their "
+"sanity. Those that can master that balance become Shadow Lords, fully "
+"existing neither in the world of light nor the world of darkness. No longer "
+"needing physical weapons, they are fearsome to both their enemies and those "
+"they lord over."
+msgstr ""
+
+#. [unit_type], id=AE_chs_wild_humans_Shadow_Mage, race=human, gender=male
+#: .\units\EoC_units\human-outlaws\Shadow_Mage.cfg:5
+msgid "Shadow Mage"
+msgstr ""
+
+#. [unit_type], id=AE_chs_wild_humans_Shadow_Mage, race=human, gender=male
+#: .\units\EoC_units\human-outlaws\Shadow_Mage.cfg:21
+msgid ""
+"Years of violence and brutality to support the study of forbidden magical "
+"arts have turned the shadow mages into feared fighters. Now completely "
+"enthralled with power, they have been known to command small followings of "
+"henchmen. They are outmatched in direct magical combat with their magic-using"
+" peers, instead channeling their energies into devastating melee attacks. "
+"Despite their offensive power, the corruption in their souls has begun to "
+"adversely affect their health."
+msgstr ""
+
+#. [unit_type], id=AE_stf_triththa_Giant_Squid, race=AE_stf_triththa_cuttlefish
+#: .\units\EOS_units\cuttlefish\Giant_Squid.cfg:4
+msgid "Giant Squid"
+msgstr ""
+
+#. [unit_type], id=AE_stf_triththa_Dwarvish_Fighter
+#: .\units\EOS_units\dwarves\Fighter.cfg:9
+msgid ""
+"This unit is from The Era of Strife. Its coding and art were done by Jami, "
+"AI, Elrias, Lizard, Quietus, Espreon, Neorice and Various others.\n"
+" \n"
+""
+msgstr ""
+
+#. [unit_type], id=AE_stf_triththa_Plainsmaster, race=mechanical
+#: .\units\EOS_units\dwarves\Plainsmaster.cfg:4
+msgid "Dwarvish Plainsmaster"
+msgstr ""
+
+#. [unit_type], id=AE_stf_triththa_Plainsmaster, race=mechanical
+#: .\units\EOS_units\dwarves\Plainsmaster.cfg:21
+msgid ""
+"This is a custom unit. Its coding and art were done by ForestDragon.\n"
+" \n"
+""
+msgstr ""
+
+#. [unit_type], id=AE_stf_triththa_Plainsmaster, race=mechanical
+#: .\units\EOS_units\dwarves\Plainsmaster.cfg:23
+msgid ""
+"While going through mountains, dwarvish runners are matched in speed only by "
+"birds, on flat ground though, their small stature limits their pace. So when "
+"requirements arose for long-range reconnaissance across vast stretches of "
+"flatlands, a new tool was needed, and dwarvish engineers invented this:\n"
+"\n"
+"Balanced in a lightweight steel chassis connecting four wheels is a wooden "
+"cabin just large enough to house a dwarf. Moving at high speed, it runs of "
+"the dwarf's own strength plus another source that the engineers of Triththa "
+"are unwilling to disclose even to their brethren. Though it makes for a light"
+" vehicle, the size of the machine limits the occupant's weaponry to a small "
+"axe and a similar sized, slow-loading but powerful crossbow."
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\EOS_units\eltireans\Archbishop.cfg:55
+#: .\units\EOS_units\eltireans\Bishop.cfg:45
+msgid "lightbolt"
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\EOS_units\eltireans\Crusher.cfg:40
+#: .\units\EOS_units\eltireans\Destroyer.cfg:41
+msgid "stunstrike"
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\EOS_units\eltireans\Knight_Guardian.cfg:47
+msgid "lightburst"
+msgstr ""
+
+#. [female]
+#: .\units\EOS_units\eventide\Auxilary.cfg:116
+msgid "female^Auxiliary"
+msgstr ""
+
+#. [attack], type=fire, range=melee
+#: .\units\EOS_units\eventide\EventidePoisoner.cfg:50
+msgid "flaming sword"
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#: .\units\EOS_units\saurians\Saurian_Soulmage.cfg:47
+msgid "coldest wave"
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\EOS_units\saurians\Tarantula.cfg:44
+msgid "Wrap"
+msgstr ""
+
+#. [unit_type], id=AE_mrc_slavers_Shouldermount, race=monster
+#: .\units\ME_units\slavers\e2-shouldermount.cfg:5
+msgid "Shouldermount"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Fighter, race=AE_RHY_dwarf
+#: .\units\RE_units\dwarves\Fighter.cfg:4
+msgid "Dwarvish Fighter"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Guardsman, race=AE_RHY_dwarf
+#: .\units\RE_units\dwarves\Guardsman.cfg:4
+msgid "Dwarvish Guardsman"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Guardsman, race=AE_RHY_dwarf
+#: .\units\RE_units\dwarves\Guardsman.cfg:17
+msgid ""
+"The dwarven race has always been famed for its sturdiness of build, and many "
+"of their warriors outfit themselves to take advantage of this. Dwarven "
+"guardsmen march into battle with tower shields and spears. Most often, their "
+"role is to hold the line, and to take a heavy toll on those who try to break "
+"it. As the line marches forward, they act to secure its hard-won advance."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Lord, race=AE_RHY_dwarf
+#: .\units\RE_units\dwarves\Lord.cfg:4
+msgid "Dwarvish Lord"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Lord, race=AE_RHY_dwarf
+#: .\units\RE_units\dwarves\Lord.cfg:18
+msgid ""
+"Clad in shining armor, these dwarves look like kings from under the "
+"mountains. They wield axe and hammer with masterful skill, and can hit a "
+"target with a thrown hand axe at several paces. Though slow on their feet, "
+"these dwarves are a testament to the prowess of their kin."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Sentinel, race=AE_RHY_dwarf
+#: .\units\RE_units\dwarves\Sentinel.cfg:4
+msgid "Dwarvish Sentinel"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Sentinel, race=AE_RHY_dwarf
+#: .\units\RE_units\dwarves\Sentinel.cfg:19
+msgid ""
+"Champions among their fellow troops, the dwarven sentinels form the bulwark "
+"of their battle lines. Leading a direct assault against a line that they "
+"fortify, is often out of the question; it tends toward being suicidal, rather"
+" than merely ineffectual. Equipped with the strongest of Knalgan armor, these"
+" dwarves are masters of the melee and can hold a patch of earth with the "
+"single-minded tenacity of an oak."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Ghost, race=AE_RHY_undead
+#: .\units\RE_units\dwarves\Spirit.cfg:4
+msgid "Dwarvish Spirit"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Ghost, race=AE_RHY_undead
+#: .\units\RE_units\dwarves\Spirit.cfg:17
+msgid ""
+"Though they can travel through most terrain without hinderance, their "
+"dwarvish form is still relatively slow."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Wraith, race=AE_RHY_undead
+#: .\units\RE_units\dwarves\Spirit_Ancestor.cfg:4
+msgid "Dwarvish Ancestor"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Wraith, race=AE_RHY_undead
+#: .\units\RE_units\dwarves\Spirit_Ancestor.cfg:17
+msgid ""
+"Dwarves have a deep connection to their history and culture. To preserve the "
+"ancient way, they often ask for advice from those that came before them."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Spectre, race=AE_RHY_undead
+#: .\units\RE_units\dwarves\Spirit_Forefather.cfg:4
+msgid "Dwarvish Forefather"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Spectre, race=AE_RHY_undead
+#: .\units\RE_units\dwarves\Spirit_Forefather.cfg:18
+msgid ""
+"Necromancer? I hardly know her.\n"
+"\t\n"
+"Forefathers were the most renowned warriors, craftsmen and researchers of "
+"their time. It would be a waste if all that knowledge and talent dies with "
+"them."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Stalwart, race=AE_RHY_dwarf
+#: .\units\RE_units\dwarves\Stalwart.cfg:4
+msgid "Dwarvish Stalwart"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Stalwart, race=AE_RHY_dwarf
+#: .\units\RE_units\dwarves\Stalwart.cfg:18
+msgid ""
+"The wiles of experience and training turn guardsmen into worthy soldiers. "
+"These stalwart troops are equipped to match their skills, and can hold their "
+"ground against all but the most visceral assault. It is a dangerous thing to "
+"lose a foothold to one such as these, for it will not be easily reprised."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Steelclad, race=AE_RHY_dwarf
+#: .\units\RE_units\dwarves\Steelclad.cfg:4
+msgid "Dwarvish Steelclad"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_dw_Steelclad, race=AE_RHY_dwarf
+#: .\units\RE_units\dwarves\Steelclad.cfg:18
+msgid ""
+"Outfitted in the strongest plate and mail of Knalgan forges, the Steelclads "
+"are the vanguard of dwarvish armies. They are renowned for their resilience "
+"in the heat of battle, and their mastery of both battleaxe and warhammer make"
+" them imposing foes indeed."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ey_Wose, race=wose
+#: .\units\RE_units\elyser\Wose.cfg:4
+msgid "Wose"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ey_Wose, race=wose
+#: .\units\RE_units\elyser\Wose.cfg:17
+msgid ""
+"Rarely seen even by elves, the Wose is an order of creature about which "
+"little is known. The elves are the source of most of this knowledge; they "
+"know that these beings are not descended from trees, despite the similarity "
+"in form, and they know that a wose is more closely tied to the faerie world "
+"than the elves themselves, though in a different way. The motives and "
+"workings of their kind are unknown, though most subscribe to the obvious "
+"theory that woses are dedicated wardens of the natural world.\n"
+"\n"
+"Woses are utterly unwarlike, but possess a great strength. They are, however,"
+" neither used to, nor quick at moving around."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ey_Ancient_Wose, race=wose
+#: .\units\RE_units\elyser\Wose_Ancient.cfg:4
+msgid "Ancient Wose"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ey_Ancient_Wose, race=wose
+#: .\units\RE_units\elyser\Wose_Ancient.cfg:17
+msgid ""
+"There is a curious story of a farmer who had a great oak in his lawn, a tree "
+"which had stood when his father first broke the soil on that land, and under "
+"which his family had many memories. It was thus a shock to him, one morning, "
+"when he awoke to find nothing but a bare patch of earth where the tree once "
+"stood, as though it had been spirited away in the wee hours of the night.\n"
+"\n"
+"Such encounters are all that is known of what are presumably the most ancient"
+" of woses."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ey_Elder_Wose, race=wose
+#: .\units\RE_units\elyser\Wose_Elder.cfg:4
+msgid "Elder Wose"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ey_Elder_Wose, race=wose
+#: .\units\RE_units\elyser\Wose_Elder.cfg:17
+msgid ""
+"Woses have been said to possess many shapes, all of them tree-like in form, "
+"and as they age, to increase in size. Tales tell of woses who resemble trees "
+"in this respect as well, towering over the creatures who walk beneath them. "
+"This is the greater part of why they are so rarely seen — standing in the "
+"slumber which they so often do, a wose of that stature appears to be nothing "
+"more than an oddly-shaped tree. Even a careless elf can sometimes be fooled.\n"
+"\n"
+"Woses are not warriors by any means, but their great strength can easily be "
+"turned to violence, should someone manage to raise the ire of these "
+"creatures."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Angel, race=AE_RHY_angel
+#: .\units\RE_units\human-luz\Angel.cfg:4
+msgid "Angel"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Angel, race=AE_RHY_angel
+#: .\units\RE_units\human-luz\Angel.cfg:16
+msgid "With their speed and the ability to fly, Angels are often used as scouts."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Angel_Archer, race=AE_RHY_angel
+#: .\units\RE_units\human-luz\Angel_archer.cfg:4
+msgid "Angel Archer"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Angel_Archer, race=AE_RHY_angel
+#: .\units\RE_units\human-luz\Angel_archer.cfg:16
+msgid ""
+"Angel archers harass enemy soldiers with their bow while staying out of their"
+" range with their flying ability."
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\RE_units\human-luz\Angel_archer.cfg:45
+#: .\units\RE_units\human-luz\Angel_Marksman.cfg:48
+msgid "enchanted arrow"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Angel_Marksman, race=AE_RHY_angel
+#: .\units\RE_units\human-luz\Angel_Marksman.cfg:4
+msgid "Angel Marksman"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Angel_Marksman, race=AE_RHY_angel
+#: .\units\RE_units\human-luz\Angel_Marksman.cfg:17
+msgid "While flying the angel marksmen have superior perception and accuracy."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Seraph, race=AE_RHY_angel
+#: .\units\RE_units\human-luz\Angel_Seraph.cfg:4
+msgid "Seraph"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Seraph, race=AE_RHY_angel
+#: .\units\RE_units\human-luz\Angel_Seraph.cfg:18
+msgid ""
+"Seraph have been influenced by arcane magic for many decades. This resulted "
+"in higher affinity to magic and some mutations in their body. Most Seraphs "
+"emit a holy aura, which boosts the morale of lawful allies."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Angel_Warrior, race=AE_RHY_angel
+#: .\units\RE_units\human-luz\Angel_warrior.cfg:4
+msgid "Angel Warrior"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Angel_Warrior, race=AE_RHY_angel
+#: .\units\RE_units\human-luz\Angel_warrior.cfg:16
+msgid ""
+"The Angel warriors amplify their damage by using the extra speed when diving "
+"down on the enemy."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Archangel, race=AE_RHY_angel
+#: .\units\RE_units\human-luz\Archangel.cfg:4
+msgid "Archangel"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Archangel, race=AE_RHY_angel
+#: .\units\RE_units\human-luz\Archangel.cfg:16
+msgid ""
+"Archangels carry magical flaming swords and are capable of using magic to a "
+"small degree."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Crossbowman, race=AE_RHY_human, gender=male
+#: .\units\RE_units\human-luz\Crossbowman.cfg:4
+msgid "Luz Crossbowman"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Crossbowman, race=AE_RHY_human, gender=male
+#: .\units\RE_units\human-luz\Crossbowman.cfg:17
+msgid ""
+"Luz crossbowmen are miliz soldiers from lower classes. Though they posses "
+"only cheap equipment, they can be deadly in range and melee."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Heavy_Crossbowman, race=AE_RHY_human, gender=male
+#: .\units\RE_units\human-luz\Crossbowman_heavy.cfg:4
+msgid "Luz heavy Crossbow"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Heavy_Crossbowman, race=AE_RHY_human, gender=male
+#: .\units\RE_units\human-luz\Crossbowman_heavy.cfg:20
+msgid ""
+"While not rich by any means, these veteran crossbowmen can at leat afford "
+"decent equipment."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Arbalist, race=AE_RHY_human, gender=male
+#: .\units\RE_units\human-luz\Crossbowman_war.cfg:4
+msgid "Luz Arbalist"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Arbalist, race=AE_RHY_human, gender=male
+#: .\units\RE_units\human-luz\Crossbowman_war.cfg:21
+msgid "The best crossbowmen equip themself with a powerful arbalest."
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\RE_units\human-luz\Crossbowman_war.cfg:35
+msgid "arbalest"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Inquisition_Warrior, race=AE_RHY_human
+#: .\units\RE_units\human-luz\inqisitons_warrior.cfg:4
+msgid "Luz Inquisition Warrior"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Inquisition_Warrior, race=AE_RHY_human
+#: .\units\RE_units\human-luz\inqisitons_warrior.cfg:16
+msgid ""
+"Equipped with blessed weapons, the Inquisition warriors are a bane for evil "
+"creatures."
+msgstr ""
+
+#. [attack], type=arcane, range=melee
+#: .\units\RE_units\human-luz\inqisitons_warrior.cfg:36
+#: .\units\RE_units\human-luz\inqisitor.cfg:37
+#: .\units\RE_units\human-luz\rider_knight.cfg:38
+#: .\units\RE_units\human-luz\rider_paladin.cfg:39
+msgid "holy sword"
+msgstr ""
+
+#. [attack], type=blade, range=ranged
+#: .\units\RE_units\human-luz\inqisitons_warrior.cfg:45
+#: .\units\RE_units\human-luz\inqisitor.cfg:55
+#: .\units\RE_units\human-luz\inqisitor_fighter.cfg:33
+msgid "chakram"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Inquisitor, race=AE_RHY_human
+#: .\units\RE_units\human-luz\inqisitor.cfg:4
+msgid "Luz Inquisitor"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Inquisitor, race=AE_RHY_human
+#: .\units\RE_units\human-luz\inqisitor.cfg:17
+msgid "Inquisitors defend their faith with all means."
+msgstr ""
+
+#. [attack], type=fire, range=melee
+#: .\units\RE_units\human-luz\inqisitor.cfg:46
+msgid "firesword"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Inq_Initiate, race=AE_RHY_human
+#: .\units\RE_units\human-luz\inqisitor_fighter.cfg:4
+msgid "Luz Inquisiton Initiate"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Inq_Initiate, race=AE_RHY_human
+#: .\units\RE_units\human-luz\inqisitor_fighter.cfg:16
+msgid ""
+"The Initiates of the Inquisition are recruited from noblemen and veteran "
+"soldiers. For the promise of salvation, the Initiates spread their religious "
+"belief through the land, if necessary  with their sword."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Tormentor, race=AE_RHY_human
+#: .\units\RE_units\human-luz\mace_tormentor.cfg:4
+msgid "Luz Tormentor"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Tormentor, race=AE_RHY_human
+#: .\units\RE_units\human-luz\mace_tormentor.cfg:17
+msgid ""
+"Whomever stand in the way of the Inquisition is used as scapegoat to control "
+"anger in the common folk. The Tormentors bring justice and pain to witches "
+"and non-believers."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Holy_Warden, race=AE_RHY_human
+#: .\units\RE_units\human-luz\mace_warden.cfg:4
+msgid "Luz Warden"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Holy_Warden, race=AE_RHY_human
+#: .\units\RE_units\human-luz\mace_warden.cfg:18
+msgid ""
+"The Order of Holy Wardens is build out of the most devoted and most brutal "
+"followers of the faith. Equiped with a flail that ends in three heavy chains "
+"and a big shield they hunt heathens and heretics"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Witchhunter, race=AE_RHY_human
+#: .\units\RE_units\human-luz\mace_witchhunter.cfg:4
+msgid "Luz Witchhunter"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Witchhunter, race=AE_RHY_human
+#: .\units\RE_units\human-luz\mace_witchhunter.cfg:17
+msgid ""
+"Under the impression, they do the holy deed, the witchhunters carry out the "
+"dirty work of the Inquisition."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Abbot, race=AE_RHY_human
+#: .\units\RE_units\human-luz\Mage_Abbot.cfg:4
+msgid "Luz Abbot"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Abbot, race=AE_RHY_human
+#: .\units\RE_units\human-luz\Mage_Abbot.cfg:17
+msgid ""
+"Abbots are the leaders in their monastery. Their status is well respected in "
+"society. While not as enlightened as the clerics, their wisdom and healing "
+"ability makes them the more reliable force in times of war."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Bishop, race=AE_RHY_human
+#: .\units\RE_units\human-luz\Mage_Bishop.cfg:4
+msgid "Luz Bishop"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Bishop, race=AE_RHY_human
+#: .\units\RE_units\human-luz\Mage_Bishop.cfg:18
+msgid ""
+"Bishops are high ranking priests and councellors of the pope. They interpret "
+"the holy word and create laws accordingly."
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\RE_units\human-luz\Mage_Bishop.cfg:53
+#: .\units\RE_units\human-luz\Mage_Cleric.cfg:51
+#: .\units\RE_units\human-luz\Pope.cfg:53
+msgid "lightwave"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Cleric, race=AE_RHY_human
+#: .\units\RE_units\human-luz\Mage_Cleric.cfg:4
+msgid "Luz Cleric"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Cleric, race=AE_RHY_human
+#: .\units\RE_units\human-luz\Mage_Cleric.cfg:17
+msgid "Clerics are good preachers and insire the lawful around them."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Monk, race=AE_RHY_human
+#: .\units\RE_units\human-luz\Mage_Monk.cfg:4
+msgid "Luz Monk"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Monk, race=AE_RHY_human
+#: .\units\RE_units\human-luz\Mage_Monk.cfg:16
+msgid ""
+"Monks chose a secluded life in a monastery to study. Their bodies are "
+"strenghtened form hard labour and they've amassed a general knowledge of "
+"herbalism."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Priest, race=AE_RHY_human
+#: .\units\RE_units\human-luz\Mage_Priest.cfg:4
+msgid "Luz Priest"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Priest, race=AE_RHY_human
+#: .\units\RE_units\human-luz\Mage_Priest.cfg:16
+msgid ""
+"Many Priests come from the lower classes, but, in return for preaching the "
+"holy word, they get access to knowledge and can eventually reach the rank of "
+"cleric."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Miliz, race=AE_RHY_human
+#: .\units\RE_units\human-luz\miliz.cfg:4
+msgid "Luz Militia"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Miliz, race=AE_RHY_human
+#: .\units\RE_units\human-luz\miliz.cfg:17
+msgid "Instead of trained soldiers, the Luz use men from lower classes en masse."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Peasant, race=AE_RHY_human
+#: .\units\RE_units\human-luz\miliz_peasant.cfg:4
+msgid "Luz Peasant"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Peasant, race=AE_RHY_human
+#: .\units\RE_units\human-luz\miliz_peasant.cfg:22
+msgid ""
+"The peasants in the Luz theocracy are born into a miserable life. Due to "
+"missed harvests and poor education many suffer from physical and mantal "
+"problems. Usually the peasants are exempt from military service, but in times"
+" of need they have to take up arms as well."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Keeper, race=AE_RHY_human
+#: .\units\RE_units\human-luz\miliz_pike.cfg:4
+msgid "Luz Keeper"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Keeper, race=AE_RHY_human
+#: .\units\RE_units\human-luz\miliz_pike.cfg:16
+msgid ""
+"With experience and better equipment, the Keepers can form a strong defensive"
+" wall."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Sentinel, race=AE_RHY_human
+#: .\units\RE_units\human-luz\miliz_sentinel.cfg:4
+msgid "Luz Sentinel"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Sentinel, race=AE_RHY_human
+#: .\units\RE_units\human-luz\miliz_sentinel.cfg:17
+msgid "Sentinels act as guardians for high ranking Priests."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Veteran, race=AE_RHY_human
+#: .\units\RE_units\human-luz\miliz_veteran.cfg:4
+msgid "Luz Veteran"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Veteran, race=AE_RHY_human
+#: .\units\RE_units\human-luz\miliz_veteran.cfg:18
+msgid ""
+"Veterans are jack of all trades. Instead of working as guards, they'll take "
+"odd jobs from mercenary guilds or lords. The veterans are usually faster on "
+"foot, capable swordsmen, and have recieved enough blessings to obtain a small"
+" magic resistance."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Pope, race=AE_RHY_human
+#: .\units\RE_units\human-luz\Pope.cfg:6
+msgid "Luz Pope"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Pope, race=AE_RHY_human
+#: .\units\RE_units\human-luz\Pope.cfg:21
+msgid ""
+"Before he became pope, Cary earned the title of saint due to his gentle "
+"nature. He himself would never hurt a living being, but his personal guard "
+"will make any effort to protect him."
+msgstr ""
+
+#. [attack], type=pierce, range=melee
+#: .\units\RE_units\human-luz\Pope.cfg:36
+msgid "guards"
+msgstr ""
+
+#. [swarm]
+#: .\units\RE_units\human-luz\Pope.cfg:46
+msgid "swarm 4"
+msgstr ""
+
+#. [swarm]
+#: .\units\RE_units\human-luz\Pope.cfg:47
+msgid "The more wounded this unit is the less attacks they get, to the minimum of 4"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Knight, race=AE_RHY_human
+#: .\units\RE_units\human-luz\rider_knight.cfg:4
+msgid "Luz Knight"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Knight, race=AE_RHY_human
+#: .\units\RE_units\human-luz\rider_knight.cfg:18
+msgid ""
+"Additionally to the normal sword, Luz Knights have a blessed weapon as symbol"
+" of their status."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Paladin, race=AE_RHY_human
+#: .\units\RE_units\human-luz\rider_paladin.cfg:4
+msgid "Luz Paladin"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Paladin, race=AE_RHY_human
+#: .\units\RE_units\human-luz\rider_paladin.cfg:19
+msgid ""
+"Paladins are as quick with their blade as they are with their horse. The holy"
+" sword is devestating to the undead and magical creatures."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Rider, race=AE_RHY_human
+#: .\units\RE_units\human-luz\rider_rider.cfg:4
+msgid "Luz Rider"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_lz_Rider, race=AE_RHY_human
+#: .\units\RE_units\human-luz\rider_rider.cfg:18
+msgid ""
+"Luz Riders belong to the Inquisition. They are fast while still being "
+"decently armored."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Castellan, race=AE_RHY_human, gender=male
+#: .\units\RE_units\human-regis\Bow_Castellan.cfg:4
+msgid "Regis Castellan"
+msgstr ""
+
+#. [attack], type=fire, range=melee
+#: .\units\RE_units\human-regis\Bow_Castellan.cfg:34
+#: .\units\RE_units\human-regis\Bow_Castle.cfg:29
+msgid "hot oil"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Castle_Crossbowman, race=AE_RHY_human, gender=male
+#: .\units\RE_units\human-regis\Bow_Castle.cfg:4
+msgid "Regis Siege Defender"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Longbowman, race=AE_RHY_human, gender=male
+#: .\units\RE_units\human-regis\Bow_Long.cfg:4
+msgid "Regis Longbowman"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Longbowman, race=AE_RHY_human, gender=male
+#: .\units\RE_units\human-regis\Bow_Long.cfg:18
+msgid ""
+"Longbows are fearsome weapons, but too difficult for beginning archers to "
+"wield. It takes great strength to draw one, and the added range and power it "
+"confers remain useless unless one has good aim with the weapon. Longbowmen "
+"carry their weapons as a badge of pride, and most bowmen look forward to the "
+"day they can begin using one."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Inflitrator, race=AE_RHY_human
+#: .\units\RE_units\human-regis\E1_infiltrator.cfg:4
+msgid "Regis Inflitrator"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Inflitrator, race=AE_RHY_human
+#: .\units\RE_units\human-regis\E1_infiltrator.cfg:17
+msgid ""
+"In ther inconspicuous civilian clothes, an Inflitrator can get behind the "
+"enemy by hiding amongst the common folk."
+msgstr ""
+
+#. [female]
+#: .\units\RE_units\human-regis\E1_infiltrator.cfg:47
+msgid "female^Regis Inflitrator"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Spy, race=AE_RHY_human
+#: .\units\RE_units\human-regis\E2_Spy.cfg:4
+msgid "Regis Spy"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Spy, race=AE_RHY_human
+#: .\units\RE_units\human-regis\E2_Spy.cfg:17
+msgid ""
+"Disguising as villager, bribing guards, intimitating people or using "
+"counterfeit documents. Spies have many ways to infiltrate the enemy. How they"
+" get there is not important. What really counts is waht they can do in their "
+"position.\n"
+"\t\n"
+"To avoid getting caught, spies don't carry weaponry - at least not in a way "
+"that can be seen. But once the enemy turn their back towards them, they use "
+"the opportunity to strike."
+msgstr ""
+
+#. [female]
+#: .\units\RE_units\human-regis\E2_Spy.cfg:75
+msgid "female^Regis Spy"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Jester, race=AE_RHY_human
+#: .\units\RE_units\human-regis\E3_Jester.cfg:4
+msgid "Regis Jester"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Jester, race=AE_RHY_human
+#: .\units\RE_units\human-regis\E3_Jester.cfg:18
+msgid ""
+"These funny entertainers are not suspicious at all. Why would an assassin try"
+" to stand out?"
+msgstr ""
+
+#. [female]
+#: .\units\RE_units\human-regis\E3_Jester.cfg:80
+msgid "female^Regis Jester"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Horseman, race=AE_RHY_human
+#: .\units\RE_units\human-regis\Horseman.cfg:4
+msgid "Regis Horseman"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Hussar, race=AE_RHY_human
+#: .\units\RE_units\human-regis\Horse_Hussar.cfg:4
+msgid "Regis Hussar"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Hussar, race=AE_RHY_human
+#: .\units\RE_units\human-regis\Horse_Hussar.cfg:20
+msgid ""
+"Hussars are the hidden ace of the regis army, either sweeping in at dawn to "
+"drive back the forces of the night or giving them a last chase at dusk while "
+"the main army can retreat."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Jouster, race=AE_RHY_human
+#: .\units\RE_units\human-regis\Horse_Jouster.cfg:4
+msgid "Regis Jouster"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_White_Mage, race=AE_RHY_human
+#: .\units\RE_units\human-regis\Mage_White.cfg:4
+msgid "Regis Healer"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_White_Mage, race=AE_RHY_human
+#: .\units\RE_units\human-regis\Mage_White.cfg:20
+msgid ""
+"Some magi, as they learn about the world around them, and learn the truth of "
+"the suffering and squalor in which humanity too often lives, find that they "
+"cannot bring themselves to be cloistered into a life of study. These men and "
+"women give up the life of a mage, and join monastic orders, dedicating the "
+"skills they have been given to the good of all. After their ordination, they "
+"often travel the world, ministering to sickness and injury.Though not trained"
+" for combat, they are a potent ally against magical or unnatural things."
+msgstr ""
+
+#. [female]
+#: .\units\RE_units\human-regis\Mage_White.cfg:101
+msgid "female^Regis Healer"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Halberdier, race=AE_RHY_human
+#: .\units\RE_units\human-regis\Spear_Halberdier.cfg:4
+msgid "Regis Palace Guard"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Halberdier, race=AE_RHY_human
+#: .\units\RE_units\human-regis\Spear_Halberdier.cfg:18
+msgid ""
+"Exceptional Pike users may learn how the use of a halbert and act as guards "
+"in high prestige places. Some might even protect the royal palace itself."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Pikeman, race=AE_RHY_human
+#: .\units\RE_units\human-regis\Spear_Pike.cfg:4
+msgid "Regis Pikeman"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Pikeman, race=AE_RHY_human
+#: .\units\RE_units\human-regis\Spear_Pike.cfg:17
+msgid ""
+"Promising spearmen in the armies of Wesnoth are often graduated to wielding "
+"pikes, and are outfitted with something far superior to the motley collection"
+" of leather armor they wore as recruits. A pike is a much longer weapon than "
+"a spear, and thus facilitates different combat tactics. A wall of pikemen is "
+"the bane of any cavalry charge, and with proper discipline and tactics, "
+"pikemen can also hold most other infantry at bay."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Squire, race=AE_RHY_human
+#: .\units\RE_units\human-regis\sword-squire.cfg:4
+msgid "Regis Squire"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Swordsman, race=AE_RHY_human
+#: .\units\RE_units\human-regis\Swordsman.cfg:4
+msgid "Regis Swordsman"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Swordsman, race=AE_RHY_human
+#: .\units\RE_units\human-regis\Swordsman.cfg:17
+msgid ""
+"An experienced soldier will often save enough to equip himself with a suit of"
+" scale or chain armor, and a sturdy broadsword. Though trading their spears "
+"for swords can be a jarring change, most spearmen will leap at the chance, "
+"knowing all too well the limitations of the weapon they are leaving behind. A"
+" sword is not without its own drawbacks, but is more versatile than a spear, "
+"and much better in close quarters."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Royal_Guard, race=AE_RHY_human
+#: .\units\RE_units\human-regis\Sword_Guard.cfg:4
+msgid "Regis Royal Guard"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_rg_Royal_Guard, race=AE_RHY_human
+#: .\units\RE_units\human-regis\Sword_Guard.cfg:18
+msgid ""
+"Royal Guards are picked from the best swordsmen. Serving under any of the "
+"higher nobility, they function as bodyguards, and partly as a badge of office"
+" for their employers. A special force of Royal Guards is stationed at the "
+"capital, guarding the palace grounds and the royal family. Because of their "
+"trusted relationship to their superiors, they, rather than mercenaries, are "
+"often deployed on missions of crucial import. Their reliability and mastery "
+"of close combat are their best assets, for which they are well-renowned."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Skeleton_Archer, race=AE_RHY_undead
+#: .\units\RE_units\undead\archer.cfg:4
+msgid "Skeleton Archer"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Skeleton_Archer, race=AE_RHY_undead
+#: .\units\RE_units\undead\archer.cfg:17
+msgid ""
+"A skeleton archer is little different from the ‘skeletons’ which often "
+"accompany it — it is a sin against nature, a warrior raised from the dead to "
+"fight once again. In their masters’ hands, these soldiers will do anything to"
+" achieve the tasks laid before them, for death holds no fear for one who is "
+"already dead."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Banebow, race=AE_RHY_undead
+#: .\units\RE_units\undead\archer_bane.cfg:5
+msgid "Banebow"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Banebow, race=AE_RHY_undead
+#: .\units\RE_units\undead\archer_bane.cfg:18
+msgid ""
+"The most powerful of the undead archers invariably end up being those who "
+"were themselves archers in their previous life. They wander the fields of "
+"battle, guided by the fading memory of their former skill, neither knowing, "
+"nor caring what their purpose or foes might be. They are driven only by a "
+"malice born of their empty and tortured existence."
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\RE_units\undead\archer_bane.cfg:55
+#: .\units\RE_units\undead\archer_bone.cfg:45
+msgid "acidic arrow"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Bone_Shooter, race=AE_RHY_undead
+#: .\units\RE_units\undead\archer_bone.cfg:4
+msgid "Bone Shooter"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Bone_Shooter, race=AE_RHY_undead
+#: .\units\RE_units\undead\archer_bone.cfg:17
+msgid ""
+"Of a dark sorcerer’s creations, some take more strongly to the false life "
+"given them. The potency of their unlife is given equipment to match; archers,"
+" in particular, are often outfitted with a truly vile arsenal. Their quivers "
+"are filled with shafts made not of wood, but of the bones of their victims. "
+"It follows that they are dubbed simply ‘Bone-Shooters’ by their unfortunate "
+"enemies."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Fire_Shooter, race=AE_RHY_undead
+#: .\units\RE_units\undead\archer_fire.cfg:4
+msgid "Fire Shooter"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Fire_Shooter, race=AE_RHY_undead
+#: .\units\RE_units\undead\archer_fire.cfg:19
+msgid ""
+"With enough magic it is possible to stack effect above another. Burning "
+"Skeletons are often unintentionally created when a rookie Necromancer tries "
+"to get creative and typically don't last very long.\n"
+"Trained Mages however cast fire resistance spells on the bodies and will add "
+"them as valuable soldiers to their army."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_bone_construct, race=AE_RHY_undead
+#: .\units\RE_units\undead\bone_construct.cfg:4
+msgid "Bone Construct"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_bone_construct, race=AE_RHY_undead
+#: .\units\RE_units\undead\bone_construct.cfg:17
+msgid ""
+"If you have power to bestow life upon corpses, why would you stop at what "
+"nature gives you? Once Necromancers have figured out, that you can combine "
+"dead bodyparts at your leasure, there was no stopping to their creativity.\n"
+"\t\n"
+"Bone constructs have been assembled from the remains of many different "
+"creatures. They can have many different looks -depending on what was "
+"available to the animating Mage at the time- , but usually have features that"
+" aid them in combat."
+msgstr ""
+
+#. [attack], type=pierce, range=melee
+#: .\units\RE_units\undead\bone_construct.cfg:29
+#: .\units\RE_units\undead\bone_giant.cfg:45
+#: .\units\RE_units\undead\bone_golem.cfg:26
+#: .\units\RE_units\undead\bone_mess.cfg:32
+#: .\units\RE_units\undead\bone_snake.cfg:50
+msgid "pointed bone"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_bone_giant, race=AE_RHY_undead
+#: .\units\RE_units\undead\bone_giant.cfg:4
+msgid "Bone Giant"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_bone_giant, race=AE_RHY_undead
+#: .\units\RE_units\undead\bone_giant.cfg:17
+msgid ""
+"I'm sure some of these bones are from dragons and I'm really concerned with "
+"how they got those."
+msgstr ""
+
+#. [special_note]
+#: .\units\RE_units\undead\bone_giant.cfg:19
+msgid ""
+"Compared to the lower levels, this unit is so huge that it does not defend "
+"well on most terrain."
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\RE_units\undead\bone_giant.cfg:54
+#: .\units\RE_units\undead\bone_golem.cfg:35
+#: .\units\RE_units\undead\bone_mess.cfg:41
+msgid "bash"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_bone_golem, race=AE_RHY_undead
+#: .\units\RE_units\undead\bone_golem.cfg:4
+msgid "Bone Golem"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_bone_golem, race=AE_RHY_undead
+#: .\units\RE_units\undead\bone_golem.cfg:17
+msgid ""
+"As soon as these creatures stop resembling humanoids, it doesn't matter what "
+"bones you use. They can even repair themself by sticking the remains of "
+"whatever they kill in ther own body. And they kill a lot."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_bone_mess, race=AE_RHY_undead
+#: .\units\RE_units\undead\bone_mess.cfg:4
+msgid "Bone Mess"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_bone_mess, race=AE_RHY_undead
+#: .\units\RE_units\undead\bone_mess.cfg:17
+msgid ""
+"Something clearly went wrong here. But let's reanimate it anyway to see what "
+"it does."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_bone_snake, race=AE_RHY_undead
+#: .\units\RE_units\undead\bone_snake.cfg:4
+msgid "Bone Snake"
+msgstr ""
+
+#. [advancement], id=amla_bone_snake
+#: .\units\RE_units\undead\bone_snake.cfg:20
+msgid "longer bones"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_bone_snake, race=AE_RHY_undead
+#: .\units\RE_units\undead\bone_snake.cfg:38
+msgid "With parts mostly from ripcages and spines, these undead move like snakes."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Ghast, race=AE_RHY_undead
+#: .\units\RE_units\undead\Corpse_Ghast.cfg:4
+msgid "Ghast"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Ghast, race=AE_RHY_undead
+#: .\units\RE_units\undead\Corpse_Ghast.cfg:19
+msgid ""
+"The ghast is a creature taken from humankind’s most primal nightmares. Unlike"
+" their lesser cousins, ghouls and necrophages, ghasts are not patient enough "
+"to wait for their victim to die from poison before consuming the body. They "
+"attack directly with their enormous mouths, trying to rip the flesh straight "
+"from their foes. Once their enemy is defeated, they eat the rest of the body,"
+" gaining strength in the process."
+msgstr ""
+
+#. [special_note]
+#: .\units\RE_units\undead\Corpse_Ghast.cfg:26
+#: .\units\RE_units\undead\Corpse_Ghoul.cfg:31
+#: .\units\RE_units\undead\Corpse_Necrophage.cfg:25
+msgid ""
+"Compared to mainline, this unit has better 'impact' resistance and more HP, "
+"but worse 'arcane' resistance."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Ghoul, race=AE_RHY_undead
+#: .\units\RE_units\undead\Corpse_Ghoul.cfg:4
+msgid "Ghoul"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Ghoul, race=AE_RHY_undead
+#: .\units\RE_units\undead\Corpse_Ghoul.cfg:18
+msgid ""
+"Only the more perverse and sadistic of necromancers know what must be done to"
+" turn a person into a ghoul, and it is a secret they are not telling. The "
+"result, however, is all too well known; it is a beast that knows nothing of "
+"its days as a human being, a creature that shambles about as naked as the day"
+" it was born, and gorges itself on the flesh of the dead.\n"
+"\n"
+"It is because of such things that necromancy is condemned with an almost "
+"primal hatred in all civilized lands."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Necrophage, race=AE_RHY_undead
+#: .\units\RE_units\undead\Corpse_Necrophage.cfg:4
+msgid "Necrophage"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Necrophage, race=AE_RHY_undead
+#: .\units\RE_units\undead\Corpse_Necrophage.cfg:18
+msgid ""
+"The necrophage, or ‘devourer of the dead’, is a monstrous, corpulent thing, "
+"which bears only a crude resemblance to a man. They appear to be quite rotten"
+" in spite of their ability to move; they are rife with disease and poisons of"
+" the blood, and have a stench to match. But the most revolting fact about "
+"these creatures, apparent only to those who can perceive the traces of foul "
+"magic on them, is that they were somehow made from living men — a process "
+"about which almost nothing is known, but which can be nothing but "
+"nightmarish."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Burning_Lich, race=AE_RHY_undead
+#: .\units\RE_units\undead\fire_lich.cfg:4
+msgid "Burning Lich"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Burning_Lich, race=AE_RHY_undead
+#: .\units\RE_units\undead\fire_lich.cfg:18
+msgid ""
+"The burning Liches are a masterpiece of necromancy and pyromancy. Animated "
+"skeletons are enhanced by fire spells to increase their resistance and turn "
+"them into a burning nightmare. They do not posses magic on their own, instead"
+" they concentrate the fire of their body to create fireballs."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Pyromancer, race=AE_RHY_human, gender=male
+#: .\units\RE_units\undead\fire_necromancer.cfg:4
+msgid "Dark Pyromancer"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Pyromancer, race=AE_RHY_human, gender=male
+#: .\units\RE_units\undead\fire_necromancer.cfg:18
+msgid "Plague creates Burning Liches instead"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Pyromancer, race=AE_RHY_human, gender=male
+#: .\units\RE_units\undead\fire_necromancer.cfg:33
+msgid ""
+"Mal Conar is not only a powerful Necromancer, but has mastered fire aswell. "
+"He uses his abilities in combination to create his own race of undead."
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\RE_units\undead\fire_necromancer.cfg:58
+msgid "fire wave"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Black_Skeleton, race=AE_RHY_undead
+#: .\units\RE_units\undead\fire_skeleton.cfg:4
+msgid "Black Skeleton"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Black_Skeleton, race=AE_RHY_undead
+#: .\units\RE_units\undead\fire_skeleton.cfg:16
+msgid ""
+"When he raised the burned corpses of his parents, Mal Conar simultaniously "
+"created a new kind of undead. The charred remains turned out very brittle, "
+"but over years of research, Mal Conar perfected the arts. By putting in more "
+"magic to strengthen the bones, the burned corpses do not have the weakness of"
+" regular Skeletons anymore. Their body is also hot enough to burn their "
+"enemies on touch."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Necromancer, race=AE_RHY_human
+#: .\units\RE_units\undead\Necromancer.cfg:4
+msgid "Necromancer"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Necromancer, race=AE_RHY_human
+#: .\units\RE_units\undead\Necromancer.cfg:21
+msgid ""
+"One of the pinnacles of what is considered ‘black magic’ is the art of "
+"necromancy, the terrible ability to awaken the dead with false life. This "
+"discovery alone caused humanity’s condemnation of black magic, for the "
+"nightmarish things it has made real have given fear a vast new arsenal.\n"
+"\n"
+"This ability, in all aspects, is the first step towards cheating death of its"
+" ultimate prize."
+msgstr ""
+
+#. [female]
+#: .\units\RE_units\undead\Necromancer.cfg:154
+msgid "female^Necromancer"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Dark_Adept, race=AE_RHY_human
+#: .\units\RE_units\undead\Necro_Dark_Adept.cfg:4
+msgid "Dark Adept"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Dark_Adept, race=AE_RHY_human
+#: .\units\RE_units\undead\Necro_Dark_Adept.cfg:23
+msgid ""
+"To attract any practitioners, the lure of black magic must be a great prize "
+"indeed, for anyone caught practicing the art in the civilized world is "
+"subject to a death sentence. And yet there are those who pursue this art, for"
+" the prize offered is nothing less than immortality. Hidden away in secret "
+"cults, or initiated into the dark orders of the underworld, the training "
+"which these fanatics must endure often drives them to exhaustion and "
+"enfeeblement.\n"
+"\n"
+"In such condition, their only weapon is the craft they have so committed "
+"themselves to learning.\n"
+"\n"
+"Though the first Necromancers were humans, this kind of magic also spread to "
+"other races. For elves this ended in a civil war and the creation of "
+"darkelves. Even now some practitioners come from the once noble race."
+msgstr ""
+
+#. [female]
+#: .\units\RE_units\undead\Necro_Dark_Adept.cfg:163
+msgid "female^Dark Adept"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Dark_Sorcerer, race=AE_RHY_human
+#: .\units\RE_units\undead\Necro_Dark_Sorcerer.cfg:4
+msgid "Dark Sorcerer"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Dark_Sorcerer, race=AE_RHY_human
+#: .\units\RE_units\undead\Necro_Dark_Sorcerer.cfg:19
+msgid ""
+"The dread inspired by black magic is enhanced by the secrecy and fell rumors "
+"which surround it. Dark sorcerers have begun to unlock the secrets of life "
+"and death, the latter of which is all too easy to inflict. This labor gives "
+"the first glimmerings of the connection between the soul and inert matter, "
+"and the first successful experiments in manipulating this bond. The terrible "
+"unknown that lurks beyond death is glimpsed, and will inevitably be fathomed.\n"
+"\n"
+"Despite any design they may have of using this to wrest their own immortality"
+" from nature’s grasp, the first results of their work have immediate, and "
+"unpleasant applications. The life they breathe into dead matter can create "
+"servants for them, servants which will work, but which will also kill, and "
+"will never question their masters. These creations have a loyalty any tyrant "
+"would dream of, and it is tempting to those with even the slightest desire "
+"for power."
+msgstr ""
+
+#. [female]
+#: .\units\RE_units\undead\Necro_Dark_Sorcerer.cfg:149
+msgid "Dark Sorceress"
+msgstr ""
+
+#. [female]
+#: .\units\RE_units\undead\Necro_Dark_Sorcerer.cfg:153
+msgid ""
+"The dread inspired by black magic comes chiefly from how little is known "
+"about it by the common man. Dark sorceresses have begun to unlock the secrets"
+" of life and death, the latter of which is all too easy to inflict. This "
+"labor gives the first glimmerings of the connection between the soul and "
+"inert matter, and the first successful experiments in manipulating this bond."
+" The terrible unknown that lurks beyond death is glimpsed, and will "
+"inevitably be fathomed.\n"
+"\n"
+"Despite any design they may have of using this to wrest their own immortality"
+" from nature’s grasp, the first results of their work have immediate, and "
+"unpleasant applications. The life they breathe into dead matter can create "
+"servants for them, servants which will work, but which will also kill, and "
+"will never question their mistress. These creations have a loyalty any tyrant"
+" would dream of, and it is tempting to those with even the merest desire for "
+"power."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Lich, race=AE_RHY_undead
+#: .\units\RE_units\undead\Necro_Lich.cfg:4
+msgid "Lich"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Lich, race=AE_RHY_undead
+#: .\units\RE_units\undead\Necro_Lich.cfg:19
+msgid ""
+"A lich is the physical embodiment of black magic’s first goal: the quest to "
+"achieve immortality. Though a great deal is sacrificed in the rebirth, in "
+"becoming a lich one cheats death of that which truly gives it terror. For it "
+"is the mind that is retained, and the spirit which follows, though the body "
+"may wither away.\n"
+"\n"
+"It is not known, save perhaps by the inner circles of necromancy, whether "
+"life is prolonged indefinitely or simply extended. The fact that this "
+"question can be raised at all is a testament to the magnitude of what their "
+"order has achieved."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Skeleton_Mage, race=AE_RHY_undead
+#: .\units\RE_units\undead\Necro_skeleton.cfg:4
+msgid "Skeleton Mage"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Skeleton_Mage, race=AE_RHY_undead
+#: .\units\RE_units\undead\Necro_skeleton.cfg:21
+msgid ""
+"Corpses raised from Wizards can sometimes retain enough of their memories and"
+" intelligence to casts spells in their new undead form.\n"
+"\t\n"
+"Note: Despite levitating, these Mages have the same defense as normal "
+"skeletons."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Ghost, race=AE_RHY_undead
+#: .\units\RE_units\undead\Spirit_Ghost.cfg:4
+msgid "Ghost"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Ghost, race=AE_RHY_undead
+#: .\units\RE_units\undead\Spirit_Ghost.cfg:18
+msgid ""
+"Enslaved within a shroud of enchantments, a trapped spirit may be likened to "
+"the wind in the sails of a ship. This damned vessel becomes an unfailing "
+"servant which can be bound to whatever task their master sees fit."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Nightgaunt, race=AE_RHY_undead
+#: .\units\RE_units\undead\Spirit_Nightgaunt.cfg:4
+msgid "Nightgaunt"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Nightgaunt, race=AE_RHY_undead
+#: .\units\RE_units\undead\Spirit_Nightgaunt.cfg:19
+msgid ""
+"The purpose of the masks that these creatures wear is unknown, as is the "
+"countenance that they obscure. These terrible forms are rarely seen by the "
+"living, and those who live to speak of them had no leisure to study their "
+"foe."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Shadow, race=AE_RHY_undead
+#: .\units\RE_units\undead\Spirit_Shadow.cfg:4
+msgid "Shadow"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Shadow, race=AE_RHY_undead
+#: .\units\RE_units\undead\Spirit_Shadow.cfg:18
+msgid ""
+"When light came into the world and gave form to the unknown, fear was forced "
+"to retreat into darkness. Since that day, the shadows of the world have held "
+"terror for humanity, though it knows not why.\n"
+"\n"
+"That is a question which is easily answered by a necromancer."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Spectre, race=AE_RHY_undead
+#: .\units\RE_units\undead\Spirit_Spectre.cfg:4
+msgid "Spectre"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Spectre, race=AE_RHY_undead
+#: .\units\RE_units\undead\Spirit_Spectre.cfg:20
+msgid ""
+"Sometimes called the ‘hollow men’, spectres form the right arm of their "
+"masters’ powers. They are an unholy terror to the living, for they are quite "
+"as deadly as their appearance suggests.\n"
+"\n"
+"The creation of these is itself no mean feat, but the real danger in "
+"encountering one is that it is likely only the harbinger of a much more "
+"dangerous force that will follow in its wake."
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Wraith, race=AE_RHY_undead
+#: .\units\RE_units\undead\Spirit_Wraith.cfg:4
+msgid "Wraith"
+msgstr ""
+
+#. [unit_type], id=AE_rhy_ne_Wraith, race=AE_RHY_undead
+#: .\units\RE_units\undead\Spirit_Wraith.cfg:18
+msgid ""
+"These shades of what were once warriors are among the most terrifying things "
+"a necromancer can create, for a sword will cleave right through them as if "
+"through air, seemingly without doing harm. It is the thought that these foes "
+"are invincible which is so frightening, a notion that is fortunately far from"
+" the truth."
+msgstr ""
