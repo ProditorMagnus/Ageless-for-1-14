@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-07-05 21:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\text\mainline-strings.cfg:296
+msgid "trample"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:298
+msgid "astral blade"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:300
+msgid "ice blast"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:302
+msgid "shadow bolt"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:304
+msgid "shadow blast"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:306
+msgid "holy ankh"
+msgstr ""
+
+#. [unit_type], id=AE_ext_outlaws_Rogue_Mage, race=human, gender=male
+#: .\units\EE_units\outlaws\a1-Rogue_Mage.cfg:5
+msgid "Rogue Mage"
+msgstr ""
+
+#. [unit_type], id=AE_ext_outlaws_Rogue_Mage, race=human, gender=male
+#: .\units\EE_units\outlaws\a1-Rogue_Mage.cfg:19
+msgid ""
+"Some mages are thrown out of the mage's guild for attempting to practice "
+"forbidden arts. Now completely outside the law, these rogue mages do whatever"
+" necessary to support their study of black magic. Although not as skilled as "
+"mages with more formal training, their magic can be quite lethal, while their"
+" banditry has resulted in moderate skill with the short sword."
+msgstr ""
+
+#. [unit_type], id=AE_ext_outlaws_Shadow_Mage, race=human, gender=male
+#: .\units\EE_units\outlaws\a2-Shadow_Mage.cfg:5
+msgid "Shadow Mage"
+msgstr ""
+
+#. [unit_type], id=AE_ext_outlaws_Shadow_Mage, race=human, gender=male
+#: .\units\EE_units\outlaws\a2-Shadow_Mage.cfg:22
+msgid ""
+"Years of violence and brutality to support the study of forbidden magical "
+"arts have turned the shadow mages into feared fighters. Now completely "
+"enthralled with power, they have been known to command small followings of "
+"henchmen. They are outmatched in direct magical combat with their magic-using"
+" peers, instead channeling their energies into devestating melee attacks. "
+"Despite their offensive power, the corruption in their souls has begun to "
+"adversely affect their health."
+msgstr ""
+
+#. [unit_type], id=AE_ext_outlaws_Shadow_Lord, race=human, gender=male
+#: .\units\EE_units\outlaws\a3-Shadow_Lord.cfg:5
+msgid "Shadow Lord"
+msgstr ""
+
+#. [unit_type], id=AE_ext_outlaws_Shadow_Lord, race=human, gender=male
+#: .\units\EE_units\outlaws\a3-Shadow_Lord.cfg:23
+msgid ""
+"Few humans fathom the secrets of light and dark magic and retain their "
+"sanity. Those that can master that balance become Shadow Lords, fully "
+"existing neither in the world of light nor the world of darkness. No longer "
+"needing physical weapons, they are fearsome to both their enemies and those "
+"they lord over."
+msgstr ""

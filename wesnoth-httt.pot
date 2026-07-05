@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-07-05 21:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\text\mainline-strings.cfg:219
+msgid "flaming sword"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:222
+msgid "scepter"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:225
+msgid "sceptre of fire"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:227
+msgid "raging blizzard"
+msgstr ""
