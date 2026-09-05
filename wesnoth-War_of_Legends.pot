@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-07-05 21:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [unit_type], id=AE_ext_undead_Doom_Prophet, race=undead
+#: .\units\EE_units\undead\b3-Doom_Prophet.cfg:5
+msgid "Doom Prophet"
+msgstr ""
+
+#. [unit_type], id=AE_ext_undead_Doom_Prophet, race=undead
+#: .\units\EE_units\undead\b3-Doom_Prophet.cfg:35
+msgid ""
+"This unit art and code is from Undead Legion - War of Legends Era, redesigned"
+" as custom unit by IPS to fit EE - Undead faction.\n"
+"\n"
+"At long last, necromantic practitioners have paid the ultimate sacrifice for "
+"the dark arts into which they have delved, and have, themselves, entered into"
+" undeath. At the apex of their power, they have become darkness liches, a "
+"waking embodiment of dread. They have, beyond any doubt, passed the point of "
+"no return, and their power and immortality will have to provide consolation "
+"for what they have lost in their quest to achieve them."
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Sentinel, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\steel_astigmatic.cfg:4
+msgid "Steel Sentinel"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Sentinel, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\steel_astigmatic.cfg:18
+msgid ""
+"This unit art and code is from Steel Hive - War of Legends Era, redesigned as"
+" custom unit by IPS to fit AE - Steelhive faction.\n"
+"\t\n"
+"Sentinel is a variant of Sparkgazer upgrade, which at being heavier they "
+"don't fly as high as other Oculus models. Still, they can hold villages and "
+"castle tiles with 60% terrain defense which is very valuable, but their extra"
+" size makes them to suffer from 40% defense in most places. Sentinel will "
+"also colide at close enemies dealing them impact damage type. This model is "
+"more ressistant to impact damage type, but has no bonus heat ressistance."
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\misc_units\steelhive\steel_astigmatic.cfg:70
+msgid "collide"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\misc_units\steelhive\steel_astigmatic.cfg:79
+msgid "shock"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Dreadnought, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\steel_dreadnought.cfg:4
+msgid "Steel Dreadnought"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Dreadnought, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\steel_dreadnought.cfg:18
+msgid ""
+"This unit art and code is from Steel Hive - War of Legends Era, redesigned as"
+" custom unit by IPS to fit AE - Steelhive faction.\n"
+"\t\n"
+"Dreadnought are siege master pieces and among finest of Steelhive Army. "
+"They're capable to retaliate at melee and to fly brining havoc in a wide "
+"area."
+msgstr ""
+
+#. [attack], type=pierce, range=melee
+#: .\units\misc_units\steelhive\steel_dreadnought.cfg:68
+#: .\units\misc_units\steelhive\steel_skewer.cfg:32
+msgid "stab"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Rocketer, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\steel_impaler.cfg:4
+msgid "Steel Rocketer"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Rocketer, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\steel_impaler.cfg:17
+msgid ""
+"This unit art and code is from Steel Hive - War of Legends Era, redesigned as"
+" custom unit by IPS to fit AE - Steelhive faction.\n"
+"\n"
+"Rocketers use modern high accuracy rockets to fire at distant targets. "
+"They're excelent at dealing againist garrisoned units and they deal high "
+"physical damage at distance but they have to be covered carefully as they "
+"cannot retaliate in melee range."
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Bombardier, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\steel_skewer.cfg:4
+msgid "Steel Bombardier"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Bombardier, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\steel_skewer.cfg:17
+msgid ""
+"This unit art and code is from Steel Hive - War of Legends Era, redesigned as"
+" custom unit by IPS to fit AE - Steelhive faction.\n"
+"\t\n"
+"Bombardiers are more refined prototype of Rocketers, they can fire much "
+"harder bombards againist their objectives and if not stopped at time the "
+"destruction they can leave over enemy lines will be enormous."
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Avalanche, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\steel_syren.cfg:4
+msgid "Steel Avalanche"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Avalanche, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\steel_syren.cfg:13
+msgid ""
+"This unit art and code is from Steel Hive - War of Legends Era, redesigned as"
+" custom unit by IPS to fit AE - Steelhive faction.\n"
+"\t\n"
+"Avalanche is among finest and most elegant fighting models that steelhive has"
+" to offer, it offers among best fighting performance as well it looks so "
+"aesthetic when deployed. Now flies at low height which adds it better "
+"movement costs and ground terrain defenses. Its blade shock enemies, while "
+"dealing impact damage type because of short circuits."
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\misc_units\steelhive\steel_syren.cfg:53
+msgid "slash"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\misc_units\steelhive\steel_syren.cfg:90
+msgid "jolt"
+msgstr ""

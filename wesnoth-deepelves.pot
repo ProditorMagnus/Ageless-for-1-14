@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-07-05 21:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [unit_type], id=AE_agl_deep_Corrupted, race=AE_dep_deep_elf, gender=female
+#: .\units\misc_units\deep-elves\Corrupted.cfg:5
+msgid "Corrupted"
+msgstr ""
+
+#. [unit_type], id=AE_agl_deep_Corrupted, race=AE_dep_deep_elf, gender=female
+#: .\units\misc_units\deep-elves\Corrupted.cfg:20
+msgid ""
+"Even among the Lightborns, the Corrupted are rarely seen in Blackqvasten and "
+"the realms of the depths. While a Corrupted maintains some of her nature as a"
+" faerie, the presence of Shassagoth has distorted and empowered it with "
+"darkness. As a result, the Corrupted has access to high forms of destructive "
+"magic that allow her to pull enemies directly into Shassagoth’s shadow "
+"realms, where they are slowly consumed by the darkness.\n"
+"\n"
+"This unit is able to pull enemy units into the world of Shassagoth. Those "
+"units will receive an additional +20% damage until the end of the turn."
+msgstr ""
+
+#. [attack], type=cold, range=melee
+#: .\units\misc_units\deep-elves\Corrupted.cfg:49
+msgid "corrupt touch"
+msgstr ""
+
+#. [attack], type=secret, range=melee
+#: .\units\misc_units\deep-elves\Corrupted.cfg:63
+msgid "nether grip"
+msgstr ""
+
+#. [ethergrip]
+#. [unstore_unit]
+#: .\units\misc_units\deep-elves\Corrupted.cfg:73
+#: .\units\misc_units\deep-elves\Corrupted.cfg:174
+msgid "ether grip"
+msgstr ""
+
+#. [ethergrip]
+#: .\units\misc_units\deep-elves\Corrupted.cfg:74
+msgid ""
+"When a unit is hit with the ether grip weapon special, it will receive +20% "
+"damage until the end of the turn."
+msgstr ""
+
+#. [unstore_unit]
+#: .\units\misc_units\deep-elves\Corrupted.cfg:175
+msgid "female^ether grip"
+msgstr ""
+
+#. [unit_type], id=AE_agl_deep_Harbinger, race=AE_dep_deep_elf, gender=female
+#: .\units\misc_units\deep-elves\Harbinger.cfg:5
+msgid "Harbinger"
+msgstr ""
+
+#. [unit_type], id=AE_agl_deep_Harbinger, race=AE_dep_deep_elf, gender=female
+#: .\units\misc_units\deep-elves\Harbinger.cfg:20
+msgid ""
+"The Harbinger is the leader of the Deep Elves and an earthly representation "
+"of Shassagoth. She is rarely seen, but wherever a Harbinger does appear, it "
+"can be certain that war is imminent. Those who have witnessed her sorcery "
+"firsthand have described it as a line of destruction, capable of devouring "
+"everything in its path and leaving nothing but blood and death. It believed "
+"that the Harbinger channels the energies of Shassagoth himself, providing her"
+" a potent means to further spread the influence of the darkness. "
+msgstr ""
+
+#. [attack], type=arcane, range=melee
+#: .\units\misc_units\deep-elves\Harbinger.cfg:40
+msgid "nether touch"
+msgstr ""
+
+#. [attack], type=impact, range=ranged
+#: .\units\misc_units\deep-elves\Harbinger.cfg:49
+msgid "twilight wave"
+msgstr ""
+
+#. [unit_type], id=AE_agl_deep_Seeker, race=AE_dep_deep_elf, gender=female
+#: .\units\misc_units\deep-elves\Seeker.cfg:5
+msgid "Blood Seeker"
+msgstr ""
+
+#. [unit_type], id=AE_agl_deep_Seeker, race=AE_dep_deep_elf, gender=female
+#: .\units\misc_units\deep-elves\Seeker.cfg:19
+msgid ""
+"Whoever has incurred the hatred of the ghostly apparition that is the Seeker "
+"will find death. Seekers are said to be able freely traverse through walls, "
+"relentlessly pursing their marked quarries. The hunted prey is plagued with "
+"nightmares of its own death until the Seeker’s blade transforms its visions "
+"into reality. It is said that the Seeker’s sword consumes the souls of its "
+"marks, imprisoning them within a cage of cold steel. "
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\misc_units\deep-elves\Seeker.cfg:50
+msgid "blade"
+msgstr ""
+
+#. [unit_type], id=AE_dep_deep_wisp, race=AE_dep_deep_elf, gender=female
+#: .\units\misc_units\deep-elves\Wisp.cfg:5
+msgid "Wisp"
+msgstr ""
+
+#. [unit_type], id=AE_dep_deep_wisp, race=AE_dep_deep_elf, gender=female
+#: .\units\misc_units\deep-elves\Wisp.cfg:18
+msgid ""
+"A wisp is a flickering light with magical capabilities. These mysterious "
+"entities roam the caverns of Blackqvasten, usually wandering alone in the "
+"endless darkness. Generally, wisps are not dangerous, even to beings that do "
+"not inhabit the depths, although they are known to produce magic of "
+"extraordinary power when gathered in large enough numbers. Legends say that "
+"the Wiss are nothing more than lost souls, tortured by Shassagoth to wander "
+"through the depths on unending journies to find peace. "
+msgstr ""
+
+#. [attack], type=arcane, range=melee
+#: .\units\misc_units\deep-elves\Wisp.cfg:33
+#: .\units\misc_units\deep-elves\Wisp_Greater.cfg:34
+#: .\units\misc_units\deep-elves\Wisp_Mother.cfg:39
+msgid "orb"
+msgstr ""
+
+#. [unit_type], id=AE_dep_deep_greater_wisp, race=AE_dep_deep_elf, gender=female
+#: .\units\misc_units\deep-elves\Wisp_Greater.cfg:5
+msgid "Greater Wisp"
+msgstr ""
+
+#. [unit_type], id=AE_dep_deep_greater_wisp, race=AE_dep_deep_elf, gender=female
+#: .\units\misc_units\deep-elves\Wisp_Greater.cfg:19
+msgid ""
+"Sometimes, one may find Wisps gathered in clusters in the depths. In their "
+"midst, there appear a few larger wisps that are stronger than their smaller "
+"kin. These Greater Wisps have the potential to cast lower forms of magic and "
+"are more durable than the smaller Wisps. It is unknown how these Greater "
+"Wisps came to be, but the strange light that they emanate attracts nearby "
+"wisps, whereupon more Greater Wisps will eventually be found when the Wisps "
+"begin to cluster. "
+msgstr ""
+
+#. [unit_type], id=AE_agl_deep_Wisp_Mother, race=AE_dep_deep_elf, gender=female
+#: .\units\misc_units\deep-elves\Wisp_Mother.cfg:4
+msgid "Wisp Mother"
+msgstr ""
+
+#. [unit_type], id=AE_agl_deep_Wisp_Mother, race=AE_dep_deep_elf, gender=female
+#: .\units\misc_units\deep-elves\Wisp_Mother.cfg:18
+msgid ""
+"Wispmothers are rare beings that glow with mysterious, eerie energy that "
+"simultaneously appears as light, but also melds with the darkness. Often they"
+" are surrounded by many Wisps and Greater Wisps, who are attracted and "
+"empowered by the energy that the Wispmothers emit. The Wispmother, in turn, "
+"controls the lesser Wisps like the queen of a hive, directing them with "
+"unknown purpose. It is rumored that Wispmothers are not related to the "
+"ordinary Deep Elves, but are instead the manifested thoughts of Shassagoth, "
+"guiding the magical Wisps to do his bidding."
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\misc_units\deep-elves\Wisp_Mother.cfg:52
+msgid "arcane barrage"
+msgstr ""

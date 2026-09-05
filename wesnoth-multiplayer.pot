@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-07-05 21:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [era], id=Ageless Era
+#: .\eras\ageless_era.cfg:6
+msgid "Ageless Era"
+msgstr ""
+
+#. [era], id=Ageless Era
+#. [era], id=Ageless Heroes
+#. [era], id=Ageless RPG Era
+#: .\eras\ageless_era.cfg:10
+#: .\eras\ageless_heroes.cfg:10
+#: .\eras\ageless_rpg_era.cfg:10
+msgid ""
+"The largest era ever made featuring Default Era with the Dunefolk faction, "
+"Extended Era, Archaic Era, the Era of the Future, Eternal Era, BEEM, the Era "
+"of Four Moons, the Yokai faction, the Dark Legion, the Desert Elves, the "
+"Steelhive faction, Millennium Era, the Deep Elves, the Era of Myths, Feudal "
+"Era, Imperial Era, the Era of Strife, the Era of Magic, the Era of Chaos, "
+"Rashy Era, and Mercenaries Era."
+msgstr ""
+
+#. [multiplayer_side], id=AE_set_notdefault
+#: .\eras\ageless_era.cfg:16
+msgid "Random (with Defaultlike)"
+msgstr ""
+
+#. [era], id=Ageless Era
+#. [era], id=Ageless Heroes
+#. [era], id=Ageless RPG Era
+#. [multiplayer_side], id=AE_side_def_drakes
+#. [multiplayer_side], id=AE_side_def_dunefolk
+#. [multiplayer_side], id=AE_side_def_knalga
+#. [multiplayer_side], id=AE_side_def_northerners
+#. [multiplayer_side], id=AE_side_def_loyalists
+#. [multiplayer_side], id=AE_side_def_rebels
+#. [multiplayer_side], id=AE_side_def_undead
+#: .\eras\ageless_era.cfg:25
+#: .\eras\ageless_heroes.cfg:25
+#: .\eras\ageless_rpg_era.cfg:26
+#: .\factions\default\default-BFW.cfg:9
+#: .\factions\default\default-BFW.cfg:24
+#: .\factions\default\default-BFW.cfg:45
+#: .\factions\default\default-BFW.cfg:67
+#: .\factions\default\default-BFW.cfg:84
+#: .\factions\default\default-BFW.cfg:102
+#: .\factions\default\default-BFW.cfg:120
+#: .\factions\heroes\heroes-BFW.cfg:9
+#: .\factions\heroes\heroes-BFW.cfg:27
+#: .\factions\heroes\heroes-BFW.cfg:48
+#: .\factions\heroes\heroes-BFW.cfg:65
+#: .\factions\heroes\heroes-BFW.cfg:83
+#: .\factions\heroes\heroes-BFW.cfg:101
+#: .\factions\heroes\heroes-BFW.cfg:119
+#: .\factions\RPG\RPG-BFW.cfg:9
+#: .\factions\RPG\RPG-BFW.cfg:22
+#: .\factions\RPG\RPG-BFW.cfg:38
+#: .\factions\RPG\RPG-BFW.cfg:59
+#: .\factions\RPG\RPG-BFW.cfg:75
+#: .\factions\RPG\RPG-BFW.cfg:91
+#: .\factions\RPG\RPG-BFW.cfg:107
+msgid "Default"
+msgstr ""
+
+#. [era], id=Ageless Heroes
+#: .\eras\ageless_heroes.cfg:6
+msgid "Ageless Heroes"
+msgstr ""
+
+#. [multiplayer_side], id=AE_set_notdefault
+#: .\eras\ageless_heroes.cfg:16
+#: .\eras\ageless_rpg_era.cfg:17
+msgid "Random"
+msgstr ""
+
+#. [checkbox], id=AE_recruit_full_unit_tree
+#: .\eras\ageless_heroes.cfg:64
+msgid "High level recruits"
+msgstr ""
+
+#. [checkbox], id=AE_recruit_full_unit_tree
+#: .\eras\ageless_heroes.cfg:65
+msgid ""
+"When enabled, full advancement tree of every recruitable unit is included in "
+"recruit list"
+msgstr ""
+
+#. [era], id=Ageless RPG Era
+#: .\eras\ageless_rpg_era.cfg:6
+msgid "Ageless RPG Era"
+msgstr ""
+
+#. [era], id=Ageless Union
+#: .\eras\ageless_union.cfg:5
+msgid "Ageless Union"
+msgstr ""
+
+#. [era], id=Ageless Union
+#: .\eras\ageless_union.cfg:9
+msgid "Era with single faction that can recruit all recruitable units."
+msgstr ""
+
+#. [multiplayer_side], id=AE_union
+#: .\eras\ageless_union.cfg:14
+msgid "AE - Union"
+msgstr ""
+
+#. [multiplayer_side], id=AE_BFW_union
+#: .\eras\ageless_union.cfg:22
+msgid "AE + BFW - Union"
+msgstr ""
+
+#. [multiplayer_side], id=BFW_union
+#: .\eras\ageless_union.cfg:30
+msgid "BFW - Union"
+msgstr ""
+
+#. [multiplayer_side], id=AE_side_def_drakes
+#. [multiplayer_side], id=AE_side_ext_drakes
+#: .\factions\default\default-BFW.cfg:9
+#: .\factions\default\default-EE.cfg:42
+#: .\factions\heroes\heroes-BFW.cfg:9
+#: .\factions\heroes\heroes-EE.cfg:44
+#: .\factions\RPG\RPG-BFW.cfg:9
+#: .\factions\RPG\RPG-EE.cfg:33
+msgid "Drakes"
+msgstr ""
+
+#. [multiplayer_side], id=AE_side_def_dunefolk
+#: .\factions\default\default-BFW.cfg:24
+#: .\factions\heroes\heroes-BFW.cfg:27
+#: .\factions\RPG\RPG-BFW.cfg:22
+msgid "Dunefolk"
+msgstr ""
+
+#. [multiplayer_side], id=AE_side_def_dunefolk
+#: .\factions\default\default-BFW.cfg:34
+#: .\factions\heroes\heroes-BFW.cfg:37
+#: .\factions\RPG\RPG-BFW.cfg:30
+msgid ""
+"The <bold>text='Dunefolk'</bold> are a faction of humans from the deserts and"
+" hills of the southern lands. The Dunefolk specialize in using terrain "
+"features to coordinate attacks at dawn or dusk. Their ranks boast lawful and "
+"liminal units, healers, high-accuracy melee fighters, and fearsome "
+"horse-mounted archers. While Dunefolk units tend to be more expensive than "
+"those of the Loyalist faction, they make up for this with high mobility — "
+"especially on hilly terrains."
+msgstr ""
+
+#. [multiplayer_side], id=AE_side_def_knalga
+#: .\factions\default\default-BFW.cfg:45
+#: .\factions\heroes\heroes-BFW.cfg:48
+#: .\factions\RPG\RPG-BFW.cfg:38
+msgid "Knalgan Alliance"
+msgstr ""
+
+#. [multiplayer_side], id=AE_side_def_northerners
+#. [multiplayer_side], id=AE_side_ext_northerns
+#: .\factions\default\default-BFW.cfg:67
+#: .\factions\default\default-EE.cfg:108
+#: .\factions\heroes\heroes-BFW.cfg:83
+#: .\factions\heroes\heroes-EE.cfg:111
+#: .\factions\RPG\RPG-BFW.cfg:75
+#: .\factions\RPG\RPG-EE.cfg:80
+msgid "Northerners"
+msgstr ""
+
+#. [multiplayer_side], id=AE_side_def_loyalists
+#. [multiplayer_side], id=AE_side_ext_loyalist
+#: .\factions\default\default-BFW.cfg:84
+#: .\factions\default\default-EE.cfg:72
+#: .\factions\heroes\heroes-BFW.cfg:65
+#: .\factions\heroes\heroes-EE.cfg:78
+#: .\factions\RPG\RPG-BFW.cfg:59
+#: .\factions\RPG\RPG-EE.cfg:58
+msgid "Loyalists"
+msgstr ""
+
+#. [multiplayer_side], id=AE_side_def_rebels
+#: .\factions\default\default-BFW.cfg:102
+#: .\factions\heroes\heroes-BFW.cfg:101
+#: .\factions\RPG\RPG-BFW.cfg:91
+msgid "Rebels"
+msgstr ""
+
+#. [multiplayer_side], id=AE_side_def_undead
+#. [multiplayer_side], id=AE_side_ext_undead
+#: .\factions\default\default-BFW.cfg:120
+#: .\factions\default\default-EE.cfg:144
+#: .\factions\heroes\heroes-BFW.cfg:119
+#: .\factions\heroes\heroes-EE.cfg:148
+#: .\factions\RPG\RPG-BFW.cfg:107
+#: .\factions\RPG\RPG-EE.cfg:106
+msgid "Undead"
+msgstr ""
+
+#. [multiplayer_side], id=AE_side_ext_chaos
+#: .\factions\default\default-EE.cfg:9
+#: .\factions\heroes\heroes-EE.cfg:9
+#: .\factions\RPG\RPG-EE.cfg:9
+msgid "Chaos"
+msgstr ""
+
+#. [multiplayer_side], id=AE_side_ext_darkelves
+#: .\factions\default\default-EE.cfg:27
+#: .\factions\heroes\heroes-EE.cfg:28
+#: .\factions\RPG\RPG-EE.cfg:22
+msgid "Dark Elves"
+msgstr ""
+
+#. [multiplayer_side], id=AE_RHY_Luz
+#: .\factions\default\default-RE.cfg:121
+#: .\factions\heroes\heroes-RE.cfg:137
+#: .\factions\RPG\RPG-RE.cfg:95
+msgid "Luz"
+msgstr ""
+
+#. [multiplayer_side], id=AE_RHY_Luz
+#: .\factions\default\default-RE.cfg:128
+#: .\factions\RPG\RPG-RE.cfg:99
+msgid ""
+"A lawful human faction with a lot of arcane damage. Careful, the cheap "
+"recruitable peasants do not carry good traits."
+msgstr ""
+
+#. [multiplayer_side], id=AE_RHY_Luz
+#: .\factions\heroes\heroes-RE.cfg:144
+msgid "A lawful human faction with a lot of arcane damage."
+msgstr ""

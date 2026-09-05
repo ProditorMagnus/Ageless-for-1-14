@@ -1,0 +1,2306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-07-05 21:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [chance_to_hit], id=flsniper
+#: .\data\FL_data\abilities.cfg:6
+msgid "sniper"
+msgstr ""
+
+#. [chance_to_hit], id=flsniper
+#: .\data\FL_data\abilities.cfg:7
+msgid ""
+"When target enemy units is under effect of slow, this attack always has a "
+"100% chance to hit regardless of the defensive ability of the unit being "
+"attacked."
+msgstr ""
+
+#. [chance_to_hit], id=goodeye
+#: .\data\FL_data\abilities.cfg:25
+msgid "good eye"
+msgstr ""
+
+#. [chance_to_hit], id=goodeye
+#: .\data\FL_data\abilities.cfg:26
+msgid "When used offensively, this attack always has at least a 50% chance to hit."
+msgstr ""
+
+#. [leadership], id=leadership
+#: .\data\FL_data\abilities.cfg:38
+#: .\data\FL_data\abilities.cfg:39
+msgid "brotherhood"
+msgstr ""
+
+#. [leadership], id=leadership
+#: .\data\FL_data\abilities.cfg:40
+msgid "Each sword brother makes adjacent sword brother units fight better."
+msgstr ""
+
+#. [resistance], id=steelskin
+#: .\data\FL_data\abilities.cfg:64
+#: .\data\FL_data\abilities.cfg:65
+msgid "steelskin"
+msgstr ""
+
+#. [resistance], id=steelskin
+#: .\data\FL_data\abilities.cfg:66
+msgid "This unit's resistances are doubled, up to a maximum of 65%, when defending."
+msgstr ""
+
+#. [resistance], id=flddefender
+#: .\data\FL_data\abilities.cfg:78
+msgid "defender"
+msgstr ""
+
+#. [resistance], id=flddefender
+#: .\data\FL_data\abilities.cfg:79
+msgid "Adjacent units gain +10% to all their resistances, up to a maximum of 40%."
+msgstr ""
+
+#. [leadership], id=leadership
+#: .\data\FL_data\abilities.cfg:96
+#: .\data\FL_data\abilities.cfg:140
+msgid "monster trainer"
+msgstr ""
+
+#. [leadership], id=leadership
+#: .\data\FL_data\abilities.cfg:97
+#: .\data\FL_data\abilities.cfg:141
+msgid ""
+"This unit can lead our own monsters that are next to it, making them fight "
+"better."
+msgstr ""
+
+#. [+heals]
+#: .\data\FL_data\abilities.cfg:195
+msgid ""
+"This unit mastered healing magic to perfection.\n"
+"\n"
+"A unit cared for by this healer may heal up to 12 HP per turn, or stop poison"
+" from taking effect for that turn."
+msgstr ""
+
+#. [leadership], id=auraofweakness
+#: .\data\FL_data\abilities.cfg:206
+msgid "weakening aura"
+msgstr ""
+
+#. [leadership], id=auraofweakness
+#: .\data\FL_data\abilities.cfg:207
+msgid "Weakening aura makes all enemies next to it fight worse. (-25% damage)"
+msgstr ""
+
+#. [leadership], id=auraoflife
+#: .\data\FL_data\abilities.cfg:222
+msgid "aura of life"
+msgstr ""
+
+#. [leadership], id=auraoflife
+#: .\data\FL_data\abilities.cfg:223
+msgid ""
+"Adjacent units deal 25% more damage and gain +20% to all their magic "
+"resistances, +10% to all their physical resistances, up to a maximum of 50%."
+msgstr ""
+
+#. [dummy], id=flawetxt
+#: .\data\FL_data\abilities.cfg:291
+msgid "awe"
+msgstr ""
+
+#. [dummy], id=flawetxt
+#: .\data\FL_data\abilities.cfg:292
+msgid "Low level enemy units lose strikes when fighting versus in melee combat."
+msgstr ""
+
+#. [dummy], id=reinkarnacja
+#: .\data\FL_data\abilities.cfg:298
+msgid "reincarnation"
+msgstr ""
+
+#. [dummy], id=reinkarnacja
+#: .\data\FL_data\abilities.cfg:299
+msgid "After death, phoenix resurrects as level 1 unit."
+msgstr ""
+
+#. [chance_to_hit], id=AE_FGTNL_Deagle_eye
+#: .\data\FL_data\abilities.cfg:321
+msgid "eagle eye"
+msgstr ""
+
+#. [chance_to_hit], id=AE_FGTNL_Deagle_eye
+#: .\data\FL_data\abilities.cfg:322
+msgid "When used offensively, this attack always has at least a 70% chance to hit."
+msgstr ""
+
+#. [damage], id=AE_FGTNL_Dnajazd
+#: .\data\FL_data\abilities.cfg:332
+#: .\data\FL_data\abilities.cfg:333
+msgid "airborne strike"
+msgstr ""
+
+#. [damage], id=AE_FGTNL_Dnajazd
+#: .\data\FL_data\abilities.cfg:334
+#: .\data\FL_data\abilities.cfg:335
+msgid ""
+"When used offensively, attacker and defender take 50% more damage. Attacker's"
+" chance to hit is 10% higher and defender's chance to hit is 10% lower."
+msgstr ""
+
+#. [dummy], id={ABILITY_ID}
+#: .\data\FL_data\abilities.cfg:359
+msgid "replicate"
+msgstr ""
+
+#. [dummy], id={ABILITY_ID}
+#: .\data\FL_data\abilities.cfg:360
+msgid ""
+"This unit can replicate itself, but not in villages.\n"
+"\n"
+"Replications have 3hp, 5 movement and can't reproduce any further. "
+"Replications will have base damages in case the unit had external upgrades."
+msgstr ""
+
+#: .\data\FL_data\names.cfg:4
+msgid ""
+"Aur,Daur,Gaur,Girru,Gorr,Oru,Rour,Rouru,Sarou,Taur,Taurus,Tauru,Tauro,Taurg,Usorg"
+msgstr ""
+
+#: .\data\FL_data\names.cfg:9
+msgid ""
+"Ad,Rae,Raen,Raer,Ercy,Ryn,Ed,Gwyn,Renc,Rodry,Thug,Thun,Hun,Blac,Blad,Bac,Blan,Bler,Bil,Caeb,Careg,Caic,Caor,Carull,Dae,Daellyn,Demyr,Denvan,Deodd,Deollyn,Deonyc,Derraent,Dibryn,Dinnyn,Dircyn,Dycyn,Dyddyn,Gaddry,Gaebryn,Gaedry,Gaercyn,Gagwyn,Gan,Gannyn,Gar,Gecyn,Geddyn,Gegwyn,Geodry,Ginvan,Glacyn,Gladoc,Glarcyn,Glaent,Godry,Gledyn,Gleran,Gliddyn,Glillyn,Glinry,Glircyn,Gloddry,Gloddyn,Glonry,Glonvan,Glumyr,Glun,Glunry,Glunvan,Glyc,Glydd,Glydoc,Glynry,Glynvan,Glyran,Goc,Gor,Gubryn,Gudd,Gullyn,Gumyr,Gur,Gwadoc,Gwaec,Gwaeddyn,Gwan,Gweddyn,Gwegwyn,Gwellyn,Gwennyn,Gwenyc,Gweocyn,Gweodd,Gweodoc,Gweodry,Gweogwyn,Gweoran,Gwidoc,Gwilam,Gwodd,Gwoddyn,Gwollyn,Gwor,Gwucyn,Gwudoc,Gwumyr,Gwuran,Gwybryn,Gwycyn,Gwyddry,Gwydoc,Gwymyr,Gwynnyn,Gydoc,Gyllyn,Gymyr,Haldar,Labryn,Ladoc,Laellyn,Lan,Lannyn,Laran,Lec,Lemyr,Lenvan,Leogwyn,Lercon,Ligwon,Lin,Liron,Lonnyn,Lorrt,Luddry,Ludoc,Lunnyn,Lunvan,Lurraent,Mac,Maddyn,Maennyn,Manry,Manyc,Marcun,Mec,Menvan,Meollyn,Meon,Meonnyn,Meorraent,Middry,Midry,Mimyr,Modd,Moddry,Monry,Moran,Morcyn,Mubryn,Mudoc,Mugwyn,Murcyn,Mydoc,Mygwyn,Myn,Myrraent,Owarc,Owadd,Owaddyn,Owaecyn,Owaedry,Owain,Owarcyn,Owaryn,Owecyn,Owedry,Oweomyr,Oweor,Oweorcyn,Oweran,Owercyn,Owidry,Owinvan,Owinyc,Owodd,Owoddry,Owogwyn,Owollyn,Oworan,Owrcyn,Oworr,Owuddry,Owuddyn,Owugwyn,Owur,Owan,Rabron,Radd,Rangan,Rar,Reod,Reodd,Rha,Rhar,Rhae,Rhamyr,Rhaer,Rhaerr,Rhen,Rheo,Rheod,Rheodd,Rheol,Rheor,Rheran,Rhob,Rhod,Rhol,Rhon,Rhub,Rhug,Rhur,Rhygh,Rudd,Rydd,Saec,Saellyn,Sayr,Saegan,Saercyn,Sanyc,Saran,Sarraent,Secyn,Seddyn,Sedry,Sellyn,Sennyn,Seodrry,Seorcon,Sercok,Siddro,Sodd,Sudd,Sydd,Taec,Taedd,Taek,Taed,Ted,Teg,Teob,Teod,Teor,Todd,Tud,Tudd,Tyd,Yre,Yurok,Yry"
+msgstr ""
+
+#: .\data\FL_data\names.cfg:13
+msgid ""
+"Arga,Arzia,Aryzia,Azra,Azkra,Azyrga,Darga,Darzia,Daryzia,Dzra,Drizia,Dwirsia,Dwarsia,Gersia,Garyzia,Goruzia,Garyza,Narda,Narga,Narzia,Naryga,Tarta,Tartizia,Taralizia,Tarioza,Tazira,Tozira,Tesara,Tezira,Terida,Terga,Turga,Tursia,Turyzia,Uria,Ugiria,Uzira,Uzuria,Uzargia,Uzara,Uyra,Uyuzra,Yria,Yrizia,Yrzia,Yzria"
+msgstr ""
+
+#: .\data\FL_data\names.cfg:17
+msgid ""
+"Alae,Alaeni,Alaeny,Alary,Aleacla,Aleaniver,Aleara,Alearka,Alena,Alengwen,Alilonna,Alingwen,Alolla,Alolonna,Alora,Alubrylla,Aluniver,Aluryan,Alussa,Alwcla,Alwllyra,Alwlyan,Alwna,Alybrylla,Alynoic,Alyra,Alyryan,Braedda,Brassa,Bravyan,Breabrylla,Breall,Brealla,Brealonna,Breana,Brell,Brellyra,Brera,Brerka,Breryan,Bricla,Brirka,Brobrylla,Brollyra,Brona,Bronoic,Brora,Brorka,Brungwen,Bruryan,Brwra,Brycla,Brynoic,Caella,Caena,Caengwen,Caevyan,Call,Calla,Cassa,Cealonna,Cera,Ceryan,Cibrylla,Cicla,Cinoic,Cira,Cissa,Clacla,Claella,Claelyan,Claenoic,Clalla,Clallyra,Clara,Clarka,Clavyan,Cleacla,Cleall,Clealyan,Cleana,Cleanoic,Clenoic,Clibrylla,Clill,Clillyra,Clilyan,Clinoic,Clissa,Clobrylla,Clollyra,Clona,Clongwen,Clungwen,Clurka,Cluvyan,Clwdda,Clwlla,Clwvyan,Clydda,Clylla,Cora,Coryan,Cucla,Cudda,Curyan,Cwdda,Cwlonna,Cwngwen,Cwvyan,Cydda,Cylla,Cyllyra,Cylyan,Cyniver,Cyvyan,Daedda,Daelyan,Daengwen,Daenoic,Dalla,Dallyra,Dangwen,Dara,Dassa,Deanoic,Deassa,Della,Devyan,Dicla,Diniver,Dissa,Dollyra,Dullyra,Dulonna,Dwbrylla,Dwdda,Dwna,Dwnoic,Dwra,Dybrylla,Dydda,Dyssa,Elacla,Elaedda,Elaell,Elaelonna,Elaessa,Elaevyan,Elallyra,Elalonna,Elara,Elavyan,Elealla,Eleanoic,Elearka,Elenoic,Elerka,Elivyan,Elulonna,Elurka,Elwllyra,Elwlonna,Elwngwen,Elwra,Elycla,Elyllyra,Elyngwen,Elyniver,Elyrka,Gwaera,Gwaessa,Gwangwen,Gweacla,Gwedda,Gwerka,Gwicla,Gwirka,Gwobrylla,Gwoll,Gwona,Gwongwen,Gwonoic,Gworyan,Gwullyra,Gwussa,Gwwcla,Gwwna,Gwwvyan,Gwycla,Gwydda,Heldra,Jacla,Jaena,Jaerka,Jaevyan,Jalyan,Jana,Jarka,Jassa,Jeabrylla,Jealla,Jeanoic,Jeniver,Jiryan,Jissa,Joll,Jolla,Jona,Jongwen,Jonoic,Jora,Jorka,Jovyan,Judda,Jull,Julonna,Jura,Jwll,Jwlyan,Jycla,Jyniver,Jynoic,Jyrka,Jyvyan,Laeniver,Laenoic,Laeryan,Langwen,Larka,Lassa,Lealonna,Lealyan,Ledda,Lelonna,Lelyan,Lengwen,Lerka,Lessa,Lidda,Lill,Lina,Lirka,Liryan,Livyan,Locla,Lodda,Lollyra,Lolonna,Lulla,Lulyan,Lungwen,Lunoic,Luryan,Lwcla,Lwlla,Lwnoic,Lwryan,Lycla,Lylla,Lylyan,Lyna,Lynoic,Maecla,Maeniver,Mavyan,Meacla,Mealyan,Meana,Meangwen,Meanoic,Medda,Melonna,Mengwen,Meniver,Meradda,Meraecla,Meraelyan,Merall,Merallyra,Meralonna,Merana,Meranoic,Merealonna,Mereangwen,Mereaniver,Merebrylla,Merella,Merengwen,Meressa,Merilyan,Merina,Merinoic,Merissa,Merivyan,Merolla,Merolyan,Merona,Meroniver,Merubrylla,Merudda,Merurka,Merwlla,Merwnoic,Merwryan,Merydda,Merylyan,Messa,Milonna,Molyan,Moniver,Mossa,Mudda,Mullyra,Mulyan,Muryan,Mwbrylla,Mwlyan,Mwngwen,Mwnoic,Mycla,Myll,Mylla,Myra,Myvyan,Nabrylla,Naebrylla,Naecla,Naell,Nalyan,Nangwen,Nealla,Neallyra,Nealonna,Neavyan,Nera,Nessa,Ninoic,Niryan,Nivyan,Nobrylla,Nolla,Nonoic,Norka,Noryan,Nucla,Nulla,Nulyan,Nungwen,Nuvyan,Nwllyra,Nwryan,Nwvyan,Nybrylla,Nyll,Nylyan,Nyryan,Nyssa,Nyvyan,Raebrylla,Raera,Raerka,Ralonna,Rara,Rarka,Rassa,Reacla,Realla,Reana,Reangwen,Rella,Relyan,Rengwen,Rerka,Revyan,Rilonna,Rilyan,Rirka,Rora,Rucla,Ruryan,Rwdda,Rwlla,Rwllyra,Rwlonna,Rwngwen,Rybrylla,Ryna,Ryngwen,Saell,Saellyra,Saeniver,Saerka,Saessa,Sallyra,Sanoic,Sara,Sassa,Searka"
+msgstr ""
+
+#: .\data\FL_data\names.cfg:21
+msgid ""
+"Acall,Acilio,Aciasse,Acir-Hal,Adeer,Adhios,Ahil,Ahnir,Arelle-Hal,Asis,Aviaz-Nai,Azelun,Azurus,Bail-Hekuna,Bakiasse,Bafiar,Bahnar,Birizis,Dashlun,Dael-Jakama,Derazzi,Dezis-Hal,Dian-Falla,Dirokh,Divisios,Ravihk-Diar,Rosenn,Eiltir,Ekhana,Eril,Evrokh,Gviso,Gvahir,Tehumbri-Diar,Teliar,Tezzero,Thakin,Thalias,Thall,Hald-Nar,Hazilis,Icassi,Idarhk,Idial-Khas,Irillio,Jakassa,Jallar,Jakka-Jakama,Jakka-Hal,Cahir,Cariac-Hal,Centarris,Cerlio,Daliah,Dallemoon,Delshio,Del-Hakama,Demiah,Demindro,Derrian,Diaszha-Hal,Diavakhi,Dirhe,Dirhill,Delloin,Gakka-Dal,Gariaz,Garihk,Glaviak-Dar,Glavis,Glar-Veluna,Glendio,Glezarri,Gliran,Glirio,Glorin-Diar,Gloriakh,Glovihk,Glodii,Gwaka-Diamo,Hallakar,Hal-Jakama,Haltakh,Halirio,Hassiri,Larah,Leliar,Lehkar,Leriaz,Lerhello,Lirioz,Madar-Jakama,Madiac,Madiaz,Mediahk,Ociaz,Ocindro,Odiac,Odroc,Rakaran,Rariahk,Razo-Veluna,Riras,Rihkan,Salvad,Salvic,Sallar-Hal,Silindar,Siloroz,Solliar,Solar-Khas"
+msgstr ""
+
+#. [multiplayer_side], id=AE_FL_side_pirates
+#: .\factions\default\default-FL.cfg:4
+#: .\factions\heroes\heroes-FL.cfg:4
+#: .\factions\RPG\RPG-FL.cfg:4
+msgid "FL - Pirates"
+msgstr ""
+
+#. [multiplayer_side], id=AE_FL_side_natives
+#: .\factions\default\default-FL.cfg:15
+#: .\factions\heroes\heroes-FL.cfg:15
+#: .\factions\RPG\RPG-FL.cfg:14
+msgid "FL - Natives"
+msgstr ""
+
+#. [multiplayer_side], id=AE_FL_side_bloodelves
+#: .\factions\default\default-FL.cfg:26
+#: .\factions\heroes\heroes-FL.cfg:26
+#: .\factions\RPG\RPG-FL.cfg:24
+msgid "FL - Blood Elves"
+msgstr ""
+
+#. [multiplayer_side], id=AE_FL_side_amazons
+#: .\factions\default\default-FL.cfg:37
+#: .\factions\heroes\heroes-FL.cfg:37
+#: .\factions\RPG\RPG-FL.cfg:34
+msgid "FL - Amazons"
+msgstr ""
+
+#. [multiplayer_side], id=AE_FL_side_altaris
+#: .\factions\default\default-FL.cfg:48
+#: .\factions\heroes\heroes-FL.cfg:48
+#: .\factions\RPG\RPG-FL.cfg:44
+msgid "FL - Altaris"
+msgstr ""
+
+#. [race], id=tubylec
+#: .\units\FL_units\units.cfg:4
+#: .\units\FL_units\units.cfg:5
+msgid "Native"
+msgstr ""
+
+#. [race], id=tubylec
+#: .\units\FL_units\units.cfg:6
+msgid "Natives"
+msgstr ""
+
+#. [race], id=amazon
+#. [unit_type], id=AE_FL_amazon_Amazon, race=amazon, gender=female
+#: .\units\FL_units\units.cfg:17
+#: .\units\FL_units\amazon\Amazon.cfg:4
+msgid "Amazon"
+msgstr ""
+
+#. [race], id=amazon
+#: .\units\FL_units\units.cfg:18
+msgid "Amazons"
+msgstr ""
+
+#. [race], id=driada
+#. [unit_type], id=AE_FL_amazon_Dryad, race=driada, gender=female
+#: .\units\FL_units\units.cfg:28
+#: .\units\FL_units\amazon\Dryad.cfg:4
+msgid "Dryad"
+msgstr ""
+
+#. [race], id=driada
+#: .\units\FL_units\units.cfg:29
+msgid "Dryads"
+msgstr ""
+
+#. [race], id=krokodyl
+#. [unit_type], id=AE_FL_natives_Crocodile, race=krokodyl
+#: .\units\FL_units\units.cfg:39
+#: .\units\FL_units\units.cfg:40
+#: .\units\FL_units\natives\Crocodile.cfg:5
+msgid "Crocodile"
+msgstr ""
+
+#. [race], id=krokodyl
+#: .\units\FL_units\units.cfg:41
+msgid "Crocodiles"
+msgstr ""
+
+#. [race], id=jastrzab
+#. [unit_type], id=AE_FL_natives_Falcon, race=jastrzab
+#: .\units\FL_units\units.cfg:51
+#: .\units\FL_units\units.cfg:52
+#: .\units\FL_units\natives\Falcon.cfg:5
+msgid "Falcon"
+msgstr ""
+
+#. [race], id=jastrzab
+#: .\units\FL_units\units.cfg:53
+msgid "Falcons"
+msgstr ""
+
+#. [race], id=pirat
+#. [unit_type], id=AE_FL_pirates_Pirate, race=pirat
+#: .\units\FL_units\units.cfg:64
+#: .\units\FL_units\units.cfg:65
+#: .\units\FL_units\pirates\Pirate.cfg:5
+msgid "Pirate"
+msgstr ""
+
+#. [race], id=pirat
+#: .\units\FL_units\units.cfg:66
+msgid "Pirates"
+msgstr ""
+
+#. [race], id=pirat
+#: .\units\FL_units\units.cfg:68
+msgid ""
+"Aston,Bill,David,Dick,Drake,Francis,Harvey,Henry,Jack,Jacob,Jeff,Joey,Jonas,Nick,Will"
+msgstr ""
+
+#. [race], id=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\units.cfg:76
+#: .\units\FL_units\units.cfg:77
+msgid "Blood Elf"
+msgstr ""
+
+#. [race], id=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\units.cfg:78
+msgid "Blood Elves"
+msgstr ""
+
+#. [race], id=fl_jackal
+#: .\units\FL_units\units.cfg:88
+msgid "Jackal"
+msgstr ""
+
+#. [race], id=fl_jackal
+#: .\units\FL_units\units.cfg:89
+msgid "Jackals"
+msgstr ""
+
+#. [race], id=fl_koyot
+#: .\units\FL_units\units.cfg:99
+msgid "Koyot"
+msgstr ""
+
+#. [race], id=fl_koyot
+#: .\units\FL_units\units.cfg:100
+msgid "Koyots"
+msgstr ""
+
+#. [race], id=AE_FL_bloodelf_Minotaur
+#. [unit_type], id=AE_FL_bloodelf_Minotaur, race=AE_FL_bloodelf_Minotaur
+#: .\units\FL_units\units.cfg:110
+#: .\units\FL_units\units.cfg:111
+#: .\units\FL_units\bloodelf\Minotaur.cfg:4
+msgid "Minotaur"
+msgstr ""
+
+#. [race], id=AE_FL_bloodelf_Minotaur
+#: .\units\FL_units\units.cfg:112
+msgid "Minotaurs"
+msgstr ""
+
+#. [race], id=Altaris
+#: .\units\FL_units\units.cfg:122
+#: .\units\FL_units\units.cfg:123
+#: .\units\FL_units\units.cfg:124
+msgid "Altaris"
+msgstr ""
+
+#. [race], id=Altaris
+#: .\units\FL_units\units.cfg:126
+msgid ""
+"Alian,Alton,Aldon,Alvan,Arus,Aqar,Axar,Baltiar,Baltus,Biro,Daliar,Daglur,Distar,Ravien,Ravius,Rosel,Eltir,Gwako,Gwallo,Talir,Tnalo,Haltiar,Calios,Carus,Cailos,Cello,Darik,Dallen,Delto,Deold,Deollyn,Derraent,Diar,Dauris,Dircyn,Dalin,Delloin,Garsoo,Gaellin,Garik,Glakio,Gladioc,Glarsin,Glevon,Gllerion,Gerin,Glinrio,Glircio,Gloddrio,Glonry,Glovan,Glunir,Glasis,Gasir,Gwalic,Gweddis,Gweris,Haldar,Haldis,Haltio,Halir,Hasir,Larioc,Laellyc,Laran,Lerius,Lerir,Lenvir,Liron,Madoc,Maliar,Malir,Meollyn,Ocio,Olir,Olioc,Oroc,Rabron,Ragnan,Rheoris,Rheran,Saltio,Sair,Savius,Sorel,Seltir,Sartir,Siddro"
+msgstr ""
+
+#. [race], id=harpie
+#. [unit_type], id=AE_FL_amazon_Harpy, race=harpie, gender=female
+#: .\units\FL_units\units.cfg:134
+#: .\units\FL_units\amazon\Harpy.cfg:5
+msgid "Harpy"
+msgstr ""
+
+#. [race], id=harpie
+#: .\units\FL_units\units.cfg:135
+msgid "Harpies"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Ancient_Warrior, race=Altaris
+#: .\units\FL_units\altaris\Ancient_Warrior.cfg:4
+msgid "Ancient Warrior"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Ancient_Warrior, race=Altaris
+#: .\units\FL_units\altaris\Ancient_Warrior.cfg:24
+msgid ""
+"Once in this form, ancient warriors are nearly unstopable force that will be "
+"the end of all the evil around them. Only few of them are required to stop a "
+"whole army of the evil."
+msgstr ""
+
+#. [attack], type=secret, range=melee
+#: .\units\FL_units\altaris\Ancient_Warrior.cfg:34
+#: .\units\FL_units\altaris\Chosen.cfg:32
+#: .\units\FL_units\altaris\Primeval_Master.cfg:33
+#: .\units\FL_units\altaris\Primeval_Warrior.cfg:32
+msgid "mysterious strike"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Arcane_Warrior, race=Altaris
+#: .\units\FL_units\altaris\Arcane_Warrior.cfg:4
+msgid "Arcane Warrior"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Arcane_Warrior, race=Altaris
+#: .\units\FL_units\altaris\Arcane_Warrior.cfg:20
+msgid ""
+"Some of the botherhood members oftenly choices the arcane path and focus in "
+"their charisma to become the leader of their people but all this requires "
+"breaking the botherhood bond."
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\FL_units\altaris\Arcane_Warrior.cfg:38
+#: .\units\FL_units\altaris\First_Sword.cfg:44
+#: .\units\FL_units\altaris\Truehearted.cfg:43
+msgid "primeval fire"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Cerberus, race=Altaris
+#: .\units\FL_units\altaris\Cerberus.cfg:4
+msgid "Cerberus"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Cerberus, race=Altaris
+#: .\units\FL_units\altaris\Cerberus.cfg:26
+msgid ""
+"Strongest stone warriors are named Cerberus and their main function is to "
+"absorb damage so their entire teammates cleans up the enemy foes."
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\FL_units\altaris\Cerberus.cfg:40
+#: .\units\FL_units\altaris\Stone_Warrior.cfg:39
+msgid "shield thrust"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Chosen, race=Altaris
+#: .\units\FL_units\altaris\Chosen.cfg:4
+msgid "Chosen"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Chosen, race=Altaris
+#: .\units\FL_units\altaris\Chosen.cfg:17
+msgid ""
+"While not extraordinarly strong, novice chosen have the huge potential to "
+"become ancient warriors that will punish and keep away all the evil away. No "
+"armor or ward is known to stop their mysterous strikes at harming anything "
+"while only size and density just helps a bit."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Conjurer, race=Altaris
+#: .\units\FL_units\altaris\Conjurer.cfg:4
+msgid "Conjurer"
+msgstr ""
+
+#. [abilities]
+#: .\units\FL_units\altaris\Conjurer.cfg:14
+msgid "Replicate unit (6 Gold)"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Conjurer, race=Altaris
+#: .\units\FL_units\altaris\Conjurer.cfg:28
+msgid ""
+"People who learns the arts of illusion their bodies change which is "
+"considered a price to pay to inmerse correctly in this type of magic. While "
+"illusion magic is seen as a treat or scary to some Altaris people, they "
+"understand the practical uses of the nearly costless cannon fodders Illusions"
+" which helps Altaris at having less real living casualties. So Altaris don't "
+"stop anyone to learn darker arts as Ilusion magic which is an odd exception "
+"they tolerate."
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\FL_units\altaris\Conjurer.cfg:39
+#: .\units\FL_units\altaris\Illusionist.cfg:44
+#: .\units\FL_units\altaris\Illusion_Conjurer.cfg:28
+#: .\units\FL_units\altaris\Illusion_Illusionist.cfg:28
+msgid "wand"
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\FL_units\altaris\Conjurer.cfg:51
+#: .\units\FL_units\altaris\Illusionist.cfg:56
+#: .\units\FL_units\altaris\Illusion_Conjurer.cfg:40
+#: .\units\FL_units\altaris\Illusion_Illusionist.cfg:40
+#: .\units\FL_units\altaris\Illusion_Master_of_Illusion.cfg:43
+#: .\units\FL_units\altaris\Master_of_Illusion.cfg:62
+msgid "secret missile"
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#: .\units\FL_units\altaris\Conjurer.cfg:63
+#: .\units\FL_units\altaris\Illusionist.cfg:68
+#: .\units\FL_units\altaris\Illusion_Conjurer.cfg:52
+#: .\units\FL_units\altaris\Illusion_Illusionist.cfg:52
+#: .\units\FL_units\altaris\Illusion_Master_of_Illusion.cfg:55
+#: .\units\FL_units\altaris\Master_of_Illusion.cfg:74
+msgid "water illusion"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\FL_units\altaris\Conjurer.cfg:75
+#: .\units\FL_units\altaris\Illusionist.cfg:80
+#: .\units\FL_units\altaris\Illusion_Conjurer.cfg:64
+#: .\units\FL_units\altaris\Illusion_Illusionist.cfg:64
+#: .\units\FL_units\altaris\Illusion_Master_of_Illusion.cfg:67
+#: .\units\FL_units\altaris\Master_of_Illusion.cfg:86
+msgid "fire illusion"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Crystal_Golem, race=mechanical
+#: .\units\FL_units\altaris\Crystal_Golem.cfg:4
+msgid "Crystal Golem"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Crystal_Golem, race=mechanical
+#: .\units\FL_units\altaris\Crystal_Golem.cfg:18
+msgid ""
+"Crystal Golems are extremely heavy and nothing flexible, making them the most"
+" clumsy of all golems. They're very traslucid which makes them nearly immune "
+"to magic of light and bear extremely well cold temperatures. While somewhat "
+"hard to piercing and cutting attacks, impact is very effective againist them "
+"and not likely to dodge many hits very often.\n"
+"\t\n"
+"\tThey fire crystal shards at long distances which makes them deadly at both "
+"close and long range."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#. [attack], type=pierce, range=melee
+#. [attack], type=pierce, range=ranged
+#: .\units\FL_units\altaris\Crystal_Golem.cfg:28
+#: .\units\FL_units\altaris\Crystal_Golem.cfg:40
+#: .\units\FL_units\altaris\Crystal_Golem.cfg:52
+msgid "spike"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_First_Sword, race=Altaris
+#: .\units\FL_units\altaris\First_Sword.cfg:4
+msgid "First Sword"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_First_Sword, race=Altaris
+#: .\units\FL_units\altaris\First_Sword.cfg:26
+msgid ""
+"Very few archieve the tittle of First Sword , which is the maximun "
+"prestigious tittle that any living Altiran could aspire to as only few have "
+"the spiritual conditions to become an Ancient Warrior."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\FL_units\altaris\First_Sword.cfg:32
+msgid "ancestors gift"
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\FL_units\altaris\First_Sword.cfg:56
+msgid "legendary fire"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Golden_Golem, race=mechanical
+#: .\units\FL_units\altaris\Golden_Golem.cfg:4
+msgid "Golden Golem"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Golden_Golem, race=mechanical
+#: .\units\FL_units\altaris\Golden_Golem.cfg:19
+msgid ""
+"It's known that gold is an expensive, heavy and exotic metal, seems that "
+"golems made of this material do not have the best fighting properties, still "
+"Altirians sometimes use them as they can transform into gold what golem gets "
+"killed."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Golem, race=mechanical
+#: .\units\FL_units\altaris\Golem.cfg:4
+msgid "Golem"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Golem, race=mechanical
+#: .\units\FL_units\altaris\Golem.cfg:17
+msgid ""
+"Basic golems are made of a combination of clay, cement and few other "
+"additions. Altirians can mold them into more advanced golems with different "
+"properties."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Illusionist, race=Altaris
+#: .\units\FL_units\altaris\Illusionist.cfg:4
+msgid "Illusionist"
+msgstr ""
+
+#. [abilities]
+#: .\units\FL_units\altaris\Illusionist.cfg:9
+msgid "Replicate unit (8 Gold)"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Illusionist, race=Altaris
+#: .\units\FL_units\altaris\Illusionist.cfg:28
+msgid ""
+"Illusionists after gaining more experience can use more correctly their "
+"magically altered bodies and also to summon more deadly illusions. They in "
+"soon can revert their transformation in their bodies but they still find "
+"akward their bodies before change... specially in fights..."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Conjurer_illusion, race=Altaris
+#: .\units\FL_units\altaris\Illusion_Conjurer.cfg:4
+msgid "Conjurer (Illusion)"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Conjurer_illusion, race=Altaris
+#. [unit_type], id=AE_FL_altaris_Illusionist_illusion, race=Altaris
+#. [unit_type], id=AE_FL_altaris_Master_of_Illusion_illusion, race=Altaris
+#: .\units\FL_units\altaris\Illusion_Conjurer.cfg:23
+#: .\units\FL_units\altaris\Illusion_Illusionist.cfg:23
+#: .\units\FL_units\altaris\Illusion_Master_of_Illusion.cfg:28
+msgid "."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Illusionist_illusion, race=Altaris
+#: .\units\FL_units\altaris\Illusion_Illusionist.cfg:4
+msgid "Illusionist (Illusion)"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Master_of_Illusion_illusion, race=Altaris
+#: .\units\FL_units\altaris\Illusion_Master_of_Illusion.cfg:4
+msgid "Master of Illusion (Illusion)"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Iron_Golem, race=mechanical
+#: .\units\FL_units\altaris\Iron_Golem.cfg:4
+msgid "Iron Golem"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Iron_Golem, race=mechanical
+#: .\units\FL_units\altaris\Iron_Golem.cfg:18
+msgid ""
+"Golems made of Iron are heavy but very resistant to physical attacks, still "
+"againist magic they do not oustand."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Land_Mage, race=Altaris
+#: .\units\FL_units\altaris\Land_Mage.cfg:4
+msgid "Land Mage"
+msgstr ""
+
+#. [abilities]
+#: .\units\FL_units\altaris\Land_Mage.cfg:10
+#: .\units\FL_units\altaris\Lord_of_Earth.cfg:10
+msgid "Create a Golem"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Land_Mage, race=Altaris
+#: .\units\FL_units\altaris\Land_Mage.cfg:42
+msgid ""
+"Lands Mages were learning from some of the living legends that survived the "
+"overwhelm that slain most Altaris people, their skills not only at combat but"
+" also in other aspects are important parts of all remaining Altaris. "
+"Privileges that were common only in Lords of Earth caste (like having golem "
+"bodyguards or servants, many other things) is now part of the daily life of "
+"all remaining Altaris since surviving that castratophic war."
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#. [attack], type=impact, range=ranged
+#: .\units\FL_units\altaris\Land_Mage.cfg:59
+#: .\units\FL_units\altaris\Land_Mage.cfg:71
+msgid "crushing fist"
+msgstr ""
+
+#. [attack], type=impact, range=ranged
+#: .\units\FL_units\altaris\Land_Mage.cfg:83
+#: .\units\FL_units\altaris\Lord_of_Earth.cfg:51
+#: .\units\FL_units\altaris\Mage_of_Earth.cfg:42
+#: .\units\FL_units\altaris\Stone_Golem.cfg:37
+msgid "stones"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Light_Incursionist, race=Altaris
+#: .\units\FL_units\altaris\Light_Incursionist.cfg:6
+msgid "Incursionist"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Light_Incursionist, race=Altaris
+#: .\units\FL_units\altaris\Light_Incursionist.cfg:20
+msgid ""
+"While light scouts often do high risk infiltration over blood elf camp, some "
+"manage to survive and profecialize in their job. Incusionist are trained to "
+"go deeper in blood elf camps and have joned an Altaris botherhood and often "
+"are asked to send messages between different altaris towns."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Light_Interceptor, race=Altaris
+#: .\units\FL_units\altaris\Light_Interceptor.cfg:6
+msgid "Interceptor"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Light_Interceptor, race=Altaris
+#: .\units\FL_units\altaris\Light_Interceptor.cfg:20
+msgid ""
+"While light scouts often do high risk infiltration over blood elf camp, some "
+"manage to survive and profecialize in their job. Interceptor specializes at "
+"taking away fleeding enemies and in being expert in close space maneuvers."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Light_Scout, race=Altaris
+#: .\units\FL_units\altaris\Light_Scout.cfg:5
+msgid "Light Scout"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Light_Scout, race=Altaris
+#: .\units\FL_units\altaris\Light_Scout.cfg:18
+msgid ""
+"Light Scouts are prepared to infiltrate to blood elves lands and warn Altaris"
+" about an upcoming war at time. Their robes are extremely ressistant to heat "
+"which also helps a lot againist blood elves.\n"
+"\t\n"
+"Sadly, rarely they live too long in their heroic task. Usually because of "
+"their high risk task they're not blessed by the ancients because that ritual "
+"takes a lot of time."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Lord_of_Earth, race=Altaris
+#: .\units\FL_units\altaris\Lord_of_Earth.cfg:4
+msgid "Lord of Earth"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Lord_of_Earth, race=Altaris
+#: .\units\FL_units\altaris\Lord_of_Earth.cfg:34
+msgid ""
+"In better times Lords of Earth were a pacific caste of wealthy people, but "
+"when they were advised about an inminent invasion of an unknown enemy, they "
+"learnt in record time how to use their spells for the upcoming war. Their "
+"superior toughtness, the location where they fought for their homeland and "
+"their golem servants were all determinant factors that allowed them to "
+"survive what have slain over 80% of Altaris people and become legends over "
+"generations."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Mage_of_Earth, race=Altaris
+#: .\units\FL_units\altaris\Mage_of_Earth.cfg:4
+msgid "Mage of Earth"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Mage_of_Earth, race=Altaris
+#: .\units\FL_units\altaris\Mage_of_Earth.cfg:28
+msgid ""
+"In greater times Altaris was a prospere civilization with mages of all kinds,"
+" but in an invasion of an unknown enemy almost all Altaris people been slain "
+"to keep their sacred ancient's secrets. While Altaris won the war, the price "
+"was almsot their entire civilization... surviving only the legendary best "
+"masters of earth mages and the Ancient Keepers with the precious ancient's "
+"secrets. Even after the overwhelm, surviving Altaris are procient in earth "
+"magic and their multiple uses like animating golems of many materials and a "
+"mysterous method to craft armors out of melting stones. "
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Master_at_Arms, race=Altaris
+#: .\units\FL_units\altaris\Master_at_Arms.cfg:4
+msgid "Master at Arms"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Master_at_Arms, race=Altaris
+#: .\units\FL_units\altaris\Master_at_Arms.cfg:26
+msgid ""
+"Some botherhood veterans decide to not break the special bond, allowing them "
+"being very versatile warriors specially with their botherhood."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Master_of_Illusion, race=Altaris
+#: .\units\FL_units\altaris\Master_of_Illusion.cfg:4
+msgid "Master of Illusion"
+msgstr ""
+
+#. [abilities]
+#: .\units\FL_units\altaris\Master_of_Illusion.cfg:10
+msgid "Replicate unit (13 Gold)"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Master_of_Illusion, race=Altaris
+#: .\units\FL_units\altaris\Master_of_Illusion.cfg:32
+msgid ""
+"Masters of Illusions are valuable in Altaris army as they're the only ones "
+"that are allowed to teach Illusion magic to initiates as they're trusted "
+"enough to perserve this not so ortodox entrepreneurship form of magic at "
+"proving it doesn't alter the conscience nor giving weird alter-egos that "
+"Altaris would not pardon to any kind of practice."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Mithril_Golem, race=mechanical
+#: .\units\FL_units\altaris\Mithril_Golem.cfg:4
+msgid "Mithril Golem"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Mithril_Golem, race=mechanical
+#: .\units\FL_units\altaris\Mithril_Golem.cfg:18
+msgid ""
+"Mithril is a very mysterous ore with very interesting properties. It's highly"
+" ressistant to magic but it suffers when it's all about absorbing physical "
+"damages at being heavy and not as hard as other minerals."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Pegasus_Master, race=Altaris
+#: .\units\FL_units\altaris\Pegasus_Master.cfg:4
+msgid "Pegasus Master"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Pegasus_Master, race=Altaris
+#: .\units\FL_units\altaris\Pegasus_Master.cfg:18
+msgid ""
+"Most skilled Pegasus riders weld divine lances that can still deal "
+"devastating damage to the non living at dealing arcane damage. The lances are"
+" not trust to amateur pegasus riders as these lances are not easy to craft."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Pegasus_Rider, race=Altaris
+#: .\units\FL_units\altaris\Pegasus_Rider.cfg:4
+msgid "Pegasus Rider"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Pegasus_Rider, race=Altaris
+#: .\units\FL_units\altaris\Pegasus_Rider.cfg:21
+msgid ""
+"Somehow Altaris prevented pegasus from extinction in their homeland so they "
+"can pet and ride them in battles. Pegasus Riders have an important role in "
+"Altaris Army. Their main purpose is scouting from the skies and striking down"
+" retreating enemies."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Primeval_Master, race=Altaris
+#: .\units\FL_units\altaris\Primeval_Master.cfg:4
+msgid "Primeval Master"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Primeval_Master, race=Altaris
+#: .\units\FL_units\altaris\Primeval_Master.cfg:23
+msgid ""
+"Warriors that have learnt well the ancient guards are granted with the tittle"
+" of Primeval Master even if they still not at the form of the ancient "
+"warriors body trascedance."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Primeval_Warrior, race=Altaris
+#: .\units\FL_units\altaris\Primeval_Warrior.cfg:4
+msgid "Primeval Warrior"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Primeval_Warrior, race=Altaris
+#: .\units\FL_units\altaris\Primeval_Warrior.cfg:22
+msgid ""
+"More advanced chosen can also heal alies from poison, and are closer to "
+"become ancient warrior, still they have a long road to cover before "
+"unleashing their truth inner power."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Quicksand_Golem, race=mechanical
+#: .\units\FL_units\altaris\Quicksand_Golem.cfg:4
+msgid "Quicksand Golem"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Quicksand_Golem, race=mechanical
+#: .\units\FL_units\altaris\Quicksand_Golem.cfg:18
+msgid ""
+"Quicksand golems have somewhat good mobility and are capable to regenerate "
+"the most fast. They only have to take care about magic attacks as they're not"
+" stable againist magic."
+msgstr ""
+
+#. [attack], type=impact, range=ranged
+#: .\units\FL_units\altaris\Quicksand_Golem.cfg:35
+msgid "mud"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Stone_Golem, race=mechanical
+#: .\units\FL_units\altaris\Stone_Golem.cfg:4
+msgid "Stone Golem"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Stone_Golem, race=mechanical
+#: .\units\FL_units\altaris\Stone_Golem.cfg:18
+msgid ""
+"Stone golems are the most equilibrated of all golems, while not being that "
+"heavy like these golems made of heavier materials gives them some advantages "
+"like better mobility.\n"
+"\t\n"
+"As they're made of floating rocks, they're not as solid as some other golems,"
+" but this allow them to be deadly at both close and long range because they "
+"can throw stones to its foes."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Stone_Warrior, race=Altaris
+#: .\units\FL_units\altaris\Stone_Warrior.cfg:4
+msgid "Stone Warrior"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Stone_Warrior, race=Altaris
+#: .\units\FL_units\altaris\Stone_Warrior.cfg:25
+msgid ""
+"Altaris people are capable to craft liquid of stones, once drying process "
+"ends ressult is equipment that is harder than most metals and also good at "
+"absorving magic protecting the wearer. Only maces are made with this ancester"
+" method because while being very strong swords, it's not possible to sharp "
+"them to become a cutting weapon and maces made of this material are weight "
+"but still cheaper to craft than swords ... because required strength or hard "
+"material to sharp such swords is not possible at the momment."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Sword_Brother, race=Altaris
+#: .\units\FL_units\altaris\Sword_Brother.cfg:4
+msgid "Sword Brother"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Sword_Brother, race=Altaris
+#: .\units\FL_units\altaris\Sword_Brother.cfg:20
+msgid ""
+"Some Altaris warriors have a special bond between themselves, their union is "
+"their main strength."
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Truehearted, race=Altaris
+#: .\units\FL_units\altaris\Truehearted.cfg:4
+msgid "Truehearted"
+msgstr ""
+
+#. [unit_type], id=AE_FL_altaris_Truehearted, race=Altaris
+#: .\units\FL_units\altaris\Truehearted.cfg:17
+msgid ""
+"Best ancient warriors are named truehearted and these are admired by all "
+"Altiran people, fighting with them is described as a peaceful experience that"
+" fills you in determination and hope. Wounds are magically regenerated if "
+"being near of a truehearted for a long period of time."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Amazon, race=amazon, gender=female
+#: .\units\FL_units\amazon\Amazon.cfg:18
+msgid ""
+"Amazons are fierce warrios that are specialized in piercing weapons and how "
+"to minimize the damage taken by piercing objects. Their bravery and boldness "
+"inspire lower rank amazons to fight better."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Black_Harpy, race=harpie, gender=female
+#: .\units\FL_units\amazon\Black_Harpy.cfg:5
+msgid "Black Harpy"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Black_Harpy, race=harpie, gender=female
+#: .\units\FL_units\amazon\Black_Harpy.cfg:21
+msgid ""
+"Black Harpies (or adult dark harpies) were the terror of Amazons before their"
+" alliance, while dark harpies were being murdering in masses not the same "
+"could be said about adult Black Harpies that were slaugtering amazins with "
+"relatively low difficulty and enough to avoid dark harpies from extinction."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Bowwoman, race=amazon, gender=female
+#: .\units\FL_units\amazon\Bowwoman.cfg:5
+msgid "Bowwoman"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Bowwoman, race=amazon, gender=female
+#: .\units\FL_units\amazon\Bowwoman.cfg:19
+msgid ""
+"Bowwomen are the main component of Amazon army, since childhood they been "
+"training with the bow for both hunting and times of war so they become "
+"excepctional archers even when young."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Bow_Mistress, race=amazon, gender=female
+#: .\units\FL_units\amazon\Bow_Mistress.cfg:5
+msgid "Bow Mistress"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Bow_Mistress, race=amazon, gender=female
+#: .\units\FL_units\amazon\Bow_Mistress.cfg:20
+msgid ""
+"Once in the peak of their carer best Amazon archers are named Bow Mistress "
+"and can strike with deadly accuracy even at very long distances. While some "
+"foes argues that Bow Mistresses have better accuracy than best elvish archers"
+" still they do not fire as fast and as strong but still proving that with "
+"very hard training you can at least defeat elvish archers in one specific "
+"characteristic even when welding a bow."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Commanderess, race=amazon, gender=female
+#: .\units\FL_units\amazon\Commanderess.cfg:4
+msgid "Commanderess"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Commanderess, race=amazon, gender=female
+#: .\units\FL_units\amazon\Commanderess.cfg:22
+msgid ""
+"Comamanderess are the maximun autority in Amazon community, whatever she "
+"orders it must be done as soon as possible. Her sisters love fighting with "
+"her."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Creeper, race=monster
+#: .\units\FL_units\amazon\Creeper.cfg:4
+msgid "Creeper"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Creeper, race=monster
+#: .\units\FL_units\amazon\Creeper.cfg:20
+msgid ""
+"Creeper is a strange plant that can jump and climb at larger trees, while "
+"usually feeding from corpses they still can hunt and make their corpses if "
+"trully in hunger. Somehow Amazons managed to tame this weird plants."
+msgstr ""
+
+#. [attack], type=impact, range=ranged
+#: .\units\FL_units\amazon\Creeper.cfg:41
+#: .\units\FL_units\amazon\Giant_Creeper.cfg:47
+msgid "poison"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Cutthroat, race=amazon, gender=female
+#: .\units\FL_units\amazon\Cutthroat.cfg:4
+msgid "Cutthroat"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Cutthroat, race=amazon, gender=female
+#: .\units\FL_units\amazon\Cutthroat.cfg:21
+msgid "Cuttorats are agile and deadly, still she's poorly armored."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Dark_Harpy, race=harpie, gender=female
+#: .\units\FL_units\amazon\Dark_Harpy.cfg:5
+msgid "Dark Harpy"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Dark_Harpy, race=harpie, gender=female
+#: .\units\FL_units\amazon\Dark_Harpy.cfg:21
+msgid ""
+"Once the war between harpies and amazon, the dark harpy population started to"
+" grow because they used to be the most common casualties in that war. Unlike "
+"the glider specie, dark harpies are more nocturnal and hunts in night times "
+"only."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Dryad, race=driada, gender=female
+#: .\units\FL_units\amazon\Dryad.cfg:22
+msgid ""
+"These young blond women are not human but are in excelent relations with "
+"Amazons that tends to trully care about envoiroment having both the "
+"acceptance and the support of Dryads."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Forest_Dryad, race=driada, gender=female
+#: .\units\FL_units\amazon\Forest_Dryad.cfg:4
+msgid "Forest Dryad"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Forest_Dryad, race=driada, gender=female
+#: .\units\FL_units\amazon\Forest_Dryad.cfg:24
+msgid ""
+"Deeper in Amazon Forests, stronger dryads are protecting the forest from "
+"intruders and advising amazons about their pressence as soon as possible."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Forest_Ghost, race=driada, gender=female
+#: .\units\FL_units\amazon\Forest_Ghost.cfg:4
+msgid "Forest Ghost"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Forest_Ghost, race=driada, gender=female
+#: .\units\FL_units\amazon\Forest_Ghost.cfg:23
+msgid ""
+"Older dryads are for some reason named Forest Ghost, mostly because they can "
+"float."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Giant_Creeper, race=monster
+#: .\units\FL_units\amazon\Giant_Creeper.cfg:4
+msgid "Giant Creeper"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Giant_Creeper, race=monster
+#: .\units\FL_units\amazon\Giant_Creeper.cfg:21
+msgid ""
+"Once really feed, Giant creepers can become really huge... and their poison "
+"now has some minor paralyzing properties for short time, which sometimes is "
+"enough for the creeper to sucess in its hunting."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Great_Murderess, race=amazon, gender=female
+#: .\units\FL_units\amazon\Great_Murderess.cfg:4
+msgid "Great Murderess"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Great_Murderess, race=amazon, gender=female
+#: .\units\FL_units\amazon\Great_Murderess.cfg:25
+msgid ""
+"Great Murderess specializes at chasing prays that tries to escape, animal and"
+" human alike. Not particularly strong againist strong foes but she often do "
+"not fight alone."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Guardswoman, race=amazon, gender=female
+#: .\units\FL_units\amazon\Guardswoman.cfg:4
+msgid "Guardswoman"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Guardswoman, race=amazon, gender=female
+#: .\units\FL_units\amazon\Guardswoman.cfg:29
+msgid ""
+"Some amazons uses heavier equipment and focuses in keeping alive their "
+"companions. While not very strong offensively she's tough."
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\FL_units\amazon\Guardswoman.cfg:47
+#: .\units\FL_units\amazon\Sentinel.cfg:47
+#: .\units\FL_units\amazon\Sentinel.cfg:57
+#: .\units\FL_units\amazon\Warden.cfg:50
+#: .\units\FL_units\amazon\Warden.cfg:61
+#: .\units\FL_units\pirates\Fishman_Defender.cfg:34
+msgid "shield"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Harpy, race=harpie, gender=female
+#: .\units\FL_units\amazon\Harpy.cfg:21
+msgid ""
+"After hunreds of years of conflict between harpies and Amazons seems that "
+"they are now allied. It's said long ago a mysterous and very dangerous enemy "
+"that was also a danger for even Altaris and Blood Elves, was the reason why "
+"harpies and Amazons temporally allied... still they considered a full time "
+"alliance."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Harpy_Glider, race=harpie, gender=female
+#: .\units\FL_units\amazon\Harpy_Glider.cfg:5
+msgid "Harpy Glider"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Harpy_Glider, race=harpie, gender=female
+#: .\units\FL_units\amazon\Harpy_Glider.cfg:25
+msgid ""
+"Before the harpy and Amazon alliance, harpies were only living in the taller "
+"heights that Amazon could not conquer from their previously enemy harpies. As"
+" amazons realized there were no interesting resources in harpies homeland "
+"they realized it's just better to not questionate their harpies companions."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Huntswoman, race=amazon, gender=female
+#: .\units\FL_units\amazon\Huntswoman.cfg:5
+msgid "Huntswoman"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Huntswoman, race=amazon, gender=female
+#: .\units\FL_units\amazon\Huntswoman.cfg:19
+msgid ""
+"After surviving some few fights, some gets more dexterous with the bow and "
+"become trully proficient archers. While physically weak these youngwomen have"
+" taken down formidable enemy warriors and some deadly beasts as well."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Murderess, race=amazon, gender=female
+#: .\units\FL_units\amazon\Murderess.cfg:4
+msgid "Murderess"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Murderess, race=amazon, gender=female
+#: .\units\FL_units\amazon\Murderess.cfg:21
+msgid ""
+"As most amazons, they get more dexterous with experience and her strikes "
+"become more accurate. She's not very strong in one-versus-one , but she's "
+"very opportunist at picking the right target to last hit and kill."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Sentinel, race=amazon, gender=female
+#: .\units\FL_units\amazon\Sentinel.cfg:4
+msgid "female^Sentinel"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Sentinel, race=amazon, gender=female
+#: .\units\FL_units\amazon\Sentinel.cfg:29
+msgid ""
+"More experienced Guardswomen are named sentinel and they guard the Amazons "
+"camps. They're trained to stun enemies with shield attacks making much easier"
+" fights againist very dangerous enemies."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Spearwoman, race=amazon, gender=female
+#: .\units\FL_units\amazon\Spearwoman.cfg:4
+msgid "Spearwoman"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Spearwoman, race=amazon, gender=female
+#: .\units\FL_units\amazon\Spearwoman.cfg:18
+msgid ""
+"While spearwomen are quite deadly, they're also frail. They often train "
+"bravery and leadership skills in their career."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Spear_Mistress, race=amazon, gender=female
+#: .\units\FL_units\amazon\Spear_Mistress.cfg:4
+msgid "Spear Mistress"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Spear_Mistress, race=amazon, gender=female
+#: .\units\FL_units\amazon\Spear_Mistress.cfg:18
+msgid ""
+"Most often who leads a group of Amazon warriors is a Spear Mistress, while "
+"not very strong she's quite agile."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Tiger_Mistress, race=amazon, gender=female
+#: .\units\FL_units\amazon\Tiger_Mistress.cfg:4
+msgid "Tiger Mistress"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Tiger_Mistress, race=amazon, gender=female
+#: .\units\FL_units\amazon\Tiger_Mistress.cfg:19
+msgid ""
+"Tiger Mistress is extremely agile, strong and tough as well being by far the "
+"most equilibrated warrior and deadliest of all Amazon warriors. They now can "
+"decide if charging with the sword attack or use it more like a Knight would "
+"do."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Tiger_Rideress, race=amazon, gender=female
+#: .\units\FL_units\amazon\Tiger_Rideress.cfg:4
+msgid "Tiger Rideress"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Tiger_Rideress, race=amazon, gender=female
+#: .\units\FL_units\amazon\Tiger_Rideress.cfg:18
+msgid ""
+"The most feared of all Amazon warrriors are Tiger Rideress because their "
+"charges with the sword can do some brutal strikes."
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Warden, race=amazon, gender=female
+#: .\units\FL_units\amazon\Warden.cfg:4
+msgid "female^Warden"
+msgstr ""
+
+#. [unit_type], id=AE_FL_amazon_Warden, race=amazon, gender=female
+#: .\units\FL_units\amazon\Warden.cfg:30
+msgid ""
+"Wardens are the elite of guardswomen, they focus in keeping Spear misstresses"
+" alive and all high rank Amazons."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Assassin, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Assassin.cfg:5
+msgid "Assassin"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Assassin, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Assassin.cfg:21
+msgid ""
+"Assassins are prepared for swift and lighting operations to murder something "
+"in the battlefields, or sometimes out of it."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Assassin_Master, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Assassin_Master.cfg:5
+msgid "Master Slayer"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Assassin_Master, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Assassin_Master.cfg:25
+msgid ""
+"Most profesional Slayers have exclusive tools made by some of most proficient"
+" pyromancers, equiping one very hot dagger which can be used as cuttig weapon"
+" and a burning weapon as well, and a poisoned blade which is most used in "
+"backstab or sneaky strikes."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\FL_units\bloodelf\Assassin_Master.cfg:31
+#: .\units\FL_units\bloodelf\Assassin_Master.cfg:54
+msgid "poisoned blade"
+msgstr ""
+
+#. [attack], type=fire, range=melee
+#: .\units\FL_units\bloodelf\Assassin_Master.cfg:44
+msgid "burning blade"
+msgstr ""
+
+#. [attack], type=blade, range=ranged
+#: .\units\FL_units\bloodelf\Assassin_Master.cfg:67
+#: .\units\FL_units\bloodelf\Slayer.cfg:48
+msgid "poison darts"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Ballistic_crossbowman, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Ballistic_crossbowman.cfg:5
+msgid "Ballistic crossbowman"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Ballistic_crossbowman, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Ballistic_crossbowman.cfg:19
+msgid ""
+"Most blood elves that gets to elite rank with the crossbow focus heavily in "
+"mastering the crossbow which they get recognized well in blood elf society. "
+"As blood elves are brave warriors ballistic crossbowman hates being exposed "
+"too much to melee combat so they at least equip heavier armor."
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\FL_units\bloodelf\Ballistic_crossbowman.cfg:33
+msgid "arbalest"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Black_Lizard, race=monster
+#: .\units\FL_units\bloodelf\Black_Lizard.cfg:5
+msgid "Black Lizard"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Black_Lizard, race=monster
+#: .\units\FL_units\bloodelf\Black_Lizard.cfg:35
+msgid ""
+"Black lizard adults are even darker than young lizards, while their gaze "
+"attack extremely precise on hitting enemies which is very rare it missing "
+"something."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Blood_Hunter, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Blood_Hunter.cfg:5
+msgid "Blood Hunter"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Blood_Hunter, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Blood_Hunter.cfg:19
+msgid ""
+"Some of the elite crossbowmen instead of focusing only in crossbow, they "
+"follow more their nature of liking close combat. This type of warriors are "
+"named Blood Hunters and are deadly at both melee and ranged alike and have "
+"fairly good armors."
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\FL_units\bloodelf\Blood_Hunter.cfg:33
+msgid "horizontal bow"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Blood_Warrior, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Blood_Warrior.cfg:5
+msgid "Blood Warrior"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Blood_Warrior, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Blood_Warrior.cfg:19
+msgid ""
+"Once blood warriors find a target, they enter in a enrage mode which remminds"
+" a bit to berserkers wrath, but it's not a complete sudden death but lasts "
+"long enough to in most of time take down their foes or serve as martyr "
+"against an stronger enemy than himself."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\FL_units\bloodelf\Blood_Warrior.cfg:29
+msgid "blade dance"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Dark_Crossbowman, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Dark_Crossbowman.cfg:5
+msgid "Dark Crossbowman"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Dark_Crossbowman, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Dark_Crossbowman.cfg:18
+msgid ""
+"After raiding some altaris town, dark elves learnt how to produce their "
+"crossbow and they now apply it as one of their main ranged tools in times of "
+"war."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Dark_Lizard, race=monster
+#: .\units\FL_units\bloodelf\Dark_Lizard.cfg:5
+msgid "Dark Lizard"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Dark_Lizard, race=monster
+#: .\units\FL_units\bloodelf\Dark_Lizard.cfg:19
+msgid ""
+"Blood Elves have tamed the dark lizard, which is as agile as a saurian, but "
+"runs so much faster."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Dark_Marksman, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Dark_Marksman.cfg:5
+msgid "Dark Marksman"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Dark_Marksman, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Dark_Marksman.cfg:18
+msgid ""
+"With some training, blood elves can become into very deadly shooters. Elves "
+"training with crossbow most often do not train physical endurance or close "
+"combat because how over-rewarding is getting a lil better with the use of the"
+" crossbow."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Dark_Swordsman, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Dark_Swordsman.cfg:4
+msgid "Dark Swordsman"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Dark_Swordsman, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Dark_Swordsman.cfg:17
+msgid ""
+"Blood elves are known mostly because of their Dark Swordsmen, even their "
+"rookies are agile and deadly, and are well known because of their merciless "
+"strikes."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Dark_Warrior, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Dark_Warrior.cfg:5
+msgid "Dark Warrior"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Dark_Warrior, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Dark_Warrior.cfg:18
+msgid ""
+"Dark warriors are the main strike force of blood elves, while not so tough as"
+" some other warriors they compensate at being faster and at hitting harder. "
+"Event not being elite warriors they're already feared by their foes."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Elite_Warrior, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Elite_Warrior.cfg:5
+msgid "Elite Warrior"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Elite_Warrior, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Elite_Warrior.cfg:22
+msgid ""
+"The legit elite warriors are among the most deadliest of all the forgotten "
+"legends, frigtening most of foes with just their own pressence ... been "
+"reported that some men did even die just because of the fear of meeting a "
+"group of Elite Warriors. Only a legit Ataris Anciet Warrior can match this "
+"brutal warriors."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\FL_units\bloodelf\Elite_Warrior.cfg:26
+#: .\units\FL_units\bloodelf\Grand_Warrior.cfg:23
+msgid "great sword"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Fire_Bird, race=monster
+#: .\units\FL_units\bloodelf\Fire_Bird.cfg:5
+msgid "Fire Bird"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Fire_Bird, race=monster
+#. [unit_type], id=AE_FL_bloodelf_Phoenix_Hatchling, race=monster
+#: .\units\FL_units\bloodelf\Fire_Bird.cfg:19
+#: .\units\FL_units\bloodelf\Phoenix_Hatchling.cfg:19
+msgid ""
+"Long ago, when Altaris and Blood Elves fighted a common foregeing enemy that "
+"invaded both at same time, blood elves acted opportunely and raided the lands"
+" of Altaris fire lords of the fire just after they defeated these non well "
+"remembered enemy. Ressult was in a sucessful conquest for Blood Elves over "
+"the already wounded and weaken Altaris Firelords.\n"
+"\t\n"
+"\tWhile this act will never be forgotten by Altaris, both Altaris and Blood "
+"Elves were still too busy at dealing their common invader enemies in that "
+"moment. \n"
+"\n"
+"From this extremely sucessful raid, Blood Elves became proficient and "
+"talented with fire magic and many of its uses as they had inherent talent for"
+" this element. Even, as soon as Blood Elves were about to raid and destroy "
+"the phoenix lair and eggs and fight againist phoenixes they got as surprise "
+"that phoenix instead of attacking them welcomed them as dign fire channelers,"
+" blood elves recognized inmediatly that fighting phoenix would just cause "
+"unnecesary cassualties, and also that they could also hatch and grow phoenix "
+"for their armies which phoenix kept loyal to them for since their meeting."
+msgstr ""
+
+#. [attack], type=fire, range=melee
+#: .\units\FL_units\bloodelf\Fire_Bird.cfg:54
+#: .\units\FL_units\bloodelf\Phoenix.cfg:51
+msgid "fire wings"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Fire_Warrior, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Fire_Warrior.cfg:5
+msgid "Fire Warrior"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Fire_Warrior, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Fire_Warrior.cfg:19
+msgid ""
+"Some warrriors specialize at welding never ending burning swords that only "
+"with specialized equipment can be equipped. Pyromancers are also capable to "
+"craft these flame swords of never ending flames."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Grand_Warrior, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Grand_Warrior.cfg:5
+msgid "Grand Warrior"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Grand_Warrior, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Grand_Warrior.cfg:18
+msgid ""
+"Some warriors specializes in heavier equipment and dealing enormous mounts of"
+" physical damage at their foes. While still not considered as elite... most "
+"of foes slain by them tough that was the case."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Great_Minotaur, race=AE_FL_bloodelf_Minotaur
+#: .\units\FL_units\bloodelf\Great_Minotaur.cfg:4
+msgid "Great Minotaur"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Great_Minotaur, race=AE_FL_bloodelf_Minotaur
+#: .\units\FL_units\bloodelf\Great_Minotaur.cfg:17
+msgid ""
+"Bigger and older minotaurs can also recover wounds faster than younger ones. "
+"And with strength of two men, great minotaurs are trully formidable melee "
+"combatants."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Mage_of_Fire, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Mage_of_Fire.cfg:5
+msgid "Mage of Fire"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Mage_of_Fire, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Mage_of_Fire.cfg:18
+msgid ""
+"Even novice mage of fire are not treaten like rookies because they're so "
+"proficient with fire magic that with very minor skill they become extremely "
+"deadly, melting alive most things they encounter."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Minotaur, race=AE_FL_bloodelf_Minotaur
+#: .\units\FL_units\bloodelf\Minotaur.cfg:17
+msgid ""
+"Minotaurs are creatures with extreme strengh and an unstopable wrath, wrath "
+"feelings that made a natural connection with blood elves and built an "
+"alliance to destroy as much as possible creations of other races."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Minotaur_Warlord, race=AE_FL_bloodelf_Minotaur
+#: .\units\FL_units\bloodelf\Minotaur_Warlord.cfg:4
+msgid "Minotaur Warlord"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Minotaur_Warlord, race=AE_FL_bloodelf_Minotaur
+#: .\units\FL_units\bloodelf\Minotaur_Warlord.cfg:18
+msgid ""
+"Strenght and wrath of a Minoatur warlord has no match and it will destroy "
+"almost everything in front of it with no doubts."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Phoenix, race=monster
+#: .\units\FL_units\bloodelf\Phoenix.cfg:5
+msgid "Phoenix"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Phoenix, race=monster
+#: .\units\FL_units\bloodelf\Phoenix.cfg:20
+msgid ""
+"Details in how did Phoenix and Blood Elves build an special bond at first "
+"contact is still unknown, but the cheerful behaviour and welcome phoenix did "
+"to strangers with cruel intentions made them to just withdraw their original "
+"intentions. But phoenix as wise beings recognized that their best survival "
+"option was to ally with any intruder that were not these mysterous beings "
+"that invaded their homeland first... which Blood Elves and Phoenix cooperated"
+" to get rid of them, while phoenix not caring that much about the fall of "
+"their previous Altaris alies as they needed urgent to team up with someone "
+"for their common enemy."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Phoenix_Hatchling, race=monster
+#: .\units\FL_units\bloodelf\Phoenix_Hatchling.cfg:5
+msgid "Phoenix Hatchling"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Pyromancer, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Pyromancer.cfg:5
+msgid "Pyromancer"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Pyromancer, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Pyromancer.cfg:18
+msgid ""
+"Pyromancers can cast really big flames which is said they rival to arch mage "
+"levels, and while not as consistent because of much less traininig in fact "
+"they harm as much. Pyromancers in non time of war also craft exclusive "
+"weapons and armor gears for blood elves armies. For some reason, it's said "
+"that pyromancers are stuck a very hard milestone to improve so they spend a "
+"whole life before being master of pyromancy."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Pyromaster, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Pyromaster.cfg:5
+msgid "Pyromaster"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Pyromaster, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Pyromaster.cfg:19
+msgid ""
+"Once Mastery, these renamed Pyromasters are capable trully unbeliable things,"
+" like crafting swords of just flames and just use it in melee retaliations. "
+"They often have equipped short swords that they can enchant brinding magical "
+"properties to it ... and if it was not enough, they can cast meteorites to "
+"their foes and dealing impact damage as well ... and the biggest fireballs "
+"ever seen..."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#. [attack], type=fire, range=melee
+#: .\units\FL_units\bloodelf\Pyromaster.cfg:29
+#: .\units\FL_units\bloodelf\Pyromaster.cfg:41
+msgid "fire sword"
+msgstr ""
+
+#. [attack], type=impact, range=ranged
+#: .\units\FL_units\bloodelf\Pyromaster.cfg:53
+msgid "meteorite"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Rogue, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Rogue.cfg:5
+msgid "Rogue"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Rogue, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Rogue.cfg:18
+msgid ""
+"One of the most common blood elves warriors use very light armor and expect "
+"to be agile enough to backstab their enemies and kill them."
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Slayer, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Slayer.cfg:5
+msgid "Slayer"
+msgstr ""
+
+#. [unit_type], id=AE_FL_bloodelf_Slayer, race=AE_FGTNL_mrocznyelf
+#: .\units\FL_units\bloodelf\Slayer.cfg:22
+msgid ""
+"Slayers are often hired to shutdown someone important in the other side or "
+"someone conspiring of betrayal, but their services aren't for cheap."
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Acrobat, race=tubylec
+#: .\units\FL_units\natives\Acrobat.cfg:5
+msgid "Acrobat"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Acrobat, race=tubylec
+#: .\units\FL_units\natives\Acrobat.cfg:19
+msgid ""
+"Acrobats excels in parkour, which can be quite useful at evading enemies hits"
+" and waste their time. Ressults on this fighting style is sometimes amazing. "
+msgstr ""
+
+#. [attack], type=impact, range=ranged
+#: .\units\FL_units\natives\Acrobat.cfg:42
+#: .\units\FL_units\natives\Sky_Dancer.cfg:47
+msgid "boomerang"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Alligator, race=krokodyl
+#: .\units\FL_units\natives\Alligator.cfg:5
+msgid "Alligator"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Barbarian, race=tubylec
+#: .\units\FL_units\natives\Barbarian.cfg:5
+msgid "Barbarian"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Barbarian, race=tubylec
+#: .\units\FL_units\natives\Barbarian.cfg:19
+msgid "Barbarians are the main force of natives to obliterate their foes."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\FL_units\natives\Barbarian.cfg:33
+#: .\units\FL_units\natives\Great_Barbarian.cfg:34
+msgid "blade"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Clasher, race=tubylec
+#: .\units\FL_units\natives\Clasher.cfg:5
+msgid "Clasher"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Clasher, race=tubylec
+#: .\units\FL_units\natives\Clasher.cfg:19
+msgid "A simple club is enough for some men, muscle does the rest."
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Druid, race=tubylec
+#: .\units\FL_units\natives\Druid.cfg:5
+msgid "Druid"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Druid, race=tubylec
+#: .\units\FL_units\natives\Druid.cfg:22
+msgid ""
+"Most shamans picks the patch of druid, centred the most at healing their "
+"people from injuries and decreasing fatalities. They say, they hate having to"
+" talk too often with their fallen friends so they instead preffer keeping "
+"them alive and the more shamans the less stress from talking to their "
+"ancesters."
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#. [attack], type=arcane, range=ranged
+#: .\units\FL_units\natives\Druid.cfg:36
+#: .\units\FL_units\natives\Druid.cfg:48
+#: .\units\FL_units\natives\High_Druid.cfg:37
+#: .\units\FL_units\natives\High_Druid.cfg:49
+#: .\units\FL_units\natives\Ritualist.cfg:38
+#: .\units\FL_units\natives\Ritualist.cfg:50
+#: .\units\FL_units\natives\Shaman.cfg:34
+#: .\units\FL_units\natives\Shaman.cfg:46
+#: .\units\FL_units\natives\Thaumaturgus.cfg:39
+#: .\units\FL_units\natives\Thaumaturgus.cfg:51
+msgid "soul ray"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Elder_Falcon, race=jastrzab
+#: .\units\FL_units\natives\Elder_Falcon.cfg:5
+msgid "Elder Falcon"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Great_Barbarian, race=tubylec
+#: .\units\FL_units\natives\Great_Barbarian.cfg:5
+msgid "Great Barbarian"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Great_Barbarian, race=tubylec
+#: .\units\FL_units\natives\Great_Barbarian.cfg:20
+msgid "Versatile and deadly, great barbarian terrifies enemy forces."
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Great_Falcon, race=jastrzab
+#: .\units\FL_units\natives\Great_Falcon.cfg:5
+msgid "Great Falcon"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Great_Seeker, race=tubylec
+#: .\units\FL_units\natives\Great_Seeker.cfg:5
+msgid "Great Seeker"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Great_Seeker, race=tubylec
+#: .\units\FL_units\natives\Great_Seeker.cfg:23
+msgid ""
+"Most experienced prowlers can fire 5 darts at record time. While for "
+"poisoning ones 4 times. Even more agile and can evade pretty well close "
+"combat in correct places."
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\FL_units\natives\Great_Seeker.cfg:47
+#: .\units\FL_units\natives\Prowler.cfg:41
+#: .\units\FL_units\natives\Prowler.cfg:50
+#: .\units\FL_units\natives\Seeker.cfg:44
+#: .\units\FL_units\natives\Seeker.cfg:53
+msgid "blowpipe"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\FL_units\natives\Great_Seeker.cfg:59
+msgid "poisoned arrow"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_High_Druid, race=tubylec
+#: .\units\FL_units\natives\High_Druid.cfg:5
+msgid "High Druid"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_High_Druid, race=tubylec
+#: .\units\FL_units\natives\High_Druid.cfg:23
+msgid ""
+"Some of most succesful druids finally got asked only to talk to relevant "
+"ancestors and important warriors that have fallen in battles. Usually "
+"ordening their living people follow instruction from their ancesters. And not"
+" being spammed by dead low rank citizens. HA! they made it!"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Prowler, race=tubylec
+#: .\units\FL_units\natives\Prowler.cfg:5
+msgid "Prowler"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Prowler, race=tubylec
+#: .\units\FL_units\natives\Prowler.cfg:22
+msgid ""
+"Prowler novices can throw poison darts over their enemies... but are too "
+"scared of using them when engaged at long range. Trust is gained over time so"
+" this fear will not last for very long."
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Ritualist, race=tubylec
+#: .\units\FL_units\natives\Ritualist.cfg:5
+msgid "Ritualist"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Ritualist, race=tubylec
+#: .\units\FL_units\natives\Ritualist.cfg:24
+msgid ""
+"Some shamans have learnt how to cast an aura that drains enemy forces, making"
+" them fight significantly worse."
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Seeker, race=tubylec
+#: .\units\FL_units\natives\Seeker.cfg:5
+msgid "Seeker"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Seeker, race=tubylec
+#: .\units\FL_units\natives\Seeker.cfg:22
+msgid ""
+"More experienced prowlers have lost their fear to use poisoned darts when "
+"defending, this makes them deadly. They are also more agile and can evade "
+"better in some of best terrains."
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Shaman, race=tubylec
+#: .\units\FL_units\natives\Shaman.cfg:4
+msgid "Shaman"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Shaman, race=tubylec
+#: .\units\FL_units\natives\Shaman.cfg:20
+msgid ""
+"Shamans serves as healers, erradicate bad spirits and to talk with natives "
+"ancestors. While not as dangerous as other mages, native shamans are in good "
+"physical shape."
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Skullbreaker, race=tubylec
+#: .\units\FL_units\natives\Skullbreaker.cfg:5
+msgid "Skullbreaker"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Skullbreaker, race=tubylec
+#: .\units\FL_units\natives\Skullbreaker.cfg:20
+msgid ""
+"Skullbreaker is the terror of the foes of the natives, and usually collecting"
+" skulls from the slayed enemies as trophies... and eating their victims..."
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Skullhunter, race=tubylec
+#: .\units\FL_units\natives\Skullhunter.cfg:5
+msgid "Skullhunter"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Skullhunter, race=tubylec
+#: .\units\FL_units\natives\Skullhunter.cfg:19
+msgid "Some natives preffer using a bigger club, it still works well."
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Sky_Dancer, race=tubylec
+#: .\units\FL_units\natives\Sky_Dancer.cfg:5
+msgid "Sky Dancer"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Sky_Dancer, race=tubylec
+#: .\units\FL_units\natives\Sky_Dancer.cfg:20
+msgid ""
+"Best acrobats become as silent as the wind itself. And they're now experts in"
+" more exotic terrains."
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Stormlord, race=tubylec
+#: .\units\FL_units\natives\Stormlord.cfg:5
+msgid "Stormlord"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Stormlord, race=tubylec
+#: .\units\FL_units\natives\Stormlord.cfg:19
+msgid ""
+"Some of these excentric storm summoners have learned how to use some of the "
+"most destructive nature forces to take rid of their enemies."
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\FL_units\natives\Stormlord.cfg:24
+#: .\units\FL_units\natives\Storm_Summoner.cfg:23
+msgid "wind strike"
+msgstr ""
+
+#. [attack], type=impact, range=ranged
+#: .\units\FL_units\natives\Stormlord.cfg:36
+#: .\units\FL_units\natives\Storm_Summoner.cfg:35
+msgid "cyclone"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\FL_units\natives\Stormlord.cfg:48
+#: .\units\FL_units\natives\Storm_Summoner.cfg:47
+msgid "acidic rain"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\FL_units\natives\Stormlord.cfg:63
+msgid "lighting bolt"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Storm_Summoner, race=tubylec
+#: .\units\FL_units\natives\Storm_Summoner.cfg:5
+msgid "Storm Summoner"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Storm_Summoner, race=tubylec
+#: .\units\FL_units\natives\Storm_Summoner.cfg:18
+msgid ""
+"Some of the most excentric shamans casts acid rains over their enemies, "
+"ruining cultives and melting their skin, this attack is not likely to miss "
+"and strengh variates depending the vitality of the caster. They can cast "
+"cyclones over their foes as well"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Thaumaturgus, race=tubylec
+#: .\units\FL_units\natives\Thaumaturgus.cfg:5
+msgid "Thaumaturgus"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Thaumaturgus, race=tubylec
+#: .\units\FL_units\natives\Thaumaturgus.cfg:25
+msgid ""
+"Most prodigious of all shamans are capable to talk to even their first "
+"ancestors, most of the legendary people that ever lived in natives "
+"civilization. And also are capable of doing miracles for the living. While "
+"they're such legends, they try to attend at least once each single spirit... "
+"even if the talk is shorter than 5 seconds, they want to not be forggiven and"
+" they consider it's a must and an honor to do so."
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Tribesman, race=tubylec
+#: .\units\FL_units\natives\Tribesman.cfg:5
+msgid "Tribesman"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Tribesman, race=tubylec
+#: .\units\FL_units\natives\Tribesman.cfg:18
+msgid ""
+"Civilians are oftenly hired by Natives in times of war, numbers combined of "
+"some basic training usually works well... and solves overpopulation "
+"problems... reason why natives start wars almost everytime.\n"
+"\t\n"
+"Fallen souls of citizens will be spamming spiritual channels for the most "
+"newcomer shamans and druids... better play good for the sake of these poor "
+"beings named Shamans and Druids !!!"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Warlock, race=tubylec
+#: .\units\FL_units\natives\Warlock.cfg:5
+msgid "Warlock"
+msgstr ""
+
+#. [unit_type], id=AE_FL_natives_Warlock, race=tubylec
+#: .\units\FL_units\natives\Warlock.cfg:19
+msgid ""
+"Warlocks focuses at most in use of spiritual magic for combat. They're "
+"capable to freeze their targets and drain health at close range. They're so "
+"far the best to repell the dirty undead ... even more than the overrated "
+"egocentric Thaumaturgus hehehe"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\FL_units\natives\Warlock.cfg:33
+msgid "ritual dagger"
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\FL_units\natives\Warlock.cfg:45
+msgid "destruction ray"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Beastmaster, race=pirat
+#: .\units\FL_units\pirates\Beastmaster.cfg:5
+msgid "Beastmaster"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Beastmaster, race=pirat
+#: .\units\FL_units\pirates\Beastmaster.cfg:19
+msgid ""
+"Beast Masters are really recognized and respected not just in Pirate society "
+"but also by their foes at taming reallly scary sea monsters that nobody "
+"expected to be possible. They use really bigger nets than novice tamers and "
+"also taking by surprise their foes at using the net as well in very close "
+"melee engagement."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\FL_units\pirates\Beastmaster.cfg:30
+#: .\units\FL_units\pirates\Tamer.cfg:29
+msgid "whip"
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\FL_units\pirates\Beastmaster.cfg:43
+#: .\units\FL_units\pirates\Tamer.cfg:41
+msgid "sea curse"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Buccaneer, race=pirat
+#: .\units\FL_units\pirates\Buccaneer.cfg:5
+msgid "Buccaneer"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\FL_units\pirates\Buccaneer.cfg:37
+#: .\units\FL_units\pirates\Shooter.cfg:37
+#: .\units\FL_units\pirates\Sniper.cfg:38
+msgid "musket"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Captain, race=pirat
+#: .\units\FL_units\pirates\Captain.cfg:4
+msgid "Captain"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\FL_units\pirates\Captain.cfg:26
+msgid "captain scimitar"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\FL_units\pirates\Captain.cfg:35
+#: .\units\FL_units\pirates\Deputy_Captain.cfg:35
+#: .\units\FL_units\pirates\Pirate.cfg:40
+#: .\units\FL_units\pirates\Sailor.cfg:40
+#: .\units\FL_units\pirates\Seawolf.cfg:37
+msgid "pistol"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Deputy_Captain, race=pirat
+#: .\units\FL_units\pirates\Deputy_Captain.cfg:4
+msgid "Deputy Captain"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\FL_units\pirates\Deputy_Captain.cfg:26
+msgid "scimitar"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Enchanter, race=pirat
+#: .\units\FL_units\pirates\Enchanter.cfg:4
+msgid "Enchanter"
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#: .\units\FL_units\pirates\Enchanter.cfg:39
+#: .\units\FL_units\pirates\Master_of_Enchanting.cfg:43
+#: .\units\FL_units\pirates\Novice_Enchanter.cfg:40
+msgid "curse of the seas"
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#: .\units\FL_units\pirates\Enchanter.cfg:51
+#: .\units\FL_units\pirates\Master_of_Enchanting.cfg:55
+#: .\units\FL_units\pirates\Novice_Enchanter.cfg:52
+msgid "frost ball"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Fishman, race=monster
+#: .\units\FL_units\pirates\Fishman.cfg:5
+msgid "Fishman"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Fishman, race=monster
+#: .\units\FL_units\pirates\Fishman.cfg:19
+msgid ""
+"Fishman looks clumsy and slow unless seen in action, some foes have fallen to"
+" it at judging them wrongly, which was the last mistake they did... "
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Fishman_Defender, race=monster
+#: .\units\FL_units\pirates\Fishman_Defender.cfg:5
+msgid "Fishman Defender"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Fishman_Defender, race=monster
+#: .\units\FL_units\pirates\Fishman_Defender.cfg:20
+msgid ""
+"Some fishmen goes for heavier equipment, counting in taking the heavy blows "
+"until reinforcement arrives. "
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Fishman_Fighter, race=monster
+#: .\units\FL_units\pirates\Fishman_Fighter.cfg:5
+msgid "Fishman Fighter"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Fishman_Fighter, race=monster
+#: .\units\FL_units\pirates\Fishman_Fighter.cfg:20
+msgid ""
+"Some fishmen goes for light equipment, counting in their agility and training"
+" harder in ground to be good at both ground and water. "
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#: .\units\FL_units\pirates\Fishman_Fighter.cfg:37
+msgid "fishman curse"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Harpooner, race=pirat
+#: .\units\FL_units\pirates\Harpooner.cfg:4
+msgid "Harpooner"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Harpooner, race=pirat
+#: .\units\FL_units\pirates\Harpooner.cfg:18
+msgid ""
+"Harpooners have the most pressence in momments a sea monster must be slain in"
+" case charming did not work well. It's known that harpoons are effective at "
+"piercing the hard skins of most sea monsters."
+msgstr ""
+
+#. [attack], type=pierce, range=melee
+#: .\units\FL_units\pirates\Harpooner.cfg:35
+msgid "harpoon"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\FL_units\pirates\Harpooner.cfg:45
+msgid "harpoon throw"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Javelineer, race=pirat
+#: .\units\FL_units\pirates\Javelineer.cfg:4
+msgid "Javelineer"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Javelineer, race=pirat
+#: .\units\FL_units\pirates\Javelineer.cfg:17
+msgid ""
+"More trained spearthrowers do also fight better in moats at being an "
+"important part of their bussyness. They gained much more skill at throwing "
+"their javelins"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\FL_units\pirates\Javelineer.cfg:46
+#: .\units\FL_units\pirates\Spearthrower.cfg:40
+msgid "spear throw"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Master_of_Enchanting, race=pirat
+#: .\units\FL_units\pirates\Master_of_Enchanting.cfg:4
+msgid "Master of Enchanting"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Novice_Enchanter, race=pirat
+#: .\units\FL_units\pirates\Novice_Enchanter.cfg:4
+msgid "Novice Enchanter"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\FL_units\pirates\Pirate.cfg:31
+#: .\units\FL_units\pirates\Sailor.cfg:31
+#: .\units\FL_units\pirates\Seawolf.cfg:28
+msgid "rapier"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Sailor, race=pirat
+#: .\units\FL_units\pirates\Sailor.cfg:5
+msgid "Sailor"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Seawolf, race=pirat
+#: .\units\FL_units\pirates\Seawolf.cfg:5
+msgid "Seawolf"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Sea_Beast, race=monster
+#: .\units\FL_units\pirates\Sea_Beast.cfg:5
+msgid "Sea Beast"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Sea_Beast, race=monster
+#: .\units\FL_units\pirates\Sea_Beast.cfg:19
+msgid ""
+"Bigger Sea monsters have darker and harder skin. Nobody knows how pirates "
+"managed to make them so submisive and ovey their orders ... which is both "
+"creepy and very strange..."
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#: .\units\FL_units\pirates\Sea_Beast.cfg:43
+#: .\units\FL_units\pirates\Sea_Dragon.cfg:45
+msgid "cold breath"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Sea_Dragon, race=monster
+#: .\units\FL_units\pirates\Sea_Dragon.cfg:5
+msgid "Sea Dragon"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Sea_Dragon, race=monster
+#: .\units\FL_units\pirates\Sea_Dragon.cfg:21
+msgid ""
+"Pirates found the impossible, they tamed the terror of the seas! Even this "
+"thing acts submisive to them as of a little kitty ... what the hell?!"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Sea_Monster, race=monster
+#: .\units\FL_units\pirates\Sea_Monster.cfg:5
+msgid "Sea Monster"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Sea_Monster, race=monster
+#: .\units\FL_units\pirates\Sea_Monster.cfg:19
+msgid ""
+"Pirates have learnt how to tame powerful sea monsters to guard their "
+"campsite. It can crush foes with its tail or bite them to death."
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Serpent, race=monster
+#: .\units\FL_units\pirates\Serpent.cfg:5
+msgid "Serpent"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Serpent, race=monster
+#: .\units\FL_units\pirates\Serpent.cfg:20
+msgid ""
+"Serpents are even more aggresive than seamonsters, still can be trained in "
+"its childhood and it will only trust their tamers and familiar faces. Snakes "
+"are found in the surfarce of some beaches, inside some caves, still they can "
+"climate quite well in deserts."
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Shooter, race=pirat
+#: .\units\FL_units\pirates\Shooter.cfg:5
+msgid "Shooter"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Sniper, race=pirat
+#: .\units\FL_units\pirates\Sniper.cfg:4
+msgid "Sniper"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Spearthrower, race=pirat
+#: .\units\FL_units\pirates\Spearthrower.cfg:5
+msgid "Spearthrower"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Spearthrower, race=pirat
+#: .\units\FL_units\pirates\Spearthrower.cfg:18
+msgid ""
+"Spearthrowers are the least trained of all pirates but they're tough, spears "
+"are cheap and very effective and they work well at dealing with sea monsters "
+"and to pierce enough to make some deep wounds. More than once an amateur "
+"spearthrower has hunt a very deadly sea monster because of being lucky about "
+"landing a spear in the right momment in the right place."
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Tamer, race=pirat
+#: .\units\FL_units\pirates\Tamer.cfg:5
+msgid "Tamer"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Tamer, race=pirat
+#: .\units\FL_units\pirates\Tamer.cfg:18
+msgid ""
+"Tamers by proffesion are forced to change their magic in order to be more "
+"effective at capturing savage sea monsters. They have changed their curse to "
+"an arcane attack instead of a cold one as it's usually more effecitve "
+"againist most sea-creatures. This allows them to weaken the sea monters and "
+"to capture them when very weakened ... and doing some kind of charm to these "
+"monsters to make them join Pirates in their upcoming battles. Monsters seem "
+"to have an affinity to fight next to the tamers who captured them or to "
+"someone who smells very similar."
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Thunder_Serpent, race=monster
+#: .\units\FL_units\pirates\Thunder_Serpent.cfg:5
+msgid "Thunder Serpent"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Thunder_Serpent, race=monster
+#: .\units\FL_units\pirates\Thunder_Serpent.cfg:21
+msgid ""
+"Nobody did know these serpents could be tamed. As soon as you tell your "
+"stories about that pirates have tamed these thunder serpents in battle, then "
+"people will inmediatly joke at you, so if you show them your lightning scars "
+"then will belive that you got hit by a lightning in a raining day, lightning "
+"that became you crazy for telling such fantasy stories. So only people who "
+"have seen this miracle by themselves knows these tales are truth and not "
+"inventions of crazy men ... and usually most avoiding to tell their "
+"experience in order to avoid social humilliations in bars. "
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Water_Serpent, race=monster
+#: .\units\FL_units\pirates\Water_Serpent.cfg:5
+msgid "Water Serpent"
+msgstr ""
+
+#. [unit_type], id=AE_FL_pirates_Water_Serpent, race=monster
+#: .\units\FL_units\pirates\Water_Serpent.cfg:21
+msgid ""
+"Water Serpent are among most impresive things that pirate have tamed. These "
+"usually charge on poorly armed enemies, making the most aggresive of all "
+"beasts that pirates have ever tamed."
+msgstr ""

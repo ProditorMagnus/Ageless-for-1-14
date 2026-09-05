@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-07-05 21:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [heals], id=AE_mag_curing
+#: .\data\EoMa_data\healing.cfg:18
+msgid "cures"
+msgstr ""
+
+#. [heals], id=AE_mag_curing
+#: .\data\EoMa_data\healing.cfg:19
+msgid "female^cures"
+msgstr ""
+
+#. [heals], id=AE_mag_curing
+#: .\data\EoMa_data\healing.cfg:21
+msgid ""
+"A curer can cure a unit of poison, although that unit will receive no "
+"additional healing on the turn it is cured of the poison."
+msgstr ""
+
+#: .\text\mainline-strings.cfg:32
+msgid "Immune to drain, poison, and plague"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:34
+msgid "Zero upkeep"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:36
+msgid "race^Human"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:38
+msgid "race+female^Human"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:40
+msgid "race^Humans"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:42
+msgid "race^Dwarves"
+msgstr ""
+
+#: .\text\mainline-strings.cfg:44
+msgid "race^Monsters"
+msgstr ""

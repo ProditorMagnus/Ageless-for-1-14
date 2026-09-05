@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-07-05 21:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [unit_type], id=AE_ext_monsters_Brown_Rat, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Giant_Rat_Brown.cfg:4
+msgid "Brown Rat"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Brown_Rat, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Giant_Rat_Brown.cfg:23
+msgid ""
+"Given an adequate supply of food, some rats can grow to truly impressive "
+"sizes. They can also grow quite aggressive."
+msgstr ""
+
+#. [attack], type=impact, range=ranged
+#: .\units\EE_units\monsters\Giant_Rat_Brown.cfg:68
+#: .\units\EE_units\monsters\Giant_Rat_Duo.cfg:66
+#: .\units\EE_units\monsters\Giant_Rat_Trio.cfg:68
+msgid "tail attack"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Giant_Rat_Duo, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Giant_Rat_Duo.cfg:4
+msgid "Giant Rat Duo"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Giant_Rat_Duo, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Giant_Rat_Duo.cfg:22
+msgid ""
+"Given an adequate supply of food, some rats can grow to truly impressive "
+"sizes. They can also grow quite aggressive, and are even more dangerous in "
+"pairs."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Giant_Rat_Trio, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Giant_Rat_Trio.cfg:4
+msgid "Giant Rat Trio"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Giant_Rat_Trio, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Giant_Rat_Trio.cfg:23
+msgid ""
+"Given an adequate supply of food, some rats can grow to truly impressive "
+"sizes. They can also grow quite aggressive, and are even more dangerous in "
+"larger groups."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Little_Spider, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Little_Spider.cfg:4
+msgid "Little Spider"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Little_Spider, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Little_Spider.cfg:31
+msgid ""
+"Little Spiders are said to roam the depths of Knalga, devouring many victims."
+" They have a vicious bite and can also fling webs through the air to trap "
+"their prey."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Mother_Mudcrawler, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Mother_Mudcrawler.cfg:4
+msgid "Mother Mudcrawler"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Mother_Mudcrawler, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Mother_Mudcrawler.cfg:35
+msgid ""
+"Giant Mudcrawlers are a larger kind of Mudcrawler, and are magical constructs"
+" of soil and water. They attack by belching lumps of mud at their foes, or by"
+" striking them with their fists."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Scylla, race=AE_ext_monsters_seacreatures
+#: .\units\EE_units\monsters\Scylla.cfg:4
+msgid "Scylla"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Scylla, race=AE_ext_monsters_seacreatures
+#: .\units\EE_units\monsters\Scylla.cfg:18
+msgid ""
+"Scholars differ as to the ancestry of the Triple Head Hydra. Some hold that "
+"they are the immature young, or mature cousins, of One Head Hydra. Others "
+"hold them up as a primitive offshoot of the Nagas. What is certain is that it"
+" is wise to avoid waters where they are known to congregate."
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Spider, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Spider.cfg:4
+msgid "Spider"
+msgstr ""
+
+#. [unit_type], id=AE_ext_monsters_Spider, race=AE_ext_monsters_monster
+#: .\units\EE_units\monsters\Spider.cfg:32
+msgid ""
+"Giant Spiders are said to roam the depths of Knalga, devouring many victims. "
+"They have a vicious bite and can also fling webs through the air to trap "
+"their prey."
+msgstr ""

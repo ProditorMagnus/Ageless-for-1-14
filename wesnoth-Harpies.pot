@@ -1,0 +1,825 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-07-05 21:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [advancement], id=amla_shrieker_ranged
+#: .\data\harpy_data\amlas.cfg:11
+msgid "Increased shriek damage"
+msgstr ""
+
+#. [advancement], id=amla_shrieker_ambush
+#. [advancement], id=amla_phantom_ambush
+#. [advancement], id=amla_dukeofnight_ambush
+#: .\data\harpy_data\amlas.cfg:41
+#: .\data\harpy_data\amlas.cfg:115
+#: .\data\harpy_data\amlas.cfg:1140
+msgid "Better evasion in forests and ambush"
+msgstr ""
+
+#. [advancement], id=amla_phantom_melee
+#: .\data\harpy_data\amlas.cfg:85
+msgid "Increased claw damage"
+msgstr ""
+
+#. [advancement], id=amla_resplendent_ranged
+#: .\data\harpy_data\amlas.cfg:160
+msgid "One more ranged strike"
+msgstr ""
+
+#. [advancement], id=amla_resplendent_evasion
+#: .\data\harpy_data\amlas.cfg:190
+msgid "Increased evasion in forests, villages and castles"
+msgstr ""
+
+#. [advancement], id=amla_resplendent_melee
+#. [advancement], id=amla_emissary_melee
+#. [advancement], id=amla_flockmaster_melee
+#. [advancement], id=amla_featherlord_damage
+#. [advancement], id=amla_dukeofnight_melee
+#: .\data\harpy_data\amlas.cfg:224
+#: .\data\harpy_data\amlas.cfg:645
+#: .\data\harpy_data\amlas.cfg:817
+#: .\data\harpy_data\amlas.cfg:952
+#: .\data\harpy_data\amlas.cfg:1105
+msgid "Increased melee damage"
+msgstr ""
+
+#. [advancement], id=amla_songstressofstorms_ranged
+#: .\data\harpy_data\amlas.cfg:261
+msgid "Level up and more ranged strikes"
+msgstr ""
+
+#. [advancement], id=amla_songstressofstorms_damage
+#: .\data\harpy_data\amlas.cfg:300
+msgid "More ranged damage"
+msgstr ""
+
+#. [advancement], id=amla_songstressofstorms_move
+#: .\data\harpy_data\amlas.cfg:335
+msgid "Increased movement and evasion in mountains and at sea"
+msgstr ""
+
+#. [advancement], id=amla_siren_ranged
+#: .\data\harpy_data\amlas.cfg:381
+msgid ""
+"Increased wail damage (also gives 1 song damage every second time you take "
+"this AMLA)"
+msgstr ""
+
+#. [advancement], id=amla_siren_mistcloak
+#: .\data\harpy_data\amlas.cfg:453
+msgid ""
+"Increased evasion in deep water, reefs, swamps, forests, mountains, castles "
+"and deserts"
+msgstr ""
+
+#. [advancement], id=amla_siren_mistarmor
+#: .\data\harpy_data\amlas.cfg:491
+msgid "Increased cold, fire and arcane resistance"
+msgstr ""
+
+#. [advancement], id=amla_siren_heal
+#: .\data\harpy_data\amlas.cfg:524
+msgid "Increased healing"
+msgstr ""
+
+#. [advancement], id=amla_ashtail_ranged
+#. [advancement], id=amla_flockmaster_ranged
+#. [advancement], id=amla_endsinger_ranged
+#: .\data\harpy_data\amlas.cfg:568
+#: .\data\harpy_data\amlas.cfg:757
+#: .\data\harpy_data\amlas.cfg:1218
+msgid "Increased ranged damage"
+msgstr ""
+
+#. [advancement], id=amla_ashtail_ranged2
+#: .\data\harpy_data\amlas.cfg:603
+msgid "One more ranged hit"
+msgstr ""
+
+#. [advancement], id=amla_emissary_swift
+#: .\data\harpy_data\amlas.cfg:680
+msgid "Increased speed and evasion in deep water, forests and chasms"
+msgstr ""
+
+#. [advancement], id=amla_emissary_armor
+#: .\data\harpy_data\amlas.cfg:718
+msgid "Increased cold and impact resistances"
+msgstr ""
+
+#. [advancement], id=amla_flockmaster_morefalcons
+#: .\data\harpy_data\amlas.cfg:787
+msgid "One more falcon!"
+msgstr ""
+
+#. [advancement], id=amla_featherlord_lance
+#: .\data\harpy_data\amlas.cfg:855
+msgid "Better melee and first strike"
+msgstr ""
+
+#. [advancement], id=amla_featherlord_falcon
+#: .\data\harpy_data\amlas.cfg:889
+msgid "Fiercer falcon"
+msgstr ""
+
+#. [advancement], id=amla_featherlord_armor
+#: .\data\harpy_data\amlas.cfg:919
+msgid "Increased physical resistances"
+msgstr ""
+
+#. [advancement], id=amla_raider_melee
+#: .\data\harpy_data\amlas.cfg:988
+msgid ""
+"Increased melee damage (also gives an addition 1 pierce damage every second "
+"time you take this AMLA)"
+msgstr ""
+
+#. [advancement], id=amla_raider_armor
+#. [advancement], id=amla_dukeofnight_armor
+#: .\data\harpy_data\amlas.cfg:1065
+#: .\data\harpy_data\amlas.cfg:1178
+msgid "Better protection against blade, pierce and impact"
+msgstr ""
+
+#. [advancement], id=amla_endsinger_armor
+#: .\data\harpy_data\amlas.cfg:1253
+msgid "Increased resistance against cold and arcane"
+msgstr ""
+
+#. [advancement], id=amla_endsinger_revive
+#: .\data\harpy_data\amlas.cfg:1285
+msgid "Increased damage boost after reviving"
+msgstr ""
+
+#. [heals], id=healing
+#: .\data\harpy_data\utils.cfg:8
+msgid "heals +12"
+msgstr ""
+
+#. [heals], id=healing
+#: .\data\harpy_data\utils.cfg:9
+msgid "female^heals +12"
+msgstr ""
+
+#. [heals], id=healing
+#: .\data\harpy_data\utils.cfg:10
+msgid ""
+"This unit uses ancient magic to heal units more quickly than is normally "
+"possible on the battlefield.\n"
+"\n"
+"A unit cared for by this healer may heal up to 12 HP per turn, or be cured of"
+" poison."
+msgstr ""
+
+#. [leadership], id=AE_agl_harpy_phoenix_revived{VALUE}
+#: .\data\harpy_data\utils.cfg:26
+msgid "revived"
+msgstr ""
+
+#. [leadership], id=AE_agl_harpy_phoenix_revived{VALUE}
+#: .\data\harpy_data\utils.cfg:27
+msgid "This unit has +"
+msgstr ""
+
+#. [leadership], id=AE_agl_harpy_phoenix_revived{VALUE}
+#: .\data\harpy_data\utils.cfg:27
+msgid ""
+"% damage on all attacks but cannot revive again. Lasts until the end of this "
+"scenario."
+msgstr ""
+
+#. [harpy_phoenix]
+#: .\data\harpy_data\utils.cfg:37
+msgid "rise from ashes"
+msgstr ""
+
+#. [harpy_phoenix]
+#: .\data\harpy_data\utils.cfg:38
+msgid "When this unit is killed, they revive with full hitpoints and gain +"
+msgstr ""
+
+#. [harpy_phoenix]
+#: .\data\harpy_data\utils.cfg:38
+msgid "% damage for the rest of the scenario. Works once per scenario."
+msgstr ""
+
+#. [multiplayer_side], id=AE_side_agl_Harpies
+#: .\factions\default\fragment-AE\harpies.cfg:4
+#: .\factions\heroes\fragment-AE\harpies.cfg:4
+#: .\factions\RPG\fragment-AE\harpies.cfg:5
+msgid "Harpies"
+msgstr ""
+
+#: .\units\misc_units\harpies.cfg:7
+msgid ""
+"Chichichi,Chirpei,Chirralui,Chileichi,Chirchiluin,Chirtililin,Eftiit,Eftiut,Fiufiu,Fiunei,Fiulit,Fielin,Fiuleilei,Felilit,Firlilirrin,Frruoh,Iorrit,"
+" "
+"Hrrit,Kfrri,Lurroura,Lurrei,Lulilit,Luftierrei,Luiluilinei,Miirh,Miineh,Ourrlueliei,Ourrouei,Ourrlealit,Ourrouei,Outielin,Ouka,Ouluu,Ourrou,Rahuitt,Ruho,Ruhru,Rorrit,Ruhrit,Rroah,Rriuu,Siani,Sirlit,Sielit,Sieliterrou,Sialua,Srri,Sreeil,Sursurr,Soussou,Sootei,Suitou,Tou,Turru,Turrutei,Tsita,Tsitei,Tsirpi,Tsilului,Tioh-tiin,Tuituin,Tsituin,Tsitsitrrin,Tuina,Tuinit,Uitia,Uitin"
+msgstr ""
+
+#. [race], id=AE_agl_harpy
+#: .\units\misc_units\harpies.cfg:24
+msgid "race^Harpy"
+msgstr ""
+
+#. [race], id=AE_agl_harpy
+#: .\units\misc_units\harpies.cfg:25
+msgid "race+female^Harpy"
+msgstr ""
+
+#. [race], id=AE_agl_harpy
+#: .\units\misc_units\harpies.cfg:26
+msgid "race+plural^Harpies"
+msgstr ""
+
+#. [race], id=AE_agl_harpy
+#: .\units\misc_units\harpies.cfg:27
+msgid ""
+"Harpies, often called bird-people, are humanlike creatures endowed with "
+"winged arms. They are thinner and much lighter than humans, and would be "
+"shorter than them if not for their long legs. They also bear other birdlikes "
+"features, like a feathered tail and clawed, scaly hands and feet. Harpies are"
+" prudent creatures, aware of their frailty and quick to flee when they sense "
+"danger.\n"
+"\n"
+"Harpies build simple villages high in cliffs and mountains, sometimes "
+"forests, out of reach of most animals and people. Harpy communities are "
+"located in isolated places, set either on the shores of the continent or in "
+"islands far from the land. They feed on fishes that they catch by plunging or"
+" with nets. Harpies that live inland will instead hunt small game and birds, "
+"and may also scavenge for fruits. \n"
+"Harpies do not sell a lot of goods, as they mostly craft simple tools, "
+"weapons and clothes. Their musical instruments are however highly valued by "
+"performers and connoisseurs alike. They trade feathers and food to merchants "
+"of other races for tools or materials, but most of the time they prefer to "
+"use their talents as courriers or scouts. \n"
+"\n"
+"Harpies use powerful calls and songs to relay messages to other communities. "
+"Due to this way of communicating and their fast winged messengers, "
+"information travels extremely fast between harpy groups. \n"
+"Their tradition is mostly oral. The history and tales of their people are "
+"kept by tellers and songstresses held in high regard by the community. "
+"Harpies all possess some amount of magic that they can express through their "
+"voice. The ones who train to become mages start as minstrels or tellers, "
+"training their voice for different purposes, be it mastering the elements or "
+"other's minds. \n"
+"\n"
+"Harpies have a bad reputation among humans, as they have a history of raiding"
+" ships and stealing from villages. As they travel by flight, they rarely "
+"interact with other races, adding to the existing distrust."
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Ashtail, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Ashtail.cfg:4
+#: .\units\misc_units\harpies\Ashtail.cfg:23
+msgid "Harpy Ashtail"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Ashtail, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Ashtail.cfg:31
+msgid ""
+"Numerous battles of dousing foes in flames have left scars on the plumage of "
+"these veterans. Their peers have named them Ashtails, as their talons and "
+"feathers turned grey from their grim duties."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#. [attack], type=fire, range=melee
+#: .\units\misc_units\harpies\Ashtail.cfg:70
+#: .\units\misc_units\harpies\Bomber.cfg:66
+#: .\units\misc_units\harpies\Emissary.cfg:113
+#: .\units\misc_units\harpies\Endsinger.cfg:100
+#: .\units\misc_units\harpies\Falconeer.cfg:104
+#: .\units\misc_units\harpies\Fighter.cfg:69
+#: .\units\misc_units\harpies\Flockmaster.cfg:36
+#: .\units\misc_units\harpies\Messenger.cfg:108
+#: .\units\misc_units\harpies\Raptortongue.cfg:53
+#: .\units\misc_units\harpies\Rockthrower.cfg:66
+#: .\units\misc_units\harpies\Traveller.cfg:104
+msgid "talons"
+msgstr ""
+
+#. [attack], type=impact, range=ranged
+#: .\units\misc_units\harpies\Ashtail.cfg:79
+#: .\units\misc_units\harpies\Bomber.cfg:75
+#: .\units\misc_units\harpies\Rockthrower.cfg:75
+msgid "rock drop"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\misc_units\harpies\Ashtail.cfg:88
+#: .\units\misc_units\harpies\Bomber.cfg:84
+msgid "fiery hail"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Bomber, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Bomber.cfg:4
+#: .\units\misc_units\harpies\Bomber.cfg:22
+msgid "Harpy Bomber"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Bomber, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Bomber.cfg:30
+msgid ""
+"Harpy bombers are involved in more serious conflicts than simple defense of "
+"their colony and as such, they have upgraded their equipment, flying and "
+"throwing techniques. In addition to the classic rocks, they also use lighter,"
+" flaming projectiles, that earned them their current name."
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Captivator, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Captivator.cfg:4
+msgid "Harpy Captivator"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Captivator, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Captivator.cfg:21
+msgid ""
+"The voice of the most famous harpy minstrels is said to be able to both break"
+" and mend hearts. People usually regard these stories as mere legends, but "
+"some of them suspect there is magic at work. The captivator's first aim is "
+"precisely to avoid that people think this.\n"
+"They weave magic within their melodies, warping others' perception of the "
+"world and disguising their looks to better charm them. When their power is "
+"strong enough, their illusions start to occur from nearly inaudible sounds "
+"like low humming or breathing, allowing them to change how they look to "
+"please their audience."
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Duke_Of_The_Night, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Dukeofthenight.cfg:4
+msgid "Duke of the Night"
+msgstr ""
+
+#. [female]
+#: .\units\misc_units\harpies\Dukeofthenight.cfg:22
+msgid "Duchess of the Night"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Duke_Of_The_Night, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Dukeofthenight.cfg:28
+msgid ""
+"Long ago there was a forest-bound kingdom of many different kin, with its "
+"lord and lady known as fierce defenders of the land. But through war it was "
+"sullied, and although its invaders withdrew, many lives were lost. Now the "
+"forests are void and dark, and at night, one must be careful not to encounter"
+" vengeful specters from the past."
+msgstr ""
+
+#. [attack], type=pierce, range=melee
+#: .\units\misc_units\harpies\Dukeofthenight.cfg:117
+msgid "prey"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Emissary, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Emissary.cfg:4
+#: .\units\misc_units\harpies\Emissary.cfg:23
+msgid "Harpy Emissary"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Emissary, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Emissary.cfg:31
+msgid ""
+"Elite messengers become the quick emissaries of powerful leaders, whom they "
+"gained the trust of after decades of work. Swift as the wind, they are "
+"matched in speed only by the griffins of the high peaks. As they often carry "
+"messages of high importance in troubled times, they can defend themselves "
+"quite well by using their sharp talons and unrivalled air mobility. "
+msgstr ""
+
+#. [attack], type=pierce, range=melee
+#: .\units\misc_units\harpies\Emissary.cfg:123
+#: .\units\misc_units\harpies\Messenger.cfg:118
+#: .\units\misc_units\harpies\Traveller.cfg:114
+msgid "sky dive"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Enchantress, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Enchantress.cfg:4
+msgid "Harpy Enchantress"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Enchantress, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Enchantress.cfg:22
+msgid ""
+"The legendary harpy enchantresses are beings admired by the majority of "
+"people. They carry themselves with grace and confidence, knowing full well "
+"the power they hold over the ordinary folk. Thanks to their influence, they "
+"develop a network of connections to support their own goals or those they are"
+" given by harpy lorekeepers."
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Endsinger_Harpy, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Endsinger.cfg:4
+msgid "Endsinger_Harpy"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Endsinger_Harpy, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Endsinger.cfg:22
+msgid ""
+"It is said harpies lived forever in their island of mists. But as they left "
+"it to gain true flesh and blood, their everlasting youth was lost, and some "
+"sought to reclaim it."
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\misc_units\harpies\Endsinger.cfg:109
+msgid "song of extinction"
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\misc_units\harpies\Endsinger.cfg:122
+msgid "soul drain"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Falconeer, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Falconeer.cfg:4
+#: .\units\misc_units\harpies\Falconeer.cfg:22
+msgid "Harpy Falconeer"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Falconeer, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Falconeer.cfg:30
+msgid ""
+"Various birds are popular among harpies as pets. Among them, falcons are used"
+" for hunting, and warfare when the need arises. Some harpies can easily mimic"
+" their calls, granting the bird and its wielder excellent coordination. "
+msgstr ""
+
+#. [attack], type=blade, range=ranged
+#: .\units\misc_units\harpies\Falconeer.cfg:114
+#: .\units\misc_units\harpies\Featherlord.cfg:136
+#: .\units\misc_units\harpies\Flagbearer.cfg:130
+msgid "falcon"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Featherlord, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Featherlord.cfg:4
+#: .\units\misc_units\harpies\Featherlord.cfg:23
+msgid "Harpy Featherlord"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Featherlord, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Featherlord.cfg:31
+msgid ""
+"Harpy commanders use their bird companion and specific calls to quickly "
+"transmit orders on the battlefield. Their brightly colored flag helps them "
+"catch their allies' attention to redirect troops wherever necessary. "
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Fighter, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Fighter.cfg:4
+#: .\units\misc_units\harpies\Fighter.cfg:22
+msgid "Harpy Fighter"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Fighter, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Fighter.cfg:30
+msgid ""
+"Harpies can already cause harm with their sharp talons. However, those tasked"
+" to fight the colony's foes often reinforce their claws with small blades. "
+"Their light gambeson allows them to resist hits slightly better while "
+"retaining their kind's mobility. "
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Flagbearer, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Flagbearer.cfg:4
+#: .\units\misc_units\harpies\Flagbearer.cfg:22
+msgid "Harpy Flagbearer"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Flagbearer, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Flagbearer.cfg:30
+msgid ""
+"The habit of guiding their bird around gives harpies skills in observing and "
+"giving out orders, which are applicable in wide scale combat as well. Some "
+"falconeers take up the flag-bearing spear to lead their peers in battle, and "
+"while their fighting strength is lesser than others', the coordination they "
+"bring to the squadron makes it much more deadly. "
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Flockmaster, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Flockmaster.cfg:4
+#: .\units\misc_units\harpies\Flockmaster.cfg:66
+msgid "Harpy Flockmaster"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Flockmaster, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Flockmaster.cfg:22
+msgid ""
+"Harpies whose love for birds is extreme spend their life with them, flying "
+"and hunting together. With their skilled calls they bring together small "
+"flocks of hawks to help them, directing them to reach their goal more "
+"efficiently. "
+msgstr ""
+
+#. [attack], type=blade, range=ranged
+#: .\units\misc_units\harpies\Flockmaster.cfg:46
+#: .\units\misc_units\harpies\Raptortongue.cfg:63
+msgid "falcon storm"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Galesinger, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Galesinger.cfg:4
+msgid "Harpy Galesinger"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Galesinger, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Galesinger.cfg:20
+msgid ""
+"Experienced minstrels may decide to become the keepers of harpy knowledge. "
+"They spend years learning from their masters the thousands of songs that "
+"relate harpy lore. Among these chants are magic spells that allow them to "
+"bend the winds to their will, that harpies have used since olden times to "
+"travel across the ocean. "
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#: .\units\misc_units\harpies\Galesinger.cfg:67
+#: .\units\misc_units\harpies\Songstressofstorms.cfg:68
+msgid "Song of gale"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Messenger, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Messenger.cfg:4
+#: .\units\misc_units\harpies\Messenger.cfg:22
+msgid "Harpy Messenger"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Messenger, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Messenger.cfg:30
+msgid ""
+"Due to their numerous travels, harpy wanderers end up mingling with other "
+"races a lot more. Often they will offer their service as long range "
+"messengers to various folk. The time spent hunting in the wild has given them"
+" keen eyes which serve them well in battle also. "
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Minstrel, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Minstrel.cfg:4
+msgid "Harpy Minstrel"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Minstrel, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Minstrel.cfg:20
+msgid ""
+"Harpies avoid other races whenever possible, and are seldom welcomed warmly. "
+"There is however an exception : minstrels are renowned for their incredible "
+"singing. Some say their voice can make anyone fall in awe and completely "
+"forget their surroundings. Although the public usually admires their talent, "
+"people sometimes fear their supposed powers.\n"
+"They wander between towns, living off their art or flying away quickly when "
+"they feel threatened. Some of them end up settling down in human cities, but "
+"more often than not they keep traveling and act as informants for harpy "
+"communities."
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\misc_units\harpies\Minstrel.cfg:103
+#: .\units\misc_units\harpies\Siren.cfg:159
+msgid "beguiling song"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Phantom, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Nightgaunt.cfg:4
+msgid "Harpy Phantom"
+msgstr ""
+
+#. [male]
+#: .\units\misc_units\harpies\Nightgaunt.cfg:22
+msgid "male^Harpy Phantom"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Phantom, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Nightgaunt.cfg:28
+msgid ""
+"When the night is at its darkest, are the shadows not more enticing than "
+"ever? Hide in the night, enjoy it, use it, but never forget it is not your "
+"friend. Those that fear not the shadows will in time join their ranks.\n"
+"-Tales of the owl hunters"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\misc_units\harpies\Nightgaunt.cfg:73
+msgid "deathclaws"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Night_Harpy, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Nightharpy.cfg:4
+#: .\units\misc_units\harpies\Nightharpy.cfg:21
+msgid "Night Harpy"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Night_Harpy, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Nightharpy.cfg:29
+msgid ""
+"While most harpies prefer to build their homes in the caves dotting seashore "
+"cliffs and tall mountains, some have chosen to seek shelter in forests. This "
+"new environment has made them change their hunting techniques, which now rely"
+" on stealth a lot more. Over time their body evolved and they can now fly "
+"silently, which makes them extremely hard to notice at night. "
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Parader, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Parader.cfg:4
+msgid "Harpy Parader"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Parader, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Parader.cfg:21
+msgid ""
+"As they better their magical craft, some minstrels take delight in catching "
+"other's eyes. Switching focus from songs to dance, their plumage changes to "
+"reflect their spell-weaving. Paraders, on the opposite of captivators, mean "
+"to be noticed, and distract their foes to give their allies more "
+"opportunities. "
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Pirate, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Pirate.cfg:4
+#: .\units\misc_units\harpies\Pirate.cfg:22
+msgid "Harpy Pirate"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Pirate, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Pirate.cfg:30
+msgid ""
+"Oftentimes harpy warriors band together to attack trade ships. They use long "
+"pikes to attack in a safer way and stay out of reach of melee fighters with "
+"their wings. Pirate groups nest on isolated craggy islands where they store "
+"their loot before trading it with other harpy colonies. "
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Raider, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Raider.cfg:4
+#: .\units\misc_units\harpies\Raider.cfg:23
+msgid "Harpy Raider"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Raider, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Raider.cfg:31
+msgid ""
+"The seasoned harpy soldiers often come from former bandit crews. They lend "
+"their talent as mercenaries to various armed forces, who make good use of "
+"their ability to strike anywhere quickly. "
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Raptortongue, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Raptortongue.cfg:4
+#: .\units\misc_units\harpies\Raptortongue.cfg:22
+msgid "Harpy Raptortongue"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Raptortongue, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Raptortongue.cfg:42
+msgid ""
+"Over time falconeers efficiently learn the falcons' language. As the bird "
+"ages their tamer often will bring in new recruits for taming. "
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Resplendent_Harpy, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Resplendent.cfg:4
+msgid "Resplendent Harpy"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Resplendent_Harpy, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Resplendent.cfg:23
+msgid ""
+"Resplendent harpies make the most of their dazzling presence to help their "
+"allies go unnoticed. In social gatherings where they thrive, they know when "
+"to show glitter and when to lay low so as not to displease their host.\n"
+"In battle they learnt to be very nimble, avoiding the harm that comes with "
+"being the center of attention, and confuse the enemy by making their presence"
+" clear or hidden to be harder to catch. "
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Rockthrower, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Rockthrower.cfg:4
+#: .\units\misc_units\harpies\Rockthrower.cfg:22
+msgid "Harpy Rockthrower"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Rockthrower, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Rockthrower.cfg:30
+msgid ""
+"One of the simplest tactics that harpies use to defend their homes is to drop"
+" rocks on the threat, which is often grounded and dangerous. This method may "
+"be tiring and somewhat ineffective due to the relative precision of the "
+"shots, but harpies value their safety enough to employ it often."
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Shrieker, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Shrieker.cfg:4
+msgid "Shrieker"
+msgstr ""
+
+#. [male]
+#: .\units\misc_units\harpies\Shrieker.cfg:22
+msgid "male^Shrieker"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Shrieker, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Shrieker.cfg:30
+msgid ""
+"As the moon hides behind the peaks, the wind in the gloom calls.\n"
+"Answer it fast! Answer it quick! Quiet shall be your fall.\n"
+"To uncover the night's secrets, won't you heed this soft howl?\n"
+"Answer it fast, trust the spirits, run with the winds and wolves.\n"
+"Won't you come deeper down the forest, in the shadows with us to dance?\n"
+"'Til the morrow, the wind shall rest, and wait for you, for its next chance.\n"
+"As the moon returns in white flame, it shall be back for your regrets.\n"
+"Answer it well, it knows your name, and certainly never forgets."
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\misc_units\harpies\Shrieker.cfg:128
+msgid "shriek"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Siren, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Siren.cfg:4
+msgid "Harpy Siren"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Siren, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Siren.cfg:22
+msgid ""
+"Harpies have a strong belief that their kind was born from a magical song, "
+"sung from what they call the World of Mist. When the wind song feels "
+"sorrowful, it is because we hear the laments of beings that got lost in that "
+"illusory land."
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Songstress_Of_Storms, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Songstressofstorms.cfg:4
+msgid "Songstress of Storms"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Songstress_Of_Storms, race=AE_agl_harpy, gender=female
+#: .\units\misc_units\harpies\Songstressofstorms.cfg:21
+msgid ""
+"Some harpy singers chose to live away from land, secluded in places where "
+"they can become one with the wind. They spend days meditating at sea to "
+"listen to the song of the gales. When their kin calls for help however, their"
+" mastery of weather lets them summon fierce storms that scatter enemy troops."
+" "
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\misc_units\harpies\Songstressofstorms.cfg:80
+msgid "Song of storm"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Stalkerwing, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Stalkerwing.cfg:4
+#: .\units\misc_units\harpies\Stalkerwing.cfg:21
+msgid "Harpy Stalkerwing"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Stalkerwing, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Stalkerwing.cfg:29
+msgid ""
+"The owl harpies' unparalleled stealth makes them a great asset in wars and "
+"skirmishes, where they spy and strike in the midst of enemy lines.\n"
+"As they tread further down this path of stalking and hunt, the wisps of magic"
+" they possess make them fade more and more within the darkness. "
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Traveller, race=AE_agl_harpy
+#. [male]
+#: .\units\misc_units\harpies\Traveller.cfg:4
+#: .\units\misc_units\harpies\Traveller.cfg:22
+msgid "Harpy Traveller"
+msgstr ""
+
+#. [unit_type], id=AE_agl_harpies_Harpy_Traveller, race=AE_agl_harpy
+#: .\units\misc_units\harpies\Traveller.cfg:30
+msgid ""
+"Harpies by nature see more of the world than non winged folks, and some of "
+"them long to see what is beyond the horizon. Those that follow this path are "
+"among the fastest and most agile flyers in the sky. "
+msgstr ""
