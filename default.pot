@@ -1,0 +1,2028 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-07-05 21:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [modification], id=AE_units_loader
+#: .\data\resource.cfg:39
+msgid "Ageless Era Units Loader"
+msgstr ""
+
+#. [modification], id=AE_units_loader
+#: .\data\resource.cfg:41
+msgid "Load Ageless Era units even if another era is used."
+msgstr ""
+
+#. [leadership], id=aoadiscipline
+#: .\data\AoA_data\abilities.cfg:6
+msgid "discipline"
+msgstr ""
+
+#. [leadership], id=aoadiscipline
+#: .\data\AoA_data\abilities.cfg:7
+msgid ""
+"Protects friendly units from time-of-day penalties. These units fight as if "
+"there was a neutral unit. It also have the same effects as leadership"
+msgstr ""
+
+#. [heals], id=aoaRepair
+#: .\data\AoA_data\abilities.cfg:95
+msgid "repair +8"
+msgstr ""
+
+#. [heals], id=aoaRepair
+#: .\data\AoA_data\abilities.cfg:96
+msgid "female^repair +8"
+msgstr ""
+
+#. [heals], id=aoaRepair
+#: .\data\AoA_data\abilities.cfg:97
+msgid ""
+"Allows the unit to heal adjacent mechanical allied units at the beginning of "
+"our turn. A mechanical unit cared for by this healer may heal up to 8 HP per "
+"turn."
+msgstr ""
+
+#. [resistance], id=AE_aoaRunicResistance
+#: .\data\AoA_data\abilities.cfg:114
+msgid "runic resistance"
+msgstr ""
+
+#. [resistance], id=AE_aoaRunicResistance
+#: .\data\AoA_data\abilities.cfg:115
+msgid "Gives adjacent allied units 10*level magical resistance to the limit of 50%"
+msgstr ""
+
+#. [resistance], id=AE_chs_protection
+#: .\data\EoC_data\abilities.cfg:8
+msgid "protection"
+msgstr ""
+
+#. [resistance], id=AE_chs_protection
+#: .\data\EoC_data\abilities.cfg:10
+msgid ""
+"Adjacent units of lower level from this side receive a +20% bonus to all "
+"resistances (up to a maximum of 50%)."
+msgstr ""
+
+#. [dummy], id=AE_chs_physical_endurance
+#: .\data\EoC_data\abilities.cfg:102
+msgid "physical endurance"
+msgstr ""
+
+#. [dummy], id=AE_chs_physical_endurance
+#: .\data\EoC_data\abilities.cfg:104
+msgid ""
+"Units with this ability instantly regenerate half of the damage dealt to them"
+" unless its type is arcane, or the damage amount would kill them otherwise "
+"(greater than or equals their remaining HP)."
+msgstr ""
+
+#. [hides], id=AE_chs_camouflage
+#: .\data\EoC_data\abilities.cfg:198
+msgid "camouflage"
+msgstr ""
+
+#. [hides], id=AE_chs_camouflage
+#: .\data\EoC_data\abilities.cfg:200
+msgid ""
+"This unit can hide in deserts and dunes, and remain undetected by its "
+"enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in desert or dunes, except if "
+"they have units next to it. Any enemy unit that first discovers this unit "
+"immediately loses all its remaining movement."
+msgstr ""
+
+#. [resistance], id=AE_chs_sustenance
+#: .\data\EoC_data\abilities.cfg:226
+msgid "sustenance"
+msgstr ""
+
+#. [resistance], id=AE_chs_sustenance
+#: .\data\EoC_data\abilities.cfg:227
+msgid ""
+"This unit’s resistances are increased by 20% in daylight, on defense and "
+"attack. Vulnerabilities are not affected."
+msgstr ""
+
+#. [editor_group], id=wesnoth-EoMa
+#: .\data\EoMa_data\terrain_base.cfg:4
+msgid "EoMa(custom terrain)"
+msgstr ""
+
+#. [terrain_type], id=overlay_placeholder_eoma
+#: .\data\EoMa_data\terrain_base.cfg:12
+msgid "Art Placeholder"
+msgstr ""
+
+#. [terrain_type], id=litm
+#: .\data\EoMa_data\terrain_base.cfg:21
+msgid "Lit"
+msgstr ""
+
+#. [terrain_type], id=litm
+#: .\data\EoMa_data\terrain_base.cfg:22
+msgid "Beam of Light"
+msgstr ""
+
+#. [theme]
+#: .\data\theme\theme.cfg:3
+msgid "The default theme"
+msgstr ""
+
+#. [theme]
+#: .\data\theme\theme.cfg:5
+msgid "Rav_Theme_Loader"
+msgstr ""
+
+#. [menu]
+#: .\data\theme\theme.cfg:126
+msgid "Menu"
+msgstr ""
+
+#. [menu]
+#: .\data\theme\theme.cfg:134
+msgid "Load Turn..."
+msgstr ""
+
+#. [menu]
+#: .\data\theme\theme.cfg:141
+msgid "Actions"
+msgstr ""
+
+#. [action]
+#: .\data\theme\theme.cfg:611
+msgid "End Turn"
+msgstr ""
+
+#. [action]
+#: .\data\theme\theme.cfg:612
+msgid "End Scenario"
+msgstr ""
+
+#. [label], id=label-hp
+#: .\data\theme\theme.cfg:621
+msgid "HP"
+msgstr ""
+
+#. [label], id=label-xp
+#: .\data\theme\theme.cfg:629
+msgid "XP"
+msgstr ""
+
+#. [label], id=label-mp
+#: .\data\theme\theme.cfg:637
+msgid "MP"
+msgstr ""
+
+#. [label], id=label-def
+#: .\data\theme\theme.cfg:645
+msgid "def"
+msgstr ""
+
+#. [unit_level]
+#: .\data\theme\theme.cfg:809
+msgid "statuspanel^lvl"
+msgstr ""
+
+#. [multiplayer_side], id={ID}
+#: .\data\utils\faction_utils.cfg:6
+#: .\data\utils\faction_utils.cfg:15
+msgid "Random"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:2
+msgid ""
+"Alaron,Albron,Albéric,Adalbert,Archibald,Alric,Alistair,Béric,Baudouin,Balor,Baldred,Bohémond,Benoît,Clothaire,Conrad,Charles,Duncan,Éric,Elric,\n"
+"Évard,Enguerrand,Édouard,Edric,Frédéric,Faralod,François,Fergus,Godric,Godefroy,Goeffroy,Gerald,Herbert,Hamelin,Henry,Harold,Jean,Julien,Lambert,Lothaire,Larius,\n"
+"Léonard,Martin,Médéric,Mathieu,Maric,Nathan,Norbert,Nicolas,Odomar,Onfroy,Othon,Pierre,Philippe,Richard,Rodric,Rémald,Roland,Raymond,Quentin,Robert,Sigfried,\n"
+"Simon,Sigismond,Stéfane,Tancred,Théobald,Théodric,Thibault,Thomas,Ulric,Valéran,Yves,Yvain,Gauvin,\n"
+"Édouard,Errard,Étienne,Adémar,Adrien,Aimery,Alain,Aldebert,Alderic,Alphonse,Amaury,Antoine,Archambaud,Arnaud,Arnault,Arnoul,Aubry,Aymar,Baudouin,Boson,Ebbon,\n"
+"Eudes,Eustache,Gauthier,Gaucelin,Guichard,Guilhem,Hugues,Jaufré,Ogier,Orson,\n"
+"Henry,Edward,James,William,Philip,Frederick,Arthur,Edgar,Remund,George,Humphrey,Robert,Stephen,Alexender,Alfred,Ambrose,Andrew,Anthony,Archibald,Benjamin,\n"
+"Christopher,Ernest,Geoffrey,Horatio,Lawrence,Mattew,Gerald,Lionel,Marc,Randolf,Reginald,Walter,\n"
+"Adriaen,Albrecht,Alwin,Ambroos,Antoon,Arnold,Arnulf,Balderik,Barend,Barnaerd,Bartolomeus,Bertold,Boudewijn,Baldwin,Claes,Nocholas,Claeuwaert,Daevit,Diederick,\n"
+"Eduard,Egmund,Ekbert,Engelbrecht,Filips,Frans,Gerold,Gerulf,Gijsbrecht,Giselbert,Godfried,Godfrey,Godschalk,Gozewijn,Hendrik,Herman,Hubert,Hugh,Ijsbrand,\n"
+"Ijsbrecht,Jan,Koenraad,Konrad,Kristof,Lambert,Ludewijn,Maertijn,Otto,Otwin,Pieter,Reinaerd,Rodulf,Roelof,Rutger,Roland,Reinhold,Willem,Roeland,Rogier,Sten,\n"
+"Theodulf"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:15
+msgid ""
+"Aneyn,Aneline,Aliénor,Alaewyn,Aleera,Alysanne,Alissane,Alissandre,Alice,Anne,Adélaïde,Blanche,Béatrice,Célène,Célia,Céline,Catherine,Constance,\n"
+"\tDouce,Délia,Élanor,Éléanor,Éléonor,Elleine,Elisabeth,Emma,Elysande,Ermeline,Églantine,Féria,Falewyn,Flore,Flora,Gwendoline,Hermine,Héloise,Héloïse,Heloïse,\n"
+"\tHildegarde,Isabeau,Isabelle,Jeanne,Julie,Judith,Léandra,Loïse,Mélowyn,Mélysanne,Mélissandre,Mathilde,Maud,Maude,Margot,Péronelle,Plaisance,Rosalie,Rosa,\n"
+"\tRose,Sélène,Sophie,Solène,Valinia,Valérie,Valéria,Valance,Yolande,Élodie,Adalmonde,Adelaine,Adeline,Adelyn,Aléarde,Amélie,Amélia,Agathe,Almodis,Aude,Aurengarde,\n"
+"\tBourguigne,Cécile,Catherine,Eglantine,Ermegarde,Ermessinde,Euphrosine,Eveline,Helvis,Hodierne,Mélusine,Pernelle,Rosalind,Stépanie,Solène,\n"
+"Jane,Adela,Adelaine,Amice,Anna,Aveline,Avelina,Beatrice,Cecilia,Ela,Eleanor,Elizabeth,Elisabeth,Margaret,Matilda,\n"
+"Adelheid,Adelaide,Agaete,Aleid,Alijce,Allelies,Aliken,Badeloge,Cille,Clara,Ellijnore,Ermingarde,Ermengarde,Frida,Gerda,Haduwijn,Kathrijne,Swanhildis,Rosanne,\n"
+"Willemine,Yonefij"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:26
+msgid ""
+"Finn,Theoderic,Sasod,Markus,Ettoine,Tom,Peter,Ancalagon,Arcadio,Balan,Baragund,Calywen,Cyrion,Daeron,Denethor,Eldarion,Eol,Finwe,Finefinnet,Gundor,Gwindor,Haflidi,Herferg,Imlach,Ingwe,Jennat,Jereth,Kendair,Kjelvenwyth,Lenw�,Lorgan,Maedhros,Mahtan,Nimlaire,Nolf,Ogmios,Orphancallo,Peotperesifietan,Perhammeryn,Querina,Quesnachernobela,Radagast,Radhruin,Saeros,Salmar,Targen,Telchar,Uldor,Ulwarth,Vald,Volum,Wait,With,Xoganish,Xyla,Yann,Yater,Zannan,Zippus"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:28
+msgid ""
+"Maria,Sarah,Aerin,Aglari,Baliena,Barmahir,Cath,Chri,Dairiun,Danica,Eilinel,Elenwe,Finduilas,Fron,Galadriel,Galata,Heldaria,Hola,Idril,Ilmare,Jilliantann,Justa,Kalli,Konrodna,Limstella,Lindorie,Mahal,Melian,Nerdanel,Nessa,Olorin,Olwe,Pawluithiritina,Piaril,Qodvor,Quenand,Rian,Robergaco,Silana,Sepon,Tife,Turuth,Unyen,Uthothir,Valandil,Vana,Wondrel,Wymani,Xabur,Xydrico,Yarayn,Ylengil,Zair,Zeth"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:32
+msgid ""
+"Finn,Erik,Theoderic,Sasod,Ettoine,Tom,Peter,Markus,\n"
+"Wilhelm,Guilhelm,Guilerm,Guillermo,Marcus,Eric,Enric,Enrico,Leonard,Michael,Abelard,Adam,Adelard,Ademar,Alexander,Alfons,Amaury,Anfroi,Anquetil,Anselm,Armand,\n"
+"Arnald,Asclettin,Aubrey,Baldwin,Bernard,Berold,Bertran,Beuves,Blayve,Bohemond,Botolf,Clemence,Drogo,Errand,Eustache,Faramond,Ferant,Filbert,Fulk,Fraunk,Frery,\n"
+"Gaillard,Gaufrid,Geoffroy,Gerald,Gerard,Gerard,Geraud,Gerbert,Gervas,Giffard,Gilbert,Godfrey,Goubert,Guntard,Guy,Haimo,Hamelin,Henry,Herbert,Herman,Hubert,Hugh,\n"
+"Humbert,Humphrey,Ildebrando,Jordan,Joscelin,Lambert,Lancelin,Mauger,Nigel,Norman,Odo,Orderic,Osbern,Osmond,Oswulf,Oswyn,Radolf,Radulf,Randolf,Ranulf,Raymond,\n"
+"Rayner,Richard,Robert,Roger,Rolland,Roscelin,Sayer,Serlo,Serril,Sewal,Silvester,Simon,Stefen,Tancred,Torf,Turold,Turquetil,Turstin,Tybalt,Walter,William,Wymund,\n"
+"Albrecht,Maximilian,Friedrich,Ladislav,Matthias,Ernst,Ferdinand,Wenzel,Georg,Philipp,Joseph,Rudolf,Gerhard,Wolfgang,Leopold,Florian,Alexander,Anton,Karl,Franz,\n"
+"Johann,Ludwig,Rainer,Adolf,Alfred,Benno,Bruno,Cristoph,Clemens,Gunther,Heinrich,Jakob,Joachim,Jorg,Michael,Oskar,Otto,Siegfried,Stefan,Ulrich,Viktor,Wilhelm,\n"
+"Georg,Sigmar,Sigmund,Heinrich,\n"
+"Abbondio,Abelardo,Abelino,Achille,Adalberto,Adelfo,Adelmio,Adelmo,Agapito,Agostino,Alamanno,Alarico,Adriano,Albano,Alberico,Alberto,Albino,Alcide,Aldobrandino,\n"
+"Aleardo,Aleramo,Alessandro,Alessio,Alvise,Ambrogio,Amedeo,Anastasio,Andrea,Angelo,Anselmo,Antonino,Antonio,Antoniotto,Arcibaldo,Arderico,Armando,Arnolfo,Arsenio,\n"
+"Artemio,Ascanio,Astorre,Arrigo,Annibale,Atenolfo,Attilio,Augusto,Aurelio,Ausilio,Averado,Azzone,Baldassarre,Bartolomeo,Basilio,Bassiano,Baldovino,Battista,\n"
+"Beltrano,Benedetto,Benvenuto,Berardo,Bernardo,Bertoldo,Biagio,Bonaventura,Bonifacio,Bruno,Buonconte,Callisto,Camillo,Candido,Cangrande,Cassio,Castore,Cataldo,\n"
+"Chiaffredo,Claudio,Clemente,Costanzo,Cesare,Cornelio,Corradino,Corrado,Cosma,Costante,Costantino,Cristoforo,Damiano,Demetrio,Dioniso,Durante,Edoardo,Elio,\n"
+"Emmanuele,Enrico,Enzio,Ermenegildo,Ettore,Eugenio,Ezio,Ezzelino,Fabrizio,Fausto,Federigo,Felice,Ferdinando,Ferruccio,Filippo,Fiorello,Flavio,Fortunato,Francesco,\n"
+"Gabriele,Gabrino,Gaetano,Galasso,Galeazzo,Gaspare,Gastone,Gelasio,Geraldo,Gerardo,Germano,Gherardo,Giacinto,Giacomo,Gianfranco,Gianleone,Gilberto,Giordano,\n"
+"Giorgio,Giovanni,Goffredo,Gregorio,Gualtiero,Guarnito,Guerrino,Guglielmo,Guigliadore,Innocenzo,Ippolito,Isnardo,Lamberto,Landolfo,Lanfranco,Lazzaro,Landone,\n"
+"Lealdo,Leonardo,Leone,Leonello,Leopoldo,Lionello,Livio,Lodovico,Lorenzo,Luca,Lucio,Malacresta,Manfredo,Marco,Mariano,Marsiglio,Mastino,Merigo,Michelangelo,\n"
+"Nestore,Nicola,Nolfo,Oberto,Obizzino,Obizzo,Oddone,Onorio,Oreste,Orlando,Ottavio,Ottobono,Ottone,Pagano,Pancrazio,Paolo,Pasquale,Patrizio,Pellegrino,Pericle,\n"
+"Pietro,Prospero,Rafaello,Raimondo,Ranerio,Riccardo,Rinaldo,Rizzardo,Roberto,Rodolfo,Rolando,Rosso,Ruggiero,Salinguerra,Salvatore,Salvestro,Sancho,Saverio,\n"
+"Sciarra,Sebastiano,Serafino,Sergio,Settimio,Severino,Severo,Silvano,Silvestro,Simonetto,Sinibaldo,Sinucello,Spinetto,Stefano,Tedaldo,Tedice,Teodoro,Tibaldo,\n"
+"Tiziano,Tommaso"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:63
+msgid ""
+"Adelaide,Adele,Adeline,Adelise,Agnes,Alberada,Alienora,Aline,Alisce,Alison,Amburga,Aubrey,Aveis,Avelina,Berengaria,Busilla,Clarimond,Clemenza,\n"
+"\tConstance,Cundo,Egelina,Eleanor,Elise,Elysande,Emelenine,Emma,Emonie,Eremberga,Ermyntrude,Felicia,Flandina,Fredesende,Fressenda,Fressende,Geva,Giselle,\n"
+"\tGohilde,Griselda,Gundred,Hadwis,Helewisa,Heria,Herleve,Hermessent,Hermine,Hugolina,Ida,Judit,Lesceline,Mabel,Marie,Maria,Matheode,Matilda,Maud,Mautild,\n"
+"\tMaysant,Millicent,Muriella,Oriel,Richenda,Rosalind,Selova,Stephanie,Sibyl,Sibylla,Umfreda,Valdrade,Wilmot,Yolanda,Yvone,\n"
+"Maria,Theresia,Viktoria,Amalia,Bianka,Eleonora,Agatha,Balthild,Christina,Cuthburg,Cynehild,Cyneswith,Cynethryth,Eadburg,Edith,Gunhilda,Gunhild,Helga,Judith,Maud,\n"
+"Matilda,Sigri,Wulfhild,Addila,Adela,Adelheid,Alof,Agnes,Anna,Athela,Beatrix,Beatrice,Bertha,Bertha,Bertrada,Bia,Beatrice,Bisina,Bithild,Brigida,Brigid,Elisabeth,\n"
+"Enda,Gertrud,Gisela,Hedwig,Heilwig,Helene,Hildegard,Ida,Emma,Irmgard,Judith,Katharina,Margarete,Mathilde,Matilda,Mechthild,Reginlint,Richardis,Ricarda,Rodelinda,\n"
+"Sophia,Sophia,Suanhilde,Swanahild,\n"
+"Abelina,Adalberta,Adalgisa,Adelaida,Adelasia,Adelia,Adela,Adriana,Agalina,Agnese,Agostina,Albina,Alda,Alessandra,Alfonsina,Alisia,Aloisia,Amalia,Amelia,Ambrosia,\n"
+"Anastasia,Anna,Antonella,Antonia,Argentina,Augusta,Aurelia,Ausilia,Ausonia,Beatrice,Benedetta,Benilde,Berenice,Berta,Bianca,Bona,Brunilde,Camilla,Candida,\n"
+"Caracosa,Carla,Carola,Cecilia,Chiara,Claudia,Clorinda,Caterina,Clotilde,Costanza,Cornelia,Delinda,Dora,Edda,Elena,Eleonora,Elisabetta,Ermenegilda,Eudossia,\n"
+"Eugenia,Elisa,Fausta,Felicia,Felicita,Filippa,Filomena,Flavia,Fiora,Fortunata,Fosca,Francesca,Froizza,Giacinta,Ginevra,Giovanna,Giuditta,Giulia,Giuliana,\n"
+"Giuseppa,Ippolita,Isabella,Joscella,Laura,Lavinia,Leonide,Letizia,Lidia,Livia,Lodovica,Lucia,Lucinetta,Lucrezia,Maddalena,Marcella,Margherita,Maria,Mariana,\n"
+"Marietta,Martina,Matilda,Micaela,Nunzia,Paola,Patrizia,Renata,Ricciarda,Silvana,Sofia,Stefania,Tiziana,Tomasina,Valentina,Violante,Virginia"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:80
+msgid ""
+"Owain,Dafydd,Gruffydd,Llewelyn,Rhodri,Maredudd,Cynan,Cadwaladr,Iago,Idwal,Maelgwyn,Einion,Iorwerth,Trahaearn,Aeron,Aled,Aneirin,Arvel,Berwyn,Brynmor,\n"
+"Cadfael,Cadoc,Cadwgawn,Celyn,Cledwyn,Colwyn,Dai,Dilwyn,Emyr,Gawain,Glynn,Gwyn,Heddwyn,Heilyn,Hywel,Rhian,Tristan,Tudor,Urien,Vaughan,Adda,Adgar,Edgar,Adran,\n"
+"Adrian,Aeddan,Alan,Aldwr,Aldroenus,Algwyn,Alisander,Alexander,Alured,Alfred,Alwyn,Anarawd,Andreas,Andrew,Aneurin,Anlaff,Olaf,Anllech,Annwn,Antoninus,Argad,\n"
+"Arcadius,Arod,Arthen,Artemius,Arthfael,Arthfoddw,Arthbodus,Arthwr,Arthur,Arthws,Arthwys,Artorius,Asa,Asaph,Awst,August,Bangar,Bedwyr,Beli,Berthgwyn,Berhtwine,\n"
+"Berthwallt,Berthoald,Bleddyn,Bledrig,Bleiddud,Branwaladr,Bride,Briog,Brochfael,Brogmaglus,Brwt,Brutus,Brwyn,Brychan,Bran,Cadell,Cadeyrn,Cadfael,Cadfan,Cadog,\n"
+"Cadw,Cadwal,Cadwaladr,Cadwallon,Cadwared,Cadwared,Cadwgan,Cadwr,Cadwr,Cai,Gaius,Caid,Cain,Caradog,Caradog,Casnar,Caswallon,Cawdaf,Cedig,Caedicius,Cedwyn,Ceneu,\n"
+"Ceredig,Caratacus,Clydog,Louis,Coel,Corentin,Cuhelyn,Custennin,Constantine,Cwlfyn,Culmin,Cwrig,Cyriacus,Cydifor,Cydrych,Cynan,Conan,Cynddelw,Cyndyddan,Cynddylan,\n"
+"Cyndeyrn,Kentigern,Cynfael,Cynfarch,Cynfawr,Cynfeddw,Cynfelyn,Cynfran,Cynfyn,Cyngar,Cyngen,Cynwallon,Cynwared,Cynwrig,Cynwyd,Cynyr,Cysteint,Constans,Dafydd,\n"
+"Deheuwant,Deiniol,Daniel,Dewi,David,Dogfael,Drystan,Tristan,Dumnagual,Dwyfan,Damian,Dyfnarth,Donyarth,Dyfnwal,Donald,Dyfnwallon,Dynod,Donatus,Dywel,Edern,Eternus,\n"
+"Ednyfed,Ednywain,Edryd,Ailred,Edwyn,Edwin,Edylfred,Aethelfred,Einion,Elfin,Alwin,Elidyr,Elis,Elisedd,Elud,Elystan,Alstan,Emrys,Ambrosius,Enfidaig,Erb,Urban,\n"
+"Erclwf,Heracles,Eudaf,Octavius,Ewyas,Ffernfael,Ffilip,Philip,Ffriog,Friog,Ffwdwr,Fragan,Ffransis,Fransis,Fychan,Fyrsil,Gamon,Garmon,German,Geraint,Gerontius,\n"
+"Gerallt,Gerald,Glwyddien,Glywys,Claudius,Godwyn,Godwin,Goronwy,Gronw,Gruffydd,Ruffinus,Grygor,Gregory,Guret,Gwalchmai,Gavin,Gwen,Gwenwynwyn,Gwerstan,Werestan,\n"
+"Gwerthefyr,Vortimer,Gwerthern,Vortigern,Gwydol,Vitalis,Gwydolin,Vitalinus,Gwyn,Finn,Gwidyr,Gwilym,William,Gwrfawr,Gwrfoddw,Gwrgant,Fergus,Gwrgeneu,Gwrgi,Gwriad,\n"
+"Viriathius,Harri,Henry,Herewallt,Hereweald,Huw,Hugh,Hywel,Iago,Jacob,Ivor,Idnerth,Idwal,Idwallon,Iestyn,Justin,Ieuan,John,Ifor,Ivar,Io,Ioan,Iolo,Iorwerth,Ithel,\n"
+"Lles,Lucius,Llew,Leon,Llyr,Llywarch,Llywelyn,Macsen,Maximos,Madog,Matad,Mael,Maelcwn,Malcolm,Maelgwn,Melgwn,Maenyrch,March,Marcus,Maredudd,Murdoch,Math,Matthew,\n"
+"Mawgan,Meilyr,Meirchion,Marcianus,Meiriadog,Meriadoc,Meirion,Marianus,Merfyn,Meurig,Maurice,Mihangel,Michael,Morfarch,Morgan,Morien,Morgen,Morydd,Mwyn,Mungo,\n"
+"Myrddin,Martin,Neithon,Nathan,Nowy,Nynniaw,Oswallt,Oswald,Owain,Eugene,Oucydd,Eochaid,Padern,Padrig,Patrick,Pandoff,Pasgen,Pascentius,Padarn,Paternus,Pawl,Paul,\n"
+"Pedr,Peter,Peredyr,Publig,Pyr,Rheinallt,Reginald,Rhicert,Richard,Rhigeneu,Ricenus,Rhirid,Rhiwal,Riwal,Rhiwallon,Rhobert,Robert,Rhodri,Rhufon,Roman,Rhun,Rucenus,\n"
+"Rhydderch,Roderick,Rhydog,Rhys,Riaged,Riacet,Richwin,Sandde,Sanctus,Sawyl,Samuel,Seferus,Severin,Seisyll,Cecil,Selyf,Solomon,Senyllt,Serigi,Sergius,Sieffre,\n"
+"Godfrey,Sion,Sior,George,Siwauna,Steffen,Stephen,Stinian,Justinanius,Sulien,Julian,Taliesin,Telesinus,Tegonwy,Tegwyd,Tadg,Teilo,Teithfalch,Teudebur,Tewdos,\n"
+"Theodosius,Tewdrig,Theodoric,Tewdwr,Theodore,Tomos,Thomas,Trahaearn,Tudur,Tudwal,Tuathal,Tudwallon,Tydy,Tyfoedd,Tysilio,Urien,Urbgenius,Uthyr,Victor,Ynyr,\n"
+"Honorius,Ysfael,Llewelyn,Maelgwyn,Aeron,Aled,Aneirin,Arvel,Berwyn,Brynmor,Cadoc,Cadwgawn,Celyn,Cledwyn,Colwyn,Dai,Dilwyn,Emyr,Gawain,Glynn,Heddwyn,Heilyn,Rhian,\n"
+"Tudor,Vaughan,\n"
+"James,Robert,Henry,Alexander,Arthur,Walter,John,Charles,Malcolm,Donald,David,Duncan,Andrea,Alan,Ailpein,Archibald,Barclay,Beathan,Bruce,Cameron,Cin�ed,Conall,\n"
+"Douglas,Duff,Edan,Evander,Fraser,Garry,Glen,Ian,Keir,Kennedy,Lennox,Logan,Micheil,Mungo,Munroe,Scott,Wallace,Adam,Alpin,Alwin,Alastair,Andrew,Angus,Arran,Aulay,\n"
+"Olaf,Brian,Brice,Cailean,Calum,Carbrey,Colban,Kolbein,Colin,Nicholas,Conan,Constantine,Dermid,Dugald,Edgar,Edward,Edwin,Eric,Ivar,Ewan,Eugene,Farquhar,Fergus,\n"
+"Fingal,Finn,Findlay,Frang,Francis,Gavin,Gilbride,Gilbert,Gilchrist,Gillespie,Gilpatrick,Gilroy,Giric,Glenn,Godfrey,Gregor,Gregory,Hamish,Hector,Hugh,Iain,Indulf,\n"
+"Jacob,Kenneth,Kentigern,Lachlan,Roland,Laurence,Lennon,Lulach,Macbeth,Magnus,Maldoven,Maldred,Malise,Malmure,Maoilios,Marcas,Marcus,Matad,Matthew,Michael,Morgan,\n"
+"Muir,Mungo,Murdoch,Murray,Neil,Nigel,Ninian,Oscar,Patrick,Paul,Peter,Philip,Radulf,Ralph,Ranald,Reginald,Richard,Ronald,Ragnvald,Rory,Roderick,Ross,Roy,Shaw,\n"
+"Simon,Somerled,Stephan,Stephen,Sweeny,Tadhg,Tadg,Talore,Thomas,Torquil,Torkel,Uhtred,Uisdean,Eysteinn,Walan,Valentin,Waldeve,Waltheof,William"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:111
+msgid ""
+"Elain,Addiena,Aelwyd,Aeronwen,Aeronwy,Afrella,Abrelda,Alys,Alice,Angharad,Annes,Anna,Annest,Annwyl,Anowed,Arddyn,Arianrhod,Blodwen,Bronwen,Catrin,\n"
+"Catherine,Ceindrych,Cagintria,Ceridwen,Cerie,Cerys,Cicely,Cecilia,Clarisant,Creirwy,Cristin,Christina,Danhadlwen,Delyth,Denis,Denise,Dwynwen,Dwywai,Dyddgu,Efa,\n"
+"Eva,Effros,Euphrasia,Efrddyl,Efyrddyl,Aurelia,Eiliwedd,Elaine,Elen,Helen,Eleri,Hilaria,Elinion,Elinor,Eleanor,Ellyn,Enid,Essyllt,Hersilia,Euronwy,Ffelis,Ffion,\n"
+"Fflur,Flora,Ffraid,Brigit,Glynys,Gwen,Gwenasedd,Gwenfrewi,Winifred,Gwenhwyfach,Gwenhwyfar,Gwenllian,Gwenwyn,Gwerfyl,Gwladys,Claudia,Haer,Hawys,Hawise,Heledd,\n"
+"Hellawes,Heulwen,Hunydd,Hywela,Ilud,Isabel,Elizabeth,Llear,Clara,Llecci,Lleigy,Lleuca,Lucia,Lowry,Mabyn,Maches,Madrun,Matrona,Maelrys,Mair,Maria,Mali,Mallt,\n"
+"Marared,Marchell,Marcella,Margred,Margaret,Marwenna,Mawd,Matilda,Melisant,Melisende,Morganna,Morien,Murron,Myfanwy,Nest,Nesta,Agnes,Newlyna,Neulenna,Non,Nonna,\n"
+"Olwen,Onbrawst,Owena,Eugenia,Prawst,Ragnell,Ragnhild,Rhiaindrech,Rioantdrec,Rhiainfelt,Regina,Rhiannon,Rhonwen,Sannant,Sara,Sarah,Senena,Sibyl,Sibylla,Sioned,\n"
+"Siwan,Siyn,Joan,Susanna,Susana,Tangwystl,Tancostyla,Tegla,Thecla,Ysbail,Ystradwel,\n"
+"Mary,Ada,Affraic,Agnes,Aileen,Alice,Anna,Annabella,Aufrica,Euphemia,Barabal,Barbara,Beileag,Beitris,Beathoc,Beatrice,Bride,Brigit,Catriona,Catherine,Cecilia,\n"
+"Deirdre,Derilla,Dervorgilla,Donada,Donella,Edith,Edna,Effie,Eilionoir,Eimhir,Emer,Eithne,Ela,Eleanor,Elspeth,Euna,Eva,Fenella,Fingola,Flora,Forflissa,Galiena,\n"
+"Glenna,Gormelia,Gormflaith,Gruoch,Helen,Innes,Iona,Isabel,Isla,Isobel,Jean,Julia,Juliana,Kenna,Kentigerna,Kirstin,Christina,Lillias,Elisabeth,Lorna,Malmure,\n"
+"Maisie,Malina,Mariota,Martha,Marthoc,Marjory,Mary,Maud,Matilda,Maura,Maria,Mirren,Morag,Mor,Morna,Moyna,Mona,Muriel,Murron,Nuala,Finnguala,Orabilia,Peigi,\n"
+"Margaret,Rhonda,Rodina,Ronalda,Ragnhild,Ros,Saundra,Alexandra,Sheena,Shona,Joan,Sholto,Slaine,Sorcha,Una,\n"
+"Saraid,Orfhlaith,Fedelma"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:128
+msgid ""
+"Ale,Alfr,Alfgeir,Anders,Anlaufr,Anundr,Arnbjörn,Arngrimr,Arni,Arnfast,Asbjörn,Bagge,Baldr,Barid,Bengt,Bersi,\n"
+"\tBertil,Birger,Björn,Bo,Borkvard,Botulfr,Bragi,Buðli,Dag,Dan,Dyre,Eilif,Egill,Emund,Einarr,Eirik,Eskild,Falki,Faste,Filip,Fredrik,Frirek,\n"
+"\tFroði,Freyr,Folki,Gandalfr,Geirr,Georg,Gnupa,Gorm,Greger,Grimr,Guðfrið,Guðmundr,Guðröðr,Gunnarr,Hakon,Halsten,Haraldr,Haukr,Helgi,Hemming,Holmger,\n"
+"\tHrafn,Hrolfr,Hrane,Hæsteinn,Hjalmar,Hroðgar,Hroðulfr,Hrörekr,Hysing,Ingólfr,Ingemar,Ingjald,Ivar,Jedvard,Jon,Karl,Kettil,Kettilmund,Kjartan,Klas,Knut,Kol,\n"
+"\tKolbjörn,Magnus,Markus,Magni,Mats,Nils,Niklas,Oddr,Ofeig,Olafr,Ormr,Ottarr,Refr,Refil,Ragnarr,Rikulfr,Rögnvaldr,Skuli,Snorri,Sigbjörn,Sigtrygg,Sigurðr,\n"
+"\tStarkaðr,Steinn,Sturla,Styrbjörn,Styrkar,Sumarliði,Suni,Sveinn,Sverker,Sæmundr,Sölvi,Sörkver,Tjudmund,Toke,Tolir,Þorbjörn,Þorfinn,Þorbrandr,Þordr,Þorgil,\n"
+"\tÞorsteinn,Þorolfr,Toste,Totil,Tryggve,Tyke,Ulfr,Vagn,Valdemar,Åke,Yngvar,Örvar,Öysteinn,\n"
+"\t\tAlbrikt,Alf,Algot,Anders,Anund,Arnbjörn,Arne,Arnfast,Asbjörn,Astrad,Azur,Bagge,Balder,Bengt,Bertil,Birger,Björn,Bo,Borkvard,Botulf,Brage,Bror,Brynjolf,\n"
+"\tDag,Dan,Dyre,Egil,Einar,Emund,Erik,Eskild,Faste,Fredrik,Filip,Folke,Frej,Georg,Greger,Grim,Gudröd,Gunnar,Gustav,Halsten,Hans,Harald\tHelgi,Henrik,Hjalmar,\n"
+"\tHolmger,Håkan,Inge,Ingemar,Ingvar,Jedvard,Johan,Karl,Kettil,Kettilmund,Klas,Knut,Kol,Kolbjörn,Lars,Magnus,Markus,Mats,Nils,Niklas,Odd,Olaf,Orvar,Peder,Ragnar,\n"
+"\tRolf,Rörek,Ragnvald,Sämund,Sörkver,Sigbjörn,Sigtrygg,Sigurd,Starkad,Sten,Styrbjörn,Sune,Sven,Sverker,Sölvi,Thomas,Tjudmund,Toke,Tolir,Torbjörn,Tord,Torbrand,\n"
+"\tTorfinn,Torkel,Torolf,Torsten,Toste,Totil,Tyke,Ulf,Valdemar,Åke,Östen,\n"
+"\t\tAnund,Alv,Arne,Arnfinn,Arnkjell,Arnmod,Arnvid,Aslak,Audun,Balder,Bård,Bjørn,Eigil,Eilif,Einar,Eirik,Erlend,Erling,Eystein,Finn,Frej\tGrim,Gudbrand,Gudleik,\n"
+"\tGudmund,Gudrød,Gunnar,Guttorm,Haldor,Halfdan,Halkjell,Harald,Helge,Håkon,Håvard,Inge,Ivar,Jon,Kåre,Kolbein,Lodin,Magne,Magnuss,Odd,Ogmund,Olav,Orm,Ossor,\n"
+"\tOttar,Pål,Ragnar,Ragnvald,Rolf,Sigurd,Skjalg,Skofte,Skule,Svein,Sverre,Sämund,Torbjørn,Tord,Tore,Torbrand,Torfinn,Torgeir,Torgil,Tormod,Torolf,Torstein,Trond,\n"
+"\tTryggve,Ulv,Vigleik,Åle,Åmund,Ølver,Øystein,\n"
+"\t\tAbel,Anders,Anund,Asger,Balder,Benedikt,Bjørn,Bo,Christian,Christoffer,Edvard,Einar,Erik,Ernst,Esben,Fredrik,Frej,Frode,Glum,Gnupa,Gorm,Gotfred,Gregers,\n"
+"\tGrim,Gunnar\tHårik,Halfdan,Halvor,Hans,Harald,Helge,Hemming,Henrik,Hjalmar,Holger,Ingolf,Jørgen,Jørn,Jakob,Jens,Joakim,Johann,Karl,Knud,Kristian,Leif,\n"
+"\tLennart,Ludvig,Malthe,Mads,Mikkel,Mogens,Niels,Odd,Olav,Oluf,Peder,Poul,Pridbjørn,Ragnar,Ragnvald,Rolf,Rune,Rørik,Severin,Sigfred,Sigtryg,Sigurd,Sivard,Steen,\n"
+"\tSvend,Sämund,Thorolf,Thorvald,Torben,Torbjørn,Tord,Torfinn,Torgils,Ture,Ubbe,Uffe,Ulf,Valdemar,Valentin,Vilfred,Yngvar"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:149
+msgid ""
+"Aleta,Alfhildr,Alfrið,Alvör,Anna,Asa,Aslaug,Asta,Astrid,Beata,Birgitta,Björg,Bodil,Bothildr,Cecilia,Edla,Elin,Elisabet,Freyja,Gerðr,Gloð,Grima,\n"
+"\tGunnhildr,Gurli,Guðrun,Gyla,Gyrið,Gyða,Hafrid,Halla,Helena,Holmfrid,Iliana,Inga,Ingfrid,Ingibjörg,Ingjerðr,Ingrid,Karin,Katarina,Kraka,Kristina,Linda,Maer,\n"
+"\tMalmfrið,Margareta,Maria,Rikissa,Rögnfrið,Rögnhildr,Saga,Sara,Sif,Sigrid,Skuld,Sofia,Svanhildr,Ulfhildr,Vigdis,Ylva,Yrsa,Þora,Þordis,Þyra,\n"
+"\t\tAleta,Alfhild,Alfridh,Anna,Asta,Astrid,Beata,Birgitta,Bothild,Cecilia,Edla,Elin,Elisabet,Freja,Gunhild,Gyla,Gurli,Gytha,Hafrid,Helena,Holmfrid,\n"
+"\tIliana,Inga,Ingeborg,Ingegerd,Ingfrid,Ingrid,Karin,Katarina,Kristina,Linda,Maer,Malmfrid,Margareta,Märta,Ragnfrid,Ragnhild,Rikissa,Saga,Sara,Sigrid,Sofia,\n"
+"\tSvanhild,Thordis,Ulvhilde,Ylva,Åsa,\n"
+"\t\tAnna,Astrid,Brigida,Cecilia,Eldrid,Freja,Gjertrud,Gudrid,Gudrun,Gunnhild,Gyda,Gyrid,Haldora,Homlaug,Ingebjørg,Ingjerd,Ingrid,Jorunn,Karin,Kristina,\n"
+"\tMargrete,Maria,Martha,Ragna,Ragnfrid,Ragnhild,Rannveig,Sigrid,Snøfrid,Sunniva,Svanhild,Thora,Thorborg,Thordis,Åse,Åshild,Åsta,\n"
+"\t\tAgnethe,Anna,Asta,Benedikte,Birgitta,Bodil,Cecilie,Christina,Dagmar,Dorothea,Elisabeth,Ellinor,Emilie,Erika,Ester,Estrid,Frederikke,Freja,Grethe,Gudrun,\n"
+"\tGunhild,Gyda,Helena,Ida,Ingeborg,Ingegerd,Ingrid,Johanne,Jutta,Karin,Karoline,Katarinae,Katrine,Kirsten,Klara,Lise,Luitgard,Lykke,Magdalene,Maren,Margrethe,\n"
+"\tMaria,Martha,Ragnfrid,Ragnhild,Rikissa,Runa,Sanna,Signe,Sigrid,Silje,Sofie,Svanhild,Thyra,Tora,Thordis,Åse"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:163
+msgid ""
+"Adalbero,Adalbert,Adalhard,Adam,Ademar,Adolf,Alarich,Alberich,Albrecht,Aldrich,Alois,Amadeus,Amalrich,Andreas,Anselm,Arnold,Arnulf,Augustin,\n"
+"\t\tBaldarich,Baldewin,Baldomar,Baldur,Berengar,Bernhard,Berthold,Burchard,Christopher,Dieter,Dietmar,Dietpold,Dietrich,Dietwin,Eberhard,Eginolf,Ehrenfried,\n"
+"\t\tEkbert,Ekkehard,Emelrich,Emich,Emmerich,Emund,Engelbert,Erich,Ernst,Ferdinand,Filibert,Folkhard,Folkmar,Franz,Friedrich,Gautselin,Gebhard,Georg,Gerhard,\n"
+"\t\tGerlach,Giselbert,Gottfried,Gotthard,Gottschalk,Gotzelo,Guntram,Gunzelin,Günther,Hans,Hartmann,Hartwig,Heinrich,Helferich,Heribert,Hermann,Hesso,Hugo,\n"
+"\t\tHumbert,Hupold,Jakob,Johann,Jürgen,Karl,Karlmann,Kaspar,Konrad,Kuno,Lambert,Landolf,Leopold,Liudolf,Liutbert,Liutbrand,Liutpold,Lothar,Ludolf,Ludwig,\n"
+"\t\tLutbert,Magnus,Manegold,Manfred,Markward,Martin,Matthias,Meinhard,Michael,Nikolaus,Norbert,Otto,Peter,Philipp,Poppo,Radbot,Reinhard,Reinhold,Rudolf,\n"
+"\t\tRuprecht,Rutger,Siegfried,Sieghard,Siegmund,Sigismund,Sigmar,Simon,Stefan,Theodorich,Thietmar,Thomas,Udalrich,Ulrich,Viktor,Waldemar,Walram,Walther,Welf,\n"
+"\t\tWenzel,Werner,Wido,Wigerich,Wilhelm,Wolfgang,Wolfram"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:172
+msgid ""
+"Adela,Adelheid,Adelinde,Agathe,Agnes,Alberade,Amalberga,Amalie,Barbara,Beatrix,Benedicta,Berchte,Berta,Binhilde,Brunhilde,Cecilie,Christine,\n"
+"\t\tCothilda,Dorothea,Elisabeth,Emma,Engeltraud,Ermengard,Eufemia,Frida,Friedrica,Gerberga,Gerhild,Gertrude,Gisela,Gudrun,Gunhilda,Hedwig,Heike,Heilwiva,\n"
+"\t\tHelene,Helga,Hemma,Henrike,Hildeburg,Hildegard,Ida,Ilsa,Inga,Ingeltrude,Irmele,Irmeltrud,Irmgard,Isentrude,Jutta,Karlotte,Katharina,Klara,Klementia,\n"
+"\t\tKonstanze,Kriemhild,Kunigunde,Luitgard,Margarete,Maria,Mechthild,Oda,Osterhild,Richara,Richenza,Richwara,Romilda,Serhilda,Sofie,Sybille,Trude,Ulrike,\n"
+"\t\tUrsula,Ute,Walpurga,Wilhelmina,Winfrida,Wulfhilde"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:180
+msgid ""
+"Appius,Aulus,Caelus,Decimus,Decius,Drusus,Faustus,Gaius,Gnaeus,Lucius,Mamercus,Manius,Marcus,Mettius,Numerius,Publius,Quintus,Secundus,Septimus,\n"
+"\t\t\tServius,Sextus,Spurius,Tertius,Titus,Tiberius,Titus,Albinus,Albus,Agricola,Agrippa,Aratus,Asina,Auspex,Balbus,Barbatus,Bibulus,Brutus,Bubo,Buteo,\n"
+"\t\t\tCaesar,Calvus,Calvinus,Cato,Catulus,Cethegus,Cicero,Cinna,Cotta,Crispian,Curio,Dama,Damasus,Dentatus,Dives,Dolabella,Donatus,Draco,Emeritus,Eugenius,\n"
+"\t\t\tEuphemius,Falco,Falx,Felix,Fimbria,Flaccus,Florus,Fronto,Gala,Galerus,Gemellus,Gorgonius,Gracchus,Gracilis,Habitus,Herma,Hilarius,Horatius,Ignatius,\n"
+"\t\t\tIuba,Labeo,Laenas,Lepidus,Leptis,Lentulus,Libo,Longinus,Longus,Lucan,Lucullus,Lupius,Macro,Martialis,Marullus,Maximus,Memmius,Mercator,Messalla,\n"
+"\t\t\tMontanus,Murena,Mus,Nasica,Oceanus,Octavianus,Opis,Optatus,Otho,Paenula,Pantera,Pavo,Peregrinus,Pertinax,Petronax,Pictor,Pilatus,Polus,Prisca,Primus,\n"
+"\t\t\tProcyon,Pulcher,Quarto,Quiricus,Regillus,Remus,Romanus,Romulus,Rufus,Ruso,Sabinus,Salinator,Scaevola,Scipio,Scrofa,Seneca,Senna,Severus,Sorex,Statius,\n"
+"\t\t\tStrabo,Super,Superbus,Tacitus,Tertulus,Trebonius,Tibullus,Tullius,Ursinus,Ursus,Valens,Varro,Varus,Vergilius,Viator,Victor,Vindex,Virilis,Vitalis,\n"
+"\t\t\tVitus,Zeno,Zoilus,Zosimus,\n"
+"\t\t\tAbbondio,Abelardo,Abelino,Achille,Adalberto,Adelfo,Adelmio,Adelmo,Agapito,Agostino,Alamanno,Alarico,Adriano,Albano,Alberico,Alberto,Albino,Alcide,Aldobrandino,\n"
+"\t\t\tAleardo,Aleramo,Alessandro,Alessio,Alvise,Ambrogio,Amedeo,Anastasio,Andrea,Angelo,Anselmo,Antonino,Antonio,Antoniotto,Arcibaldo,Arderico,Armando,Arnolfo,Arsenio,\n"
+"\t\t\tArtemio,Ascanio,Astorre,Arrigo,Annibale,Atenolfo,Attilio,Augusto,Aurelio,Ausilio,Averado,Azzone,Baldassarre,Bartolomeo,Basilio,Bassiano,Baldovino,Battista,\n"
+"\t\t\tBeltrano,Benedetto,Benvenuto,Berardo,Bernardo,Bertoldo,Biagio,Bonaventura,Bonifacio,Bruno,Buonconte,Callisto,Camillo,Candido,Cangrande,Cassio,Castore,Cataldo,\n"
+"\t\t\tChiaffredo,Claudio,Clemente,Costanzo,Cesare,Cornelio,Corradino,Corrado,Cosma,Costante,Costantino,Cristoforo,Damiano,Demetrio,Dioniso,Durante,Edoardo,Elio,\n"
+"\t\t\tEmmanuele,Enrico,Enzio,Ermenegildo,Ettore,Eugenio,Ezio,Ezzelino,Fabrizio,Fausto,Federigo,Felice,Ferdinando,Ferruccio,Filippo,Fiorello,Flavio,Fortunato,Francesco,\n"
+"\t\t\tGabriele,Gabrino,Gaetano,Galasso,Galeazzo,Gaspare,Gastone,Gelasio,Geraldo,Gerardo,Germano,Gherardo,Giacinto,Giacomo,Gianfranco,Gianleone,Gilberto,Giordano,\n"
+"\t\t\tGiorgio,Giovanni,Goffredo,Gregorio,Gualtiero,Guarnito,Guerrino,Guglielmo,Guigliadore,Innocenzo,Ippolito,Isnardo,Lamberto,Landolfo,Lanfranco,Lazzaro,Landone,\n"
+"\t\t\tLealdo,Leonardo,Leone,Leonello,Leopoldo,Lionello,Livio,Lodovico,Lorenzo,Luca,Lucio,Malacresta,Manfredo,Marco,Mariano,Marsiglio,Mastino,Merigo,Michelangelo,\n"
+"\t\t\tNestore,Nicola,Nolfo,Oberto,Obizzino,Obizzo,Oddone,Onorio,Oreste,Orlando,Ottavio,Ottobono,Ottone,Pagano,Pancrazio,Paolo,Pasquale,Patrizio,Pellegrino,Pericle,\n"
+"\t\t\tPietro,Prospero,Rafaello,Raimondo,Ranerio,Riccardo,Rinaldo,Rizzardo,Roberto,Rodolfo,Rolando,Rosso,Ruggiero,Salinguerra,Salvatore,Salvestro,Sancho,Saverio,\n"
+"\t\t\tSciarra,Sebastiano,Serafino,Sergio,Settimio,Severino,Severo,Silvano,Silvestro,Simonetto,Sinibaldo,Sinucello,Spinetto,Stefano,Tedaldo,Tedice,Teodoro,Tibaldo,\n"
+"\t\t\tTiziano,Tommaso"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:205
+msgid ""
+"Athrandor,Alrik,Alaric,Alrim,Aruf,Agnar,Algar,Angantyr,Asgrim,Arngrim,Athgar,Ainin,Algrimir,Agmar,Alrin,Arngrim,Auhrik,Athnir,Athgar,Athran,Aletheum,Athbor,\n"
+"\tAlgrond,Argrek,Azlak,Buurf,Balkag,Brokk,Belegar,Belegol,Borgin,Borm,Brond,Bradni,Brogar,Barin,Burlok,Barik,Beleragond,Byrrnoth,Barak,Baragor,Bardin,Bradni,Bjarmi,Boran,Branak,\n"
+"\tBarundin,Bazrak,Brugual,Barthrekki,Brynak,Burli,Byor,Baldin,Balnir,Borgor,Brani,Bor,Ballan,Balagil,Barakor,Baldin,Balgan,Brimbor,Bolgun,Belkok,Brodhor,Byor,Bari,Dolgr,Bodor,\n"
+"\tBragni,Bogni,Berdok,Bokrin,Baragan,Burfin,Brudig,Burinn,Barrurm,Baradin,Burdrakk,Bedrid,Cranneg,Dronglik,Dwalin,Damin,Drong,Drongli,Dwalik,Duregar,Dern,Durgrim,Durin,Drumin,\n"
+"\tDimrond,Dimzad,Daled,Durgin,Drokk,Dertrain,Daled,Drakki,Darbli,Dorin,Dargo,Durmak,Drang,Drong,Durzak,Durak,Durgin,Dwinbar,Dagmar,Dorag,Dormar,Dorn,Durbar,Durifer,Dolgr,Dovvet,\n"
+"\tDurlin,Danrun,Dodrum,Durlin,Drokki,Darent,Dovvent,Drongvor,Duregar,Dorrin,Durgan,Drugni,Dunden,Dundin,Dagren,Duric,Elgrom,Elgroth,Eldarig,Eisenbjorn,Elgroth,Eldarig,Furagrum,\n"
+"\tFurtan,Furgil,Fudrin,Finn,Firgil,fenni,Fimbur,Finn,Fungg,Fondar,Falco,Fech,Ferh,Finbar,Fijar,Framm,Fraunk,Fumok,Fimarin,Furen,fin,Furakrag,Furd,Fimki,Furmir,Furakrag,Finarin,\n"
+"\tFurmir,Firengul,Faramin,Farlin,Farnir,Fengast,Fredi,Goddi,Gomrund,Gadrin,Gorazin,Gorim,Gorm,Gottri,Gimnir,Golendhil,Garil,Grumdin,Grimbul,Garaith,Gudrum,Gorrin,Gudii,Gorgi,\n"
+"\tGroth,Grindol,Grom,Grond,Groth,Grum,Gumli,Grundi,Grung,Guttri,Gotrek,Grodrik,Gorri,Gadrin,Gumli,Godrik,Gorri,Grimbul,Garagrim,Gorazin,Grimni,Grimbeard,Godir,Grombrindal,Grim,\n"
+"\tGrimli,Gimlin,Grongi,Grondik,Grumbar,Grumhilde,Grom,Gemmund,Geirrod,Gerar,Gloier,Gofnyr,Gorwinay,Gothrom,Grennel,Gruff,Grimsiad,Grummore,Grummer,Guirod,Gulnyr,Guthorm,Gymir,\n"
+"\tGrimgor,Gantor,Golgin,Grundi,Gronfin,Grimgor,Grumir,Grendel,Grumdnir,Gargrim,Gunnolf,Gantor,Gav,Grogrim,Grodun,Glod,Grulfdok,Gavrii,Grogrund,Grodi,Gobrik,Grunak,Galin,Hegakin,\n"
+"\tHargrim,Haakon,Harek,Hugnir,Hurgar,Hargin,Harok,Hegandor,Helgar,Hergard,Hadrin,Haki,Helgandor,Hrolf,Hodrik,Hrund,Hadig,Horik,Hargan,Haldrin,Halus,Hordrin,Hlom,Hegadrin,Hanri,\n"
+"\tHarkum,Halma,Henkist,Hallar,Hurl,Kragdin,Korgan,Krorag,Karmir,Kazran,Kazador,Kazadar,Kazgar,Kazran,Kadri,Kazrik,Kettri,Krudd,Kurgaz,Kadrin,Kallon,Kurgan,Kargun,Kraggi,Kadrik,\n"
+"\tKatalin,kragg,Ketil,Khargrim,Kranden,Kogyr,Kord,Krelar,Korrig,Krogan,Klorn,Karon,Kazgin,Karmin,Karrasteel,Kromil,Kazgrim,Kagrella,Kurgrin,Kazrik,Kalgar,Kreln,Kurdat,Killan,\n"
+"\tLogamir,Largs,Lunn,Lokri,Logan,Logazor,Lothan,Laergi,Laskji,Ligri,Long,Lorak,Lorgrund,Lunkin,Loklun,Lungni,Molatok,Morgund,Morekai,Morgrim,Mendri,Morek,Mordin,Morek,Mjarli,\n"
+"\tMalakai,Macsen,Magnus,Magnyr,Mundri,Malgrim,Morradok,Morden,Morn,Mugni,Malrik,Norri,Nordok,Norgrim,Nyrn,Nordin,Noranrik,Nyrn,Notrok,Orgri,Oldor,Ogmi,Otar,Olfgrond,Othralum,\n"
+"\tOlfgrom,Odarik,Othralun,Olin,Oleg,Ogrin,Quanzar,Rorantok,Rorek,Roran,Ragni,Rungni,Rogni,Rogri,Ruggi,Rorin,Rafi,Rogrum,Rordin,Ralf,Rogrin,Rogrum,Rori,Rudrin,Razek,Rinnik,Fundrin,\n"
+"\tSkalf,Sven,Skag,Skalli,Sundrim,Skorri,Snaddri,Snorri,Stromni,Storri,Smakki,Sigrid,Svengar,Skaldar,Skaldor,Skeggi,Skobi,Sveltbar,Sigrum,Skalladrin,Stugni,Stromrik,Stugni,Skolm,\n"
+"\tStromrik,Stugni,Skoragrin,Skaff,Svengi,Snarlin,Thorgin,Thangrim,Torvald,Tyr,Thorgard,Thorgrim,Thingrim,Tori,Thrund,Thungni,Thrugrom,Thurgrum,Thyk,Thorek,Thorri,Thialfi,Toldalf,\n"
+"\tTordek,Tolkgrim,Tingrom,Tharik,Thoragrim,Thorgil,Thargrim,Thrungon,Tingrom,Thurn,Thormir,Tolkgrim,Thar,Thartrok,Thagor,Thorki,Thengeln,Thordrik,Thorek,Ulther,Ungrim,Ulfar,Ungi,\n"
+"\tUlgrim,Valek,Valkan,Volgrim,Vikram,Vragni,Vardoc,Van,Veor,Verlad,Vorgrim,Volgrig,Vel,Varnir,Varganson,Wulfram,Walgrim,Woller,Xorax,Yanni,Yadri,Yorri,Yotis,Yter,Yalgon,Zarado,\n"
+"\tZamnil,Zamnit,Zarnir,Zamgrund,Zaralin,Zaki,Zakakin,Zorin,Zar"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:230
+msgid ""
+"Aatos,Ahma,Aimo,Armas,Arvo,Asikko,Ensio,Haapa,Hannu,Havu,Hintsa,Ihanti,Into,Jalo,Jurva,Kaleva,Kalevi,Kettu,Kolli,Lalli,Lauri_Laurence,Lemetti,Mielitty,Miemo,\n"
+"\tMikko,Oiva,Onni,Otso,Pyry,Päiviö,Pentti,Reko,Sampo,Satajalka,Satatieto,Seppo,Susi,Tapani,Terho,Toivo,Ukko,Uoti,Urho,Väinö,Valta,Valto,Veli,Vesa,Voitto,Erkki,Kaarle,Johannes,\n"
+"\tRisto,Olavi,Petri,Henri,Yrjö,Valteri,Riku,Matti,Jaakoppi,Taisto,Paavo,Aatso,Ahvo,Aarto,Asko,Tuokko,Rieti,Kauro,Kuuti,Pekko,Soini,Tuure,Turo,Tommo,Tohmas"
+msgstr ""
+
+#: .\units\AoA_units\names.cfg:234
+msgid ""
+"Aamu,Aino,Hellä,Helmi,Ilta,Kaarina,Käpy,Kielo,Kukka,Lauha,Lempi,Mahla,Maija,Marja,Mesi,Metta,Päivä,Päivi,Pihla,Pilvi,Rauha,Sisko,Suoma,Taimi,Terhi,Titti,Tuija,\n"
+"\tTuovi,Tuuli,Tuulikki,Tyyne,Tyyni,Vanamo,Venla,Mielikki,Hertta,Loviisa,Inkeri,Ilmatar,Irene,Ilona,Kristiina,Elisabet,Sohvi,Auni,Liekko,Kivutar,Lemmikki,Lyylikki,Salme,Talvikki,\n"
+"\tTuulitar"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Apostate, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Apostate.cfg:3
+msgid "Apostate"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Apostate, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Apostate.cfg:18
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"The winged monsters known as Apostates were once clergymen totally devote to "
+"Light who, for some reason, have refused their beliefs. Corrupted by the Dark"
+" Gods, these men have became cruel and bloodthirsty demons who are totally "
+"devote to Ba'al."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\BEEM_units\anakes\Apostate.cfg:39
+#: .\units\BEEM_units\anakes\Heretic.cfg:33
+msgid "cursed battleaxe"
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#: .\units\BEEM_units\anakes\Apostate.cfg:52
+#: .\units\BEEM_units\anakes\Heretic.cfg:46
+msgid "fimbulwinter"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Archdaemon, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Archdaemon.cfg:3
+msgid "Archdaemon"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Archdaemon, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Archdaemon.cfg:18
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"In the Anakes society, an Archdaemon is the governor of an infernal kingdom "
+"and have been blessed by the touch of Ba'al the Crimson himself. Archdaemons "
+"are masters in the use of the scythe and expert magicians. An Archdaemon "
+"leaves his kingdom only to lead a great army in an important campaign."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\BEEM_units\anakes\Archdaemon.cfg:86
+#: .\units\BEEM_units\anakes\Daemon.cfg:80
+msgid "cursed scythe"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\BEEM_units\anakes\Archdaemon.cfg:100
+#: .\units\BEEM_units\anakes\Daemon.cfg:94
+msgid "firestorm"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Cursed, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Cursed.cfg:3
+msgid "Cursed"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Cursed, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Cursed.cfg:17
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"The demons known as Cursed are spawned by souls of men killed with cursed "
+"weapons by a demon. Cursed are weak and can hardly use swords to defend "
+"themselves, so they are the least important soldiers in the Crimson Legion "
+"and are usually placed in the first line and used to weaken the enemies."
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Daemon, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Daemon.cfg:3
+msgid "Daemon"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Daemon, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Daemon.cfg:17
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"Daemons are nobles in the Anakes society and officers of the Crimson Legion. "
+"In the demoniacal society, nobility coincides with the favour of the Dark "
+"Gods, so the aristocrats are deadlier than common demons. Daemons wield "
+"scythes, the traditional weapon of the demoniacal nobility, and they also "
+"have magical powers which allow them to use flames against their enemies."
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Damned, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Damned.cfg:3
+msgid "Damned"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Damned, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Damned.cfg:17
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"A Damned come into the world when a soul is corrupted by the Dark Gods and "
+"become totally devote to Ba'al. Damned are the staple of the Crimson Legion "
+"and in all these demons flow the power of the Dark Gods, which give them "
+"unnatural strength and allow them to summon small fireballs."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\BEEM_units\anakes\Damned.cfg:29
+msgid "cursed scimitar"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Dark_Prophet, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Dark_Prophet.cfg:3
+msgid "Dark Prophet"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Dark_Prophet, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Dark_Prophet.cfg:18
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"The Dark Gods sometimes choose a demon to impersonate their will, inspire "
+"other demons and corrupt men. These Dark Prophets have terrible powers which "
+"allow them to drain health with their touch and to work false miracles."
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\BEEM_units\anakes\Dark_Prophet.cfg:49
+#: .\units\BEEM_units\anakes\Hierophant.cfg:44
+msgid "dark storm"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Devil, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Devil.cfg:3
+msgid "Devil"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Devil, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Devil.cfg:17
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"The strongest and fastest Imps receive heavier armors and deadly swords "
+"created with the flames of the hellish kingdoms of the Anakes. These demons, "
+"known as Devils, move rapidly on battlefield, attack infantrymen who have "
+"broken formation and suddenly retreat when great groups of enemies arrive."
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Fiend, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Fiend.cfg:3
+msgid "Fiend"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Fiend, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Fiend.cfg:18
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"Fiends are strong and brave demons well-known for their cruelty; they are "
+"often instructed to protect the commanders of the Crimson Legion or the Dark "
+"Prophets. Fiends are veteran soldiers who wear heavy armors and wield flaming"
+" swords."
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Heretic, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Heretic.cfg:3
+msgid "Heretic"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Heretic, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Heretic.cfg:17
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"During their life as humans, Heretics had been well-known misbelievers who "
+"tried to take away people from their traditional beliefs. Heretics serve the "
+"Dark Gods with unnatural loyalty and fanaticism, due to the brainwashing they"
+" had undergone becoming demons."
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Heterodox, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Heterodox.cfg:3
+msgid "Heterodox"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Heterodox, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Heterodox.cfg:17
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"Heterodox are demons created with the soul of men who in life had been great "
+"misbelievers and have been corrupted by demons. Heterodox are feared for "
+"their cruelty, their physical strength and their magical powers, which allow "
+"them to use ice spell against their enemies."
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#: .\units\BEEM_units\anakes\Heterodox.cfg:46
+msgid "iceball"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Hierophant, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Hierophant.cfg:3
+msgid "Hierophant"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Hierophant, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Hierophant.cfg:17
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"Some Initiates who show uncommon charisma and devotion to the Dark Gods "
+"become Hierophants of Ba'al. Hierophants are instructed to spread the cult of"
+" the Dark Gods and provide souls in order to create new soldiers for the "
+"Crimson Legion. A Hierophant doesn't seek for knowledge, so his magical "
+"powers aren't as great as the ones of a Spellcaster, but he can heal his "
+"allies."
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\BEEM_units\anakes\Hierophant.cfg:34
+msgid "dark staff"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Imp, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Imp.cfg:3
+msgid "Imp"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Imp, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Imp.cfg:17
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"Imps are small winged demons who are used as explorers by the commanders of "
+"the Crimson Legion. Imps don't represent a danger for a well-trained soldier,"
+" so they are  usually considered sacrificable pawns by their superiors."
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Initiate, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Initiate.cfg:3
+msgid "Initiate"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Initiate, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Initiate.cfg:17
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"Some demons shows an uncommon propensity to magic and an instinctive "
+"comprehension of how to cast spells. These demons receive a special training "
+"which allow them to use black magic to fight their enemies or cure their "
+"allies. Even though these demons have just begun to explore the secrets of "
+"black magic, they can be dangerous foes."
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\BEEM_units\anakes\Initiate.cfg:46
+msgid "dark burst"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Leech_Dragoon, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Leech_dragoon.cfg:3
+msgid "Leech Dragoon"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Leech_Dragoon, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Leech_dragoon.cfg:18
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+" Leech Dragoons are chosen among the best Leech Knights, they undergo a "
+"specific training, wear heavy armors and wield flaming swords. Leech Dragoons"
+" are well-known for their bravery and their cruelty on the battlefield."
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Leech_Knight, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Leech_knight.cfg:3
+msgid "Leech Knight"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Leech_Knight, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Leech_knight.cfg:17
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"Demons who manage to ride Brain Drainers achieve the rank of Leech Knight. "
+"Brain Drainers are stronger than horses and can wound with their bite, so "
+"Leech Knights are deadlier than human knights."
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Leech_Rider, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Leech_rider.cfg:3
+msgid "Leech Rider"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Leech_Rider, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Leech_rider.cfg:17
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"One of the most fearful kind of monster known is the Giant Leech, an enormous"
+" worm-like monster that can drain away health from its victims. The Anakes "
+"managed to control Giant Leeches and use them as mount. Leech Riders are "
+"magically bounded with their mount so the health drained by the Giant Leech "
+"heal also the demon."
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Massacrer, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Massacrer.cfg:3
+msgid "Massacrer"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Massacrer, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Massacrer.cfg:18
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"A Slaughterer who had demonstrated uncommon bravery and strength to the Dark "
+"Gods become deadlier and more powerful, his body undergo other mutations and "
+"he become a perfect fighting machine that can be stopped only by his lord."
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Sharp_Eye, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Sharp_Eye.cfg:3
+msgid "Sharp Eye"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Sharp_Eye, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Sharp_Eye.cfg:18
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"Some demons show a natural propensity to archery and are more precise and "
+"dangerous than common Snipers. These demons use greater and deadlier bows and"
+" attack light infantrymen who have broken formation."
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\BEEM_units\anakes\Sharp_Eye.cfg:51
+#: .\units\BEEM_units\anakes\Sniper.cfg:52
+#: .\units\BEEM_units\anakes\Terrorbow.cfg:56
+msgid "dark arrow"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Slaughterer, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Slaughterer.cfg:3
+msgid "Slaughterer"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Slaughterer, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Slaughterer.cfg:17
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"Some Damned receive great powers by the Dark Gods, they grow bigger and "
+"stronger than common demons and their body undergo horrible mutations, but "
+"they lose all their magical powers. These fearful warriors are called "
+"Slaughterers because they fight with an unnatural bloodlust and kill every "
+"enemy who get in their path."
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Sniper, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Sniper.cfg:3
+msgid "Sniper"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Sniper, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Sniper.cfg:18
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"The Anakes are not keen on using bows, which are considered weapons used by "
+"cowards, but some of the physically weaker demons choose to be trained at "
+"archery to become a Sniper. Snipers try to avoid melee fight and use poison "
+"to weaken their enemies. Snipers have also magical powers that allow them to "
+"enchant their darts."
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Spellcaster, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Spellcaster.cfg:3
+msgid "Spellcaster"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Spellcaster, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Spellcaster.cfg:17
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"Initiates who spent years studying black magic achieve great powers and an "
+"higher rank in the Crimson Legion. These powerful mages are known as "
+"Spellcasters and are feared because of their mastery of magic and their "
+"cruelty on the battlefield. Spellcasters use powerful black magic based on "
+"darkness, but they abandon the studies on healing magic, so they cannot cure "
+"their allies."
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\BEEM_units\anakes\Spellcaster.cfg:30
+#: .\units\BEEM_units\anakes\Wizard.cfg:33
+msgid "cursed staff"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\BEEM_units\anakes\Spellcaster.cfg:44
+#: .\units\BEEM_units\anakes\Wizard.cfg:46
+msgid "dark meteor"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Stormbringer, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Stormbringer.cfg:3
+msgid "Stormbringer"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Stormbringer, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Stormbringer.cfg:17
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"Some Imps who have demonstrated great loyalty and strength receive magical "
+"powers by the Dark Gods, which allow them to create storms and use it to "
+"defeat their enemies. These demons are called Stormbringers because of their "
+"powers and usually are instructed to break the enemies' formation using "
+"bolts."
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Terrorbow, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Terrorbow.cfg:3
+msgid "Terrorbow"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Terrorbow, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Terrorbow.cfg:19
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"A few demons manage to become masters of archery, but those demons are as "
+"deadly as the best elvish archers. The best demoniacal archers are called "
+"Terrorbows because of their great bows made up with the bones of their "
+"enemies. It's hard to see a Terrorbow on the battlefield, because they hide "
+"and shoot at their enemies from a safe place."
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Wizard, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Wizard.cfg:3
+msgid "Wizard"
+msgstr ""
+
+#. [unit_type], id=AE_bem_anakes_Wizard, race=AE_bem_anakes_race
+#: .\units\BEEM_units\anakes\Wizard.cfg:18
+msgid ""
+"This unit is from BEEM. Its coding and art were done by Voodoo, Baro_st, "
+"Tydeus, Dibs, and various others.\n"
+" \n"
+"Even if they have centuries to study black magic, only a few demon achieve "
+"the rank of Wizard in the Crimson Legion, so these extremely powerful mages "
+"are almost a legend among the Anakes. Wizards know every secret of black "
+"magic and are usually governors of a county or a dukedom or counsellors of  "
+"an Arch-daemon."
+msgstr ""
+
+#. [unit_type], id=AE_ext_outlaws_Brigand, race=human
+#: .\units\EE_units\outlaws\c1-Brigand.cfg:3
+msgid "Brigand"
+msgstr ""
+
+#. [unit_type], id=AE_ext_outlaws_Brigand, race=human
+#: .\units\EE_units\outlaws\c1-Brigand.cfg:16
+msgid ""
+"Mounted and wielding wicked-looking sickles, brigands left behind the farming"
+" life to stalk Wesnoth's lonely backroads in small bands, robbing travelers. "
+"They also carry crude crossbows but are not very skilled with them."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\EE_units\outlaws\c1-Brigand.cfg:28
+msgid "sickle"
+msgstr ""
+
+#. [unit_type], id=Young Ogre
+#: .\units\EE_units\outlaws\d1-Young_Ogre.cfg:7
+msgid ""
+"When still young, Ogres are sometimes captured and taken into armies to be "
+"trained. They cannot manage weapons skillfully, but they compensate for that "
+"lack with great strength."
+msgstr ""
+
+#. [unit_type], id=Ogre
+#: .\units\EE_units\outlaws\d2-Ogre.cfg:8
+msgid ""
+"Ogres are giant creatures that usually live alone in the wilderness, "
+"remarkably similar to humans in form, though large and misshapen. While they "
+"can be easily outrun or outsmarted, their strength is not to be "
+"underestimated."
+msgstr ""
+
+#. [unit_type], id=Skeleton
+#. [unit_type], id=Dark Adept
+#. [unit_type], id=Dark Sorcerer
+#. [unit_type], id=Lich
+#: .\units\EE_units\undead\a1-Skeleton.cfg:10
+#: .\units\EE_units\undead\b1-Dark_Adept.cfg:10
+#: .\units\EE_units\undead\b2-Dark_Sorcerer.cfg:10
+#: .\units\EE_units\undead\b3-Lich.cfg:11
+msgid ""
+"This unit is from Extended Era. Its coding and art were done by the Various "
+"people who created Extended Era."
+msgstr ""
+
+#. [unit_type], id=AE_efm_freemen_Roc, race=monster
+#: .\units\EFM_units\Freemen\f1_Roc.cfg:3
+msgid "Roc"
+msgstr ""
+
+#. [unit_type], id=AE_efm_freemen_Roc, race=monster
+#: .\units\EFM_units\Freemen\f1_Roc.cfg:16
+msgid ""
+"The mighty birds of the desert are large enough to eat horses and cattle. "
+"They are not many in number and they do not fly quickly but the simple "
+"majesty of them is wondrous to behold. A few particularly brave aristocrats "
+"have managed to tame them as mounts but the upkeep of such a creature is "
+"elephantine and as such it is very rare to see more than one per city."
+msgstr ""
+
+#. [unit_type], id=AE_efm_freemen_Great_Roc, race=monster
+#: .\units\EFM_units\Freemen\f2_GreatRoc.cfg:3
+msgid "Great Roc"
+msgstr ""
+
+#. [unit_type], id=AE_efm_freemen_Great_Roc, race=monster
+#: .\units\EFM_units\Freemen\f2_GreatRoc.cfg:17
+msgid ""
+"Most rocs are enormous by the standards of any bird but in truth most can "
+"grow bigger if regularly supplied with food. Their style of hunting is "
+"unlikely to allow for such a supply but if the roc is being fed by a wealthy "
+"human or has had opportunity to grow fat on the carcasses of battle one might"
+" encounter a bird large enough to lift a cow off the ground without "
+"difficulty."
+msgstr ""
+
+#. [race], id=AE_chs_elvish_spirits
+#: .\units\EoC_units\elves-wood.cfg:5
+msgid "race^Elvish Spirit"
+msgstr ""
+
+#. [race], id=AE_chs_elvish_spirits
+#: .\units\EoC_units\elves-wood.cfg:6
+msgid "race+female^Elvish Spirit"
+msgstr ""
+
+#. [race], id=AE_chs_elvish_spirits
+#: .\units\EoC_units\elves-wood.cfg:7
+msgid "race^Elvish Spirits"
+msgstr ""
+
+#. [race], id=AE_chs_elvish_spirits
+#: .\units\EoC_units\elves-wood.cfg:8
+msgid ""
+"Many mighty elven warriors of ancient have died in such a way that their "
+"desire of fighting for a last time is not fulfilled. Thus, their souls cannot"
+" rest in peace forever, and seek to return to this world for getting their "
+"thirst quenched with a last glorious confrontation.\n"
+"\n"
+"However, they usually cannot do so without help of necromancy. Since elves "
+"have always been opposed to allowing necromancy and their practitioners "
+"amongst their people, their ancestors have not had the opportunity to return "
+"to assist their kind, till now."
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Amniote, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\amniote.cfg:3
+msgid "Steel Amniote"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Amniote, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\amniote.cfg:12
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+"\n"
+"These things are so useless. 4 squares of movement per turn on any terrain "
+"and 40% defense on any terrain. They can't even attack. At least they have a "
+"lot of health and can be used as ZOC dummies.\n"
+"\n"
+"At least, they require minor maintenances..."
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\misc_units\steelhive\amniote.cfg:56
+#: .\units\misc_units\steelhive\choriote.cfg:59
+#: .\units\misc_units\steelhive\cybercone.cfg:29
+#: .\units\misc_units\steelhive\cybercore.cfg:37
+#: .\units\misc_units\steelhive\sentient.cfg:36
+msgid "collide"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Bladewhirler, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\bladewhirler.cfg:3
+msgid "Steel Bladewhirler"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Bladewhirler, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\bladewhirler.cfg:12
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+"\n"
+"Some Slashers, instead of developing two limbs, develop a multitude of limbs "
+"in an erratic fashion. While the Steelhive is at a loss to explain these "
+"anomalies, that does nothing to prevent them from sending these mutant drones"
+" into combat anyways. The robots themselves are quite powerful, combining "
+"Swarm and Berserker abilities. While extremely powerful at the beginning of "
+"combat, its power gradually lowers as the battle continues and its limbs are "
+"removed, one by one, until it is no longer able to fight and is easy to "
+"destroy."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\misc_units\steelhive\bladewhirler.cfg:41
+msgid "bladewhirl"
+msgstr ""
+
+#. [attack], type=pierce, range=melee
+#: .\units\misc_units\steelhive\bladewhirler.cfg:78
+#: .\units\misc_units\steelhive\empress.cfg:35
+#: .\units\misc_units\steelhive\queen.cfg:34
+#: .\units\misc_units\steelhive\slasher.cfg:63
+#: .\units\misc_units\steelhive\vector.cfg:63
+#: .\units\misc_units\steelhive\vorpal.cfg:66
+msgid "stab"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Boltstriker, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\boltstriker.cfg:3
+msgid "Steel Boltstriker"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Boltstriker, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\boltstriker.cfg:12
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+"\n"
+"The strongest Sparkgazers are augmented by the Hivequeen with more orbiting "
+"blades and electricity generators to augment both their slashing and "
+"electrical assaults."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\misc_units\steelhive\boltstriker.cfg:31
+msgid "raze whirl"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\misc_units\steelhive\boltstriker.cfg:95
+msgid "boltstrike"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Choriote, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\choriote.cfg:3
+msgid "Steel Choriote"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Choriote, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\choriote.cfg:19
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath (modified slightly by Trans).\n"
+" \n"
+"The Choriote has gained stronger defenses- 50% defense on all terrain. \n"
+"She now can learn, leech energy from enemies while healing surrounding "
+"allies."
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\misc_units\steelhive\choriote.cfg:69
+#: .\units\misc_units\steelhive\cybercore.cfg:51
+msgid "battery pulse"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Cybercone, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\cybercone.cfg:3
+msgid "Steel Cybercone"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Cybercone, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\cybercone.cfg:11
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+"\n"
+"These units have no combat moves, period. While this makes them seem useless,"
+" they are actually nodes in which an extensive matrix of information travels."
+" As such, they are responsible for broadcasting commands, making them roughly"
+" equivalent to a unit with Leadership. They are almost always protected by a "
+"phalanx of drones and are not easy to target. This unit upgrades to a Steel "
+"Cybercore if it can survive one battle, gaining 1 XP."
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Cybercore, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\cybercore.cfg:3
+msgid "Steel Cybercore"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Cybercore, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\cybercore.cfg:19
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+"\n"
+"When a Cybercone feels that it is threatened by a nearby enemy, it deploys "
+"into Core mode. The Core can, like the Steel Choriote, use a Battery Pulse to"
+" damage enemies and steal their energy. Its leadership trait is not affected "
+"by this change, though, making an attempt to destroy a Cybercone a dangerous "
+"proposition."
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Drone, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\drone.cfg:3
+msgid "Steel Drone"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Drone, race=AE_agl_steelhive, gender=female
+#. [unit_type], id=AE_agl_steelhive_Recon, race=AE_agl_steelhive, gender=female
+#. [unit_type], id=AE_agl_steelhive_Repairer, race=AE_agl_steelhive, gender=female
+#. [unit_type], id=AE_agl_steelhive_Scout, race=AE_agl_steelhive, gender=female
+#. [unit_type], id=AE_agl_steelhive_Welder, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\drone.cfg:11
+#: .\units\misc_units\steelhive\recon.cfg:12
+#: .\units\misc_units\steelhive\repairer.cfg:12
+#: .\units\misc_units\steelhive\scout.cfg:11
+#: .\units\misc_units\steelhive\welder.cfg:11
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+" \n"
+"Oddly, not much is known about this unit."
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\misc_units\steelhive\drone.cfg:33
+#: .\units\misc_units\steelhive\repairer.cfg:42
+msgid "beam"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Hive_Empress, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\empress.cfg:3
+msgid "Steel Hive Empress"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Hive_Empress, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\empress.cfg:12
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+"\n"
+"The greatest hivequeens become acclaimed as an empress of the Steelhive."
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\misc_units\steelhive\empress.cfg:103
+#: .\units\misc_units\steelhive\larva.cfg:29
+#: .\units\misc_units\steelhive\nymph.cfg:63
+#: .\units\misc_units\steelhive\oculus.cfg:90
+#: .\units\misc_units\steelhive\queen.cfg:68
+#: .\units\misc_units\steelhive\syren.cfg:69
+msgid "jolt"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Fideliant, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\fideliant.cfg:3
+msgid "Steel Fideliant"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Fideliant, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\fideliant.cfg:12
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+" \n"
+"Not as strong as Steel Vorpal in a 1vs1 duel, but once it desides to trample "
+"an opponent it will do lethal damage to him, at the cost that fidelant "
+"exposes itself in positions in which it can be seriously damaged. It can also"
+" choose to impale its victim to, death being a much safer attack but not so "
+"deadly. The reflexes of this machine cause that even at close range it may "
+"first strike a man with a pike. Additionally, its aerodynamic shape and speed"
+" make it harder to directly hit using pierce weapons."
+msgstr ""
+
+#. [attack], type=pierce, range=melee
+#: .\units\misc_units\steelhive\fideliant.cfg:31
+msgid "impale"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Larva, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\larva.cfg:3
+msgid "Steel Larva"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Larva, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\larva.cfg:11
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+"\n"
+"This unassuming little robot may not even have much in the way of legs, but "
+"it is destined for great things. At this stage in its development, its more "
+"at home in water than on land."
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Nymph, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\nymph.cfg:3
+msgid "Steel Nymph"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Nymph, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\nymph.cfg:11
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+"\n"
+"The once-limbless larva soon develops primitive limbs. Be wary - soon it will"
+" leave the water and go forth on the land."
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\misc_units\steelhive\nymph.cfg:29
+#: .\units\misc_units\steelhive\syren.cfg:35
+msgid "slap"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Oculus, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\oculus.cfg:3
+msgid "Steel Oculus"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Oculus, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\oculus.cfg:11
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+"\n"
+"These units can both fire bolts of lightning at our troops and spin their "
+"orbiting blades around in a devastating combo strike. They are multi-purpose "
+"units and are able to fly over water whereas their landlocked brethren cannot"
+" for fear of shortcircuiting."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\misc_units\steelhive\oculus.cfg:30
+msgid "spin"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Hivequeen, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\queen.cfg:3
+msgid "Steel Hivequeen"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Hivequeen, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\queen.cfg:11
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+"\n"
+"Now fully mature, the hivequeen is able to lead her troops in battle."
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Recon, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\recon.cfg:3
+msgid "Steel Recon"
+msgstr ""
+
+#. [attack], type=fire, range=melee
+#: .\units\misc_units\steelhive\recon.cfg:35
+#: .\units\misc_units\steelhive\scout.cfg:34
+msgid "ionblade"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\misc_units\steelhive\recon.cfg:44
+#: .\units\misc_units\steelhive\recon.cfg:56
+#: .\units\misc_units\steelhive\scout.cfg:43
+msgid "ionbeam"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Repairer, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\repairer.cfg:3
+msgid "Steel Repairer"
+msgstr ""
+
+#. [attack], type=fire, range=melee
+#: .\units\misc_units\steelhive\repairer.cfg:32
+msgid "flamethrower"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Scout, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\scout.cfg:3
+msgid "Steel Scout"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Sentient, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\sentient.cfg:3
+msgid "Steel Sentient"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Sentient, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\sentient.cfg:10
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+"\n"
+"I think it's learning.... Look out!"
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#: .\units\misc_units\steelhive\sentient.cfg:60
+msgid "freeze"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Slasher, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\slasher.cfg:3
+msgid "Steel Slasher"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Slasher, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\slasher.cfg:11
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+" \n"
+"Your average run-of-the mill drone with slashing arms and glowing gems. Can "
+"be crushed with relatively little opposition."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\misc_units\steelhive\slasher.cfg:29
+msgid "slash"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Sparkgazer, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\sparkgazer.cfg:3
+msgid "Steel Sparkgazer"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Sparkgazer, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\sparkgazer.cfg:11
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+"\n"
+"Extremely powerful ranged units in the army, these units can shred through a "
+"regiment with their razor-sharp, electrified blades while blasting out "
+"thunderbolts through its eye to sear our army."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\misc_units\steelhive\sparkgazer.cfg:30
+msgid "chargespin"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\misc_units\steelhive\sparkgazer.cfg:95
+msgid "sparkgaze"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Syren, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\syren.cfg:3
+msgid "Steel Syren"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Syren, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\syren.cfg:11
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+"\n"
+"Some of the limbless-larva choices to not mature and in not being interested "
+"in commanding an hive."
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Vector, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\vector.cfg:3
+msgid "Steel Vector"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Vector, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\vector.cfg:11
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+" \n"
+"A bit stronger. Wait, he has arms now! Oh no! Oh well. A few archers will "
+"kill it quickly enough due to his lack of ranged attacks."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\misc_units\steelhive\vector.cfg:29
+msgid "vectorblade"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Vorpal, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\vorpal.cfg:3
+msgid "Steel Vorpal"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Vorpal, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\vorpal.cfg:12
+msgid ""
+"This unit is from the Steelhive faction. Its coding and art were done by "
+"Zerovirus and melinath.\n"
+" \n"
+"A lot stronger. Now with... Um... No change from the previous version in "
+"terms of design. Avoid at all costs. Do not attempt to confront head on due "
+"to highly possible lack of vital limbs and organs after battle. That and "
+"blood loss. Lots and lots of blood loss."
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\misc_units\steelhive\vorpal.cfg:32
+msgid "vorpalblade"
+msgstr ""
+
+#. [unit_type], id=AE_agl_steelhive_Welder, race=AE_agl_steelhive, gender=female
+#: .\units\misc_units\steelhive\welder.cfg:3
+msgid "Steel Welder"
+msgstr ""
+
+#. [attack], type=fire, range=melee
+#: .\units\misc_units\steelhive\welder.cfg:31
+msgid "weld"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Poltergeist, race=AE_yokai_poltergeist, gender=female
+#: .\units\misc_units\yokai\a1_Poltergeist.cfg:3
+msgid "Poltergeist"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Poltergeist, race=AE_yokai_poltergeist, gender=female
+#. [unit_type], id=AE_agl_yokai_Banshee, race=AE_yokai_poltergeist, gender=female
+#. [unit_type], id=AE_agl_yokai_Onryo, race=AE_yokai_poltergeist, gender=female
+#. [unit_type], id=AE_agl_yokai_Phantom, race=AE_yokai_poltergeist, gender=female
+#. [unit_type], id=AE_agl_yokai_Midnight_Banshee, race=AE_yokai_poltergeist, gender=female
+#. [unit_type], id=AE_agl_yokai_Phantom_Keeper, race=AE_yokai_poltergeist, gender=female
+#. [unit_type], id=AE_agl_yokai_Feyborn, race=AE_yokai_feyborn, gender=female
+#. [unit_type], id=AE_agl_yokai_Feyborn_Witch, race=AE_yokai_feyborn, gender=female
+#. [unit_type], id=AE_agl_yokai_Kitsune, race=AE_yokai_feyborn, gender=female
+#. [unit_type], id=AE_agl_yokai_Tengu, race=AE_yokai_feyborn, gender=female
+#. [unit_type], id=AE_agl_yokai_Daitengu, race=AE_yokai_feyborn, gender=female
+#. [unit_type], id=AE_agl_yokai_Nine_Tailed_Fox, race=AE_yokai_feyborn, gender=female
+#. [unit_type], id=AE_agl_yokai_Weaver_Matron, race=AE_yokai_obake, gender=female
+#. [unit_type], id=AE_agl_yokai_Weaver_Widow, race=AE_yokai_obake, gender=female
+#. [unit_type], id=AE_agl_yokai_Black_Widow, race=AE_yokai_obake, gender=female
+#. [unit_type], id=AE_agl_yokai_Weaver_Matriarch, race=AE_yokai_obake, gender=female
+#. [unit_type], id=AE_agl_yokai_Weaver_Empress, race=AE_yokai_obake, gender=female
+#. [unit_type], id=AE_agl_yokai_Lamia, race=AE_yokai_obake, gender=female
+#. [unit_type], id=AE_agl_yokai_Lamia_Warrior, race=AE_yokai_obake, gender=female
+#. [unit_type], id=AE_agl_yokai_Medusa, race=AE_yokai_obake, gender=female
+#. [unit_type], id=AE_agl_yokai_Medusa_Witch, race=AE_yokai_obake, gender=female
+#. [unit_type], id=AE_agl_yokai_Pixie, race=AE_yokai_obake, gender=female
+#. [unit_type], id=AE_agl_yokai_Faerie, race=AE_yokai_obake, gender=female
+#. [unit_type], id=AE_agl_yokai_Nixie, race=AE_yokai_obake, gender=female
+#. [unit_type], id=AE_agl_yokai_Enchanted_Faerie, race=AE_yokai_obake, gender=female
+#. [unit_type], id=AE_agl_yokai_Nix, race=AE_yokai_obake, gender=female
+#. [unit_type], id=AE_agl_yokai_Swarm_Spawn, race=AE_yokai_swarm, gender=female
+#. [unit_type], id=AE_agl_yokai_Rebel_Swarm, race=AE_yokai_swarm, gender=female
+#. [unit_type], id=AE_agl_yokai_Surgler_Swarm, race=AE_yokai_swarm, gender=female
+#. [unit_type], id=AE_agl_yokai_Killer_Swarm, race=AE_yokai_swarm, gender=female
+#. [unit_type], id=AE_agl_yokai_Moving_Fortress, race=AE_yokai_swarm, gender=female
+#. [unit_type], id=AE_agl_yokai_Spriggan, race=AE_yokai_plant, gender=female
+#. [unit_type], id=AE_agl_yokai_Greater_Spriggan, race=AE_yokai_plant, gender=female
+#. [unit_type], id=AE_agl_yokai_Majestic_Spriggan, race=AE_yokai_plant, gender=female
+#. [unit_type], id=AE_agl_yokai_Nymph, race=AE_yokai_plant, gender=female
+#. [unit_type], id=AE_agl_yokai_Kodama, race=AE_yokai_plant, gender=female
+#. [unit_type], id=AE_agl_yokai_Leshi, race=AE_yokai_plant, gender=female
+#. [unit_type], id=AE_agl_yokai_Elder_Kodama, race=AE_yokai_plant, gender=female
+#. [unit_type], id=AE_agl_yokai_Elder_Leshi, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\a1_Poltergeist.cfg:16
+#: .\units\misc_units\yokai\a2_Banshee.cfg:16
+#: .\units\misc_units\yokai\a2_Onryo.cfg:17
+#: .\units\misc_units\yokai\a2_Phantom.cfg:16
+#: .\units\misc_units\yokai\a3_Midnight_Banshee.cfg:19
+#: .\units\misc_units\yokai\a3_Phantom_Keeper.cfg:19
+#: .\units\misc_units\yokai\b1_Feyborn.cfg:17
+#: .\units\misc_units\yokai\b2_Feyborn_Witch.cfg:18
+#: .\units\misc_units\yokai\b2_Kitsune.cfg:17
+#: .\units\misc_units\yokai\b2_Tengu.cfg:17
+#: .\units\misc_units\yokai\b3_Daitengu.cfg:20
+#: .\units\misc_units\yokai\b3_Nine-Tailed_Fox.cfg:18
+#: .\units\misc_units\yokai\c1_Weaver_Matron.cfg:17
+#: .\units\misc_units\yokai\c1_Weaver_Widow.cfg:17
+#: .\units\misc_units\yokai\c2_Black_Widow.cfg:20
+#: .\units\misc_units\yokai\c2_Weaver_Matriarch.cfg:17
+#: .\units\misc_units\yokai\c3_Weaver_Empress.cfg:20
+#: .\units\misc_units\yokai\d1_Lamia.cfg:17
+#: .\units\misc_units\yokai\d2_Lamia_Warrior.cfg:18
+#: .\units\misc_units\yokai\d2_Medusa.cfg:17
+#: .\units\misc_units\yokai\d3_Medusa_Witch.cfg:18
+#: .\units\misc_units\yokai\e0_Pixie.cfg:17
+#: .\units\misc_units\yokai\e1_Faerie.cfg:17
+#: .\units\misc_units\yokai\e1_Nixie.cfg:17
+#: .\units\misc_units\yokai\e2_Enchnted_Faerie.cfg:20
+#: .\units\misc_units\yokai\e2_Nix.cfg:20
+#: .\units\misc_units\yokai\f0_Swarm_Spawn.cfg:16
+#: .\units\misc_units\yokai\f1_Rebel_Swarm.cfg:16
+#: .\units\misc_units\yokai\f1_Surgler_Swarm.cfg:16
+#: .\units\misc_units\yokai\f2_Killer_Swarm.cfg:19
+#: .\units\misc_units\yokai\f2_Moving_Fortress.cfg:18
+#: .\units\misc_units\yokai\g1_Spriggan.cfg:16
+#: .\units\misc_units\yokai\g2_Greater_Spriggan.cfg:16
+#: .\units\misc_units\yokai\g3_Majestic_Spriggan.cfg:19
+#: .\units\misc_units\yokai\h1_Nymph.cfg:16
+#: .\units\misc_units\yokai\h2_Kodama.cfg:16
+#: .\units\misc_units\yokai\h2_Leshi.cfg:17
+#: .\units\misc_units\yokai\h3_Elder_Kodama.cfg:19
+#: .\units\misc_units\yokai\h3_Elder_Leshi.cfg:17
+msgid "This unit is from the Yokai faction. Its coding and art were done by Melon."
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\misc_units\yokai\a1_Poltergeist.cfg:30
+msgid "chain whip"
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\misc_units\yokai\a1_Poltergeist.cfg:40
+#: .\units\misc_units\yokai\a2_Phantom.cfg:40
+#: .\units\misc_units\yokai\a3_Phantom_Keeper.cfg:43
+msgid "song of ruin"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Banshee, race=AE_yokai_poltergeist, gender=female
+#: .\units\misc_units\yokai\a2_Banshee.cfg:3
+msgid "Banshee"
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\misc_units\yokai\a2_Banshee.cfg:41
+#: .\units\misc_units\yokai\a3_Midnight_Banshee.cfg:44
+msgid "symphony of ruin"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Onryo, race=AE_yokai_poltergeist, gender=female
+#: .\units\misc_units\yokai\a2_Onryo.cfg:3
+msgid "Onryo"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Phantom, race=AE_yokai_poltergeist, gender=female
+#: .\units\misc_units\yokai\a2_Phantom.cfg:3
+msgid "Phantom"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Midnight_Banshee, race=AE_yokai_poltergeist, gender=female
+#: .\units\misc_units\yokai\a3_Midnight_Banshee.cfg:5
+msgid "Midnight Banshee"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Phantom_Keeper, race=AE_yokai_poltergeist, gender=female
+#: .\units\misc_units\yokai\a3_Phantom_Keeper.cfg:5
+msgid "Phantom Keeper"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Feyborn, race=AE_yokai_feyborn, gender=female
+#: .\units\misc_units\yokai\b1_Feyborn.cfg:3
+msgid "Feyborn"
+msgstr ""
+
+#. [attack], type=blade, range=ranged
+#. [attack], type=pierce, range=ranged
+#: .\units\misc_units\yokai\b1_Feyborn.cfg:23
+#: .\units\misc_units\yokai\b2_Feyborn_Witch.cfg:30
+#: .\units\misc_units\yokai\b2_Feyborn_Witch.cfg:43
+#: .\units\misc_units\yokai\b2_Kitsune.cfg:23
+#: .\units\misc_units\yokai\b2_Kitsune.cfg:36
+#: .\units\misc_units\yokai\b2_Tengu.cfg:74
+#: .\units\misc_units\yokai\b2_Tengu.cfg:87
+#: .\units\misc_units\yokai\b3_Daitengu.cfg:83
+#: .\units\misc_units\yokai\b3_Daitengu.cfg:96
+#: .\units\misc_units\yokai\b3_Nine-Tailed_Fox.cfg:34
+#: .\units\misc_units\yokai\b3_Nine-Tailed_Fox.cfg:47
+msgid "spectral shard"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Feyborn_Witch, race=AE_yokai_feyborn, gender=female
+#: .\units\misc_units\yokai\b2_Feyborn_Witch.cfg:3
+msgid "Feyborn Witch"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Kitsune, race=AE_yokai_feyborn, gender=female
+#: .\units\misc_units\yokai\b2_Kitsune.cfg:3
+msgid "Kitsune"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Tengu, race=AE_yokai_feyborn, gender=female
+#: .\units\misc_units\yokai\b2_Tengu.cfg:3
+msgid "Tengu"
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\misc_units\yokai\b2_Tengu.cfg:61
+#: .\units\misc_units\yokai\b3_Daitengu.cfg:70
+msgid "kick"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Daitengu, race=AE_yokai_feyborn, gender=female
+#: .\units\misc_units\yokai\b3_Daitengu.cfg:5
+msgid "Daitengu"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Nine_Tailed_Fox, race=AE_yokai_feyborn, gender=female
+#: .\units\misc_units\yokai\b3_Nine-Tailed_Fox.cfg:3
+msgid "Nine-Tailed Fox"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Weaver_Maiden, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\c0_Weaver_Maiden.cfg:3
+msgid "Weaver Maiden"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Weaver_Maiden, race=AE_yokai_obake, gender=female
+#. [unit_type], id=AE_agl_yokai_Sproutling, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\c0_Weaver_Maiden.cfg:17
+#: .\units\misc_units\yokai\g0_Sproutling.cfg:16
+msgid ""
+"This unit is from the Yokai faction. Its coding and art were done by Melon.\n"
+"\n"
+""
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Weaver_Matron, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\c1_Weaver_Matron.cfg:3
+msgid "Weaver Matron"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Weaver_Widow, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\c1_Weaver_Widow.cfg:3
+msgid "Weaver Widow"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Black_Widow, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\c2_Black_Widow.cfg:5
+msgid "Black Widow"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Weaver_Matriarch, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\c2_Weaver_Matriarch.cfg:3
+msgid "Weaver Matriarch"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Weaver_Empress, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\c3_Weaver_Empress.cfg:5
+msgid "Weaver Empress"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Lamia, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\d1_Lamia.cfg:3
+msgid "Lamia"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Lamia_Warrior, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\d2_Lamia_Warrior.cfg:3
+msgid "Lamia Warrior"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Medusa, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\d2_Medusa.cfg:3
+msgid "Medusa"
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#: .\units\misc_units\yokai\d2_Medusa.cfg:46
+#: .\units\misc_units\yokai\d3_Medusa_Witch.cfg:47
+#: .\units\misc_units\yokai\d3_Medusa_Witch.cfg:61
+msgid "petrify"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Lamia_Naitaka, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\d3_Lamia_Naitaka.cfg:3
+msgid "Lamia Naitaka"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Lamia_Naitaka, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\d3_Lamia_Naitaka.cfg:18
+msgid ""
+"This unit is from the Yokai faction. Its coding and art were done by Melon.\n"
+"\n"
+"The Lamia who achieve the rank of Naitaka are awarded the gift of new dagger."
+" This dagger is made of a rare ore found only a few times every year. This "
+"ore has a magical properties that can have varying affects depending on how "
+"its crafted. If crafted correctly into a dagger, the weapon will guides its "
+"blows and nearly always hit."
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Medusa_Witch, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\d3_Medusa_Witch.cfg:3
+msgid "Medusa Witch"
+msgstr ""
+
+#. [petrifies]
+#: .\units\misc_units\yokai\d3_Medusa_Witch.cfg:71
+msgid "petrifies"
+msgstr ""
+
+#. [petrifies]
+#: .\units\misc_units\yokai\d3_Medusa_Witch.cfg:72
+msgid ""
+"Petrify:\n"
+"            #This attack petrifies the target, turning it to stone. Units "
+"that have been petrified may not move or attack."
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Pixie, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\e0_Pixie.cfg:3
+msgid "Pixie"
+msgstr ""
+
+#. [attack], type=cold, range=melee
+#: .\units\misc_units\yokai\e0_Pixie.cfg:29
+#: .\units\misc_units\yokai\e1_Faerie.cfg:29
+#: .\units\misc_units\yokai\e2_Enchnted_Faerie.cfg:34
+msgid "freezing touch"
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#: .\units\misc_units\yokai\e0_Pixie.cfg:38
+#: .\units\misc_units\yokai\e1_Faerie.cfg:38
+#: .\units\misc_units\yokai\e2_Enchnted_Faerie.cfg:46
+msgid "freezing spray"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Faerie, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\e1_Faerie.cfg:3
+msgid "Faerie"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Nixie, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\e1_Nixie.cfg:3
+msgid "Nixie"
+msgstr ""
+
+#. [attack], type=cold, range=melee
+#: .\units\misc_units\yokai\e1_Nixie.cfg:25
+#: .\units\misc_units\yokai\e2_Nix.cfg:37
+msgid "cold touch"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Enchanted_Faerie, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\e2_Enchnted_Faerie.cfg:5
+msgid "Enchanted Faerie"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Nix, race=AE_yokai_obake, gender=female
+#: .\units\misc_units\yokai\e2_Nix.cfg:5
+msgid "Nix"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Swarm_Spawn, race=AE_yokai_swarm, gender=female
+#: .\units\misc_units\yokai\f0_Swarm_Spawn.cfg:3
+msgid "Swarm Spawn"
+msgstr ""
+
+#. [attack], type=pierce, range=melee
+#: .\units\misc_units\yokai\f0_Swarm_Spawn.cfg:31
+#: .\units\misc_units\yokai\f1_Rebel_Swarm.cfg:31
+#: .\units\misc_units\yokai\f1_Surgler_Swarm.cfg:27
+#: .\units\misc_units\yokai\f2_Killer_Swarm.cfg:36
+#: .\units\misc_units\yokai\f2_Moving_Fortress.cfg:28
+msgid "surgler warriors"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Rebel_Swarm, race=AE_yokai_swarm, gender=female
+#: .\units\misc_units\yokai\f1_Rebel_Swarm.cfg:3
+msgid "Rebel Swarm"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Surgler_Swarm, race=AE_yokai_swarm, gender=female
+#: .\units\misc_units\yokai\f1_Surgler_Swarm.cfg:3
+msgid "Surgler Swarm"
+msgstr ""
+
+#. [swarm]
+#: .\units\misc_units\yokai\f1_Surgler_Swarm.cfg:37
+msgid "swarm 2"
+msgstr ""
+
+#. [swarm]
+#: .\units\misc_units\yokai\f1_Surgler_Swarm.cfg:38
+msgid "The more wounded this unit is the less attacks he gets, to the minimum of 2"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Killer_Swarm, race=AE_yokai_swarm, gender=female
+#: .\units\misc_units\yokai\f2_Killer_Swarm.cfg:5
+msgid "Killer Swarm"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Moving_Fortress, race=AE_yokai_swarm, gender=female
+#: .\units\misc_units\yokai\f2_Moving_Fortress.cfg:3
+msgid "Moving Fortress"
+msgstr ""
+
+#. [swarm]
+#: .\units\misc_units\yokai\f2_Moving_Fortress.cfg:38
+msgid "swarm 3"
+msgstr ""
+
+#. [swarm]
+#: .\units\misc_units\yokai\f2_Moving_Fortress.cfg:39
+msgid "The more wounded this unit is the less attacks he gets, to the minimum of 3"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\misc_units\yokai\f2_Moving_Fortress.cfg:47
+msgid "surgler knights"
+msgstr ""
+
+#. [swarm]
+#: .\units\misc_units\yokai\f2_Moving_Fortress.cfg:57
+msgid "swarm 1"
+msgstr ""
+
+#. [swarm]
+#: .\units\misc_units\yokai\f2_Moving_Fortress.cfg:58
+msgid "The more wounded this unit is the less attacks he gets, to the minimum of 1"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Sproutling, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\g0_Sproutling.cfg:3
+msgid "Sproutling"
+msgstr ""
+
+#. [attack], type=impact, range=ranged
+#. [attack], type=pierce, range=ranged
+#: .\units\misc_units\yokai\g0_Sproutling.cfg:43
+#: .\units\misc_units\yokai\g1_Mandragora.cfg:69
+#: .\units\misc_units\yokai\g1_Spriggan.cfg:40
+#: .\units\misc_units\yokai\g2_Greater_Spriggan.cfg:40
+#: .\units\misc_units\yokai\g2_Malefic_Mandragora.cfg:72
+#: .\units\misc_units\yokai\g3_Majestic_Spriggan.cfg:42
+#: .\units\misc_units\yokai\g3_Pernicious_Mandragora.cfg:73
+msgid "scream"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Mandragora, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\g1_Mandragora.cfg:3
+msgid "Mandragora"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Mandragora, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\g1_Mandragora.cfg:16
+msgid ""
+"This unit is from the Yokai faction. Its coding and art were done by Melon.\n"
+"\t\n"
+"Depending in circunstances like Spriggans are resident of a lugubrious, "
+"cursed or melancholic places, some becomes inbued in bad vibes and start "
+"becoming poisonous. Unlike Spriggans that are keepers of the nature and have "
+"connection with spirits, Mandragoras instead become passively hostile, "
+"lurking intruders that are unfortunate to be considered its pray. While "
+"Mandragora are still loyal to what they used to consider their friends, still"
+" they're friends of no-one anymore because of their selfish behavior and "
+"because of being incable to incorporate to the yokai ecosystem, even if still"
+" being considered part of it by both foreign and yokai."
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Spriggan, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\g1_Spriggan.cfg:3
+msgid "Spriggan"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Greater_Spriggan, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\g2_Greater_Spriggan.cfg:3
+msgid "Greater Spriggan"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Malefic_Mandragora, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\g2_Malefic_Mandragora.cfg:5
+msgid "Malefic Mandragora"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Malefic_Mandragora, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\g2_Malefic_Mandragora.cfg:18
+msgid ""
+"This unit is from the Yokai faction. Its coding and art were done by Melon.\n"
+"\t\n"
+"Once a mandragora has grown, it becomes creepier and unlike mandragora even "
+"yokai do not like this much this plants. It's once seen scavening corpses in "
+"cementaries, caves and abandoned buildings far from civilization, and unlike "
+"the younger mandragoras they will try to chase their prays if hungry enough, "
+"all starting with a horrible scream but if comes too close of a living, we "
+"just have to assume it most likely become mandragora's next meal."
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Majestic_Spriggan, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\g3_Majestic_Spriggan.cfg:5
+msgid "Majestic Spriggan"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Pernicious_Mandragora, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\g3_Pernicious_Mandragora.cfg:5
+msgid "Pernicious Mandragora"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Pernicious_Mandragora, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\g3_Pernicious_Mandragora.cfg:19
+msgid ""
+"This unit is from the Yokai faction. Its coding and art were done by Melon.\n"
+"\t\n"
+"Biggest and most terrible mandragoras are a bad omen for everything in front "
+"of it, usually hostile to every other form of life and rarely seen fighting "
+"for yokai and if any of this does it is because the small bond between when "
+"this plan was smaller and the yokai.  "
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Nymph, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\h1_Nymph.cfg:3
+msgid "Nymph"
+msgstr ""
+
+#. [attack], type=arcane, range=melee
+#: .\units\misc_units\yokai\h1_Nymph.cfg:27
+#: .\units\misc_units\yokai\h2_Kodama.cfg:30
+#: .\units\misc_units\yokai\h2_Leshi.cfg:27
+#: .\units\misc_units\yokai\h3_Elder_Kodama.cfg:33
+#: .\units\misc_units\yokai\h3_Elder_Leshi.cfg:32
+msgid "draining touch"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Kodama, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\h2_Kodama.cfg:3
+msgid "Kodama"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Leshi, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\h2_Leshi.cfg:3
+msgid "Leshi"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Elder_Kodama, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\h3_Elder_Kodama.cfg:5
+msgid "Elder Kodama"
+msgstr ""
+
+#. [unit_type], id=AE_agl_yokai_Elder_Leshi, race=AE_yokai_plant, gender=female
+#: .\units\misc_units\yokai\h3_Elder_Leshi.cfg:3
+msgid "Elder Leshi"
+msgstr ""

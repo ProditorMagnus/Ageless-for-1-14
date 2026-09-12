@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-07-05 21:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [set_menu_item], id=AE_RHY_range_menu
+#: .\data\RE_data\abilities_range.cfg:32
+msgid "Fire arrow"
+msgstr ""
+
+#. [dummy], id=AE_RHY_range
+#: .\data\RE_data\abilities_range.cfg:215
+msgid ""
+"This unit can shoot bolts over large distances, which prevents the enemy from"
+" retaliating.\n"
+"The attack is done at 10% lower accuracy and can not be used while standing "
+"next to an enemy."
+msgstr ""
+
+#. [message], speaker=narrator
+#: .\data\RE_data\abilities_recruit_base.cfg:59
+msgid "Error"
+msgstr ""
+
+#. [message], speaker=narrator
+#: .\data\RE_data\abilities_recruit_base.cfg:60
+msgid "You don't have enough gold"
+msgstr ""
+
+#: .\data\RE_data\abilities_recruit_black_lich.cfg:5
+msgid ""
+"This units can recruit some soldiers, even while not on the keep. The "
+"soldiers can not be recruited in villages."
+msgstr ""
+
+#. [dummy], id=AE_RHY_recruitblacklich
+#: .\data\RE_data\abilities_recruit_black_lich.cfg:12
+msgid ""
+"This units can summon burning Liches next to it (right click on a tile next "
+"to this unit)"
+msgstr ""

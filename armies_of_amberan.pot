@@ -1,0 +1,2916 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-07-05 21:02\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [multiplayer_side], id=AE_AoA_side_empfinn
+#: .\factions\default\default-AoA.cfg:4
+#: .\factions\heroes\heroes-AoA.cfg:4
+#: .\factions\RPG\RPG-AoA.cfg:4
+msgid "AoA - Finn's Empire"
+msgstr ""
+
+#. [multiplayer_side], id=AE_AoA_side_farengar
+#: .\factions\default\default-AoA.cfg:17
+#: .\factions\heroes\heroes-AoA.cfg:17
+#: .\factions\RPG\RPG-AoA.cfg:13
+msgid "AoA - Farengarian Kingdoms"
+msgstr ""
+
+#. [multiplayer_side], id=AE_AoA_side_farnains
+#: .\factions\default\default-AoA.cfg:30
+#: .\factions\heroes\heroes-AoA.cfg:30
+#: .\factions\RPG\RPG-AoA.cfg:22
+msgid "AoA - Farengarian Counties"
+msgstr ""
+
+#. [multiplayer_side], id=AE_AoA_side_federation
+#: .\factions\default\default-AoA.cfg:43
+#: .\factions\heroes\heroes-AoA.cfg:43
+#: .\factions\RPG\RPG-AoA.cfg:34
+msgid "AoA - Mauve Islands Federation"
+msgstr ""
+
+#. [multiplayer_side], id=AE_AoA_side_galianos
+#: .\factions\default\default-AoA.cfg:56
+#: .\factions\heroes\heroes-AoA.cfg:56
+#: .\factions\RPG\RPG-AoA.cfg:43
+msgid "AoA - Galianos Imperium"
+msgstr ""
+
+#. [multiplayer_side], id=AE_AoA_side_gobmon
+#: .\factions\default\default-AoA.cfg:69
+#: .\factions\heroes\heroes-AoA.cfg:69
+#: .\factions\RPG\RPG-AoA.cfg:52
+msgid "AoA - Mountain Goblins"
+msgstr ""
+
+#. [multiplayer_side], id=AE_AoA_side_morkdarf
+#: .\factions\default\default-AoA.cfg:82
+#: .\factions\heroes\heroes-AoA.cfg:82
+#: .\factions\RPG\RPG-AoA.cfg:61
+msgid "AoA - Dwarven Kingdoms"
+msgstr ""
+
+#. [multiplayer_side], id=AE_AoA_side_nordian
+#: .\factions\default\default-AoA.cfg:95
+#: .\factions\heroes\heroes-AoA.cfg:95
+#: .\factions\RPG\RPG-AoA.cfg:70
+msgid "AoA - Norse Jarldoms"
+msgstr ""
+
+#. [multiplayer_side], id=AE_AoA_side_rovahr
+#: .\factions\default\default-AoA.cfg:108
+#: .\factions\heroes\heroes-AoA.cfg:108
+#: .\factions\RPG\RPG-AoA.cfg:79
+msgid "AoA - Kingdoms of Rovahr"
+msgstr ""
+
+#. [multiplayer_side], id=AE_AoA_side_rovelf
+#: .\factions\default\default-AoA.cfg:121
+#: .\factions\heroes\heroes-AoA.cfg:121
+#: .\factions\RPG\RPG-AoA.cfg:88
+msgid "AoA - Rovahrian elves"
+msgstr ""
+
+#. [race], id=farengar
+#: .\units\AoA_units\units.cfg:6
+msgid "race^Farengarian"
+msgstr ""
+
+#. [race], id=farengar
+#: .\units\AoA_units\units.cfg:7
+msgid "race+female^Farengarian"
+msgstr ""
+
+#. [race], id=farengar
+#: .\units\AoA_units\units.cfg:8
+msgid "race^Farengarians"
+msgstr ""
+
+#. [race], id=empfinn
+#: .\units\AoA_units\units.cfg:17
+msgid "race^Bagolaro-Helgrindian"
+msgstr ""
+
+#. [race], id=empfinn
+#: .\units\AoA_units\units.cfg:18
+msgid "race+female^Bagolaro-Helgrindian"
+msgstr ""
+
+#. [race], id=empfinn
+#: .\units\AoA_units\units.cfg:19
+msgid "race^Bagolaro-Helgrindians"
+msgstr ""
+
+#. [race], id=mauvilien
+#: .\units\AoA_units\units.cfg:28
+msgid "race^Mauvîlian"
+msgstr ""
+
+#. [race], id=mauvilien
+#: .\units\AoA_units\units.cfg:29
+msgid "race+female^Mauvîlian"
+msgstr ""
+
+#. [race], id=mauvilien
+#: .\units\AoA_units\units.cfg:30
+msgid "race^Mauvilians"
+msgstr ""
+
+#. [race], id=nordian
+#: .\units\AoA_units\units.cfg:39
+msgid "race^Nordian"
+msgstr ""
+
+#. [race], id=nordian
+#: .\units\AoA_units\units.cfg:40
+msgid "race+female^Nordian"
+msgstr ""
+
+#. [race], id=nordian
+#: .\units\AoA_units\units.cfg:41
+msgid "race^Nordians"
+msgstr ""
+
+#. [race], id=rovahrien
+#: .\units\AoA_units\units.cfg:50
+msgid "race^Rovahrian"
+msgstr ""
+
+#. [race], id=rovahrien
+#: .\units\AoA_units\units.cfg:51
+msgid "race+female^Rovahrian"
+msgstr ""
+
+#. [race], id=rovahrien
+#: .\units\AoA_units\units.cfg:52
+msgid "race^Rovahrians"
+msgstr ""
+
+#. [race], id=galien
+#: .\units\AoA_units\units.cfg:61
+msgid "race^Galian"
+msgstr ""
+
+#. [race], id=galien
+#: .\units\AoA_units\units.cfg:62
+msgid "race^Galians"
+msgstr ""
+
+#. [race], id=farNain
+#: .\units\AoA_units\units.cfg:71
+msgid "race^Dwarf of Farengar"
+msgstr ""
+
+#. [race], id=farNain
+#: .\units\AoA_units\units.cfg:72
+msgid "race^Dwarves of Farengar"
+msgstr ""
+
+#. [race], id=morken
+#: .\units\AoA_units\units.cfg:83
+msgid "race^Dwarf of Morkenost"
+msgstr ""
+
+#. [race], id=morken
+#: .\units\AoA_units\units.cfg:84
+msgid "race^Dwarves of Morkenost"
+msgstr ""
+
+#. [race], id=darfen
+#: .\units\AoA_units\units.cfg:95
+msgid "race^Dwarf of Darfenlend"
+msgstr ""
+
+#. [race], id=darfen
+#: .\units\AoA_units\units.cfg:96
+msgid "race+female^Dwarf of Darfenlend"
+msgstr ""
+
+#. [race], id=darfen
+#: .\units\AoA_units\units.cfg:97
+msgid "race^Dwarves of Darfenlend"
+msgstr ""
+
+#. [race], id=gobmon
+#: .\units\AoA_units\units.cfg:111
+msgid "race^Mountain Goblin"
+msgstr ""
+
+#. [race], id=gobmon
+#: .\units\AoA_units\units.cfg:112
+msgid "race^Mountain Goblins"
+msgstr ""
+
+#. [race], id=rovElfe
+#: .\units\AoA_units\units.cfg:275
+msgid "race^Rovahr Elf"
+msgstr ""
+
+#. [race], id=rovElfe
+#: .\units\AoA_units\units.cfg:276
+msgid "race+female^Rovahr Elf"
+msgstr ""
+
+#. [race], id=rovElfe
+#: .\units\AoA_units\units.cfg:277
+msgid "race^Rovahr Elves"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Apprentice, race=farengar
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Apprentice.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Apprentice.cfg:54
+msgid "Apprentice"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Apprentice, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Arcanist, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Battle_Mage, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Bowman, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Champion, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Cleric, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Conscript, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Count, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Crossbowman, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Ducal_Guard, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Duke, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Footman, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Great_Arcanist, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Great_Chevalier, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Halberdier, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Handgunner, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_High_Cleric, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Initiate, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Chevalier, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Longbowman, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Lord, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Mage, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Master_Crossbowman, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Noble, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Paladin, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Roi, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Sergeant, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Lancer, race=farengar
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Arbalester, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Artificer, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Bear_Knight, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Champion, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Count, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Crossbowman, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Engeener, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Grand_Bear_Knight, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Grand_Griffin_Knight, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Griffin_Knight, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Griffin_Rider, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Guard, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Handgunner, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Lord, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Master_Engeener, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Runes_Archmage, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Runes_Mage, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Sentinel, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Silver_Guard, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Thane, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Fighter, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Captain, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Citizen, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Commander, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Crossbowman, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Duelist, race=empfinn
+#. [unit_type], id=AE_AoA_finn_empire_Emperor, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Great_Cannon, race=mechanical, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Handgunner, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Helgrindian_Heavy_Soldier, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Helgrindian_Soldier, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Lansquenet, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Lord, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Master_At_Arms, race=empfinn
+#. [unit_type], id=AE_AoA_finn_empire_Master_Crossbowman, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Noble, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Pistolier, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Recruit, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Reiter, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Rider, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Swordman, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_galianos_Alchemist, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Apothecary, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Astraidian_Crossbowman, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Citizen, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Civil_Guard, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Condotierre, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Condotierre_On_Foots, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Elite_Javelinist, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Elite_Lancer, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Elite_Swordman, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Escort, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Footman, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Galianos_Duelist, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Gendarme, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Gendarme_On_Foots, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_General, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Heavy_Footman, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Heavy_Pikemen, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Herborist, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Hussar, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Imperator, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Javelinist, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Master_Pyromancer, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Militia, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Mounted_Crossbowman, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Pikeman, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Pyromancer, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Ranger, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Rider, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Scout, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Skirmisher, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Lancer, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Swordman, race=galien, gender=male
+#. [unit_type], id=AE_AoA_galianos_Veteran_Ranger, race=galien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Archbishop_Fighter, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Aspirant_Templar, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Bishop_Fighter, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Crossbowman_With_Bulwark, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Feudal_Knight, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Feudal_Levy, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Gothic_Kight_On_Foots, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Gothic_Knight, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Grand_Inquisitor, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Grand_Mage, race=rovahrien
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Grand_Master_Templar, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Halbruder, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Heavy_Crossbow, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Inquisitor, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Knight_On_Foots, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Konig, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Longbowman, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Mage, race=rovahrien
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Men_At_Arms, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Mercenary, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Mercenary_Captain, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Monk_Soldier, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Novice, race=rovahrien
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Peasant, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Peasant_Crossbowman, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Priest_Fighter, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Ritterbruder, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Royal_Archer, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Sergeant, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Squire, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Templar, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Templar_Captain, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Young_Knight, race=rovahrien, gender=male
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Ancient_Druid, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Apprentice_Sorcerer, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Arcanist, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Archmage, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Axe_Wielder, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Chieftain, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Clans_Longbowman, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Clans_Pikeman, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Clans_Warrior, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Druid, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Elder_Sorcerer, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Elite_Sorcerer, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Free_Archer, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Gallowglass, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Grand_Arcanist, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Heavy_Pikeman, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Highlander, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_High_King, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Knight, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Knight_Arcanist, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Lord, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Mage_Blade, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Magister, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Schiltron, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Scout, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Student, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Villager, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Warrior_Mage, race=mauvilien
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Archer_On_Griffin, race=darfen, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Captain, race=morken, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Commander, race=morken, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Cuirassier, race=morken, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Fighter, race=darfen, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Footdwarf, race=morken, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Grand_Mage, race=darfen, gender=female
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Halberdier, race=morken, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Hammerer, race=morken, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Handgunner, race=morken, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Healer, race=darfen, gender=female
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Hunter, race=darfen, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Hunter_On_Griffin, race=darfen, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Mage, race=darfen, gender=female
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Muskeeter, race=morken, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Ranger, race=darfen, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Sergent, race=morken, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Shaman, race=darfen, gender=female
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Shock_Soldier, race=morken, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Sorceress, race=darfen, gender=female
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Trapper, race=darfen, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Veteran, race=morken, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Veteran_Handgunner, race=morken, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Warden, race=darfen, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Warrior, race=darfen, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Wise, race=darfen, gender=female
+#. [unit_type], id=AE_AoA_mountain_goblins_Clan_Chief, race=gobmon, gender=male
+#. [unit_type], id=AE_AoA_mountain_goblins_Leader, race=gobmon, gender=male
+#. [unit_type], id=AE_AoA_mountain_goblins_Warlord, race=gobmon, gender=male
+#. [unit_type], id=AE_AoA_norse_jarldoms_Nordic_Bowman, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Berserker, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Nordic_Knight, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Crossbowman, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Destructive, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Devastating, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Double_Axe, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Guard, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Heavy_Crossbowman, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_High_King, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Huskarl, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Jarl, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Maraudeur, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Master_Crossbowman, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Mounted_Archer, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Mounted_Bowman, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Mounted_Huskarl, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Nordic_Master_Archer, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Pluderer, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Rempart, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Rider, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Soldier, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Thane, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Varangian, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Villager, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Warlord, race=nordian
+#. [unit_type], id=AE_AoA_norse_jarldoms_Warrior, race=nordian
+#. [unit_type], id=AE_AoA_rovahrian_elves_Archdruid, race=rovElfe, gender=female
+#. [unit_type], id=AE_AoA_rovahrian_elves_Avenger, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Blademaster, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Blade_Dancer, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Bowman, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Druid, race=rovElfe, gender=female
+#. [unit_type], id=AE_AoA_rovahrian_elves_Forest_Champion, race=rovElfe, gender=male
+#. [unit_type], id=AE_AoA_rovahrian_elves_Forest_Knight, race=rovElfe, gender=male
+#. [unit_type], id=AE_AoA_rovahrian_elves_Forest_Patrol, race=rovElfe, gender=male
+#. [unit_type], id=AE_AoA_rovahrian_elves_Healer, race=rovElfe, gender=female
+#. [unit_type], id=AE_AoA_rovahrian_elves_Herald, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_High_Lord, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Lord, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Mage, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Magister, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Master_Archer, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Noble, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Ranger, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Rempart, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Rider, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Royal_Guard, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Scout, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Spearman, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_Swordman, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_War_Archer, race=rovElfe
+#. [unit_type], id=AE_AoA_rovahrian_elves_War_Dancer, race=rovElfe
+#: .\units\AoA_units\farengarians_kingdoms\Apprentice.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Arcanist.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Battle_Mage.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Bowman.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Champion.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Cleric.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Conscript.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Count.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Crossbowman.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Ducal_Guard.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Duke.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Footdwarf.cfg:17
+#: .\units\AoA_units\farengarians_kingdoms\Grand_Arcanist.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Great_Chevalier.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Halberdier.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Handgunner.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\High_Cleric.cfg:17
+#: .\units\AoA_units\farengarians_kingdoms\Initiate.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Knight.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Longbowman.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Lord.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Mage.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Master_Crossbowman.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Noble.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Paladin.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Roi.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Sergeant.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Spearman.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Arbalester.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Artificer.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Bear_Knight.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Champion.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Count.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Crossbowman.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Engeener.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Grand_Bear_Knight.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Grand_Griffin_Knight.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Griffin_Knight.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Griffin_Rider.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Guard.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Handgunner.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Lord.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Master_Engeener.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Runes_Archmage.cfg:17
+#: .\units\AoA_units\farengarian_dwarves_counties\Runes_Mage.cfg:17
+#: .\units\AoA_units\farengarian_dwarves_counties\Sentinel.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Silver_Guard.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Thane.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Warrior.cfg:16
+#: .\units\AoA_units\finn_empire\Captain.cfg:16
+#: .\units\AoA_units\finn_empire\Citizen.cfg:16
+#: .\units\AoA_units\finn_empire\Commander.cfg:16
+#: .\units\AoA_units\finn_empire\Crossbowman.cfg:16
+#: .\units\AoA_units\finn_empire\Duelist.cfg:16
+#: .\units\AoA_units\finn_empire\Emperor.cfg:16
+#: .\units\AoA_units\finn_empire\Great_Cannon.cfg:16
+#: .\units\AoA_units\finn_empire\Handgunner.cfg:16
+#: .\units\AoA_units\finn_empire\Helgrindian_Heavy_Soldier.cfg:16
+#: .\units\AoA_units\finn_empire\Helgrindian_Soldier.cfg:16
+#: .\units\AoA_units\finn_empire\Lansquenet.cfg:16
+#: .\units\AoA_units\finn_empire\Lord.cfg:16
+#: .\units\AoA_units\finn_empire\Master_At_Arms.cfg:16
+#: .\units\AoA_units\finn_empire\Master_Crossbowman.cfg:16
+#: .\units\AoA_units\finn_empire\Noble.cfg:16
+#: .\units\AoA_units\finn_empire\Pistolier.cfg:16
+#: .\units\AoA_units\finn_empire\Recruit.cfg:16
+#: .\units\AoA_units\finn_empire\Reiter.cfg:16
+#: .\units\AoA_units\finn_empire\Rider.cfg:16
+#: .\units\AoA_units\finn_empire\Swordman.cfg:16
+#: .\units\AoA_units\galianos\Alchemist.cfg:16
+#: .\units\AoA_units\galianos\Apothecary.cfg:16
+#: .\units\AoA_units\galianos\Astraidian_Crossbowman.cfg:16
+#: .\units\AoA_units\galianos\Citizen.cfg:16
+#: .\units\AoA_units\galianos\Civil_Guard.cfg:16
+#: .\units\AoA_units\galianos\Condotierre.cfg:16
+#: .\units\AoA_units\galianos\Condotierre_On_Foots.cfg:16
+#: .\units\AoA_units\galianos\Elite_Javelinist.cfg:16
+#: .\units\AoA_units\galianos\Elite_Lancer.cfg:16
+#: .\units\AoA_units\galianos\Elite_Swordman.cfg:16
+#: .\units\AoA_units\galianos\Escort.cfg:16
+#: .\units\AoA_units\galianos\Footdwarf.cfg:16
+#: .\units\AoA_units\galianos\Galianos_Duelist.cfg:16
+#: .\units\AoA_units\galianos\Gendarme.cfg:16
+#: .\units\AoA_units\galianos\Gendarme_On_Foots.cfg:16
+#: .\units\AoA_units\galianos\General.cfg:16
+#: .\units\AoA_units\galianos\Heavy_Footman.cfg:16
+#: .\units\AoA_units\galianos\Heavy_Pikemen.cfg:16
+#: .\units\AoA_units\galianos\Herborist.cfg:16
+#: .\units\AoA_units\galianos\Hussar.cfg:16
+#: .\units\AoA_units\galianos\Imperator.cfg:16
+#: .\units\AoA_units\galianos\Javelinist.cfg:16
+#: .\units\AoA_units\galianos\Master_Pyromancer.cfg:16
+#: .\units\AoA_units\galianos\Militia.cfg:16
+#: .\units\AoA_units\galianos\Mounted_Crossbowman.cfg:16
+#: .\units\AoA_units\galianos\Pikeman.cfg:16
+#: .\units\AoA_units\galianos\Pyromancer.cfg:16
+#: .\units\AoA_units\galianos\Ranger.cfg:16
+#: .\units\AoA_units\galianos\Rider.cfg:16
+#: .\units\AoA_units\galianos\Scout.cfg:16
+#: .\units\AoA_units\galianos\Skirmisher.cfg:16
+#: .\units\AoA_units\galianos\Spearman.cfg:16
+#: .\units\AoA_units\galianos\Swordman.cfg:16
+#: .\units\AoA_units\galianos\Veteran_Ranger.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Archbishop_Fighter.cfg:17
+#: .\units\AoA_units\kingdoms_rovahr\Aspirant_Templar.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Bishop_Fighter.cfg:17
+#: .\units\AoA_units\kingdoms_rovahr\Crossbowman_With_Bulwark.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Feudal_Knight.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Feudal_Levy.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Gothic_Kight_On_Foots.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Gothic_Knight.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Grand_Inquisitor.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Grand_Mage.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Grand_Master_Templar.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Halbruder.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Heavy_Crossbow.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Inquisitor.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Knight_On_Foots.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Konig.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Longbowman.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Mage.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Men_At_Arms.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Mercenary.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Mercenary_Captain.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Monk_Soldier.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Novice.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Peasant.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Peasant_Crossbowman.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Priest_Fighter.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Ritterbruder.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Royal_Archer.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Sergeant.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Squire.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Templar.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Templar_Captain.cfg:16
+#: .\units\AoA_units\kingdoms_rovahr\Young_Knight.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Ancient_Druid.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Apprentice_Sorcerer.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Arcanist.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Archmage.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Axe_Wielder.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Chieftain.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Clans_Longbowman.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Clans_Pikeman.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Clans_Warrior.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Druid.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Elder_Sorcerer.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Elite_Sorcerer.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Free_Archer.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Gallowglass.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Grand_Arcanist.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Heavy_Pikemen.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Highlander.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\High_King.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Knight.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Knight_Arcanist.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Lord.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Mage_Blade.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Magister.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Schiltron.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Scout.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Student.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Villager.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Warrior_Mage.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Archer_On_Griffin.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Captain.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Commander.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Cuirassier.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Fighter.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Footdwarf.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Grand_Mage.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Halberdier.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Hammerer.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Handgunner.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Healer.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Hunter.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Hunter_On_Griffin.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Mage.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Muskeeter.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Ranger.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Sergeant.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Shaman.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Shock_Soldier.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Sorceress.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Trapper.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Veteran.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Veteran_Handgunner.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Warden.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Warrior.cfg:16
+#: .\units\AoA_units\morkenost_darfenlend\Wise.cfg:16
+#: .\units\AoA_units\mountain_goblins\Clan_Chief.cfg:16
+#: .\units\AoA_units\mountain_goblins\Leader.cfg:16
+#: .\units\AoA_units\mountain_goblins\Warlord.cfg:16
+#: .\units\AoA_units\norse_jarldoms\Archer_norse_jarldomsique.cfg:16
+#: .\units\AoA_units\norse_jarldoms\Berserker.cfg:16
+#: .\units\AoA_units\norse_jarldoms\Chevalier_norse_jarldomsique.cfg:18
+#: .\units\AoA_units\norse_jarldoms\Crossbowman.cfg:18
+#: .\units\AoA_units\norse_jarldoms\Destructive.cfg:16
+#: .\units\AoA_units\norse_jarldoms\Devastating.cfg:16
+#: .\units\AoA_units\norse_jarldoms\Double_Axe.cfg:16
+#: .\units\AoA_units\norse_jarldoms\Guard.cfg:18
+#: .\units\AoA_units\norse_jarldoms\Heavy_Crossbow.cfg:18
+#: .\units\AoA_units\norse_jarldoms\High_King.cfg:18
+#: .\units\AoA_units\norse_jarldoms\Huskarl.cfg:18
+#: .\units\AoA_units\norse_jarldoms\Jarl.cfg:18
+#: .\units\AoA_units\norse_jarldoms\Maraudeur.cfg:16
+#: .\units\AoA_units\norse_jarldoms\Master_Crossbowman.cfg:18
+#: .\units\AoA_units\norse_jarldoms\Mounted_Archer.cfg:18
+#: .\units\AoA_units\norse_jarldoms\Mounted_Bowman.cfg:18
+#: .\units\AoA_units\norse_jarldoms\Mounted_Huskarl.cfg:18
+#: .\units\AoA_units\norse_jarldoms\Nordic_Master_Archer.cfg:16
+#: .\units\AoA_units\norse_jarldoms\Pluderer.cfg:16
+#: .\units\AoA_units\norse_jarldoms\Rempart.cfg:18
+#: .\units\AoA_units\norse_jarldoms\Rider.cfg:18
+#: .\units\AoA_units\norse_jarldoms\Soldier.cfg:18
+#: .\units\AoA_units\norse_jarldoms\Thane.cfg:18
+#: .\units\AoA_units\norse_jarldoms\Varangian.cfg:16
+#: .\units\AoA_units\norse_jarldoms\Villager.cfg:16
+#: .\units\AoA_units\norse_jarldoms\Warlord.cfg:16
+#: .\units\AoA_units\norse_jarldoms\Warrior.cfg:18
+#: .\units\AoA_units\rovahrian_elves\Archdruid.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Avenger.cfg:16
+#: .\units\AoA_units\rovahrian_elves\Blademaster.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Blade_Dancer.cfg:16
+#: .\units\AoA_units\rovahrian_elves\Bowman.cfg:16
+#: .\units\AoA_units\rovahrian_elves\Druid.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Forest_Champion.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Forest_Knight.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Forest_Patrol.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Healer.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Herald.cfg:17
+#: .\units\AoA_units\rovahrian_elves\High_Lord.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Lord.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Mage.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Magister.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Master_Archer.cfg:16
+#: .\units\AoA_units\rovahrian_elves\Noble.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Ranger.cfg:16
+#: .\units\AoA_units\rovahrian_elves\Rempart.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Rider.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Royal_Guard.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Scout.cfg:16
+#: .\units\AoA_units\rovahrian_elves\Spearman.cfg:17
+#: .\units\AoA_units\rovahrian_elves\Swordman.cfg:17
+#: .\units\AoA_units\rovahrian_elves\War_Archer.cfg:16
+#: .\units\AoA_units\rovahrian_elves\War_Dancer.cfg:16
+msgid "description to come"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\AoA_units\farengarians_kingdoms\Apprentice.cfg:41
+#: .\units\AoA_units\farengarians_kingdoms\Arcanist.cfg:45
+#: .\units\AoA_units\farengarians_kingdoms\Grand_Arcanist.cfg:45
+#: .\units\AoA_units\mauve_islands_federation\Mage_Blade.cfg:46
+#: .\units\AoA_units\mauve_islands_federation\Student.cfg:43
+#: .\units\AoA_units\mauve_islands_federation\Warrior_Mage.cfg:45
+msgid "magic missile"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Arcanist, race=farengar
+#. [female]
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Arcanist, race=mauvilien
+#: .\units\AoA_units\farengarians_kingdoms\Arcanist.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Arcanist.cfg:84
+#: .\units\AoA_units\mauve_islands_federation\Arcanist.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Arcanist.cfg:85
+msgid "Arcanist"
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#: .\units\AoA_units\farengarians_kingdoms\Arcanist.cfg:57
+#: .\units\AoA_units\farengarians_kingdoms\Grand_Arcanist.cfg:57
+#: .\units\AoA_units\kingdoms_rovahr\Grand_Mage.cfg:43
+#: .\units\AoA_units\kingdoms_rovahr\Mage.cfg:41
+#: .\units\AoA_units\kingdoms_rovahr\Novice.cfg:37
+#: .\units\AoA_units\mauve_islands_federation\Arcanist.cfg:56
+#: .\units\AoA_units\mauve_islands_federation\Archmage.cfg:58
+#: .\units\AoA_units\mauve_islands_federation\Grand_Arcanist.cfg:56
+msgid "frost bolt"
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\AoA_units\farengarians_kingdoms\Arcanist.cfg:69
+#: .\units\AoA_units\farengarians_kingdoms\Grand_Arcanist.cfg:69
+#: .\units\AoA_units\mauve_islands_federation\Arcanist.cfg:68
+#: .\units\AoA_units\mauve_islands_federation\Archmage.cfg:70
+#: .\units\AoA_units\mauve_islands_federation\Grand_Arcanist.cfg:68
+msgid "purifying fire"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Battle_Archmage, race=farengar
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Battle_Archmage.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Battle_Archmage.cfg:58
+msgid "Battle Archmage"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Battle_Archmage, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Grand_Master_Paladin, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Herald, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Chevalier_On_Foots, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Master_Paladin, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Archer, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Peasant, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Questing_Chevalier, race=farengar
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Squire, race=farengar
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Balista, race=mechanical, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Bear_Rider, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Bombard, race=mechanical, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Great_Ballista, race=mechanical, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Heavy_Fighter, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Runic_Scribe, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Runic_Smith, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Siege_Ballista, race=mechanical, gender=male
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Tinker, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Cannon, race=mechanical, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_General, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Halberdier, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Heavy_Crossbowman, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Helgrindian_Crossbowman, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Helgrindian_Heavy_Crossbowman, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Light_Cannon, race=mechanical, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Mortar, race=mechanical, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Pikeman, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Sergeant, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Sharpshooter, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_galianos_Crossbowman_With_Bulkward, race=galien, gender=male
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Sorcerer, race=mauvilien
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Young_Druid, race=mauvilien
+#. [unit_type], id=AE_AoA_norse_jarldoms_Hunter, race=nordian
+#: .\units\AoA_units\farengarians_kingdoms\Battle_Archmage.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Grand_Master_Paladin.cfg:17
+#: .\units\AoA_units\farengarians_kingdoms\Herald.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Knight_On_Foots.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Master_Paladin.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Nordic_Master_Archer.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Peasant.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Questing_Chevalier.cfg:16
+#: .\units\AoA_units\farengarians_kingdoms\Squire.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Balista.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Bear_Rider.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Bombard.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Great_Ballista.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Heavy_Fighter.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Runic_Scribe.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Runic_Smith.cfg:17
+#: .\units\AoA_units\farengarian_dwarves_counties\Siege_Ballista.cfg:16
+#: .\units\AoA_units\farengarian_dwarves_counties\Tinker.cfg:16
+#: .\units\AoA_units\finn_empire\Cannon.cfg:16
+#: .\units\AoA_units\finn_empire\General.cfg:16
+#: .\units\AoA_units\finn_empire\Halberdier.cfg:16
+#: .\units\AoA_units\finn_empire\Heavy_Crossbow.cfg:16
+#: .\units\AoA_units\finn_empire\Helgrindian_Crossbowman.cfg:16
+#: .\units\AoA_units\finn_empire\Helgrindian_Heavy_Crossbowman.cfg:16
+#: .\units\AoA_units\finn_empire\Light_Cannon.cfg:16
+#: .\units\AoA_units\finn_empire\Mortar.cfg:16
+#: .\units\AoA_units\finn_empire\Pikeman.cfg:16
+#: .\units\AoA_units\finn_empire\Sergeant.cfg:16
+#: .\units\AoA_units\finn_empire\Sharpshooter.cfg:16
+#: .\units\AoA_units\galianos\Crossbowman_With_Bulwark.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Sorcerer.cfg:16
+#: .\units\AoA_units\mauve_islands_federation\Young_Druid.cfg:16
+#: .\units\AoA_units\norse_jarldoms\Hunter.cfg:16
+msgid "description a venir"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Battle_Mage, race=farengar
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Battle_Mage.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Battle_Mage.cfg:57
+msgid "Battle Mage"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Bowman, race=farengar
+#. [female]
+#. [unit_type], id=AE_AoA_mountain_goblins_Bowman, race=gobmon, gender=male
+#. [unit_type], id=AE_AoA_rovahrian_elves_Bowman, race=rovElfe
+#: .\units\AoA_units\farengarians_kingdoms\Bowman.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Bowman.cfg:47
+#: .\units\AoA_units\mountain_goblins\Bowman.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Bowman.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Bowman.cfg:45
+msgid "Bowman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Champion, race=farengar
+#. [female]
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Champion, race=farNain, gender=male
+#: .\units\AoA_units\farengarians_kingdoms\Champion.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Champion.cfg:58
+#: .\units\AoA_units\farengarian_dwarves_counties\Champion.cfg:4
+msgid "Champion"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\AoA_units\farengarians_kingdoms\Champion.cfg:47
+#: .\units\AoA_units\farengarians_kingdoms\Knight_On_Foots.cfg:46
+#: .\units\AoA_units\kingdoms_rovahr\Knight_On_Foots.cfg:29
+msgid "bastard sword"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Cleric, race=farengar
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Cleric.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Cleric.cfg:62
+msgid "Cleric"
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\AoA_units\farengarians_kingdoms\Cleric.cfg:49
+#: .\units\AoA_units\farengarians_kingdoms\High_Cleric.cfg:46
+#: .\units\AoA_units\farengarians_kingdoms\Initiate.cfg:40
+msgid "holy missile"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Conscript, race=farengar
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Conscript.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Conscript.cfg:40
+msgid "Conscript"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Count, race=farengar
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Count, race=farNain, gender=male
+#: .\units\AoA_units\farengarians_kingdoms\Count.cfg:4
+#: .\units\AoA_units\farengarian_dwarves_counties\Count.cfg:4
+msgid "Count"
+msgstr ""
+
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Count.cfg:45
+msgid "Countess"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Crossbowman, race=farengar
+#. [female]
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Crossbowman, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Crossbowman, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_norse_jarldoms_Crossbowman, race=nordian
+#: .\units\AoA_units\farengarians_kingdoms\Crossbowman.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Crossbowman.cfg:47
+#: .\units\AoA_units\farengarian_dwarves_counties\Crossbowman.cfg:4
+#: .\units\AoA_units\finn_empire\Crossbowman.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Crossbowman.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Crossbowman.cfg:60
+msgid "Crossbowman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Ducal_Guard, race=farengar
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Ducal_Guard.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Ducal_Guard.cfg:55
+msgid "Ducal Guard"
+msgstr ""
+
+#. [attack], type=pierce, range=melee
+#. [attack], type=blade, range=melee
+#: .\units\AoA_units\farengarians_kingdoms\Ducal_Guard.cfg:33
+#: .\units\AoA_units\farengarians_kingdoms\Ducal_Guard.cfg:45
+msgid "Haleberd"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Duke, race=farengar
+#: .\units\AoA_units\farengarians_kingdoms\Duke.cfg:4
+msgid "Duke"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\AoA_units\farengarians_kingdoms\Duke.cfg:36
+msgid "magic long sword"
+msgstr ""
+
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Duke.cfg:46
+msgid "Duchess"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Footman, race=farengar
+#. [female]
+#. [unit_type], id=AE_AoA_galianos_Footman, race=galien, gender=male
+#. [unit_type], id=AE_AoA_mountain_goblins_Footman, race=gobmon, gender=male
+#: .\units\AoA_units\farengarians_kingdoms\Footdwarf.cfg:5
+#: .\units\AoA_units\farengarians_kingdoms\Footdwarf.cfg:42
+#: .\units\AoA_units\galianos\Footdwarf.cfg:4
+#: .\units\AoA_units\mountain_goblins\Footman.cfg:4
+msgid "Footman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Great_Arcanist, race=farengar
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Grand_Arcanist.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Grand_Arcanist.cfg:84
+msgid "Great Arcanist"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Grand_Master_Paladin, race=farengar
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Grand_Master_Paladin.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Grand_Master_Paladin.cfg:74
+msgid "Grand Master Paladin"
+msgstr ""
+
+#. [attack], type=arcane, range=melee
+#: .\units\AoA_units\farengarians_kingdoms\Grand_Master_Paladin.cfg:61
+#: .\units\AoA_units\farengarians_kingdoms\Master_Paladin.cfg:61
+#: .\units\AoA_units\farengarians_kingdoms\Paladin.cfg:61
+msgid "light's smite"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Great_Chevalier, race=farengar
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Great_Chevalier.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Great_Chevalier.cfg:54
+msgid "Great Chevalier"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Halberdier, race=farengar
+#. [female]
+#. [unit_type], id=AE_AoA_finn_empire_Halberdier, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Halberdier, race=morken, gender=male
+#: .\units\AoA_units\farengarians_kingdoms\Halberdier.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Halberdier.cfg:53
+#: .\units\AoA_units\finn_empire\Halberdier.cfg:4
+#: .\units\AoA_units\morkenost_darfenlend\Halberdier.cfg:4
+msgid "Halberdier"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Handgunner, race=farengar
+#. [female]
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Handgunner, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Handgunner, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Handgunner, race=morken, gender=male
+#: .\units\AoA_units\farengarians_kingdoms\Handgunner.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Handgunner.cfg:49
+#: .\units\AoA_units\farengarian_dwarves_counties\Handgunner.cfg:4
+#: .\units\AoA_units\finn_empire\Handgunner.cfg:4
+#: .\units\AoA_units\morkenost_darfenlend\Handgunner.cfg:4
+msgid "Handgunner"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\AoA_units\farengarians_kingdoms\Handgunner.cfg:38
+#: .\units\AoA_units\finn_empire\Handgunner.cfg:36
+msgid "matchlock arquebus"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Herald, race=farengar
+#. [female]
+#. [unit_type], id=AE_AoA_rovahrian_elves_Herald, race=rovElfe
+#: .\units\AoA_units\farengarians_kingdoms\Herald.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Herald.cfg:38
+#: .\units\AoA_units\rovahrian_elves\Herald.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Herald.cfg:50
+msgid "Herald"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_High_Cleric, race=farengar
+#: .\units\AoA_units\farengarians_kingdoms\High_Cleric.cfg:4
+msgid "High Cleric"
+msgstr ""
+
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\High_Cleric.cfg:59
+msgid "Great cleric"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Initiate, race=farengar
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Initiate.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Initiate.cfg:53
+msgid "Initiate"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Chevalier, race=farengar
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Knight.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Knight.cfg:52
+msgid "Chevalier"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Chevalier_On_Foots, race=farengar
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Knight_On_Foots.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Knight_On_Foots.cfg:55
+msgid "Chevalier On Foots"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Longbowman, race=farengar
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Longbowman, race=rovahrien, gender=male
+#: .\units\AoA_units\farengarians_kingdoms\Longbowman.cfg:4
+#: .\units\AoA_units\kingdoms_rovahr\Longbowman.cfg:4
+msgid "Longbowman"
+msgstr ""
+
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Longbowman.cfg:47
+msgid "longbowman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Lord, race=farengar
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Lord, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_finn_empire_Lord, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Lord, race=mauvilien
+#. [unit_type], id=AE_AoA_rovahrian_elves_Lord, race=rovElfe
+#: .\units\AoA_units\farengarians_kingdoms\Lord.cfg:4
+#: .\units\AoA_units\farengarian_dwarves_counties\Lord.cfg:4
+#: .\units\AoA_units\finn_empire\Lord.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Lord.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Lord.cfg:4
+msgid "Lord"
+msgstr ""
+
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Lord.cfg:45
+#: .\units\AoA_units\mauve_islands_federation\Lord.cfg:44
+#: .\units\AoA_units\rovahrian_elves\Lord.cfg:49
+msgid "Lady"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Mage, race=farengar
+#. [female]
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Mage, race=rovahrien
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Mage, race=darfen, gender=female
+#. [unit_type], id=AE_AoA_rovahrian_elves_Mage, race=rovElfe
+#: .\units\AoA_units\farengarians_kingdoms\Mage.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Mage.cfg:55
+#: .\units\AoA_units\kingdoms_rovahr\Mage.cfg:4
+#: .\units\AoA_units\kingdoms_rovahr\Mage.cfg:54
+#: .\units\AoA_units\morkenost_darfenlend\Mage.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Mage.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Mage.cfg:45
+msgid "Mage"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Master_Crossbowman, race=farengar
+#. [female]
+#. [unit_type], id=AE_AoA_finn_empire_Master_Crossbowman, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_norse_jarldoms_Master_Crossbowman, race=nordian
+#: .\units\AoA_units\farengarians_kingdoms\Master_Crossbowman.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Master_Crossbowman.cfg:51
+#: .\units\AoA_units\finn_empire\Master_Crossbowman.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Master_Crossbowman.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Master_Crossbowman.cfg:59
+msgid "Master Crossbowman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Master_Paladin, race=farengar
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Master_Paladin.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Master_Paladin.cfg:74
+msgid "Master Paladin"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Noble, race=farengar
+#. [female]
+#. [unit_type], id=AE_AoA_finn_empire_Noble, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_rovahrian_elves_Noble, race=rovElfe
+#: .\units\AoA_units\farengarians_kingdoms\Noble.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Noble.cfg:40
+#: .\units\AoA_units\finn_empire\Noble.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Noble.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Noble.cfg:46
+msgid "Noble"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Archer, race=farengar
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Royal_Archer, race=rovahrien, gender=male
+#: .\units\AoA_units\farengarians_kingdoms\Nordic_Master_Archer.cfg:4
+#: .\units\AoA_units\kingdoms_rovahr\Royal_Archer.cfg:4
+msgid "Royal Archer"
+msgstr ""
+
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Nordic_Master_Archer.cfg:48
+#: .\units\AoA_units\norse_jarldoms\Nordic_Master_Archer.cfg:63
+msgid "Archer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Paladin, race=farengar
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Paladin.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Paladin.cfg:74
+msgid "Paladin"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Peasant, race=farengar
+#. [female]
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Peasant, race=rovahrien, gender=male
+#: .\units\AoA_units\farengarians_kingdoms\Peasant.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Peasant.cfg:47
+#: .\units\AoA_units\kingdoms_rovahr\Peasant.cfg:4
+msgid "Peasant"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Questing_Chevalier, race=farengar
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Questing_Chevalier.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Questing_Chevalier.cfg:55
+msgid "Questing Chevalier"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Roi, race=farengar
+#: .\units\AoA_units\farengarians_kingdoms\Roi.cfg:4
+msgid "Roi"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#. [attack], type=arcane, range=melee
+#: .\units\AoA_units\farengarians_kingdoms\Roi.cfg:37
+#: .\units\AoA_units\kingdoms_rovahr\Grand_Master_Templar.cfg:52
+#: .\units\AoA_units\kingdoms_rovahr\Grand_Master_Templar.cfg:64
+#: .\units\AoA_units\kingdoms_rovahr\Templar_Captain.cfg:48
+#: .\units\AoA_units\kingdoms_rovahr\Templar_Captain.cfg:60
+msgid "magic sword"
+msgstr ""
+
+#. [female]
+#: .\units\AoA_units\farengarians_kingdoms\Roi.cfg:50
+msgid "Reine"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Sergeant, race=farengar
+#: .\units\AoA_units\farengarians_kingdoms\Sergeant.cfg:4
+msgid "Field Sergeant"
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\AoA_units\farengarians_kingdoms\Sergeant.cfg:38
+#: .\units\AoA_units\kingdoms_rovahr\Feudal_Knight.cfg:29
+#: .\units\AoA_units\kingdoms_rovahr\Gothic_Knight.cfg:32
+#: .\units\AoA_units\kingdoms_rovahr\Monk_Soldier.cfg:32
+#: .\units\AoA_units\kingdoms_rovahr\Priest_Fighter.cfg:35
+msgid "battle mace"
+msgstr ""
+
+#. [female]
+#. [unit_type], id=AE_AoA_finn_empire_Sergeant, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Sergeant, race=rovahrien, gender=male
+#: .\units\AoA_units\farengarians_kingdoms\Sergeant.cfg:47
+#: .\units\AoA_units\finn_empire\Sergeant.cfg:4
+#: .\units\AoA_units\kingdoms_rovahr\Sergeant.cfg:4
+msgid "Sergeant"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Lancer, race=farengar
+#. [female]
+#. [unit_type], id=AE_AoA_galianos_Lancer, race=galien, gender=male
+#: .\units\AoA_units\farengarians_kingdoms\Spearman.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Spearman.cfg:37
+#: .\units\AoA_units\galianos\Spearman.cfg:4
+msgid "Lancer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarians_kingdoms_Squire, race=farengar
+#. [female]
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Squire, race=rovahrien, gender=male
+#: .\units\AoA_units\farengarians_kingdoms\Squire.cfg:4
+#: .\units\AoA_units\farengarians_kingdoms\Squire.cfg:37
+#: .\units\AoA_units\kingdoms_rovahr\Squire.cfg:4
+msgid "Squire"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Arbalester, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Arbalester.cfg:4
+msgid "Arbalester"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\AoA_units\farengarian_dwarves_counties\Arbalester.cfg:32
+#: .\units\AoA_units\finn_empire\Helgrindian_Heavy_Crossbowman.cfg:40
+msgid "arbalest"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Artificer, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Artificer.cfg:4
+msgid "Artificer"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\AoA_units\farengarian_dwarves_counties\Artificer.cfg:35
+#: .\units\AoA_units\farengarian_dwarves_counties\Handgunner.cfg:34
+#: .\units\AoA_units\morkenost_darfenlend\Handgunner.cfg:31
+#: .\units\AoA_units\morkenost_darfenlend\Veteran_Handgunner.cfg:31
+msgid "handgun"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Balista, race=mechanical, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Balista.cfg:4
+msgid "Balista"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Bear_Knight, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Bear_Knight.cfg:4
+msgid "Bear Knight"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Bear_Rider, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Bear_Rider.cfg:4
+msgid "Bear Rider"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Bombard, race=mechanical, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Bombard.cfg:4
+msgid "Bombard"
+msgstr ""
+
+#. [attack], type=impact, range=ranged
+#. [attack], type=impact, range=artillery
+#: .\units\AoA_units\farengarian_dwarves_counties\Bombard.cfg:41
+#: .\units\AoA_units\farengarian_dwarves_counties\Bombard.cfg:51
+#: .\units\AoA_units\finn_empire\Cannon.cfg:40
+#: .\units\AoA_units\finn_empire\Great_Cannon.cfg:44
+#: .\units\AoA_units\finn_empire\Light_Cannon.cfg:40
+#: .\units\AoA_units\finn_empire\Mortar.cfg:54
+msgid "bombardment"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\AoA_units\farengarian_dwarves_counties\Champion.cfg:30
+#: .\units\AoA_units\farengarian_dwarves_counties\Heavy_Fighter.cfg:27
+msgid "two handed axe"
+msgstr ""
+
+#. [attack], type=blade, range=ranged
+#: .\units\AoA_units\farengarian_dwarves_counties\Count.cfg:47
+#: .\units\AoA_units\farengarian_dwarves_counties\Lord.cfg:44
+#: .\units\AoA_units\norse_jarldoms\Berserker.cfg:40
+#: .\units\AoA_units\norse_jarldoms\Destructive.cfg:61
+#: .\units\AoA_units\norse_jarldoms\Devastating.cfg:55
+#: .\units\AoA_units\norse_jarldoms\Double_Axe.cfg:42
+#: .\units\AoA_units\norse_jarldoms\Varangian.cfg:53
+#: .\units\AoA_units\norse_jarldoms\Viking.cfg:52
+msgid "throwing axe"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Engeener, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Engeener.cfg:4
+msgid "Engeener"
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\AoA_units\farengarian_dwarves_counties\Engeener.cfg:30
+#: .\units\AoA_units\farengarian_dwarves_counties\Master_Engeener.cfg:31
+msgid "tools"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\AoA_units\farengarian_dwarves_counties\Engeener.cfg:42
+#: .\units\AoA_units\farengarian_dwarves_counties\Master_Engeener.cfg:43
+#: .\units\AoA_units\farengarian_dwarves_counties\Tinker.cfg:34
+msgid "pistol"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Grand_Bear_Knight, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Grand_Bear_Knight.cfg:4
+msgid "Grand Bear Knight"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Grand_Griffin_Knight, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Grand_Griffin_Knight.cfg:4
+msgid "Grand Griffin Knight"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Great_Ballista, race=mechanical, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Great_Ballista.cfg:4
+msgid "Great Ballista"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Griffin_Knight, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Griffin_Knight.cfg:4
+msgid "Griffin Knight"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Griffin_Rider, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Griffin_Rider.cfg:4
+msgid "Griffin Rider"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Guard, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_norse_jarldoms_Guard, race=nordian
+#. [female]
+#: .\units\AoA_units\farengarian_dwarves_counties\Guard.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Guard.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Guard.cfg:60
+msgid "Guard"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Heavy_Fighter, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Heavy_Fighter.cfg:4
+msgid "Heavy Fighter"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Master_Engeener, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Master_Engeener.cfg:4
+msgid "Master Engeener"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Runes_Archmage, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Runes_Archmage.cfg:4
+msgid "Runes Archmage"
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\AoA_units\farengarian_dwarves_counties\Runes_Archmage.cfg:32
+#: .\units\AoA_units\farengarian_dwarves_counties\Runes_Mage.cfg:31
+#: .\units\AoA_units\farengarian_dwarves_counties\Runic_Smith.cfg:31
+msgid "runic hammer"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\AoA_units\farengarian_dwarves_counties\Runes_Archmage.cfg:44
+#: .\units\AoA_units\farengarian_dwarves_counties\Runes_Mage.cfg:43
+#: .\units\AoA_units\farengarian_dwarves_counties\Runic_Scribe.cfg:37
+#: .\units\AoA_units\farengarian_dwarves_counties\Runic_Smith.cfg:43
+msgid "runic lightning"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Runes_Mage, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Runes_Mage.cfg:4
+msgid "Runes Mage"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Runic_Scribe, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Runic_Scribe.cfg:4
+msgid "Runic Scribe"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Runic_Smith, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Runic_Smith.cfg:4
+msgid "Runic Smith"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Sentinel, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Sentinel.cfg:4
+msgid "Sentinel"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Siege_Ballista, race=mechanical, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Siege_Ballista.cfg:4
+msgid "Siege Ballista"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Silver_Guard, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Silver_Guard.cfg:4
+msgid "Silver Guard"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\AoA_units\farengarian_dwarves_counties\Silver_Guard.cfg:55
+msgid "incendiary bomb"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Thane, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_norse_jarldoms_Thane, race=nordian
+#. [female]
+#: .\units\AoA_units\farengarian_dwarves_counties\Thane.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Thane.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Thane.cfg:55
+msgid "Thane"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Tinker, race=farNain, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Tinker.cfg:4
+msgid "Tinker"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_farengarian_dwarves_counties_Fighter, race=farNain, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Fighter, race=darfen, gender=male
+#: .\units\AoA_units\farengarian_dwarves_counties\Warrior.cfg:4
+#: .\units\AoA_units\morkenost_darfenlend\Fighter.cfg:4
+msgid "Fighter"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Cannon, race=mechanical, gender=male
+#: .\units\AoA_units\finn_empire\Cannon.cfg:4
+msgid "Cannon"
+msgstr ""
+
+#. [attack], type=impact, range=artillery
+#: .\units\AoA_units\finn_empire\Cannon.cfg:50
+#: .\units\AoA_units\finn_empire\Great_Cannon.cfg:54
+#: .\units\AoA_units\finn_empire\Light_Cannon.cfg:50
+msgid "cannon"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Captain, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Captain, race=morken, gender=male
+#: .\units\AoA_units\finn_empire\Captain.cfg:4
+#: .\units\AoA_units\morkenost_darfenlend\Captain.cfg:4
+msgid "Captain"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\AoA_units\finn_empire\Captain.cfg:34
+#: .\units\AoA_units\finn_empire\Commander.cfg:39
+#: .\units\AoA_units\finn_empire\Duelist.cfg:40
+#: .\units\AoA_units\finn_empire\Emperor.cfg:59
+#: .\units\AoA_units\finn_empire\Fencer.cfg:37
+#: .\units\AoA_units\finn_empire\General.cfg:39
+#: .\units\AoA_units\finn_empire\Master_At_Arms.cfg:41
+#: .\units\AoA_units\finn_empire\Reiter.cfg:31
+#: .\units\AoA_units\finn_empire\Sergeant.cfg:34
+#: .\units\AoA_units\morkenost_darfenlend\Captain.cfg:35
+#: .\units\AoA_units\morkenost_darfenlend\Commander.cfg:36
+#: .\units\AoA_units\morkenost_darfenlend\Sergeant.cfg:35
+msgid "wheellock pistol"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Citizen, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_galianos_Citizen, race=galien, gender=male
+#: .\units\AoA_units\finn_empire\Citizen.cfg:4
+#: .\units\AoA_units\galianos\Citizen.cfg:4
+msgid "Citizen"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Commander, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Commander, race=morken, gender=male
+#: .\units\AoA_units\finn_empire\Commander.cfg:4
+#: .\units\AoA_units\morkenost_darfenlend\Commander.cfg:4
+msgid "Commander"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Duelist, race=empfinn
+#. [female]
+#: .\units\AoA_units\finn_empire\Duelist.cfg:4
+#: .\units\AoA_units\finn_empire\Duelist.cfg:53
+msgid "Duelist"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\AoA_units\finn_empire\Duelist.cfg:28
+#: .\units\AoA_units\finn_empire\Fencer.cfg:28
+#: .\units\AoA_units\finn_empire\Master_At_Arms.cfg:29
+msgid "rapier"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Emperor, race=empfinn, gender=male
+#: .\units\AoA_units\finn_empire\Emperor.cfg:4
+msgid "Emperor"
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\AoA_units\finn_empire\Emperor.cfg:38
+msgid "magical hammer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Enchanter, race=empfinn
+#. [female]
+#: .\units\AoA_units\finn_empire\Enchanter.cfg:4
+#: .\units\AoA_units\finn_empire\Enchanter.cfg:58
+msgid "Enchanter"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Enchanter, race=empfinn
+#. [unit_type], id=AE_AoA_finn_empire_Enchanter_Apprentice, race=empfinn
+#. [unit_type], id=AE_AoA_finn_empire_Master_Enchanter, race=empfinn
+#: .\units\AoA_units\finn_empire\Enchanter.cfg:16
+#: .\units\AoA_units\finn_empire\Enchanter_Apprentice.cfg:16
+#: .\units\AoA_units\finn_empire\Master_Enchanter.cfg:16
+msgid "Enchantement !"
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\AoA_units\finn_empire\Enchanter.cfg:45
+#: .\units\AoA_units\finn_empire\Master_Enchanter.cfg:46
+msgid "enchantment of slowness"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Enchanter_Apprentice, race=empfinn
+#. [female]
+#: .\units\AoA_units\finn_empire\Enchanter_Apprentice.cfg:4
+#: .\units\AoA_units\finn_empire\Enchanter_Apprentice.cfg:50
+msgid "Enchanter Apprentice"
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\AoA_units\finn_empire\Enchanter_Apprentice.cfg:38
+msgid "basic enchantment"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Fencer, race=empfinn
+#. [female]
+#: .\units\AoA_units\finn_empire\Fencer.cfg:4
+#: .\units\AoA_units\finn_empire\Fencer.cfg:50
+msgid "Fencer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Fencer, race=empfinn
+#: .\units\AoA_units\finn_empire\Fencer.cfg:16
+msgid "description to come (ex stats = pv = 28)"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_General, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_galianos_General, race=galien, gender=male
+#: .\units\AoA_units\finn_empire\General.cfg:4
+#: .\units\AoA_units\galianos\General.cfg:4
+msgid "General"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Great_Cannon, race=mechanical, gender=male
+#: .\units\AoA_units\finn_empire\Great_Cannon.cfg:4
+msgid "Great Cannon"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\AoA_units\finn_empire\Halberdier.cfg:39
+msgid "haleberd"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Heavy_Crossbowman, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_norse_jarldoms_Heavy_Crossbowman, race=nordian
+#. [female]
+#: .\units\AoA_units\finn_empire\Heavy_Crossbow.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Heavy_Crossbow.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Heavy_Crossbow.cfg:59
+msgid "Heavy Crossbowman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Helgrindian_Crossbowman, race=empfinn, gender=male
+#: .\units\AoA_units\finn_empire\Helgrindian_Crossbowman.cfg:4
+msgid "Helgrindian Crossbowman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Helgrindian_Heavy_Crossbowman, race=empfinn, gender=male
+#: .\units\AoA_units\finn_empire\Helgrindian_Heavy_Crossbowman.cfg:4
+msgid "Helgrindian Elite Crossbowman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Helgrindian_Heavy_Soldier, race=empfinn, gender=male
+#: .\units\AoA_units\finn_empire\Helgrindian_Heavy_Soldier.cfg:4
+msgid "Helgrindian Elite Soldier"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Helgrindian_Soldier, race=empfinn, gender=male
+#: .\units\AoA_units\finn_empire\Helgrindian_Soldier.cfg:4
+msgid "Helgrindian Soldier"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Lansquenet, race=empfinn, gender=male
+#: .\units\AoA_units\finn_empire\Lansquenet.cfg:4
+msgid "Lansquenet"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\AoA_units\finn_empire\Lansquenet.cfg:27
+#: .\units\AoA_units\finn_empire\Lansquenet.cfg:36
+#: .\units\AoA_units\kingdoms_rovahr\Gothic_Kight_On_Foots.cfg:34
+#: .\units\AoA_units\kingdoms_rovahr\Gothic_Kight_On_Foots.cfg:43
+#: .\units\AoA_units\kingdoms_rovahr\Konig.cfg:37
+msgid "zweihander"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Light_Cannon, race=mechanical, gender=male
+#: .\units\AoA_units\finn_empire\Light_Cannon.cfg:4
+msgid "Light Cannon"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Master_At_Arms, race=empfinn
+#. [female]
+#: .\units\AoA_units\finn_empire\Master_At_Arms.cfg:4
+#: .\units\AoA_units\finn_empire\Master_At_Arms.cfg:54
+msgid "Master At Arms"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Master_Enchanter, race=empfinn
+#. [female]
+#: .\units\AoA_units\finn_empire\Master_Enchanter.cfg:4
+#: .\units\AoA_units\finn_empire\Master_Enchanter.cfg:59
+msgid "Master Enchanter"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Mortar, race=mechanical, gender=male
+#: .\units\AoA_units\finn_empire\Mortar.cfg:4
+msgid "Mortar"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\AoA_units\finn_empire\Mortar.cfg:41
+msgid "heated shot"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Pikeman, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_galianos_Pikeman, race=galien, gender=male
+#: .\units\AoA_units\finn_empire\Pikeman.cfg:4
+#: .\units\AoA_units\galianos\Pikeman.cfg:4
+msgid "Pikeman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Pistolier, race=empfinn, gender=male
+#: .\units\AoA_units\finn_empire\Pistolier.cfg:4
+msgid "Pistolier"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\AoA_units\finn_empire\Pistolier.cfg:32
+msgid "pair of wheellock pistols"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Recruit, race=empfinn, gender=male
+#: .\units\AoA_units\finn_empire\Recruit.cfg:4
+msgid "Recruit"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Reiter, race=empfinn, gender=male
+#: .\units\AoA_units\finn_empire\Reiter.cfg:4
+msgid "Reiter"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Rider, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_galianos_Rider, race=galien, gender=male
+#. [unit_type], id=AE_AoA_norse_jarldoms_Rider, race=nordian
+#. [female]
+#. [unit_type], id=AE_AoA_rovahrian_elves_Rider, race=rovElfe
+#: .\units\AoA_units\finn_empire\Rider.cfg:4
+#: .\units\AoA_units\galianos\Rider.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Rider.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Rider.cfg:43
+#: .\units\AoA_units\rovahrian_elves\Rider.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Rider.cfg:50
+msgid "Rider"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Sharpshooter, race=empfinn, gender=male
+#: .\units\AoA_units\finn_empire\Sharpshooter.cfg:4
+msgid "Sharpshooter"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\AoA_units\finn_empire\Sharpshooter.cfg:38
+#: .\units\AoA_units\morkenost_darfenlend\Muskeeter.cfg:32
+msgid "musket"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_finn_empire_Swordman, race=empfinn, gender=male
+#. [unit_type], id=AE_AoA_galianos_Swordman, race=galien, gender=male
+#. [unit_type], id=AE_AoA_rovahrian_elves_Swordman, race=rovElfe
+#. [female]
+#: .\units\AoA_units\finn_empire\Swordman.cfg:4
+#: .\units\AoA_units\galianos\Swordman.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Swordman.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Swordman.cfg:36
+msgid "Swordman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Alchemist, race=galien, gender=male
+#: .\units\AoA_units\galianos\Alchemist.cfg:4
+msgid "Alchemist"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\AoA_units\galianos\Alchemist.cfg:40
+#: .\units\AoA_units\galianos\Master_Pyromancer.cfg:41
+#: .\units\AoA_units\galianos\Pyromancer.cfg:40
+msgid "flame-thrower"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Apothecary, race=galien, gender=male
+#: .\units\AoA_units\galianos\Apothecary.cfg:4
+msgid "Apothecary"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Astraidian_Crossbowman, race=galien, gender=male
+#: .\units\AoA_units\galianos\Astraidian_Crossbowman.cfg:4
+msgid "Astraidian Crossbowman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Civil_Guard, race=galien, gender=male
+#: .\units\AoA_units\galianos\Civil_Guard.cfg:4
+msgid "Civil Guard"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Condotierre, race=galien, gender=male
+#: .\units\AoA_units\galianos\Condotierre.cfg:4
+msgid "Condotierre"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Condotierre_On_Foots, race=galien, gender=male
+#: .\units\AoA_units\galianos\Condotierre_On_Foots.cfg:4
+msgid "Condotierre On Foots"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Crossbowman_With_Bulkward, race=galien, gender=male
+#: .\units\AoA_units\galianos\Crossbowman_With_Bulwark.cfg:4
+msgid "Crossbowman With Bulkward"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Elite_Javelinist, race=galien, gender=male
+#: .\units\AoA_units\galianos\Elite_Javelinist.cfg:4
+msgid "Elite Javelinist"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Elite_Lancer, race=galien, gender=male
+#: .\units\AoA_units\galianos\Elite_Lancer.cfg:4
+msgid "Elite Lancer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Elite_Swordman, race=galien, gender=male
+#: .\units\AoA_units\galianos\Elite_Swordman.cfg:4
+msgid "Elite Swordman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Escort, race=galien, gender=male
+#: .\units\AoA_units\galianos\Escort.cfg:4
+msgid "Escort"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Galianos_Duelist, race=galien, gender=male
+#: .\units\AoA_units\galianos\Galianos_Duelist.cfg:4
+msgid "Galianos Duelist"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Gendarme, race=galien, gender=male
+#: .\units\AoA_units\galianos\Gendarme.cfg:4
+msgid "Gendarme"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Gendarme_On_Foots, race=galien, gender=male
+#: .\units\AoA_units\galianos\Gendarme_On_Foots.cfg:4
+msgid "Gendarme On Foots"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Heavy_Footman, race=galien, gender=male
+#: .\units\AoA_units\galianos\Heavy_Footman.cfg:4
+msgid "Heavy Footman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Heavy_Pikemen, race=galien, gender=male
+#: .\units\AoA_units\galianos\Heavy_Pikemen.cfg:4
+msgid "Heavy Pikemen"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Herborist, race=galien, gender=male
+#: .\units\AoA_units\galianos\Herborist.cfg:4
+msgid "Herborist"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Hussar, race=galien, gender=male
+#: .\units\AoA_units\galianos\Hussar.cfg:4
+msgid "Hussar"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Imperator, race=galien, gender=male
+#: .\units\AoA_units\galianos\Imperator.cfg:4
+msgid "Imperator"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Javelinist, race=galien, gender=male
+#: .\units\AoA_units\galianos\Javelinist.cfg:4
+msgid "Javelinist"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Master_Pyromancer, race=galien, gender=male
+#: .\units\AoA_units\galianos\Master_Pyromancer.cfg:4
+msgid "Master Pyromancer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Militia, race=galien, gender=male
+#: .\units\AoA_units\galianos\Militia.cfg:4
+msgid "Militia"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Mounted_Crossbowman, race=galien, gender=male
+#: .\units\AoA_units\galianos\Mounted_Crossbowman.cfg:4
+msgid "Mounted Crossbowman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Pyromancer, race=galien, gender=male
+#: .\units\AoA_units\galianos\Pyromancer.cfg:4
+msgid "Pyromancer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Ranger, race=galien, gender=male
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Ranger, race=darfen, gender=male
+#. [unit_type], id=AE_AoA_rovahrian_elves_Ranger, race=rovElfe
+#. [female]
+#: .\units\AoA_units\galianos\Ranger.cfg:4
+#: .\units\AoA_units\morkenost_darfenlend\Ranger.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Ranger.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Ranger.cfg:54
+msgid "Ranger"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Scout, race=galien, gender=male
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Scout, race=mauvilien
+#. [female]
+#. [unit_type], id=AE_AoA_rovahrian_elves_Scout, race=rovElfe
+#: .\units\AoA_units\galianos\Scout.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Scout.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Scout.cfg:47
+#: .\units\AoA_units\rovahrian_elves\Scout.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Scout.cfg:50
+msgid "Scout"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Skirmisher, race=galien, gender=male
+#: .\units\AoA_units\galianos\Skirmisher.cfg:4
+msgid "Skirmisher"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_galianos_Veteran_Ranger, race=galien, gender=male
+#: .\units\AoA_units\galianos\Veteran_Ranger.cfg:4
+msgid "Veteran Ranger"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Archbishop_Fighter, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Archbishop_Fighter.cfg:4
+msgid "Archbishop-Fighter"
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\AoA_units\kingdoms_rovahr\Archbishop_Fighter.cfg:38
+#: .\units\AoA_units\kingdoms_rovahr\Bishop_Fighter.cfg:37
+msgid "warhammer"
+msgstr ""
+
+#. [attack], type=arcane, range=ranged
+#: .\units\AoA_units\kingdoms_rovahr\Archbishop_Fighter.cfg:47
+#: .\units\AoA_units\kingdoms_rovahr\Bishop_Fighter.cfg:46
+#: .\units\AoA_units\kingdoms_rovahr\Monk_Soldier.cfg:41
+#: .\units\AoA_units\kingdoms_rovahr\Priest_Fighter.cfg:44
+msgid "battle light"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Aspirant_Templar, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Aspirant_Templar.cfg:4
+msgid "Aspirant Templar"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Bishop_Fighter, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Bishop_Fighter.cfg:4
+msgid "Bishop-Fighter"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Crossbowman_With_Bulwark, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Crossbowman_With_Bulwark.cfg:4
+msgid "Crossbowman With Bulwark"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Feudal_Knight, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Feudal_Knight.cfg:4
+msgid "Feudal Knight"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Feudal_Levy, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Feudal_Levy.cfg:4
+msgid "Feudal Levy"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Gothic_Kight_On_Foots, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Gothic_Kight_On_Foots.cfg:4
+msgid "Gothic Knight On Foots"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Gothic_Knight, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Gothic_Knight.cfg:4
+msgid "Gothic Knight"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Grand_Inquisitor, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Grand_Inquisitor.cfg:4
+msgid "Grand Inquisitor"
+msgstr ""
+
+#. [attack], type=arcane, range=melee
+#: .\units\AoA_units\kingdoms_rovahr\Grand_Inquisitor.cfg:39
+#: .\units\AoA_units\kingdoms_rovahr\Inquisitor.cfg:38
+msgid "blessed sword"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\AoA_units\kingdoms_rovahr\Grand_Inquisitor.cfg:51
+msgid "flintlock pistol"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Grand_Mage, race=rovahrien
+#. [female]
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Grand_Mage, race=darfen, gender=female
+#: .\units\AoA_units\kingdoms_rovahr\Grand_Mage.cfg:4
+#: .\units\AoA_units\kingdoms_rovahr\Grand_Mage.cfg:56
+#: .\units\AoA_units\morkenost_darfenlend\Grand_Mage.cfg:4
+msgid "Grand Mage"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Grand_Master_Templar, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Grand_Master_Templar.cfg:4
+msgid "Grand Master Templar"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Halbruder, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Halbruder.cfg:4
+msgid "Halbrüder"
+msgstr ""
+
+#. [attack], type=arcane, range=melee
+#: .\units\AoA_units\kingdoms_rovahr\Halbruder.cfg:34
+msgid "blesed sword"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Heavy_Crossbow, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Heavy_Crossbow.cfg:4
+msgid "Heavy Crossbow"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Inquisitor, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Inquisitor.cfg:4
+msgid "Inquisitor"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\AoA_units\kingdoms_rovahr\Inquisitor.cfg:47
+msgid "hand crossbow"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Knight_On_Foots, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Knight_On_Foots.cfg:4
+msgid "Knight On Foots"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Konig, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Konig.cfg:4
+msgid "König"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\AoA_units\kingdoms_rovahr\Longbowman.cfg:29
+#: .\units\AoA_units\kingdoms_rovahr\Peasant_Crossbowman.cfg:29
+msgid "shortsword"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Men_At_Arms, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Men_At_Arms.cfg:4
+msgid "Men At Arms"
+msgstr ""
+
+#. [attack], type=pierce, range=melee
+#. [attack], type=impact, range=melee
+#: .\units\AoA_units\kingdoms_rovahr\Men_At_Arms.cfg:33
+#: .\units\AoA_units\kingdoms_rovahr\Men_At_Arms.cfg:45
+#: .\units\AoA_units\kingdoms_rovahr\Sergeant.cfg:37
+#: .\units\AoA_units\kingdoms_rovahr\Sergeant.cfg:49
+msgid "battle hammer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Mercenary, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Mercenary.cfg:4
+msgid "Mercenary"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Mercenary_Captain, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Mercenary_Captain.cfg:4
+msgid "Mercenary Captain"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Monk_Soldier, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Monk_Soldier.cfg:4
+msgid "Monk-Soldier"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Novice, race=rovahrien
+#. [female]
+#: .\units\AoA_units\kingdoms_rovahr\Novice.cfg:4
+#: .\units\AoA_units\kingdoms_rovahr\Novice.cfg:50
+msgid "Novice"
+msgstr ""
+
+#. [attack], type=pierce, range=melee
+#. [attack], type=pierce, range=ranged
+#: .\units\AoA_units\kingdoms_rovahr\Peasant.cfg:29
+#: .\units\AoA_units\kingdoms_rovahr\Peasant.cfg:38
+msgid "fork"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Peasant_Crossbowman, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Peasant_Crossbowman.cfg:4
+msgid "Peasant Crossbowman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Priest_Fighter, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Priest_Fighter.cfg:4
+msgid "Priest-Fighter"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Ritterbruder, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Ritterbruder.cfg:4
+msgid "Ritterbrüder"
+msgstr ""
+
+#. [attack], type=arcane, range=melee
+#: .\units\AoA_units\kingdoms_rovahr\Ritterbruder.cfg:32
+msgid "justice sword"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Templar, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Templar.cfg:4
+msgid "Templar"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Templar_Captain, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Templar_Captain.cfg:4
+msgid "Templar-Captain"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_kingdoms_rovahr_Young_Knight, race=rovahrien, gender=male
+#: .\units\AoA_units\kingdoms_rovahr\Young_Knight.cfg:4
+msgid "Young Knight"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Ancient_Druid, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Ancient_Druid.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Ancient_Druid.cfg:66
+msgid "Ancient Druid"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\AoA_units\mauve_islands_federation\Ancient_Druid.cfg:53
+#: .\units\AoA_units\mauve_islands_federation\Druid.cfg:51
+#: .\units\AoA_units\rovahrian_elves\Archdruid.cfg:49
+#: .\units\AoA_units\rovahrian_elves\Druid.cfg:47
+msgid "spines"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Apprentice_Sorcerer, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Apprentice_Sorcerer.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Apprentice_Sorcerer.cfg:50
+msgid "Apprentice Sorcerer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Archmage, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Archmage.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Archmage.cfg:87
+msgid "Archmage"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Axe_Wielder, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Axe_Wielder.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Axe_Wielder.cfg:49
+msgid "Axe Wielder"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Chieftain, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Chieftain.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Chieftain.cfg:50
+msgid "Chieftain"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\AoA_units\mauve_islands_federation\Chieftain.cfg:38
+#: .\units\AoA_units\mauve_islands_federation\Clans_Warrior.cfg:28
+#: .\units\AoA_units\mauve_islands_federation\Highlander.cfg:28
+#: .\units\AoA_units\mauve_islands_federation\High_King.cfg:32
+msgid "claymore"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Clans_Longbowman, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Clans_Longbowman.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Clans_Longbowman.cfg:47
+msgid "Clans Longbowman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Clans_Pikeman, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Clans_Pikeman.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Clans_Pikeman.cfg:40
+msgid "Clans Pikeman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Clans_Warrior, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Clans_Warrior.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Clans_Warrior.cfg:40
+msgid "Clans Warrior"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Druid, race=mauvilien
+#. [female]
+#. [unit_type], id=AE_AoA_rovahrian_elves_Druid, race=rovElfe, gender=female
+#: .\units\AoA_units\mauve_islands_federation\Druid.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Druid.cfg:64
+#: .\units\AoA_units\rovahrian_elves\Druid.cfg:4
+msgid "Druid"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Elder_Sorcerer, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Elder_Sorcerer.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Elder_Sorcerer.cfg:57
+msgid "Elder Sorcerer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Elite_Sorcerer, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Elite_Sorcerer.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Elite_Sorcerer.cfg:56
+msgid "Elite Sorcerer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Free_Archer, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Free_Archer.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Free_Archer.cfg:48
+msgid "Free Archer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Gallowglass, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Gallowglass.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Gallowglass.cfg:55
+msgid "Gallowglass"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Grand_Arcanist, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Grand_Arcanist.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Grand_Arcanist.cfg:85
+msgid "Grand Arcanist"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Heavy_Pikeman, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Heavy_Pikemen.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Heavy_Pikemen.cfg:43
+msgid "Heavy Pikeman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Highlander, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Highlander.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Highlander.cfg:40
+msgid "Highlander"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_High_King, race=mauvilien
+#. [unit_type], id=AE_AoA_norse_jarldoms_High_King, race=nordian
+#: .\units\AoA_units\mauve_islands_federation\High_King.cfg:4
+#: .\units\AoA_units\norse_jarldoms\High_King.cfg:4
+msgid "High King"
+msgstr ""
+
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\High_King.cfg:41
+#: .\units\AoA_units\norse_jarldoms\High_King.cfg:60
+msgid "High queen"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Knight, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Knight.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Knight.cfg:40
+msgid "Knight"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Knight_Arcanist, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Knight_Arcanist.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Knight_Arcanist.cfg:63
+msgid "Knight-Arcanist"
+msgstr ""
+
+#. [attack], type=fire, range=ranged
+#: .\units\AoA_units\mauve_islands_federation\Knight_Arcanist.cfg:50
+#: .\units\AoA_units\mauve_islands_federation\Magister.cfg:52
+msgid "arcanic fire"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Mage_Blade, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Mage_Blade.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Mage_Blade.cfg:59
+msgid "Mage-Blade"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Magister, race=mauvilien
+#. [female]
+#. [unit_type], id=AE_AoA_rovahrian_elves_Magister, race=rovElfe
+#: .\units\AoA_units\mauve_islands_federation\Magister.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Magister.cfg:65
+#: .\units\AoA_units\rovahrian_elves\Magister.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Magister.cfg:52
+msgid "Magister"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Schiltron, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Schiltron.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Schiltron.cfg:56
+msgid "Schiltron"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Sorcerer, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Sorcerer.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Sorcerer.cfg:54
+msgid "Sorcerer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Student, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Student.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Student.cfg:56
+msgid "Student"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Villager, race=mauvilien
+#. [female]
+#. [unit_type], id=AE_AoA_norse_jarldoms_Villager, race=nordian
+#: .\units\AoA_units\mauve_islands_federation\Villager.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Villager.cfg:37
+#: .\units\AoA_units\norse_jarldoms\Villager.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Villager.cfg:41
+msgid "Villager"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Warrior_Mage, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Warrior_Mage.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Warrior_Mage.cfg:58
+msgid "Warrior-Mage"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mauve_islands_federation_Young_Druid, race=mauvilien
+#. [female]
+#: .\units\AoA_units\mauve_islands_federation\Young_Druid.cfg:4
+#: .\units\AoA_units\mauve_islands_federation\Young_Druid.cfg:52
+msgid "Young Druid"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Archer_On_Griffin, race=darfen, gender=male
+#: .\units\AoA_units\morkenost_darfenlend\Archer_On_Griffin.cfg:4
+msgid "Archer On Griffin"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\AoA_units\morkenost_darfenlend\Captain.cfg:26
+#: .\units\AoA_units\morkenost_darfenlend\Commander.cfg:27
+#: .\units\AoA_units\morkenost_darfenlend\Sergeant.cfg:26
+msgid "falchion"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Cuirassier, race=morken, gender=male
+#: .\units\AoA_units\morkenost_darfenlend\Cuirassier.cfg:4
+msgid "Cuirassier"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Footdwarf, race=morken, gender=male
+#: .\units\AoA_units\morkenost_darfenlend\Footdwarf.cfg:4
+msgid "Footdwarf"
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#. [attack], type=fire, range=melee
+#: .\units\AoA_units\morkenost_darfenlend\Grand_Mage.cfg:31
+#: .\units\AoA_units\morkenost_darfenlend\Grand_Mage.cfg:43
+msgid "thunder mace"
+msgstr ""
+
+#. [attack], type=cold, range=ranged
+#: .\units\AoA_units\morkenost_darfenlend\Grand_Mage.cfg:55
+#: .\units\AoA_units\morkenost_darfenlend\Healer.cfg:37
+#: .\units\AoA_units\morkenost_darfenlend\Mage.cfg:39
+#: .\units\AoA_units\morkenost_darfenlend\Shaman.cfg:37
+#: .\units\AoA_units\morkenost_darfenlend\Sorceress.cfg:34
+#: .\units\AoA_units\morkenost_darfenlend\Wise.cfg:46
+msgid "frozen wind"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Hammerer, race=morken, gender=male
+#: .\units\AoA_units\morkenost_darfenlend\Hammerer.cfg:4
+msgid "Hammerer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Healer, race=darfen, gender=female
+#. [unit_type], id=AE_AoA_rovahrian_elves_Healer, race=rovElfe, gender=female
+#: .\units\AoA_units\morkenost_darfenlend\Healer.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Healer.cfg:4
+msgid "Healer"
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\AoA_units\morkenost_darfenlend\Healer.cfg:28
+#: .\units\AoA_units\morkenost_darfenlend\Wise.cfg:34
+msgid "runic staff"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Hunter, race=darfen, gender=male
+#. [unit_type], id=AE_AoA_mountain_goblins_Hunter, race=gobmon, gender=male
+#. [unit_type], id=AE_AoA_norse_jarldoms_Hunter, race=nordian
+#. [female]
+#: .\units\AoA_units\morkenost_darfenlend\Hunter.cfg:4
+#: .\units\AoA_units\mountain_goblins\Hunter.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Hunter.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Hunter.cfg:53
+msgid "Hunter"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Hunter_On_Griffin, race=darfen, gender=male
+#: .\units\AoA_units\morkenost_darfenlend\Hunter_On_Griffin.cfg:4
+msgid "Hunter On Griffin"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Muskeeter, race=morken, gender=male
+#: .\units\AoA_units\morkenost_darfenlend\Muskeeter.cfg:4
+msgid "Muskeeter"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Sergent, race=morken, gender=male
+#: .\units\AoA_units\morkenost_darfenlend\Sergeant.cfg:4
+msgid "Sergent"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Shaman, race=darfen, gender=female
+#. [unit_type], id=AE_AoA_mountain_goblins_Shaman, race=gobmon, gender=male
+#: .\units\AoA_units\morkenost_darfenlend\Shaman.cfg:4
+#: .\units\AoA_units\mountain_goblins\Shaman.cfg:4
+msgid "Shaman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Shock_Soldier, race=morken, gender=male
+#: .\units\AoA_units\morkenost_darfenlend\Shock_Soldier.cfg:4
+msgid "Shock Soldier"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Sorceress, race=darfen, gender=female
+#: .\units\AoA_units\morkenost_darfenlend\Sorceress.cfg:4
+msgid "Sorceress"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Trapper, race=darfen, gender=male
+#: .\units\AoA_units\morkenost_darfenlend\Trapper.cfg:4
+msgid "Trapper"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Veteran, race=morken, gender=male
+#: .\units\AoA_units\morkenost_darfenlend\Veteran.cfg:4
+msgid "Veteran"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Veteran_Handgunner, race=morken, gender=male
+#: .\units\AoA_units\morkenost_darfenlend\Veteran_Handgunner.cfg:4
+msgid "Veteran Handgunner"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Warden, race=darfen, gender=male
+#: .\units\AoA_units\morkenost_darfenlend\Warden.cfg:4
+msgid "Warden"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Warrior, race=darfen, gender=male
+#. [unit_type], id=AE_AoA_mountain_goblins_Warrior, race=gobmon, gender=male
+#. [unit_type], id=AE_AoA_norse_jarldoms_Warrior, race=nordian
+#. [female]
+#: .\units\AoA_units\morkenost_darfenlend\Warrior.cfg:4
+#: .\units\AoA_units\mountain_goblins\Warrior.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Warrior.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Warrior.cfg:48
+msgid "Warrior"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_morkenost_darfenlend_Wise, race=darfen, gender=female
+#: .\units\AoA_units\morkenost_darfenlend\Wise.cfg:4
+msgid "Wise"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Assassin, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Assassin.cfg:4
+msgid "Assassin"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Assassin, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Assassin.cfg:16
+msgid ""
+"Goblins can become into proficient assassins as if they avoid denutrition "
+"while their race not being naturally strong they can become very dexterous "
+"and quite nimble."
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Bowman, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Bowman.cfg:16
+msgid ""
+"Goblin bowmen while particularly not potent, they learn to fire quite fast "
+"and with some experience they lose fear at trying to use burning arrows."
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Clan_Chief, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Clan_Chief.cfg:4
+msgid "Clan Chief"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Footman, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Footman.cfg:16
+msgid ""
+"The main strike force of mountain globins are goblins welding axes. Some of "
+"them while not being tough are still dangeous..."
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Wiseman, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Goblin_Wiseman.cfg:6
+msgid "Goblin Wiseman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Wiseman, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Goblin_Wiseman.cfg:18
+msgid ""
+"Unlike shamans on other races that tends to be wise and moralist goblins "
+"wiseman focuses in being sharp minded and intuitive, giving more practical "
+"use of their knowledge and spreading the shamanistic arcs among the mountain "
+"goblins which been belived of being incapable of being capable to use magic, "
+"but they have proven all other races were underrating so much the fellow "
+"goblins."
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Hunter, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Hunter.cfg:16
+msgid ""
+"Goblin hunters are many times hired in times of war because they require no "
+"additional training to be useful in war."
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\AoA_units\mountain_goblins\Hunter.cfg:36
+#: .\units\AoA_units\mountain_goblins\Wolf_Archer.cfg:31
+#: .\units\AoA_units\mountain_goblins\Wolf_Champion.cfg:32
+#: .\units\AoA_units\mountain_goblins\Wolf_Rider.cfg:31
+msgid "shortbow"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Invader, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Invader.cfg:6
+msgid "Invader"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Invader, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Invader.cfg:18
+msgid ""
+"Invaders are very skilled at offensive fighting style, still their poor armor"
+" and small size makes them not sturdy but he compesates at being agile in "
+"worse terrains including flat."
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Leader, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Leader.cfg:4
+msgid "Leader"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Medicine_Goblin, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Medicine_Goblin.cfg:4
+msgid "Medicine Goblin"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Medicine_Goblin, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Medicine_Goblin.cfg:16
+msgid ""
+"Goblins if avoiding denutrition some of then can become cunning and smart, at"
+" a point at learning from animals which plants are medicinal and prepare "
+"cures that are highly effective for their friends."
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Ranger, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Plains_Ranger.cfg:6
+msgid "Plains Ranger"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Ranger, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Plains_Ranger.cfg:18
+msgid ""
+"Plain rangers are agile and deadly, but extremely squishy and frail. It's "
+"surprisingly nimble and hard to hit."
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Shaman, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Shaman.cfg:16
+msgid ""
+"Once a very smart goblin fled their orc camp on a night with an orcis "
+"shamanistic spellbook... while they could not understand the writing, just by"
+" recognizing the plants and ingredients they learnt to prepare stronger cures"
+" and also to curse to their foes."
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Slayer, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Slayer.cfg:6
+msgid "Night Slayer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Slayer, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Slayer.cfg:18
+msgid ""
+"Goblin Slayers are the proof of why orcs lead fellow goblins to starving "
+"servants. With some proper training and no denutrition goblins can become in "
+"really good assassins."
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Sneaky, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Sneaky.cfg:4
+msgid "Sneaky"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Sneaky, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Sneaky.cfg:16
+msgid ""
+"Goblins have potential at becoming deadly assassins as their bodies are "
+"naturally good for sneaky fighting style thanks to their small size which "
+"exposes them less to hits than their orcish or human counterparts."
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Warlord, race=gobmon, gender=male
+#. [unit_type], id=AE_AoA_norse_jarldoms_Warlord, race=nordian
+#: .\units\AoA_units\mountain_goblins\Warlord.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Warlord.cfg:4
+msgid "Warlord"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Warrior, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Warrior.cfg:16
+msgid ""
+"The main strike force of mountain globins are goblins welding axes and most "
+"of them are sent as fodder which sometimes gives surprisingly good ressults."
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Wolf_Archer, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Wolf_Archer.cfg:4
+msgid "Wolf Archer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Wolf_Archer, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Wolf_Archer.cfg:16
+msgid ""
+"Archers on a wolf are one of the most deadliest of all mountain goblin forces"
+" serving a decent firepower but for a wide big area covering more at being "
+"fast and having a long range attack as well."
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Wolf_Champion, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Wolf_Champion.cfg:4
+msgid "Wolf Champion"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Wolf_Champion, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Wolf_Champion.cfg:16
+msgid ""
+"Wolf Champions are by far a big problem to anyone who got unlucky enough to "
+"spot one of them. Once he decides to chase you there are no other options "
+"that expecting a miracle and killing him before it kills you... which most "
+"time won't be good for you."
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Wolf_Rider, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Wolf_Rider.cfg:4
+msgid "Wolf Rider"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_mountain_goblins_Wolf_Rider, race=gobmon, gender=male
+#: .\units\AoA_units\mountain_goblins\Wolf_Rider.cfg:16
+msgid ""
+"The most iconic of all mountain goblins are their wolf riders, welding a bow "
+"and skirmishing the plains and looking for weak enemies for their takedowns.e"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Nordic_Bowman, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Archer_norse_jarldomsique.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Archer_norse_jarldomsique.cfg:60
+msgid "Nordic Bowman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Berserker, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Berserker.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Berserker.cfg:50
+msgid "Berserker"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\AoA_units\norse_jarldoms\Berserker.cfg:27
+msgid "berserk frenzy"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Nordic_Knight, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Chevalier_norse_jarldomsique.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Chevalier_norse_jarldomsique.cfg:60
+msgid "Nordic Knight"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\AoA_units\norse_jarldoms\Chevalier_norse_jarldomsique.cfg:35
+#: .\units\AoA_units\norse_jarldoms\Mounted_Archer.cfg:35
+#: .\units\AoA_units\norse_jarldoms\Mounted_Bowman.cfg:33
+#: .\units\AoA_units\norse_jarldoms\Mounted_Huskarl.cfg:34
+#: .\units\AoA_units\norse_jarldoms\Mounted_Huskarl.cfg:43
+#: .\units\AoA_units\norse_jarldoms\Rider.cfg:34
+msgid "norse axe"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\AoA_units\norse_jarldoms\Chevalier_norse_jarldomsique.cfg:47
+msgid "hache nordique"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Destructive, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Destructive.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Destructive.cfg:73
+msgid "Destructive"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Devastating, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Devastating.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Devastating.cfg:66
+msgid "Devastating"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Double_Axe, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Double_Axe.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Double_Axe.cfg:52
+msgid "Double-Axe"
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\AoA_units\norse_jarldoms\Guard.cfg:51
+#: .\units\AoA_units\norse_jarldoms\Rempart.cfg:62
+#: .\units\AoA_units\norse_jarldoms\Soldier.cfg:61
+msgid "shield"
+msgstr ""
+
+#. [attack], type=pierce, range=ranged
+#: .\units\AoA_units\norse_jarldoms\Hunter.cfg:43
+msgid "hunting bow"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Huskarl, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Huskarl.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Huskarl.cfg:50
+msgid "Huskarl"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Jarl, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Jarl.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Jarl.cfg:54
+msgid "Jarl"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Maraudeur, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Maraudeur.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Maraudeur.cfg:48
+msgid "Maraudeur"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Mounted_Archer, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Mounted_Archer.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Mounted_Archer.cfg:69
+msgid "Mounted Archer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Mounted_Bowman, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Mounted_Bowman.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Mounted_Bowman.cfg:55
+msgid "Mounted Bowman"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Mounted_Huskarl, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Mounted_Huskarl.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Mounted_Huskarl.cfg:55
+msgid "Mounted Huskarl"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Nordic_Master_Archer, race=nordian
+#: .\units\AoA_units\norse_jarldoms\Nordic_Master_Archer.cfg:4
+msgid "Nordic Master Archer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Pluderer, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Pluderer.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Pluderer.cfg:44
+msgid "Pluderer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Rempart, race=nordian
+#. [female]
+#. [unit_type], id=AE_AoA_rovahrian_elves_Rempart, race=rovElfe
+#: .\units\AoA_units\norse_jarldoms\Rempart.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Rempart.cfg:71
+#: .\units\AoA_units\rovahrian_elves\Rempart.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Rempart.cfg:40
+msgid "Rempart"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Soldier, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Soldier.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Soldier.cfg:70
+msgid "Soldier"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Varangian, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Varangian.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Varangian.cfg:63
+msgid "Varangian"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Viking, race=nordian
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Viking.cfg:4
+#: .\units\AoA_units\norse_jarldoms\Viking.cfg:62
+msgid "Viking"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_norse_jarldoms_Viking, race=nordian
+#: .\units\AoA_units\norse_jarldoms\Viking.cfg:16
+msgid "description to comr"
+msgstr ""
+
+#. [female]
+#: .\units\AoA_units\norse_jarldoms\Warlord.cfg:65
+msgid "Warlady"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_rovahrian_elves_Archdruid, race=rovElfe, gender=female
+#: .\units\AoA_units\rovahrian_elves\Archdruid.cfg:4
+msgid "Archdruid"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_rovahrian_elves_Avenger, race=rovElfe
+#. [female]
+#: .\units\AoA_units\rovahrian_elves\Avenger.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Avenger.cfg:56
+msgid "Avenger"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_rovahrian_elves_Blademaster, race=rovElfe
+#. [female]
+#: .\units\AoA_units\rovahrian_elves\Blademaster.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Blademaster.cfg:37
+msgid "Blademaster"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_rovahrian_elves_Blade_Dancer, race=rovElfe
+#. [female]
+#: .\units\AoA_units\rovahrian_elves\Blade_Dancer.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Blade_Dancer.cfg:41
+msgid "Blade Dancer"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\AoA_units\rovahrian_elves\Blade_Dancer.cfg:29
+msgid "blade dance"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_rovahrian_elves_Forest_Champion, race=rovElfe, gender=male
+#: .\units\AoA_units\rovahrian_elves\Forest_Champion.cfg:4
+msgid "Forest Champion"
+msgstr ""
+
+#. [attack], type=impact, range=melee
+#: .\units\AoA_units\rovahrian_elves\Forest_Champion.cfg:68
+#: .\units\AoA_units\rovahrian_elves\Forest_Knight.cfg:67
+msgid "antlers"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_rovahrian_elves_Forest_Knight, race=rovElfe, gender=male
+#: .\units\AoA_units\rovahrian_elves\Forest_Knight.cfg:4
+msgid "Forest Knight"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_rovahrian_elves_Forest_Patrol, race=rovElfe, gender=male
+#: .\units\AoA_units\rovahrian_elves\Forest_Patrol.cfg:4
+msgid "Forest Patrol"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_rovahrian_elves_High_Lord, race=rovElfe
+#: .\units\AoA_units\rovahrian_elves\High_Lord.cfg:4
+msgid "High Lord"
+msgstr ""
+
+#. [female]
+#: .\units\AoA_units\rovahrian_elves\High_Lord.cfg:50
+msgid "High lady"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_rovahrian_elves_Master_Archer, race=rovElfe
+#. [female]
+#: .\units\AoA_units\rovahrian_elves\Master_Archer.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Master_Archer.cfg:46
+msgid "Master Archer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_rovahrian_elves_Royal_Guard, race=rovElfe
+#. [female]
+#: .\units\AoA_units\rovahrian_elves\Royal_Guard.cfg:4
+#: .\units\AoA_units\rovahrian_elves\Royal_Guard.cfg:42
+msgid "Royal Guard"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_rovahrian_elves_Spearman, race=rovElfe
+#: .\units\AoA_units\rovahrian_elves\Spearman.cfg:4
+msgid "Spearman"
+msgstr ""
+
+#. [female]
+#: .\units\AoA_units\rovahrian_elves\Spearman.cfg:35
+msgid "Lancier"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_rovahrian_elves_War_Archer, race=rovElfe
+#. [female]
+#: .\units\AoA_units\rovahrian_elves\War_Archer.cfg:4
+#: .\units\AoA_units\rovahrian_elves\War_Archer.cfg:45
+msgid "War Archer"
+msgstr ""
+
+#. [unit_type], id=AE_AoA_rovahrian_elves_War_Dancer, race=rovElfe
+#. [female]
+#: .\units\AoA_units\rovahrian_elves\War_Dancer.cfg:4
+#: .\units\AoA_units\rovahrian_elves\War_Dancer.cfg:43
+msgid "War Dancer"
+msgstr ""
+
+#. [attack], type=blade, range=melee
+#: .\units\AoA_units\rovahrian_elves\War_Dancer.cfg:31
+msgid "war dance"
+msgstr ""
