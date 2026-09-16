@@ -14,6 +14,7 @@ replacements = [
 	("MUZZLE_AE_FGTN_","MUZZLE_FL"),
 	("~AE_FGTNL_","~FL"),
 	
+	('#textdomain wesnoth-Forgotten_Legends','#textdomain wesnoth-Ageless_Era'),
 
 	("""
     description= _ ""","""

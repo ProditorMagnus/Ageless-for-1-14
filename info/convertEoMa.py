@@ -100,8 +100,7 @@ replacements = [
 	('skykingdom_aoh','skykingdom'),
 	('summoners_aoh','summoners'),
 
-	# keep EoMa translations if they are installed
-	#('#textdomain wesnoth-Era_of_Magic','#textdomain wesnoth-Ageless_Era'),
+	('#textdomain wesnoth-Era_of_Magic','#textdomain wesnoth-Ageless_Era'),
 	('_"gaze"','{STR_GAZE}'),
 	('_"bolas"','{STR_BOLAS}'),
 	('_"tail"','{STR_TAIL}'),

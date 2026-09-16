@@ -4,6 +4,7 @@ from collections import defaultdict
 
 replacements = [
 	
+	('#textdomain armies_of_amberan','#textdomain wesnoth-Ageless_Era'),
 
 	("rov_","AE_AoA_rovahr_"),
 	("rel_","AE_AoA_rovelf_"),

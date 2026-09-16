@@ -6,6 +6,7 @@ from collectRashyUnitIdReplacements import get_unit_type_mapping
 replacements = [
 	('{~add-ons/Rashy_Era/','{~ERROR_RE_ABSOLUTE_PATH/'),
 
+	('#textdomain wesnoth-Rashy_Era','#textdomain wesnoth-Ageless_Era'),
 	(' description=_"axe"',' description={STR_AXE}'),
 	(' description=_"ballista"',' description={STR_BALLISTA}'),
 	(' description=_"battle axe"',' description={STR_BATTLE_AXE}'),

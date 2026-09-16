@@ -24,6 +24,7 @@ replacements = [
     description=_""","""
     description={AE_HARPY_UNIT_NOTICE}+ _ """),
 	
+	('#textdomain wesnoth-Harpies','#textdomain wesnoth-Ageless_Era'),
 	(' description=_"axe"',' description={STR_AXE}'),
 	(' description=_"ballista"',' description={STR_BALLISTA}'),
 	(' description=_"battle axe"',' description={STR_BATTLE_AXE}'),
