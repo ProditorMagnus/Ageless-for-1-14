@@ -10,13 +10,22 @@ function replace {
 	find $locations \( -name \*.cfg -o -name \*.lua \) -print0 | xargs -0 sed -i "s/description=[[:space:]]*_*[[:space:]]*\"*$1\"*$/description=\{$2\}/i"
 }
 
+#wesnoth
+replace "Bomb" STR_BOMB
+replace "absorb" STR_ABSORB
 
+#wesnoth-lib
 replace "Author:" STR_AUTHOR
 replace "Version:" STR_VERSION
 replace "Yes" STR_YES
 replace "No" STR_NO
+replace "Random" STR_RANDOM
+replace "Kick" STR_KICK
+replace "Art Placeholder" STR_ART_PLACEHOLDER
+replace "Lit" STR_LIT
+replace "Beam of Light" STR_BEAM_OF_LIGHT
 
-
+#wesnoth-help
 replace "Immune to drain, poison, and plague" STR_NONLIVING_DESCRIPTION
 replace "Zero upkeep" STR_ZERO_UPKEEP
 replace "race^Human" STR_HUMAN
@@ -24,8 +33,34 @@ replace "race+female^Human" STR_HUMAN_FEMALE
 replace "race^Humans" STR_HUMANS
 replace "race^Dwarves" STR_DWARVES
 replace "race^Monsters" STR_MONSTERS
+replace "race^Monster" STR_RACE_MONSTER
 
+replace "race+female^Monster" STR_RACE_FEMALE_MONSTER
+replace "race+plural^Undead" STR_RACE_PLURAL_UNDEAD
+replace "charge" STR_CHARGE
+replace "poison" STR_POISON
+replace "swarm" STR_SWARM
+replace "Frozen" STR_FROZEN
+replace "slows" STR_SLOWS
+replace "stun" STR_STUN
+replace "stunned" STR_STUNNED
+replace "swamp lurk" STR_SWAMP_LURK
+replace "female^swamp lurk" STR_FEMALE_SWAMP_LURK
+replace "Max HP bonus +3, Max XP +20%" STR_MAX_HP_BONUS_3_MAX_XP_20
+replace "slowed" STR_SLOWED
+replace "cures" STR_CURES
+replace "female^cures" STR_FEMALE_CURES
+replace "regenerates" STR_REGENERATES
+replace "leadership" STR_LEADERSHIP
+replace "female^leadership" STR_FEMALE_LEADERSHIP
+replace "drains" STR_DRAINS
+replace "weak" STR_WEAK
+replace "heals +12" STR_HEALS_12
+replace "female^heals +12" STR_FEMALE_HEALS_12
+replace "burrow" STR_BURROW
+replace "poisoned" STR_POISONED
 
+#wesnoth-units
 replace "greatsword" STR_GREATSWORD
 replace "saber" STR_SABER
 replace "longsword" STR_LONGSWORD
@@ -112,39 +147,72 @@ replace "slam" STR_SLAM
 replace "mud glob" STR_MUD_GLOB
 replace "cleaver" STR_CLEAVER
 
+replace "rock" STR_ROCK
+replace "Snipe" STR_SNIPE
+replace "chakram" STR_CHAKRAM
+replace "blade" STR_BLADE
+replace "falcon" STR_FALCON
+replace "flamethrower" STR_FLAMETHROWER
+replace "kick" STR_KICK
+replace "scimitar" STR_SCIMITAR
+replace "horn" STR_HORN
+replace "fire" STR_FIRE
+replace "dart" STR_DART
+replace "shield" STR_SHIELD
+replace "naia touch" STR_NAIA_TOUCH
+replace "hooves" STR_HOOVES
+replace "catapult" STR_CATAPULT
+replace "blowgun" STR_BLOWGUN
+replace "fire bash" STR_FIRE_BASH
+replace "archers" STR_ARCHERS
+replace "trample" STR_TRAMPLE
+
 replace "Wolf" STR_WOLF
 
-replace "flaming sword" STR_FLAMING_SWORD
+#wesnoth-httt
+replace "holy sword" STR_HOLY_SWORD
 replace "scepter" STR_SCEPTER
 replace "sceptre of fire" STR_SCEPTRE_OF_FIRE
 replace "raging blizzard" STR_RAGING_BLIZZARD
 
-replace "staff of power" STR_STAFF_OF_POWER
-replace "magic blast" STR_MAGIC_BLAST
-
+#wesnoth-dw
 replace "storm trident" STR_STORM_TRIDENT
 
+#wesnoth sof
 replace "pick" STR_PICK
 
+#wesnoth trow
 replace "training sword" STR_TRAINING_SWORD
 replace "blood kiss" STR_BLOOD_KISS
 
+#wesnoth-utbs
+replace "flaming sword" STR_FLAMING_SWORD
 # replace "magic" STR_MAGIC
 replace "bolas" STR_BOLAS
-replace "scythe" STR_SCYTHE
-replace "darts" STR_DARTS
+replace "twister" STR_TWISTER
+replace "sand storm" STR_SAND_STORM
+replace "shock" STR_SHOCK
+replace "formation" STR_FORMATION
 
 replace "Bandits" STR_BANDITS
 
+#wesnoth-did
 replace "Outlaws" STR_OUTLAWS
 
+#wesnoth tsg
 replace "smash" STR_SMASH
 replace "gaze" STR_GAZE
 replace "glaive" STR_GLAIVE
 
-replace "trample" STR_TRAMPLE
+#wesnoth-l
 replace "astral blade" STR_ASTRAL
 replace "ice blast" STR_ICE_BLAST
 replace "shadow bolt" STR_SHADOW_BOLT
 replace "shadow blast" STR_SHADOW_BLAST
 replace "holy ankh" STR_HOLY_ANKH
+
+#wesnoth-tdg
+replace "broadsword" STR_BROADSWORD
+replace "chain" STR_CHAIN
+replace "spit" STR_SPIT
+replace "consume" STR_CONSUME
