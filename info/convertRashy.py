@@ -84,7 +84,6 @@ replacements = [
 	("units/undead-spirit/spectre", "units/{GHOST_IMAGE_FOLDER}/spectre"),
 	("units/undead-spirit/wraith", "units/{GHOST_IMAGE_FOLDER}/wraith"),
 	("{MISSILE_FRAME_FIREBALL}", "{MISSILE_FRAME_FIREBALL_XY 0 0}"),
-	("{AE_RHY_ABILITY_FEAR}", "{ABILITY_AE_MAG_AWE_LEVEL1} # fear is too strong"),
 	("VR_", "AE_RHY_"),
 	("vr-", "AE_rhy_"),
 	("special=", "special_id="),
